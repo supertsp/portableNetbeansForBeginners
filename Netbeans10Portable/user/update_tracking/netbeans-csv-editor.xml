@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="netbeans.csv.editor/3">
+    <module_version install_time="1559135668884" last="true" origin="Plugin Portal" specification_version="3.2.0">
+        <file crc="2476952358" name="config/Modules/netbeans-csv-editor.xml"/>
+        <file crc="3006366538" name="modules/ext/iconloader.jar"/>
+        <file crc="3518275099" name="modules/ext/swing-bits-1.0.jar"/>
+        <file crc="3758216773" name="modules/ext/swingx-all-1.6.4.jar"/>
+        <file crc="3630362179" name="modules/ext/tablefilter-swing-5.1.1.jar"/>
+        <file crc="439799268" name="modules/netbeans-csv-editor.jar"/>
+    </module_version>
+</module>

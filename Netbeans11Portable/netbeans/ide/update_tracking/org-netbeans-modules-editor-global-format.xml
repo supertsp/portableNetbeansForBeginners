@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.global.format/1">
+    <module_version install_time="1553033639531" last="true" origin="installer" specification_version="1.19.1.1">
+        <file crc="1116088175" name="config/Modules/org-netbeans-modules-editor-global-format.xml"/>
+        <file crc="2971549149" name="modules/org-netbeans-modules-editor-global-format.jar"/>
+    </module_version>
+</module>

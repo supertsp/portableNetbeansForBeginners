@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.ejbrefactoring">
+    <module_version install_time="1553034528698" last="true" origin="installer" specification_version="1.29.1">
+        <file crc="2261657527" name="config/Modules/org-netbeans-modules-j2ee-ejbrefactoring.xml"/>
+        <file crc="3215689173" name="modules/org-netbeans-modules-j2ee-ejbrefactoring.jar"/>
+    </module_version>
+</module>

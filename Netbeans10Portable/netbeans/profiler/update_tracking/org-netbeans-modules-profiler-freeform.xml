@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.freeform/1">
+    <module_version install_time="1545020922223" last="true" origin="installer" specification_version="1.38.1">
+        <file crc="715900111" name="config/Modules/org-netbeans-modules-profiler-freeform.xml"/>
+        <file crc="3032995471" name="modules/org-netbeans-modules-profiler-freeform.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.projectsupport">
+    <module_version install_time="1553034552041" last="true" origin="installer" specification_version="1.37.1">
+        <file crc="2493950597" name="config/Modules/org-netbeans-modules-profiler-projectsupport.xml"/>
+        <file crc="1451024426" name="modules/org-netbeans-modules-profiler-projectsupport.jar"/>
+    </module_version>
+</module>

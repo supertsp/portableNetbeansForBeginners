@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.customization">
+    <module_version install_time="1553034632916" last="true" origin="installer" specification_version="1.30.1.2">
+        <file crc="2507150171" name="config/Modules/org-netbeans-modules-websvc-customization.xml"/>
+        <file crc="3198955351" name="modules/org-netbeans-modules-websvc-customization.jar"/>
+    </module_version>
+</module>

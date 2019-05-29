@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.editor">
+    <module_version install_time="1553034290187" last="true" origin="installer" specification_version="1.78.1.2">
+        <file crc="1004887788" name="config/Modules/org-netbeans-modules-php-editor.xml"/>
+        <file crc="1941087986" name="docs/predefined_vars.zip"/>
+        <file crc="3263241198" name="modules/org-netbeans-modules-php-editor.jar"/>
+    </module_version>
+</module>

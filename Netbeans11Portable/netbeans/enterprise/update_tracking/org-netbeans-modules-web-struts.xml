@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.struts/1">
+    <module_version install_time="1553034630997" last="true" origin="installer" specification_version="1.37.1.1">
+        <file crc="3526847380" name="config/Modules/org-netbeans-modules-web-struts.xml"/>
+        <file crc="2744962428" name="modules/ext/struts/antlr-2.7.2.jar"/>
+        <file crc="3489673201" name="modules/ext/struts/bsf-2.3.0.jar"/>
+        <file crc="3844256829" name="modules/ext/struts/commons-beanutils-1.8.0.jar"/>
+        <file crc="139117643" name="modules/ext/struts/commons-chain-1.2.jar"/>
+        <file crc="2909170261" name="modules/ext/struts/commons-digester-1.8.jar"/>
+        <file crc="3418417452" name="modules/ext/struts/commons-fileupload-1.1.1.jar"/>
+        <file crc="884267942" name="modules/ext/struts/commons-io-1.1.jar"/>
+        <file crc="3420158953" name="modules/ext/struts/commons-logging-1.0.4.jar"/>
+        <file crc="3455280744" name="modules/ext/struts/commons-validator-1.3.1.jar"/>
+        <file crc="3684662967" name="modules/ext/struts/jstl-1.0.2.jar"/>
+        <file crc="1906826865" name="modules/ext/struts/oro-2.0.8.jar"/>
+        <file crc="2371010979" name="modules/ext/struts/standard-1.0.6.jar"/>
+        <file crc="3551557504" name="modules/ext/struts/struts-core-1.3.10.jar"/>
+        <file crc="3150274770" name="modules/ext/struts/struts-el-1.3.10.jar"/>
+        <file crc="3078826340" name="modules/ext/struts/struts-extras-1.3.10.jar"/>
+        <file crc="2876096213" name="modules/ext/struts/struts-faces-1.3.10.jar"/>
+        <file crc="1628522049" name="modules/ext/struts/struts-mailreader-dao-1.3.10.jar"/>
+        <file crc="2475823846" name="modules/ext/struts/struts-scripting-1.3.10.jar"/>
+        <file crc="2102627120" name="modules/ext/struts/struts-taglib-1.3.10.jar"/>
+        <file crc="3547705034" name="modules/ext/struts/struts-tiles-1.3.10.jar"/>
+        <file crc="2236387232" name="modules/org-netbeans-modules-web-struts.jar"/>
+    </module_version>
+</module>

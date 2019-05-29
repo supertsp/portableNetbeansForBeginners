@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.kit">
+    <module_version install_time="1545021086753" last="true" origin="installer" specification_version="1.65.1">
+        <file crc="3702486874" name="VERSION.txt"/>
+        <file crc="2810538814" name="config/Modules/org-netbeans-modules-php-kit.xml"/>
+        <file crc="3329173328" name="modules/org-netbeans-modules-php-kit.jar"/>
+    </module_version>
+</module>

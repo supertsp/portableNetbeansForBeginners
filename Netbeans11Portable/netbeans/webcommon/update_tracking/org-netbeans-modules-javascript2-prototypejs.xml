@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.prototypejs">
+    <module_version install_time="1553034214164" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="880552857" name="config/Modules/org-netbeans-modules-javascript2-prototypejs.xml"/>
+        <file crc="2832620399" name="modules/org-netbeans-modules-javascript2-prototypejs.jar"/>
+    </module_version>
+</module>

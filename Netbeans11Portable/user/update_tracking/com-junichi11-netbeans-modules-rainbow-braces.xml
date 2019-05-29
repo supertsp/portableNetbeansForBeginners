@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.junichi11.netbeans.modules.rainbow.braces">
+    <module_version install_time="1559135670187" last="true" origin="Plugin Portal" specification_version="1.1.0">
+        <file crc="2585425945" name="config/Modules/com-junichi11-netbeans-modules-rainbow-braces.xml"/>
+        <file crc="2925608438" name="modules/com-junichi11-netbeans-modules-rainbow-braces.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.webclient.protractor">
+    <module_version install_time="1553034219894" last="true" origin="installer" specification_version="1.7.1">
+        <file crc="2349785822" name="config/Modules/org-netbeans-modules-selenium2-webclient-protractor.xml"/>
+        <file crc="2596827002" name="modules/org-netbeans-modules-selenium2-webclient-protractor.jar"/>
+        <file crc="2115495753" name="protractor/jasmine-netbeans-reporter.js"/>
+        <file crc="1567722603" name="protractor/netbeans-configuration.js"/>
+    </module_version>
+</module>

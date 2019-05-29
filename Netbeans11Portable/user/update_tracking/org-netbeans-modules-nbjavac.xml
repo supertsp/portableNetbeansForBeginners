@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.nbjavac/1">
+    <module_version install_time="1559135670270" last="true" origin="Plugin Portal" specification_version="1.51">
+        <file crc="684569144" name="config/Modules/org-netbeans-modules-nbjavac.xml"/>
+        <file crc="1225788802" name="modules/org-netbeans-modules-nbjavac.jar"/>
+    </module_version>
+</module>

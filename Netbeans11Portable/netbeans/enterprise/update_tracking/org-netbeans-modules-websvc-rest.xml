@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.rest/0">
+    <module_version install_time="1553034569264" last="true" origin="installer" specification_version="1.33.1">
+        <file crc="3401190015" name="config/Modules/org-netbeans-modules-websvc-rest.xml"/>
+        <file crc="1333466735" name="modules/ext/jersey2/jersey-core-1.5.jar"/>
+        <file crc="2859218128" name="modules/org-netbeans-modules-websvc-rest.jar"/>
+    </module_version>
+</module>

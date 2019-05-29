@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee.injection">
+    <module_version install_time="1553034455104" last="true" origin="installer" specification_version="1.10.1">
+        <file crc="2037783713" name="config/Modules/org-netbeans-modules-javaee-injection.xml"/>
+        <file crc="1772184788" name="modules/org-netbeans-modules-javaee-injection.jar"/>
+    </module_version>
+</module>

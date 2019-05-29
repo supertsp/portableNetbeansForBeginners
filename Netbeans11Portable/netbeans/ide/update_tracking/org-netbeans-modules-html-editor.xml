@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.editor/2">
+    <module_version install_time="1553034521722" last="true" origin="installer" specification_version="2.59.1">
+        <file crc="2913530181" name="config/Modules/org-netbeans-modules-html-editor.xml"/>
+        <file crc="3385998137" name="docs/html-4.01.zip"/>
+        <file crc="2222378324" name="modules/org-netbeans-modules-html-editor.jar"/>
+    </module_version>
+</module>

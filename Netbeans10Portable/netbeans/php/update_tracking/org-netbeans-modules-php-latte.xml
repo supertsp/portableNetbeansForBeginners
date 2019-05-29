@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.latte/1">
+    <module_version install_time="1545021087702" last="true" origin="installer" specification_version="1.19.1">
+        <file crc="4112786166" name="config/Modules/org-netbeans-modules-php-latte.xml"/>
+        <file crc="3780543900" name="modules/org-netbeans-modules-php-latte.jar"/>
+    </module_version>
+</module>

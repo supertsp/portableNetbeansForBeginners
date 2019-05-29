@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.java">
+    <module_version install_time="1553034365962" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="4239814987" name="config/Modules/org-netbeans-modules-gradle-java.xml"/>
+        <file crc="4198687956" name="modules/gradle/asm-commons.jar"/>
+        <file crc="4217019143" name="modules/gradle/asm-tree.jar"/>
+        <file crc="480931905" name="modules/gradle/asm.jar"/>
+        <file crc="837623306" name="modules/gradle/org.jacoco.core.jar"/>
+        <file crc="719324847" name="modules/org-netbeans-modules-gradle-java.jar"/>
+    </module_version>
+</module>

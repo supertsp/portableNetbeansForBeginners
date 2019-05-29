@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.api.common/0">
+    <module_version install_time="1553034456799" last="true" origin="installer" specification_version="1.127.1">
+        <file crc="3025720141" name="config/Modules/org-netbeans-modules-java-api-common.xml"/>
+        <file crc="4028148618" name="modules/org-netbeans-modules-java-api-common.jar"/>
+    </module_version>
+</module>

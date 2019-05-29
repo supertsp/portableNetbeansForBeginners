@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.editor/1">
+    <module_version install_time="1553034520809" last="true" origin="installer" specification_version="1.72.1">
+        <file crc="1147342470" name="config/Modules/org-netbeans-modules-css-editor.xml"/>
+        <file crc="4174199089" name="docs/css21-spec.zip"/>
+        <file crc="2609089507" name="docs/css3-spec.zip"/>
+        <file crc="3205910670" name="modules/org-netbeans-modules-css-editor.jar"/>
+    </module_version>
+</module>

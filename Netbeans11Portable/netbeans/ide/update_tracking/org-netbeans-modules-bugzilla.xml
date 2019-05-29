@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.bugzilla">
+    <module_version install_time="1553034088655" last="true" origin="installer" specification_version="1.81.1">
+        <file crc="495300362" name="config/Modules/org-netbeans-modules-bugzilla.xml"/>
+        <file crc="4294096186" name="modules/org-netbeans-modules-bugzilla.jar"/>
+    </module_version>
+</module>

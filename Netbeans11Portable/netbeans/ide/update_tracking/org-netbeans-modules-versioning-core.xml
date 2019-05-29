@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.versioning.core/1">
+    <module_version install_time="1553033553507" last="true" origin="installer" specification_version="1.35.1.1.42">
+        <file crc="104118620" name="config/Modules/org-netbeans-modules-versioning-core.xml"/>
+        <file crc="2959730698" name="modules/org-netbeans-modules-versioning-core.jar"/>
+    </module_version>
+</module>

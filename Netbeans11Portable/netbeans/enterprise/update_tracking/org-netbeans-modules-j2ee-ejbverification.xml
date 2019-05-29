@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.ejbverification">
+    <module_version install_time="1553034529730" last="true" origin="installer" specification_version="1.35.1">
+        <file crc="2898240141" name="config/Modules/org-netbeans-modules-j2ee-ejbverification.xml"/>
+        <file crc="377750248" name="modules/org-netbeans-modules-j2ee-ejbverification.jar"/>
+    </module_version>
+</module>

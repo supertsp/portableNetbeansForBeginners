@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript.cdnjs/0">
+    <module_version install_time="1553034202757" last="true" origin="installer" specification_version="0.11.1">
+        <file crc="1175428060" name="config/Modules/org-netbeans-modules-javascript-cdnjs.xml"/>
+        <file crc="1110642790" name="modules/org-netbeans-modules-javascript-cdnjs.jar"/>
+    </module_version>
+</module>

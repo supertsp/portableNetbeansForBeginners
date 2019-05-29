@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cordova.platforms">
+    <module_version install_time="1553034191001" last="true" origin="installer" specification_version="1.40.1">
+        <file crc="3689613929" name="config/Modules/org-netbeans-modules-cordova-platforms.xml"/>
+        <file crc="2329646464" name="modules/org-netbeans-modules-cordova-platforms.jar"/>
+    </module_version>
+</module>

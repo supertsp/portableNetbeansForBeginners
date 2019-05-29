@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.ant">
+    <module_version install_time="1553034152690" last="true" origin="installer" specification_version="2.76.1">
+        <file crc="208070808" name="ant/nblib/org-netbeans-modules-apisupport-ant.jar"/>
+        <file crc="147434673" name="config/Modules/org-netbeans-modules-apisupport-ant.xml"/>
+        <file crc="849416796" name="modules/org-netbeans-modules-apisupport-ant.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.graaljs/1">
+    <module_version install_time="1553034218032" last="true" origin="installer" specification_version="1.0.11">
+        <file crc="3890147895" name="config/Modules/org-netbeans-libs-graaljs.xml"/>
+        <file crc="443282809" name="modules/ext/js-1.0.0-rc12.jar"/>
+        <file crc="3068763855" name="modules/ext/regex-1.0.0-rc12.jar"/>
+        <file crc="4182276871" name="modules/org-netbeans-libs-graaljs.jar"/>
+    </module_version>
+</module>

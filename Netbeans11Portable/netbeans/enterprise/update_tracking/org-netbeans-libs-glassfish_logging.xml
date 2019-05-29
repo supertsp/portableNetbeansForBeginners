@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.glassfish_logging/1">
+    <module_version install_time="1553034539780" last="true" origin="installer" specification_version="1.29.1.20">
+        <file crc="826183127" name="config/Modules/org-netbeans-libs-glassfish_logging.xml"/>
+        <file crc="1210705847" name="modules/ext/logging-api-1.0.4.jar"/>
+        <file crc="2765202154" name="modules/org-netbeans-libs-glassfish_logging.jar"/>
+    </module_version>
+</module>

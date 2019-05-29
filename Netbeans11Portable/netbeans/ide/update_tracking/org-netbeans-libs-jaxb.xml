@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jaxb/1">
+    <module_version install_time="1553034501626" last="true" origin="installer" specification_version="1.35.1">
+        <file crc="1169736733" name="config/Modules/org-netbeans-libs-jaxb.xml"/>
+        <file crc="940153362" name="docs/jaxb-api-2.2.5-javadoc.jar"/>
+        <file crc="1599965946" name="modules/ext/jaxb/jaxb-impl-2.2.5-2.jar"/>
+        <file crc="623817423" name="modules/ext/jaxb/jaxb-xjc-2.2.5-2.jar"/>
+        <file crc="909306850" name="modules/ext/jaxb/jaxb1-impl-2.2.5-2.jar"/>
+        <file crc="2745673302" name="modules/org-netbeans-libs-jaxb.jar"/>
+    </module_version>
+</module>

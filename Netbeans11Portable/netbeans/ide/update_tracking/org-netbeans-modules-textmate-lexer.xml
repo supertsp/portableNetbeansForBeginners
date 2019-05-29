@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.textmate.lexer/0">
+    <module_version install_time="1553033711969" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="1426192279" name="config/Modules/org-netbeans-modules-textmate-lexer.xml"/>
+        <file crc="1581934102" name="modules/ext/jcodings-1.0.41.jar"/>
+        <file crc="194118125" name="modules/ext/joni-2.1.11.jar"/>
+        <file crc="980470339" name="modules/ext/org.eclipse.tm4e.core_0.2.0.201809031154.jar"/>
+        <file crc="2828769277" name="modules/org-netbeans-modules-textmate-lexer.jar"/>
+    </module_version>
+</module>

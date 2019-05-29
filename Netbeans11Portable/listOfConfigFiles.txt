@@ -1,0 +1,9 @@
+1) JDK: "netbeans/etc/netbeans.conf"
+    netbeans_jdkhome="./jdk/"
+
+2) USER: "netbeans/etc/netbeans.conf"
+    netbeans_default_userdir="./user/"
+    netbeans_default_cachedir="./user/"
+
+3) MAVEN: "netbeans/java/maven/conf/settings.xml"
+    <localRepository>m2LocalRepository/</localRepository>

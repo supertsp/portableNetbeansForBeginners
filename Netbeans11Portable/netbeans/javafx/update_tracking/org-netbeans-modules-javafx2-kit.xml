@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.kit">
+    <module_version install_time="1553034022543" last="true" origin="installer" specification_version="1.21.1">
+        <file crc="145657658" name="VERSION.txt"/>
+        <file crc="3671458904" name="config/Modules/org-netbeans-modules-javafx2-kit.xml"/>
+        <file crc="2266073160" name="modules/org-netbeans-modules-javafx2-kit.jar"/>
+    </module_version>
+</module>

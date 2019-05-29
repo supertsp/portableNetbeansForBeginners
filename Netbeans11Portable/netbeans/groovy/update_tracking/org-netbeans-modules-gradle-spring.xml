@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.spring">
+    <module_version install_time="1553034370051" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="960744170" name="config/Modules/org-netbeans-modules-gradle-spring.xml"/>
+        <file crc="4060445548" name="modules/org-netbeans-modules-gradle-spring.jar"/>
+    </module_version>
+</module>

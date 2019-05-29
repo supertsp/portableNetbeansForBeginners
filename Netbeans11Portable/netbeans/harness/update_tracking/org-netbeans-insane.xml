@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.insane/1">
+    <module_version install_time="1553034537841" last="true" origin="installer" specification_version="1.33.1.1">
+        <file crc="288786892" name="config/Modules/org-netbeans-insane.xml"/>
+        <file crc="735976223" name="modules/org-netbeans-insane.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.zend2">
+    <module_version install_time="1553034307285" last="true" origin="installer" specification_version="0.20.1">
+        <file crc="518917341" name="config/Modules/org-netbeans-modules-php-zend2.xml"/>
+        <file crc="1168913818" name="modules/org-netbeans-modules-php-zend2.jar"/>
+    </module_version>
+</module>

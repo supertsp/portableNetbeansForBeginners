@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.phing">
+    <module_version install_time="1545021089472" last="true" origin="installer" specification_version="0.13.1">
+        <file crc="3435077223" name="config/Modules/org-netbeans-modules-php-phing.xml"/>
+        <file crc="2898770175" name="modules/org-netbeans-modules-php-phing.jar"/>
+    </module_version>
+</module>

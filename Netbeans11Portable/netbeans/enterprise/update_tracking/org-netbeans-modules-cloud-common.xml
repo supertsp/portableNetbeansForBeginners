@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cloud.common">
+    <module_version install_time="1553034446194" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="246382927" name="config/Modules/org-netbeans-modules-cloud-common.xml"/>
+        <file crc="2219315939" name="modules/org-netbeans-modules-cloud-common.jar"/>
+    </module_version>
+</module>

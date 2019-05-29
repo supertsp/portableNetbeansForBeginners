@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.requirejs">
+    <module_version install_time="1545021023110" last="true" origin="installer" specification_version="0.10.1">
+        <file crc="2562950255" name="config/Modules/org-netbeans-modules-javascript2-requirejs.xml"/>
+        <file crc="2991021905" name="modules/org-netbeans-modules-javascript2-requirejs.jar"/>
+    </module_version>
+</module>

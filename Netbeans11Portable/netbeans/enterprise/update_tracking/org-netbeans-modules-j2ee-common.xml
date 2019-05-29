@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.common/1">
+    <module_version install_time="1553034459797" last="true" origin="installer" specification_version="1.106.1">
+        <file crc="1727449412" name="config/Modules/org-netbeans-modules-j2ee-common.xml"/>
+        <file crc="8465026" name="modules/org-netbeans-modules-j2ee-common.jar"/>
+    </module_version>
+</module>

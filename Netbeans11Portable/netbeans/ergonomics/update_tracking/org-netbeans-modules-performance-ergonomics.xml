@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.performance.ergonomics">
+    <module_version install_time="1553034674855" last="true" origin="installer" specification_version="1.8.1">
+        <file crc="715423212" name="config/Modules/org-netbeans-modules-performance-ergonomics.xml"/>
+        <file crc="3432393668" name="modules/org-netbeans-modules-performance-ergonomics.jar"/>
+    </module_version>
+</module>

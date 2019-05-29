@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.mercurial">
+    <module_version install_time="1553033680130" last="true" origin="installer" specification_version="1.46.1.42.1">
+        <file crc="2345571929" name="config/Modules/org-netbeans-modules-mercurial.xml"/>
+        <file crc="1233940213" name="modules/org-netbeans-modules-mercurial.jar"/>
+    </module_version>
+</module>

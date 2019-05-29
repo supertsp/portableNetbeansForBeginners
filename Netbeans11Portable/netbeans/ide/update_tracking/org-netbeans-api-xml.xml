@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.xml/1">
+    <module_version install_time="1553034656987" last="true" origin="installer" specification_version="1.48.1">
+        <file crc="1778646161" name="config/ModuleAutoDeps/org-netbeans-api-xml.xml"/>
+        <file crc="377157071" name="config/Modules/org-netbeans-api-xml.xml"/>
+        <file crc="3332570570" name="modules/org-netbeans-api-xml.jar"/>
+    </module_version>
+</module>

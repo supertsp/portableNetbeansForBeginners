@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.j2sedeploy">
+    <module_version install_time="1553034016624" last="true" origin="installer" specification_version="1.16.1">
+        <file crc="1708212141" name="config/Modules/org-netbeans-modules-java-j2sedeploy.xml"/>
+        <file crc="218525509" name="modules/org-netbeans-modules-java-j2sedeploy.jar"/>
+    </module_version>
+</module>

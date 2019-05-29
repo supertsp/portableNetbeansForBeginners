@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.amazon/1">
+    <module_version install_time="1553034441093" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="1636377766" name="config/Modules/org-netbeans-libs-amazon.xml"/>
+        <file crc="146579954" name="modules/ext/aws-sdk/aws-java-sdk-1.2.1.jar"/>
+        <file crc="2522027023" name="modules/ext/aws-sdk/httpclient-4.1.1.jar"/>
+        <file crc="841884431" name="modules/ext/aws-sdk/httpcore-4.1.jar"/>
+        <file crc="308547155" name="modules/org-netbeans-libs-amazon.jar"/>
+    </module_version>
+</module>

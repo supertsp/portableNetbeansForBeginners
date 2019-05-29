@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.whitelist">
+    <module_version install_time="1553034500038" last="true" origin="installer" specification_version="1.27.1">
+        <file crc="1351095255" name="config/Modules/org-netbeans-modules-whitelist.xml"/>
+        <file crc="4187810507" name="modules/org-netbeans-modules-whitelist.jar"/>
+    </module_version>
+</module>

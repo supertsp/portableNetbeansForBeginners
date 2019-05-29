@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.gsp">
+    <module_version install_time="1545021130501" last="true" origin="installer" specification_version="1.37.1">
+        <file crc="4024844735" name="config/Modules/org-netbeans-modules-groovy-gsp.xml"/>
+        <file crc="4271376195" name="modules/org-netbeans-modules-groovy-gsp.jar"/>
+    </module_version>
+</module>

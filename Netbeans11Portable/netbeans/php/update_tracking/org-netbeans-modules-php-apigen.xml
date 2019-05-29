@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.apigen">
+    <module_version install_time="1553034247317" last="true" origin="installer" specification_version="1.31.1">
+        <file crc="3116719856" name="config/Modules/org-netbeans-modules-php-apigen.xml"/>
+        <file crc="186363069" name="modules/org-netbeans-modules-php-apigen.jar"/>
+    </module_version>
+</module>

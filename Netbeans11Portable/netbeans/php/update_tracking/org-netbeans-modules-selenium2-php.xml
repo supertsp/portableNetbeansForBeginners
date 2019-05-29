@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.selenium2.php">
+    <module_version install_time="1553034308683" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="1333957967" name="config/Modules/org-netbeans-modules-selenium2-php.xml"/>
+        <file crc="263929733" name="modules/org-netbeans-modules-selenium2-php.jar"/>
+    </module_version>
+</module>

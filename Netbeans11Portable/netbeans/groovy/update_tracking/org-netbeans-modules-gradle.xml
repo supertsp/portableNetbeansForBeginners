@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle">
+    <module_version install_time="1553034353843" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="2319791741" name="config/Modules/org-netbeans-modules-gradle.xml"/>
+        <file crc="1917582925" name="modules/gradle/daemon-loader/build.gradle"/>
+        <file crc="4131458557" name="modules/gradle/daemon-loader/settings.gradle"/>
+        <file crc="2840300288" name="modules/gradle/gradle-tooling-api.jar"/>
+        <file crc="172552281" name="modules/gradle/slf4j-api.jar"/>
+        <file crc="2673726130" name="modules/gradle/slf4j-jdk14.jar"/>
+        <file crc="2705646427" name="modules/org-netbeans-modules-gradle.jar"/>
+    </module_version>
+</module>

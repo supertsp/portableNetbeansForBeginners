@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2eeserver/4">
+    <module_version install_time="1553034445674" last="true" origin="installer" specification_version="1.115.1.1">
+        <file crc="2182297682" name="config/Modules/org-netbeans-modules-j2eeserver.xml"/>
+        <file crc="1223671990" name="modules/org-netbeans-modules-j2eeserver.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee7.api">
+    <module_version install_time="1553034536999" last="true" origin="installer" specification_version="1.8.1">
+        <file crc="73003827" name="config/Modules/org-netbeans-modules-javaee7-api.xml"/>
+        <file crc="3180395615" name="modules/ext/javaee-api-7.0.jar"/>
+        <file crc="994228559" name="modules/ext/javaee-web-api-7.0.jar"/>
+        <file crc="1922846449" name="modules/ext/javaee7-endorsed/javax.annotation-api.jar"/>
+        <file crc="3731560135" name="modules/ext/javaee7-endorsed/javax.xml.soap-api.jar"/>
+        <file crc="234016579" name="modules/ext/javaee7-endorsed/jaxb-api-osgi.jar"/>
+        <file crc="1094391482" name="modules/ext/javaee7-endorsed/jaxws-api.jar"/>
+        <file crc="2151418820" name="modules/ext/javaee7-endorsed/jsr181-api.jar"/>
+        <file crc="3166625848" name="modules/org-netbeans-modules-javaee7-api.jar"/>
+    </module_version>
+</module>

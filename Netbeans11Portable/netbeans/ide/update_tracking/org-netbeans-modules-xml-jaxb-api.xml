@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.jaxb.api/1">
+    <module_version install_time="1553034561464" last="true" origin="installer" specification_version="1.30.1">
+        <file crc="3368585658" name="config/Modules/org-netbeans-modules-xml-jaxb-api.xml"/>
+        <file crc="1470762890" name="modules/ext/jaxb/activation.jar"/>
+        <file crc="4017648896" name="modules/ext/jaxb/api/jaxb-api.jar"/>
+        <file crc="907464077" name="modules/org-netbeans-modules-xml-jaxb-api.jar"/>
+    </module_version>
+</module>

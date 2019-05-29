@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.source.ant">
+    <module_version install_time="1553033944333" last="true" origin="installer" specification_version="1.35.1.1.4">
+        <file crc="3541081139" name="ant/nblib/org-netbeans-modules-java-source-ant.jar"/>
+        <file crc="108073265" name="config/Modules/org-netbeans-modules-java-source-ant.xml"/>
+        <file crc="570753177" name="modules/org-netbeans-modules-java-source-ant.jar"/>
+    </module_version>
+</module>

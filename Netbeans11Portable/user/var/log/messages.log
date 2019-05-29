@@ -1,0 +1,797 @@
+-------------------------------------------------------------------------------
+>Log Session: Wednesday, May 29, 2019 at 10:54:58 AM Brasilia Standard Time
+>System Info: 
+  Product Version         = Apache NetBeans IDE 11.0 (Build incubator-netbeans-release-404-on-20190319)
+  Operating System        = Windows 10 version 10.0 running on amd64
+  Java; VM; Vendor        = 11.0.3-redhat; OpenJDK 64-Bit Server VM 11.0.3-redhat+7-LTS; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 11.0.3-redhat+7-LTS
+  Java Home               = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\jdk
+  System Locale; Encoding = pt_BR (nb); Cp1252
+  Home Directory          = C:\Users\TPEDROSO
+  Current Directory       = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable
+  User Directory          = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\user
+  Cache Directory         = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\user
+  Installation            = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\nb
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\ergonomics
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\ide
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\extide
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\java
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\apisupport
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\webcommon
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\websvccommon
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\enterprise
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\profiler
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\php
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\harness
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\groovy
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\javafx
+                            C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform
+  Boot & Ext. Classpath   = 
+  Application Classpath   = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\lib\org-openide-util-ui.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\lib\org-openide-util.jar
+  Startup Classpath       = C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\asm-all-5.0.1.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\core-base.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\core.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform\core\org-openide-filesystems.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\nb\core\org-netbeans-upgrader.jar;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\nb\core\locale\core_nb.jar
+-------------------------------------------------------------------------------
+WARNING [org.netbeans.core.modules]: had to upgrade dependencies for module com.revivius.nb.darcula: added = [module org.openide.util.ui > 9.3] removed = []; details: [#243100: Separate desktop-independent utilities]
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/netbeansPortable/Netbeans11Portable/netbeans/
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.apisupport.ant, org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
+WARNING [org.openide.filesystems.Ordering]: Not all children in Services/MIMEResolver/ marked with the position attribute: [draganbjedov-netbeans-csv-dataobject-CSVDataObject-Extension.xml, org-netbeans-modules-gradle-GradleDataObject-Extension.xml], but some are: [org-openide-loaders-DataLoaderPool$InstanceLoaderSystem-Extension.xml, org-netbeans-core-startup-layers-SystemFileSystem-Extension.xml, org-netbeans-modules-java-JavaDataObject-Extension.xml, org-netbeans-modules-java-ClassDataObject-Extension.xml, org-netbeans-modules-image-ImageDataObject-serialVersionUID-Extension.xml, org-netbeans-modules-image-ImageDataObject-IMAGE_ICON_BASE-Extension.xml, org-netbeans-modules-image-ImageDataObject-openSupport-Extension.xml, org-netbeans-modules-image-ImageDataObject-printSupport-Extension.xml, org-netbeans-modules-properties-PropertiesDataObject-Extension.xml, org-netbeans-modules-javascript-gulp-file-Gulpfile-Registration.xml, org-netbeans-modules-javascript-grunt-file-Gruntfile-Registration.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-php-twig-editor-TwigDataObject-Extension.xml, org-netbeans-modules-javascript-karma-util-KarmaUtils-Registration.xml, org-netbeans-modules-javascript-nodejs-file-PackageJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerrcJson-Registration.xml, org-netbeans-modules-languages-manifest-MfDataObject-Extension.xml, org-netbeans-modules-languages-apacheconf-ApacheConfDataObject-Registration.xml, org-netbeans-modules-javascript-jstestdriver-JSTestDriverSupport-Registration.xml, org-netbeans-modules-languages-ini-IniDataObject-Extension.xml, org-netbeans-modules-languages-neon-NeonDataObject-Extension.xml, org-netbeans-modules-form-FormDataLoader-Extension.xml, org-netbeans-core-ide-ServiceTabProcessor-Extension.xml, org-netbeans-modules-testng-ui-wizards-TestNGSuiteDataObject-Registration.xml, org-netbeans-modules-css-editor-CssProjectSupport-Extension.xml, org-netbeans-modules-languages-diff-DiffDataObject-Extension.xml, org-netbeans-modules-javascript2-editor-JsLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-jade-editor-JadeLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-db-sql-loader-SQLDataObject-Extension.xml, org-netbeans-modules-javawebstart-JnlpDataObject-Extension.xml, org-netbeans-modules-j2ee-persistence-unit-PUDataObject-Registration.xml, org-netbeans-modules-jshell-env-JShellDataObject-Extension.xml, org-netbeans-modules-groovy-gsp-GspLanguage-Extension.xml, org-netbeans-modules-languages-yaml-YamlLanguage-Extension.xml, org-netbeans-modules-groovy-editor-api-parser-GroovyLanguage-Extension.xml, org-netbeans-modules-php-editor-index-PHPIndexer-LOG-Extension.xml, org-netbeans-modules-html-HtmlDataObject-Registration.xml, org-netbeans-modules-maven-grammar-POMDataObject-Registration.xml, org-apache-tools-ant-module-loader-AntProjectDataObject-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Namespace.xml, org-netbeans-modules-editor-settings-storage-SettingsProvider-Registration.xml, org-netbeans-modules-j2ee-ddloaders-common-DD2beansDataObject-Registration.xml, org-netbeans-modules-j2ee-sun-ddloaders-SunDescriptorDataObject-Registration.xml, org-netbeans-modules-url-URLDataObject-Extension.xml, org-netbeans-modules-pdf-PDFDataObject-Extension.xml, org-netbeans-modules-php-smarty-editor-TplDataObject-Extension.xml, org-netbeans-modules-tomcat5-ui-nodes-TomcatInstanceNode-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-web-core-jsploader-JspDataObject-Registration.xml, org-netbeans-modules-web-jsf-JSFConfigDataObject-Registration.xml, org-netbeans-modules-web-struts-StrutsConfigDataObject-Namespace.xml, org-netbeans-modules-spring-beans-loader-SpringXMLConfigDataObject-Namespace.xml, org-netbeans-modules-xsl-XSLDataObject-Namespace.xml, org-netbeans-modules-java-jarloader-JarDataObject-Registration.xml, org-netbeans-modules-xml-jaxb-JAXBWizard-Extension.xml, org-netbeans-lib-editor-codetemplates-storage-CodeTemplatesStorage-Namespace.xml, org-netbeans-modules-editor-macros-storage-MacrosStorage-Namespace.xml, mimeresolver-Registration.xml, org-netbeans-modules-web-beans-BeansDataObject-Namespace.xml, org-netbeans-modules-j2ee-sun-ide-sunresources-resourcesloader-SunResourceDataObject-Extension.xml, org-netbeans-modules-profiler-oql-language-OQLLanguageProvider-Extension.xml, org-netbeans-modules-dbschema-jdbcimpl-DBschemaDataObject-Extension.xml, org-netbeans-modules-css-prep-editor-less-LessCslLanguage-Extension.xml, org-netbeans-modules-css-prep-editor-scss-ScssCslLanguage-Extension.xml, org-netbeans-modules-j2ee-persistence-jpqleditor-ui-JPQLEditorTopComponent-Extension.xml, org-netbeans-modules-php-latte-LatteDataObject-Extension.xml, org-netbeans-modules-profiler-snaptracer-impl-NpssDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-HintDataObject-Extension.xml, org-netbeans-modules-javafx2-editor-fxml-FXMLDataObject-Extension.xml, org-netbeans-modules-form-palette-PaletteItemDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_PLAIN_XML-Registration.xml, org-netbeans-modules-xml-DTDDataObject-Extension.xml, org-netbeans-modules-xml-EntityDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_XSD_XML-Registration.xml, org-netbeans-libs-freemarker-FreemarkerFactory-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Registration.xml, resources-Registration.xml, org-netbeans-modules-profiler-ui-NpsDataObject-Registration.xml, org-netbeans-modules-profiler-ui-HprofDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-NodeMimeResolver-Registration.xml, org-netbeans-modules-xml-XMLDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-test-DeclarativeHintsTestDataObject-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-SimpleLanguage-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-R-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Ruby-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Python-Extension.xml, org-netbeans-modules-defaults-mime-wav.xml]
+WARNING [null]: Last record repeated 2 more times.
+INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not find class, will not be able to replace its field...
+java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[634 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@1810399e, org.netbeans.JarClassLoader@7853edbc, ModuleCL@6b743edf[org.netbeans.api.annotations.common], ModuleCL@4d792028[org.openide.awt], ModuleCL@4264c981[org.netbeans.api.progress], ModuleCL@463bf9b1[org.netbeans.api.progress.nb], ModuleCL@59111884[org.openide.dialogs], ModuleCL@5f8c299d[org.openide.nodes], ModuleCL@14a449ea[org.openide.windows], ModuleCL@71563a68[org.netbeans.modules.editor.mimelookup], ...608 more]
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
+	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:751)
+	at com.revivius.nb.darcula.DarculaLFCustoms.replaceJSPCompletionColor(DarculaLFCustoms.java:683)
+	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:291)
+	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
+	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
+	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
+	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
+	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
+	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/eclipselink/eclipselink.jar
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.37.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.util [9.11.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.util.ui [9.12.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.modules [7.52.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.annotations.common/1 [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.filesystems [9.14.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.awt [7.72.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.progress/1 [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.progress.nb [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.dialogs [7.46.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.nodes [7.49.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.windows [6.80.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.mimelookup/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.text [6.71.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.scripting [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.swing.tabcontrol [1.60.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.swing.outline [1.38.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.explorer [6.66.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.actions [6.43.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.queries/1 [1.47.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.templates [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.filesystems.nb [9.14.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.loaders [7.71.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.intent [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.io [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.io [1.53.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.filesystems.compat8 [9.13.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.execution [9.7.1 incubator-netbeans-release-404-on-20190319]
+	org.openide.execution.compat8 [9.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.upgrader [4.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.swing.plaf [1.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectapi/1 [1.71.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.swing.dirchooser [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.viewmodel/2 [1.55.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.tasklist/1 [1.39.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.quicksearch [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.palette/1 [1.50.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.navigator/1 [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.util/1 [1.69.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.settings.lib [1.55.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.settings/1 [1.61.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.lexer/2 [1.67.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.fold/1 [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.document [1.13.1.3 3 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.lib2/1 [2.22.1.55.3 55 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.guards/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.indent/2 [1.47.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.lib/3 [4.11.1.23.3.55 23 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.keyring [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.asm [5.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.bootstrap/1 [2.82.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.startup.base [1.66.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.startup/1 [1.66.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.sampler [1.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core/2 [3.55.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.options.api/1 [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.options.keymap [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.settings.storage/1 [1.55.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.fold.nbui [1.16.1.55 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor/3 [1.91.1.6.3.23.55 6 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.javacapi [8.25.1.3 3 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.nbjavac.api [1.51 181115]
+	org.netbeans.libs.javacimpl/1 [0.51.1.25 25 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.nbjavac [1.20.1.3.25 3 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.errorstripe.api/1 [2.36.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.java.classpath/1 [1.58.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.java/1 [1.69.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.platform/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.options.editor/1 [1.64.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.errorstripe/2 [2.38.1.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.diff/1 [1.55.1.42.1 42 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.lucene/3 [3.23.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.masterfs/2 [2.59.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.parsing.lucene/2 [2.39.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.parsing.api/1 [9.11.1.8 8 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectuiapi.base/1 [1.89.1.9 9 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.indexingbridge [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.parsing.indexing [9.12.1.1.3.8 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.refactoring.api [1.51.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.classfile/1 [1.56.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.indent.support [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.multiview/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.lexer/1 [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.preprocessorbridge [1.53.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.base [2.41.1.4.3.25.8.1 4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.autoupdate.services [1.57.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.autoupdate.ui [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectuiapi/1 [1.92.1.8 8 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.indent.project/0 [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source [0.168.1.32.3.25.4.1 32 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.spi.intern [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.libraries/1 [1.57.1 incubator-netbeans-release-404-on-20190319]
+	org.apache.xml.resolver [1.35.1.12 12 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.xml/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.catalog/2 [3.8.1.4 4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.libraries.ui/1 [1.56.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.ant/1 [1.71.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.project/1 [1.75.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.settings/1 [1.53.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.editor.hints/0 [1.46.1.7.55 7 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.windows/2 [2.87.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.code.analysis/0 [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.java.hints [1.34.1.13.3.25.32.4.8 13 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.tools.storage [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.editor.hints.projects [1.15.1.1.7 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.debugger/1 [1.58.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.debugger.ui/1 [2.58.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.debugger.jpda/2 [3.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.spi.debugger.jpda.ui [3.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.core/2 [1.47.1.4 4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.xam/1 [1.36.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.xml.ui/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.retriever/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.schema.model/1 [1.36.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.axi [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.breadcrumbs/0 [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.bracesmatching/0 [1.43.1.55 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.deprecated.pre65formatting/0 [1.35.1.1.6.23.55 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.completion/1 [1.48.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.codetemplates/1 [1.47.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.actions/1 [1.35.1.55 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.csl.types/1 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.ui/1 [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.search [1.25.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.jumpto/1 [1.58.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.csl.api/2 [2.58.1.2.1.1.8.1 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.structure/1 [1.51.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.lexer [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.text/2 [1.63.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.servletapi/1 [1.43.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.httpserver/2 [2.40.1.42 42 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xsl/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.xdm/1 [1.38.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.wsdl.model/1 [1.37.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.xerces/1 [1.42.1.281 281 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.tax/2 [1.48.1.281 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.tools/2 [1.47.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.tools.java [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.schema.completion [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.multiview/1 [1.42.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.jaxb.api/1 [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.options.java [1.18.1 incubator-netbeans-release-404-on-20190319]
+	org.apache.tools.ant.module/3 [3.88.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.jaxb/1 [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.xml.catalog.ui [2.7.1.4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.whitelist [1.27.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.execution/1 [1.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.sendopts/2 [2.40.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.favorites/1 [1.50.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectui [1.62.1.8.9 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.welcome/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.ide/1 [1.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.jaxwsmodelapi/1 [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.saas.api [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.saas.ui [1.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.saas.codegen [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.multitabs/1 [1.16.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.bookmarks/1 [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extexecution.base/2 [1.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extexecution/2 [1.52.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extbrowser/1 [1.57.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.plain.lib/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.terminal [1.31.1 incubator-netbeans-release-404-on-20190319]
+	com.jcraft.jsch [0.1.54 0.1.54]
+	org.netbeans.libs.jna/1 [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.dlight.nativeexecution [1.43.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.terminalemulator [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.terminal.nb [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.dlight.terminal [1.27.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.tasklist.projectint/1 [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.tasklist.todo/1 [1.35.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.tasklist.ui/1 [1.35.1.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.tasklist.kit [1.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.multitabs.project [1.14.1.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.search [1.29.1.0.55 0 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.diff [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.json_simple/1 [0.16.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.common [1.102.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.lexer/1 [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.editor.lib/3 [3.36.1 incubator-netbeans-release-404-on-20190319]
+	org.apache.commons.logging [1.1.1 1.1.1]
+	org.netbeans.modules.html.parser/1 [1.38.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.validation/1 [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.manifest [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.antlr3.runtime [1.25.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.css.lib/1 [1.86.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.common.ui [1.5.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.indent [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.css.model [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.css.editor/1 [1.72.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.browser.api [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html/1 [1.65.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.editor/2 [2.59.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.output2/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.css.visual/3 [3.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.properties/1 [1.59.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.bytelist/1 [0.33.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.jvyamlb/1 [0.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.yaml [2.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.image/1 [1.52.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.kit [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.print [7.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.autoupdate.cli [1.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.osgi [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.felix [2.19.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.core.kit [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.defaults/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.print.editor [7.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.utilities/1 [1.65.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javahelp/1 [2.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.usersguide/1 [1.52.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.macros/0 [1.35.1.1.23 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.plain/2 [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ide.kit [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.saas.kit [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.saas.codegen.php [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.jaxws21api/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.jaxb/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.websvc.jaxws21/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gsf.testrunner/2 [2.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gsf.testrunner.ui [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gototest/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gsf.codecoverage [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.clientproject.api [1.107.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.webkit.debugging [1.57.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.webkit.tooling [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.debug/1 [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.debug.ui/1 [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.javascript.debugger [1.19.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.inspect [0.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.ant.ui/1 [1.69.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.server/0 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.server [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2 [1.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.webclient [1.11.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.clientproject [1.90.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.client.samples [1.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.gulp [0.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.types/1 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.antlr4.runtime [1.5.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.json [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.lexer/1 [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.nashorn/1 [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.doc/1 [1.3.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.model/1 [1.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.source.query/0 [0.3.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.cdnjs/0 [0.11.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.bower [0.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.karma/0 [0.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.v8debug/1 [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.v8debug/1 [1.14.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.commons_compress/0 [0.10.1.181 181 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.editor/1 [0.77.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.nodejs/0 [0.16.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.nodejs/0 [0.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.netserver [1.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extbrowser.chrome [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.grunt [0.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.jstestdriver [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.jstestdriver [0.16.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.web.client.kit [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.core/1 [1.35.1.1.42 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning/1 [1.51.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.apimodule [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.util [1.74.1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.team.commons [1.54.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.ui/1 [1.26.1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.system.cvss.installer [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.masterfs.ui [2.7.1.2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.masterfs [1.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.versioning.indexingbridge/0 [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.utilities.project/1 [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.updatecenters/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.uihandler [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.uihandler [2.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.uihandler.exceptionreporter [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.insane/1 [1.33.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.timers/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.platform.ui/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.project.ui/1 [1.79.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.sourceui/1 [1.49.1.1.25.32.4 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.testrunner [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.testrunner.ui [1.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.testng/1 [1.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.testng [2.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.testng.ui [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.embedder/2 [2.57.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.indexer/2 [2.43.1 incubator-netbeans-release-404-on-20190319]
+	org.apache.commons.codec [1.3.0 1.3.0]
+	org.netbeans.modules.maven.model/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.api.common/0 [1.127.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.swing.validation/2 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.indexer.ui/2 [2.38.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven/2 [2.132.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.testng.maven [2.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.testrunner.ant [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.testng.ant [2.19.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.templates/1 [1.11.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.team.ide [1.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.ini4j/1 [1.38.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.svnClientAdapter/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.subversion [1.45.1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.cglib/1 [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.springframework/1 [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.core.utilities/0 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.metadata/0 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ant.browsetask [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ant.debugger/1 [1.41.1.2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ant.freeform/1 [1.50.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectui.buildmenu/1 [1.30.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ant.kit [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.i18n/1 [1.57.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.refactoring.java/1 [1.65.1.1.25 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.metadata.model.support/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.persistenceapi/1 [1.40.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.ant [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2seproject/1 [1.91.1.48 48 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javawebstart [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.junit4 [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.junitlib [1.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.junit/2 [2.77.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.freeform/1 [1.47.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2seembedded [1.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.debug [1.42.1.1.25.4 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.examples/1 [1.40.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.hints.ui [1.22.1.1.13 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.completion [1.12.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.editor.lib/1 [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.editor.base [2.69.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.editor/1 [2.71.1.12.1.1.1 12 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.navigation/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.findbugs.installer [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.hints.legacy.spi/1 [1.20.1.1.13 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.hints/1 [1.87.1.17.25.12.1.1.32.4.1.13 17 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.hints.declarative/1 [1.24.1.1.17.1.13 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2seprofiles [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2sedeploy [1.16.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2seplatform/1 [1.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javadoc/1 [1.59.1.2.25 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.nashorn.execution/1 [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.beans/1 [1.55.1.1.12 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.openjdk.project/1 [1.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.visual [2.52.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.graph/1 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.module.graph [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.bindings.java/1 [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.ant [1.35.1.1.4 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectimport.eclipse.core/1 [2.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.kit [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spring.beans/0 [1.44.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker [1.39.1.1.7 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.kit [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.dictionary_en [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.properties.syntax/1 [1.54.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.bindings.properties [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.phpmodule [2.63.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.metadata.model/1 [1.15.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db/1 [1.70.1.30 30 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.dbapi [1.38.1.30 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.dataview [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.core [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.sql.editor [1.40.1.30 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.javacup/1 [1.28.1.11 11 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.templates/0 [0.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.neon [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.annotation/0 [0.22.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.editor/0 [0.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.executable/0 [0.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.framework/0 [0.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.documentation/0 [0.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.jna.platform/1 [1.19.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.jsch.agentproxy/1 [0.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.commons_net/2 [2.26.1.36 36 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.api.testing/0 [0.23.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.project [2.140.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.editor [1.78.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.nbjunit/1 [1.92.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.bindings.php [0.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.spellchecker.bindings.htmlxml [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.webclient.protractor [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.webclient.mocha [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.php [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.java [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.selenium2.maven [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.schema2beans/1 [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectimport.eclipse.j2se [1.32.1.48 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.projectapi.nb [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.spi.intern.impl [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.project.ant.compat8/1 [1.71.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.progress.ui [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.utilities/1 [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.profiler/1 [1.112.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.profiler.charts/1 [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.profiler.common/1 [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.api/1 [1.54.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.profiler.ui/1 [1.150.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.attach/2 [2.25.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler/3 [3.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.snaptracer/1 [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.projectsupport [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.ppoints [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.oql/2 [2.22.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.oql.language/0 [0.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.options [1.23.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.nbimpl/1 [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.nbmodule/1 [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.heapwalker [1.116.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.kit [1.23.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.j2se/1 [1.40.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2eeapis/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.dd/1 [1.44.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.core/0 [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.web.webmodule [1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.api.ejbmodule [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2eeserver/4 [1.115.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.dbschema/1 [1.45.1.4.30 4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javaee.injection [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.eclipselink/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.persistence [1.58.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.j2ee/1 [1.38.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.profiler.freeform/1 [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.apacheconf [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.code.analysis [0.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.samples [1.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.drivers [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.sql.visualeditor/1 [2.35.1.30 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.mysql [0.32.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.derby [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.db.kit [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.refactoring [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.dbgp [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.kit [1.66.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.composer/0 [0.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.zend2 [0.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.languages.ini [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.zend [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.wordpress [0.10.0 190216]
+	org.netbeans.modules.php.twig/1 [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.symfony2/1 [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.symfony [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.smarty [1.90.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.phpunit/0 [0.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.phpdoc [1.25.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.phing [0.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.nette2/1 [1.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.nette.tester [0.18.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.latte/1 [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.doctrine2 [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.codeception [0.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.atoum [0.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.php.apigen [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.parsing.ui [1.18.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.parsing.nb [1.7.1.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.notifications [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.netigso [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.netbinox [1.45.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.nbjavac.impl [1.51 181115]
+	org.netbeans.modules.nbjavac/1 [1.51 181115]
+	org.eclipse.mylyn.commons.net [3.17.0 3.17.0.v20150706-2057]
+	org.eclipse.mylyn.tasks.core [3.17.0 3.17.0.v20150828-2026]
+	org.eclipse.core.jobs [3.5.100 3.5.100.v20110404]
+	org.eclipse.mylyn.wikitext.core [2.6.0 2.6.0.v20150901-2143]
+	org.netbeans.modules.bugtracking [1.113.1 incubator-netbeans-release-404-on-20190319]
+	org.eclipse.equinox.common [3.6.0 3.6.0.v20110523]
+	org.eclipse.core.runtime [3.7.0 3.7.0.v20110110]
+	org.netbeans.modules.mylyn.util [1.40.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.mercurial [1.46.1.42.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.spring/1 [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.coverage [1.27.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.repository/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.graph/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.grammar/1 [1.51.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.osgi/1 [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.refactoring [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.checkstyle [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.kit/1 [4.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.search [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.profiler/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.persistence/1 [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.junit.ui [1.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.junit.ui [1.8.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.junit/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.hints/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.freemarker/1 [2.38.1.238 238 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.project/1 [1.80.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.maven.apisupport/1 [1.63.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.masterfs.windows [1.20.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.masterfs.nio2 [1.19.1 incubator-netbeans-release-404-on-20190319]
+	com.google.gson [2.7.0 2.7.0]
+	com.google.guava [15.0.0 15.0.0]
+	org.netbeans.modules.lsp.client/0 [1.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.bugtracking.commons [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.localtasks [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.localhistory [1.38.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.lexer.nbbridge/1 [1.36.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.keyring.fallback [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.keyring.impl [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.junit.ant.ui [1.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.junit.ant [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.lib.nbjshell [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.projects [1.44.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.projectsui [1.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda/2 [1.111.1.80 80 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.jshell.support [1.4.1.25.55.17.1.4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.sdoc [1.2.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.requirejs [0.11.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.react [0.3.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.prototypejs [0.9.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.knockout [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.jsdoc [1.2.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.extjs [1.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.jquery [1.13.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.extdoc [1.2.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.jade/1 [0.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript2.kit/1 [0.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javascript.v8debug.ui/1 [1.3.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.platform [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.project [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.editor [1.25.1.12.4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.scenebuilder [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.samples [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.eclipselinkmodelgen/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.jpa.refactoring [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.jpa.verification [1.39.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.j2ee.persistence.kit [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.ui/1 [1.58.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.visual/1 [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.js/1 [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.jsui/1 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.kit [1.19.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.guards/0 [0.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.queries [1.22.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.form/2 [1.61.1.4 4 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.form.nb/0 [0.22.1.1.4 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.i18n.form/2 [1.54.1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.form.refactoring/0 [0.21.1.1.4.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.form.kit [1.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.javafx2.kit [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.queriesimpl [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.nbjavac [1.4.1.1.3.25.4.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.source.compat8 [9.7.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.metrics [1.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.java.j2semodule [1.6.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ide.ergonomics [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.autoupdate.pluginimporter [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.deadlock.detector [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ide.branding/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ide.branding.kit [1.32.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson [2.17.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.ui [1.15.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.tasklist [1.21.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.subversion [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.php [1.22.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.mercurial [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.maven [1.33.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.git [1.22.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.hudson.ant [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.knockout [1.5.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.knockout [1.14.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.ojet [0.12.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.custom [1.10.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.browser/1 [1.32.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.html.angular [1.16.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gradle [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gradle.java [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gradle.test [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gradle.spring [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.gradle.persistence [1.0.1 incubator-netbeans-release-404-on-20190319]
+	org.eclipse.jgit [3.6.2 3.6.2.201501210735-r]
+	org.netbeans.libs.git/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.git [1.26.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extexecution.process.jdk9 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.apache.commons.io [1.4 1.4]
+	org.netbeans.modules.extexecution.process [1.31.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.extexecution.impl [1.29.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.36.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.htmlui [1.3.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.editor.global.format/1 [1.19.1.1 1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.docker.api/0 [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.docker.ui/0 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.docker.editor/0 [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.dlight.nativeexecution.nb [1.4.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.trufflenode/1 [1.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.truffleapi [1.0.11 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.graalsdk [1.0.11 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.truffle/1 [1.1.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.debugger.jpda.heapwalk/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.css.prep [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.cordova.platforms [1.40.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.cordova.platforms.android [1.30.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.cordova [1.37.1 incubator-netbeans-release-404-on-20190319]
+	org.eclipse.mylyn.bugzilla.core [3.17.0 3.17.0.v20150828-2026]
+	org.apache.commons.httpclient [3.1.0 3.1.0]
+	org.netbeans.modules.bugzilla [1.81.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.bugzilla.exceptionreporter [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.bugtracking.bridge [1.49.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.wizards [1.24.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.refactoring [1.41.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.nbi.ant [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.nbi.engine [1.25.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.installer [1.27.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.ant [2.76.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.harness [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.kit [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.apisupport.installer.maven [1.26.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.ant.grammar/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.svnClientAdapter.javahl/1 [1.28.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.libs.oracle.jsparser/1 [1.0 20181030-d1e23ce8c855]
+	org.netbeans.lib.nbjshell9 [1.3.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.network [1.15.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.nativeaccess/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.core.io.ui/1 [1.34.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.api.progress.compat8 [1.51.1 incubator-netbeans-release-404-on-20190319]
+	org.eclipse.mylyn.commons.xmlrpc [3.17.0 3.17.0.v20150625-2042]
+	org.eclipse.mylyn.commons.repositories.core [1.9.0 1.9.0.v20150625-2042]
+	org.eclipse.mylyn.commons.core [3.17.0 3.17.0.v20150625-2042]
+	org.eclipse.equinox.security [1.1.1 1.1.1.R37x_v20110822-1018]
+	org.eclipse.equinox.registry [3.5.200 3.5.200.v20120522-1841]
+	org.eclipse.equinox.preferences [3.4.2 3.4.2.v20120111-2020]
+	org.eclipse.equinox.app [1.3.100 1.3.100.v20110321]
+	org.eclipse.core.runtime.compatibility.auth [3.2.200 3.2.200.v20110110]
+	org.eclipse.core.net [1.2.100 1.2.100.I20110511-0800]
+	org.eclipse.core.contenttype [3.4.100 3.4.100.v20110423-0524]
+	org.apache.xmlrpc [3.0.0 3.0.0]
+	org.apache.ws.commons.util [1.0.1 1.0.1]
+	org.apache.commons.lang [2.6 2.6]
+	netbeans.csv.editor/3 [3.2.0 0 190403]
+	com.revivius.nb.darcula [1.6 1.6 201707311759]
+	com.junichi11.netbeans.php.enhancements [0.12.0 190216]
+	com.junichi11.netbeans.modules.rainbow.braces [1.1.0 190216]
+	com.junichi11.netbeans.modules.color.codes.preview [0.10.0 0.10.0 201905111141]
+	com.jcraft.jzlib [1.0.7 1.0.7]
+	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.xhr4j@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+Diagnostic information
+Input arguments:
+	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
+	-XX:+UseStringDeduplication
+	-Xss2m
+	-Dnetbeans.logger.console=true
+	-Djdk.gtk.version=2.2
+	-Dapple.laf.useScreenMenuBar=true
+	-Dapple.awt.graphics.UseQuartz=true
+	-Dsun.java2d.noddraw=true
+	-Dsun.java2d.dpiaware=true
+	-Dsun.zip.disableMemoryMapping=true
+	-Dplugin.manager.check.updates=false
+	-Dnetbeans.extbrowser.manual_chrome_plugin_install=yes
+	--add-opens=java.base/java.net=ALL-UNNAMED
+	--add-opens=java.base/java.lang.ref=ALL-UNNAMED
+	--add-opens=java.base/java.lang=ALL-UNNAMED
+	--add-opens=java.base/java.security=ALL-UNNAMED
+	--add-opens=java.base/java.util=ALL-UNNAMED
+	--add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED
+	--add-opens=java.desktop/javax.swing.text=ALL-UNNAMED
+	--add-opens=java.desktop/javax.swing=ALL-UNNAMED
+	--add-opens=java.desktop/java.awt=ALL-UNNAMED
+	--add-opens=java.desktop/java.awt.event=ALL-UNNAMED
+	--add-opens=java.prefs/java.util.prefs=ALL-UNNAMED
+	--add-opens=jdk.jshell/jdk.jshell=ALL-UNNAMED
+	--add-modules=jdk.jshell
+	--add-exports=java.desktop/sun.awt=ALL-UNNAMED
+	--add-exports=java.desktop/java.awt.peer=ALL-UNNAMED
+	--add-exports=java.desktop/com.sun.beans.editors=ALL-UNNAMED
+	--add-exports=java.desktop/sun.swing=ALL-UNNAMED
+	--add-exports=java.desktop/sun.awt.im=ALL-UNNAMED
+	--add-exports=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED
+	--add-exports=java.management/sun.management=ALL-UNNAMED
+	--add-exports=java.base/sun.reflect.annotation=ALL-UNNAMED
+	--add-exports=jdk.javadoc/com.sun.tools.javadoc.main=ALL-UNNAMED
+	-XX:+IgnoreUnrecognizedVMOptions
+	-Djdk.home=./jdk/
+	-Dnetbeans.home=C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\platform
+	-Dnetbeans.user=C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\user\
+	-Dnetbeans.default_userdir_root=C:\Users\TPEDROSO\AppData\Roaming\NetBeans
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\user\\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\nb;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\ide;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\extide;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\java;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\mobility;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\profiler;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\python;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\php;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\identity;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\harness;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\cnd;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\cndext;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\dlight;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\groovy;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\extra;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\javacard;C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\javafx
+	exit
+Compiler: HotSpot 64-Bit Tiered Compilers
+Heap memory usage: initial 252,0MB maximum 4016,0MB
+Non heap memory usage: initial 7,3MB maximum -1b
+Garbage collector: G1 Young Generation (Collections=15 Total time spent=0s)
+Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
+Classes: loaded=8598 total loaded=8598 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16.840.781.824
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.821 for both org-netbeans-modules-gradle-customPopup.shadow and org-netbeans-modules-maven-customPopup.shadow
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
+WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
+INFO [null]: Last record repeated again.
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\java\maven\lib\jsr250-api-1.0.jar took 502 ms

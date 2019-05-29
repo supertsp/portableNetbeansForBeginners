@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.eclipse.core.contenttype">
+    <module_version install_time="1553033681549" last="true" origin="installer" specification_version="3.4.100.v20110423-0524">
+        <file crc="1179294483" name="config/Modules/org-eclipse-core-contenttype.xml"/>
+        <file crc="1441123224" name="modules/org-eclipse-core-contenttype.jar"/>
+    </module_version>
+</module>

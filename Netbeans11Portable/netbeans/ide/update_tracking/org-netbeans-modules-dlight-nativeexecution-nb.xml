@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution.nb">
+    <module_version install_time="1553033631305" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="1641420973" name="config/Modules/org-netbeans-modules-dlight-nativeexecution-nb.xml"/>
+        <file crc="2187726349" name="modules/org-netbeans-modules-dlight-nativeexecution-nb.jar"/>
+    </module_version>
+</module>

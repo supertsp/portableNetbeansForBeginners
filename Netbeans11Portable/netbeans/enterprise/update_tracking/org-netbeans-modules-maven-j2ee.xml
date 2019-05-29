@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.j2ee/1">
+    <module_version install_time="1553034544981" last="true" origin="installer" specification_version="1.64.1">
+        <file crc="1272331378" name="config/Modules/org-netbeans-modules-maven-j2ee.xml"/>
+        <file crc="259613760" name="modules/org-netbeans-modules-maven-j2ee.jar"/>
+    </module_version>
+</module>

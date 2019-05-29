@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.nbjshell">
+    <module_version install_time="1545020830148" last="true" origin="installer" specification_version="1.5.1">
+        <file crc="3768100954" name="config/Modules/org-netbeans-lib-nbjshell.xml"/>
+        <file crc="3207110109" name="modules/org-netbeans-lib-nbjshell.jar"/>
+    </module_version>
+</module>

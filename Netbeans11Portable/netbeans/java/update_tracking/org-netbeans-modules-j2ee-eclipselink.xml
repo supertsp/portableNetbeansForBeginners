@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.eclipselink/1">
+    <module_version install_time="1553034454446" last="true" origin="installer" specification_version="1.36.1">
+        <file crc="51242465" name="config/Modules/org-netbeans-modules-j2ee-eclipselink.xml"/>
+        <file crc="3779388483" name="modules/ext/docs"/>
+        <file crc="1858470103" name="modules/ext/eclipselink/javax.persistence-2.1.0.jar"/>
+        <file crc="1792276046" name="modules/ext/eclipselink/org.eclipse.persistence.antlr-2.5.2.jar"/>
+        <file crc="883941464" name="modules/ext/eclipselink/org.eclipse.persistence.asm-2.5.2.jar"/>
+        <file crc="2061575916" name="modules/ext/eclipselink/org.eclipse.persistence.core-2.5.2.jar"/>
+        <file crc="3309307923" name="modules/ext/eclipselink/org.eclipse.persistence.jpa-2.5.2.jar"/>
+        <file crc="3119286176" name="modules/ext/eclipselink/org.eclipse.persistence.jpa.jpql-2.5.2.jar"/>
+        <file crc="1151895915" name="modules/org-netbeans-modules-j2ee-eclipselink.jar"/>
+    </module_version>
+</module>

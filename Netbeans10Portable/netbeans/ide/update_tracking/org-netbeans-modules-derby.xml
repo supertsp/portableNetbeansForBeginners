@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.derby">
+    <module_version install_time="1545020590061" last="true" origin="installer" specification_version="1.43.1">
+        <file crc="3368613972" name="config/Modules/org-netbeans-modules-derby.xml"/>
+        <file crc="3194707418" name="modules/ext/derbysampledb.zip"/>
+        <file crc="1201355420" name="modules/org-netbeans-modules-derby.jar"/>
+    </module_version>
+</module>

@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Wednesday, May 29, 2019 at 10:54:58 AM Brasilia Standard Time
+>Log Session: Friday, May 31, 2019 at 11:51:31 AM Brasilia Standard Time
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.0 (Build incubator-netbeans-release-404-on-20190319)
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -34,7 +34,7 @@ WARNING [org.netbeans.core.modules]: had to upgrade dependencies for module com.
 INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/netbeansPortable/Netbeans11Portable/netbeans/
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
-WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.apisupport.ant, org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
 WARNING [org.openide.filesystems.Ordering]: Not all children in Services/MIMEResolver/ marked with the position attribute: [draganbjedov-netbeans-csv-dataobject-CSVDataObject-Extension.xml, org-netbeans-modules-gradle-GradleDataObject-Extension.xml], but some are: [org-openide-loaders-DataLoaderPool$InstanceLoaderSystem-Extension.xml, org-netbeans-core-startup-layers-SystemFileSystem-Extension.xml, org-netbeans-modules-java-JavaDataObject-Extension.xml, org-netbeans-modules-java-ClassDataObject-Extension.xml, org-netbeans-modules-image-ImageDataObject-serialVersionUID-Extension.xml, org-netbeans-modules-image-ImageDataObject-IMAGE_ICON_BASE-Extension.xml, org-netbeans-modules-image-ImageDataObject-openSupport-Extension.xml, org-netbeans-modules-image-ImageDataObject-printSupport-Extension.xml, org-netbeans-modules-properties-PropertiesDataObject-Extension.xml, org-netbeans-modules-javascript-gulp-file-Gulpfile-Registration.xml, org-netbeans-modules-javascript-grunt-file-Gruntfile-Registration.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-php-twig-editor-TwigDataObject-Extension.xml, org-netbeans-modules-javascript-karma-util-KarmaUtils-Registration.xml, org-netbeans-modules-javascript-nodejs-file-PackageJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerrcJson-Registration.xml, org-netbeans-modules-languages-manifest-MfDataObject-Extension.xml, org-netbeans-modules-languages-apacheconf-ApacheConfDataObject-Registration.xml, org-netbeans-modules-javascript-jstestdriver-JSTestDriverSupport-Registration.xml, org-netbeans-modules-languages-ini-IniDataObject-Extension.xml, org-netbeans-modules-languages-neon-NeonDataObject-Extension.xml, org-netbeans-modules-form-FormDataLoader-Extension.xml, org-netbeans-core-ide-ServiceTabProcessor-Extension.xml, org-netbeans-modules-testng-ui-wizards-TestNGSuiteDataObject-Registration.xml, org-netbeans-modules-css-editor-CssProjectSupport-Extension.xml, org-netbeans-modules-languages-diff-DiffDataObject-Extension.xml, org-netbeans-modules-javascript2-editor-JsLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-jade-editor-JadeLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-db-sql-loader-SQLDataObject-Extension.xml, org-netbeans-modules-javawebstart-JnlpDataObject-Extension.xml, org-netbeans-modules-j2ee-persistence-unit-PUDataObject-Registration.xml, org-netbeans-modules-jshell-env-JShellDataObject-Extension.xml, org-netbeans-modules-groovy-gsp-GspLanguage-Extension.xml, org-netbeans-modules-languages-yaml-YamlLanguage-Extension.xml, org-netbeans-modules-groovy-editor-api-parser-GroovyLanguage-Extension.xml, org-netbeans-modules-php-editor-index-PHPIndexer-LOG-Extension.xml, org-netbeans-modules-html-HtmlDataObject-Registration.xml, org-netbeans-modules-maven-grammar-POMDataObject-Registration.xml, org-apache-tools-ant-module-loader-AntProjectDataObject-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Namespace.xml, org-netbeans-modules-editor-settings-storage-SettingsProvider-Registration.xml, org-netbeans-modules-j2ee-ddloaders-common-DD2beansDataObject-Registration.xml, org-netbeans-modules-j2ee-sun-ddloaders-SunDescriptorDataObject-Registration.xml, org-netbeans-modules-url-URLDataObject-Extension.xml, org-netbeans-modules-pdf-PDFDataObject-Extension.xml, org-netbeans-modules-php-smarty-editor-TplDataObject-Extension.xml, org-netbeans-modules-tomcat5-ui-nodes-TomcatInstanceNode-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-web-core-jsploader-JspDataObject-Registration.xml, org-netbeans-modules-web-jsf-JSFConfigDataObject-Registration.xml, org-netbeans-modules-web-struts-StrutsConfigDataObject-Namespace.xml, org-netbeans-modules-spring-beans-loader-SpringXMLConfigDataObject-Namespace.xml, org-netbeans-modules-xsl-XSLDataObject-Namespace.xml, org-netbeans-modules-java-jarloader-JarDataObject-Registration.xml, org-netbeans-modules-xml-jaxb-JAXBWizard-Extension.xml, org-netbeans-lib-editor-codetemplates-storage-CodeTemplatesStorage-Namespace.xml, org-netbeans-modules-editor-macros-storage-MacrosStorage-Namespace.xml, mimeresolver-Registration.xml, org-netbeans-modules-web-beans-BeansDataObject-Namespace.xml, org-netbeans-modules-j2ee-sun-ide-sunresources-resourcesloader-SunResourceDataObject-Extension.xml, org-netbeans-modules-profiler-oql-language-OQLLanguageProvider-Extension.xml, org-netbeans-modules-dbschema-jdbcimpl-DBschemaDataObject-Extension.xml, org-netbeans-modules-css-prep-editor-less-LessCslLanguage-Extension.xml, org-netbeans-modules-css-prep-editor-scss-ScssCslLanguage-Extension.xml, org-netbeans-modules-j2ee-persistence-jpqleditor-ui-JPQLEditorTopComponent-Extension.xml, org-netbeans-modules-php-latte-LatteDataObject-Extension.xml, org-netbeans-modules-profiler-snaptracer-impl-NpssDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-HintDataObject-Extension.xml, org-netbeans-modules-javafx2-editor-fxml-FXMLDataObject-Extension.xml, org-netbeans-modules-form-palette-PaletteItemDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_PLAIN_XML-Registration.xml, org-netbeans-modules-xml-DTDDataObject-Extension.xml, org-netbeans-modules-xml-EntityDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_XSD_XML-Registration.xml, org-netbeans-libs-freemarker-FreemarkerFactory-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Registration.xml, resources-Registration.xml, org-netbeans-modules-profiler-ui-NpsDataObject-Registration.xml, org-netbeans-modules-profiler-ui-HprofDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-NodeMimeResolver-Registration.xml, org-netbeans-modules-xml-XMLDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-test-DeclarativeHintsTestDataObject-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-SimpleLanguage-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-R-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Ruby-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Python-Extension.xml, org-netbeans-modules-defaults-mime-wav.xml]
 WARNING [null]: Last record repeated 2 more times.
 INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not find class, will not be able to replace its field...
@@ -43,7 +43,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[634 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@1810399e, org.netbeans.JarClassLoader@7853edbc, ModuleCL@6b743edf[org.netbeans.api.annotations.common], ModuleCL@4d792028[org.openide.awt], ModuleCL@4264c981[org.netbeans.api.progress], ModuleCL@463bf9b1[org.netbeans.api.progress.nb], ModuleCL@59111884[org.openide.dialogs], ModuleCL@5f8c299d[org.openide.nodes], ModuleCL@14a449ea[org.openide.windows], ModuleCL@71563a68[org.netbeans.modules.editor.mimelookup], ...608 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[622 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@1810399e, org.netbeans.JarClassLoader@3e7171eb, ModuleCL@f96ea47[org.netbeans.api.annotations.common], ModuleCL@3bd70374[org.openide.awt], ModuleCL@6f19abf8[org.netbeans.api.progress], ModuleCL@3b69b9bf[org.netbeans.api.progress.nb], ModuleCL@6fa3fb03[org.openide.dialogs], ModuleCL@17f5adea[org.openide.nodes], ModuleCL@129c376c[org.openide.windows], ModuleCL@736119f4[org.netbeans.modules.editor.mimelookup], ...596 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
@@ -351,8 +351,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.lib.uihandler [1.49.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.uihandler [2.39.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.uihandler.exceptionreporter [1.33.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.insane/1 [1.33.1.1 1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.timers/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.platform.ui/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.project.ui/1 [1.79.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.sourceui/1 [1.49.1.1.25.32.4 1 incubator-netbeans-release-404-on-20190319]
@@ -451,6 +449,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.php.api.testing/0 [0.23.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.php.project [2.140.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.php.editor [1.78.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.insane/1 [1.33.1.1 1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.nbjunit/1 [1.92.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.spellchecker.bindings.php [0.4.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.spellchecker.bindings.htmlxml [1.31.1 incubator-netbeans-release-404-on-20190319]
@@ -558,9 +557,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.maven.junit.ui [1.8.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.maven.junit/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.maven.hints/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.freemarker/1 [2.38.1.238 238 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.project/1 [1.80.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.maven.apisupport/1 [1.63.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.masterfs.windows [1.20.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.masterfs.nio2 [1.19.1 incubator-netbeans-release-404-on-20190319]
 	com.google.gson [2.7.0 2.7.0]
@@ -671,18 +667,10 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.bugzilla [1.81.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.bugzilla.exceptionreporter [1.28.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.bugtracking.bridge [1.49.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.wizards [1.24.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.refactoring [1.41.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.nbi.ant [1.26.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.nbi.engine [1.25.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.installer [1.27.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.ant [2.76.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.harness [1.46.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.kit [1.34.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.installer.maven [1.26.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.ant.grammar/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.libs.svnClientAdapter.javahl/1 [1.28.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.libs.oracle.jsparser/1 [1.0 20181030-d1e23ce8c855]
+	org.netbeans.libs.freemarker/1 [2.38.1.238 238 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.lib.nbjshell9 [1.3.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.core.network [1.15.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.core.nativeaccess/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
@@ -709,18 +697,18 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.5.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.5.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.5.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.5.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.5.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.5.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.5.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.5.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.xhr4j@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
@@ -784,14 +772,16 @@ Input arguments:
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 252,0MB maximum 4016,0MB
 Non heap memory usage: initial 7,3MB maximum -1b
-Garbage collector: G1 Young Generation (Collections=15 Total time spent=0s)
+Garbage collector: G1 Young Generation (Collections=11 Total time spent=0s)
 Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=8598 total loaded=8598 unloaded 0
+Classes: loaded=8607 total loaded=8607 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16.840.781.824
 WARNING [org.openide.filesystems.Ordering]: Found same position 1.821 for both org-netbeans-modules-gradle-customPopup.shadow and org-netbeans-modules-maven-customPopup.shadow
+WARNING [org.openide.filesystems.Ordering]: Not all children in OptionsDialog/org-netbeans-modules-php-project-ui-options-PHPOptionsCategory/ marked with the position attribute: [com-junichi11-netbeans-php-enhancements-options-PHPEnhancementsOptionsPanelController.instance], but some are: [General.instance, Debugger.instance, Annotations.instance, CodeAnalysis.instance, Hudson.instance, FrameworksAndTools.instance]
 WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
+WARNING [org.netbeans.modules.java.api.common.ui.PlatformUiSupport]: PlatformComboBoxModel: All platforms filtered out. Adding default platform although it is not accepted by all PlatformFilters.
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.
-WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\netbeansPortable\Netbeans11Portable\netbeans\java\maven\lib\jsr250-api-1.0.jar took 502 ms

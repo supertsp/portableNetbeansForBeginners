@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
+    <fileobject name="">
+        <attr name="Templates\ClientSide\org.netbeans.spi.project.AuxiliaryConfiguration.http://www.netbeans.org/ns/editor-bookmarks/2#editor-bookmarks" stringvalue="&lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>"/>
+    </fileobject>
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="Darcula"/>
+    </fileobject>
+    <fileobject name="Keymaps">
+        <attr name="currentKeymap" stringvalue="NetBeans"/>
     </fileobject>
 </attributes>

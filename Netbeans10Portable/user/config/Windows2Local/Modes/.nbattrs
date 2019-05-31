@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
+    <fileobject name="anonymousMode_1">
+        <attr name="WinSys-TCRef-Order" stringvalue="properties"/>
+    </fileobject>
+    <fileobject name="anonymousMode_2">
+        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+    </fileobject>
+    <fileobject name="bottomSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="output"/>
+    </fileobject>
     <fileobject name="code_evaluator">
         <attr name="WinSys-TCRef-Order" stringvalue="evaluatorPane"/>
     </fileobject>
     <fileobject name="commonpalette">
-        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+        <attr name="_palette_visible_" boolvalue="true"/>
+        <attr name="_palette_visible_FormDesignerPalette" boolvalue="true"/>
+        <attr name="_palette_visible__empty_" boolvalue="false"/>
     </fileobject>
     <fileobject name="editor">
-        <attr name="WinSys-TCRef-Order" stringvalue="CoverageReportTopComponent/dbgInstances"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="CoverageReportTopComponent/dbgInstances/JShellEditor"/>
     </fileobject>
     <fileobject name="explorer">
         <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services/favorites/DashboardTopComponent/debuggingView"/>
@@ -17,9 +28,9 @@
         <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/TruffleASTDebugView/DomTC/PhpHierarchyTopComponent"/>
     </fileobject>
     <fileobject name="output">
-        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/output/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/eventsView/profiler_pp/CallHierarchyTopComponent/AnalyzerTopComponent/AnalysisResultTopComponent/JavadocTopComponent/classes"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/eventsView/profiler_pp/CallHierarchyTopComponent/AnalyzerTopComponent/AnalysisResultTopComponent/JavadocTopComponent/classes"/>
     </fileobject>
     <fileobject name="properties">
-        <attr name="WinSys-TCRef-Order" stringvalue="CssStylesTC/properties/AnalyzeStackTopComponent/JavaHierarchyTopComponent/KnockoutTC/timers"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="CssStylesTC/AnalyzeStackTopComponent/JavaHierarchyTopComponent/KnockoutTC/timers/properties"/>
     </fileobject>
 </attributes>

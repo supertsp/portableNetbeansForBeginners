@@ -1,254 +1,37 @@
 <record>
-  <date>2019-05-29T10:11:43</date>
-  <millis>1559135503585</millis>
-  <sequence>61</sequence>
+  <date>2019-05-31T11:51:44</date>
+  <millis>1559314304604</millis>
+  <sequence>54</sequence>
   <level>300</level>
-  <thread>15</thread>
-  <message>CPU INFO</message>
-  <param>4</param>
-</record>
-<record>
-  <date>2019-05-29T10:11:43</date>
-  <millis>1559135503590</millis>
-  <sequence>62</sequence>
-  <level>300</level>
-  <thread>15</thread>
+  <thread>17</thread>
   <message>SCREEN SIZE</message>
   <param>1920</param>
   <param>1080</param>
   <param>1</param>
 </record>
 <record>
-  <date>2019-05-29T10:11:43</date>
-  <millis>1559135503591</millis>
-  <sequence>63</sequence>
+  <date>2019-05-31T11:51:44</date>
+  <millis>1559314304604</millis>
+  <sequence>55</sequence>
   <level>700</level>
-  <thread>15</thread>
+  <thread>17</thread>
   <message>IDE_STARTUP</message>
 </record>
 <record>
-  <date>2019-05-29T10:11:44</date>
-  <millis>1559135504850</millis>
-  <sequence>85</sequence>
-  <logger>org.netbeans.ui.metrics.laf</logger>
-  <level>800</level>
-  <thread>15</thread>
-  <message>USG_LOOK_AND_FEEL</message>
-  <param>Windows</param>
-  <param>Windows</param>
-</record>
-<record>
-  <date>2019-05-29T10:11:48</date>
-  <millis>1559135508893</millis>
-  <sequence>88</sequence>
-  <level>800</level>
-  <thread>33</thread>
-  <message>MEMORY</message>
-  <key>MEMORY</key>
-  <catalog>&lt;null&gt;</catalog>
-  <param>16840781824</param>
-</record>
-<record>
-  <date>2019-05-29T10:12:48</date>
-  <millis>1559135568324</millis>
+  <date>2019-05-31T11:51:47</date>
+  <millis>1559314307882</millis>
   <sequence>89</sequence>
-  <logger>org.netbeans.ui.metrics.projects</logger>
-  <level>800</level>
-  <thread>21</thread>
-  <message>USG_SHOW_START_PAGE</message>
-  <key>USG_SHOW_START_PAGE</key>
-  <catalog>org.netbeans.modules.welcome.resources.Bundle</catalog>
-  <param>false</param>
-</record>
-<record>
-  <date>2019-05-29T10:12:57</date>
-  <millis>1559135577269</millis>
-  <sequence>90</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[Options]</param>
-  <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.openide.awt.AlwaysEnabledAction[&amp;Options]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>&amp;Options</param>
-</record>
-<record>
-  <date>2019-05-29T10:13:00</date>
-  <millis>1559135580666</millis>
-  <sequence>93</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[Plugins]</param>
-  <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Plu&amp;gins]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Plu&amp;gins</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:25</date>
-  <millis>1559135665212</millis>
-  <sequence>94</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>32</thread>
-  <message>INDEXING_STARTED</message>
-  <key>INDEXING_STARTED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>0</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:25</date>
-  <millis>1559135665313</millis>
-  <sequence>95</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>32</thread>
-  <message>INDEXING_FINISHED</message>
-  <key>INDEXING_FINISHED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>101</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:41</date>
-  <millis>1559135681700</millis>
-  <sequence>64</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>CPU INFO</message>
-  <param>4</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:41</date>
-  <millis>1559135681705</millis>
-  <sequence>65</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>SCREEN SIZE</message>
-  <param>1920</param>
-  <param>1080</param>
-  <param>1</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:41</date>
-  <millis>1559135681705</millis>
-  <sequence>66</sequence>
-  <level>700</level>
-  <thread>15</thread>
-  <message>IDE_STARTUP</message>
-</record>
-<record>
-  <date>2019-05-29T10:14:44</date>
-  <millis>1559135684100</millis>
-  <sequence>90</sequence>
   <logger>org.netbeans.ui.metrics.laf</logger>
   <level>800</level>
-  <thread>15</thread>
-  <message>USG_LOOK_AND_FEEL</message>
-  <param>Windows</param>
-  <param>Windows</param>
-</record>
-<record>
-  <date>2019-05-29T10:14:48</date>
-  <millis>1559135688491</millis>
-  <sequence>93</sequence>
-  <level>800</level>
-  <thread>29</thread>
-  <message>MEMORY</message>
-  <key>MEMORY</key>
-  <catalog>&lt;null&gt;</catalog>
-  <param>16840781824</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:00</date>
-  <millis>1559135700213</millis>
-  <sequence>94</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[Plugins]</param>
-  <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Plu&amp;gins]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Plu&amp;gins</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:31</date>
-  <millis>1559135731361</millis>
-  <sequence>99</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>64</thread>
-  <message>INDEXING_STARTED</message>
-  <key>INDEXING_STARTED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>0</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:31</date>
-  <millis>1559135731731</millis>
-  <sequence>100</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>64</thread>
-  <message>INDEXING_FINISHED</message>
-  <key>INDEXING_FINISHED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>3</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:43</date>
-  <millis>1559135743998</millis>
-  <sequence>67</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>CPU INFO</message>
-  <param>4</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:44</date>
-  <millis>1559135744001</millis>
-  <sequence>68</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>SCREEN SIZE</message>
-  <param>1920</param>
-  <param>1080</param>
-  <param>1</param>
-</record>
-<record>
-  <date>2019-05-29T10:15:44</date>
-  <millis>1559135744001</millis>
-  <sequence>69</sequence>
-  <level>700</level>
-  <thread>15</thread>
-  <message>IDE_STARTUP</message>
-</record>
-<record>
-  <date>2019-05-29T10:15:45</date>
-  <millis>1559135745888</millis>
-  <sequence>92</sequence>
-  <logger>org.netbeans.ui.metrics.laf</logger>
-  <level>800</level>
-  <thread>15</thread>
+  <thread>17</thread>
   <message>USG_LOOK_AND_FEEL</message>
   <param>Darcula</param>
   <param>Darcula</param>
 </record>
 <record>
-  <date>2019-05-29T10:15:51</date>
-  <millis>1559135751023</millis>
-  <sequence>95</sequence>
+  <date>2019-05-31T11:51:56</date>
+  <millis>1559314316255</millis>
+  <sequence>162</sequence>
   <level>800</level>
   <thread>30</thread>
   <message>MEMORY</message>
@@ -257,332 +40,12 @@
   <param>16840781824</param>
 </record>
 <record>
-  <date>2019-05-29T10:16:06</date>
-  <millis>1559135766628</millis>
-  <sequence>96</sequence>
+  <date>2019-05-31T11:52:00</date>
+  <millis>1559314320604</millis>
+  <sequence>164</sequence>
   <logger>org.netbeans.ui.actions</logger>
   <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
-  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Ne&amp;w Project...]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Ne&amp;w Project...</param>
-</record>
-<record>
-  <date>2019-05-29T10:16:15</date>
-  <millis>1559135775138</millis>
-  <sequence>97</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>29</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:16:15</date>
-  <millis>1559135775140</millis>
-  <sequence>98</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>29</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:16:15</date>
-  <millis>1559135775148</millis>
-  <sequence>99</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:16:33</date>
-  <millis>1559135793807</millis>
-  <sequence>121</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:26:57</date>
-  <millis>1559136417337</millis>
-  <sequence>1114</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>75</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:26:59</date>
-  <millis>1559136419341</millis>
-  <sequence>1118</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>76</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:26:59</date>
-  <millis>1559136419412</millis>
-  <sequence>1120</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:09</date>
-  <millis>1559136429284</millis>
-  <sequence>1369</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>28</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:09</date>
-  <millis>1559136429284</millis>
-  <sequence>1370</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>28</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:09</date>
-  <millis>1559136429290</millis>
-  <sequence>1371</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:20</date>
-  <millis>1559136440156</millis>
-  <sequence>1375</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:29</date>
-  <millis>1559136449827</millis>
-  <sequence>1376</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>76</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:31</date>
-  <millis>1559136451317</millis>
-  <sequence>1381</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>93</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:31</date>
-  <millis>1559136451475</millis>
-  <sequence>1382</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:36</date>
-  <millis>1559136456957</millis>
-  <sequence>1631</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>96</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:37</date>
-  <millis>1559136457052</millis>
-  <sequence>1632</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>96</thread>
-  <message>ERGO_DOWNLOAD</message>
-  <key>ERGO_DOWNLOAD</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:37</date>
-  <millis>1559136457054</millis>
-  <sequence>1633</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:42</date>
-  <millis>1559136462750</millis>
-  <sequence>1637</sequence>
-  <logger>org.netbeans.ui.ergonomics</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>ERGO_CLOSE</message>
-  <key>ERGO_CLOSE</key>
-  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:27:51</date>
-  <millis>1559136471828</millis>
-  <sequence>1639</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[Plugins]</param>
-  <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Plu&amp;gins]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Plu&amp;gins</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:27</date>
-  <millis>1559136507719</millis>
-  <sequence>1642</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>95</thread>
-  <message>INDEXING_STARTED</message>
-  <key>INDEXING_STARTED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>0</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:27</date>
-  <millis>1559136507736</millis>
-  <sequence>1643</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>95</thread>
-  <message>INDEXING_FINISHED</message>
-  <key>INDEXING_FINISHED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>17</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:43</date>
-  <millis>1559136523514</millis>
-  <sequence>61</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>CPU INFO</message>
-  <param>4</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:43</date>
-  <millis>1559136523518</millis>
-  <sequence>62</sequence>
-  <level>300</level>
-  <thread>15</thread>
-  <message>SCREEN SIZE</message>
-  <param>1920</param>
-  <param>1080</param>
-  <param>1</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:43</date>
-  <millis>1559136523518</millis>
-  <sequence>63</sequence>
-  <level>700</level>
-  <thread>15</thread>
-  <message>IDE_STARTUP</message>
-</record>
-<record>
-  <date>2019-05-29T10:28:45</date>
-  <millis>1559136525953</millis>
-  <sequence>94</sequence>
-  <logger>org.netbeans.ui.metrics.laf</logger>
-  <level>800</level>
-  <thread>15</thread>
-  <message>USG_LOOK_AND_FEEL</message>
-  <param>Darcula</param>
-  <param>Darcula</param>
-</record>
-<record>
-  <date>2019-05-29T10:28:49</date>
-  <millis>1559136529913</millis>
-  <sequence>97</sequence>
-  <level>800</level>
-  <thread>29</thread>
-  <message>MEMORY</message>
-  <key>MEMORY</key>
-  <catalog>&lt;null&gt;</catalog>
-  <param>16840781824</param>
-</record>
-<record>
-  <date>2019-05-29T10:29:19</date>
-  <millis>1559136559996</millis>
-  <sequence>98</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
-  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Ne&amp;w Project...]</param>
-  <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Ne&amp;w Project...</param>
-</record>
-<record>
-  <date>2019-05-29T10:29:25</date>
-  <millis>1559136565461</millis>
-  <sequence>99</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>21</thread>
+  <thread>23</thread>
   <message>UI_ACTION_BUTTON_PRESS</message>
   <key>UI_ACTION_BUTTON_PRESS</key>
   <catalog>org.openide.awt.Bundle</catalog>
@@ -593,94 +56,9 @@
   <param>&amp;Options</param>
 </record>
 <record>
-  <date>2019-05-29T10:32:21</date>
-  <millis>1559136741060</millis>
-  <sequence>102</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>102</thread>
-  <message>INDEXING_STARTED</message>
-  <key>INDEXING_STARTED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>0</param>
-</record>
-<record>
-  <date>2019-05-29T10:32:21</date>
-  <millis>1559136741070</millis>
-  <sequence>103</sequence>
-  <logger>org.netbeans.ui.indexing</logger>
-  <level>800</level>
-  <thread>102</thread>
-  <message>INDEXING_FINISHED</message>
-  <key>INDEXING_FINISHED</key>
-  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>9</param>
-</record>
-<record>
-  <date>2019-05-29T10:32:21</date>
-  <millis>1559136741330</millis>
-  <sequence>104</sequence>
-  <logger>org.netbeans.ui.focus</logger>
-  <level>500</level>
-  <thread>21</thread>
-  <message>LOG_WINDOW_DEACTIVATED</message>
-  <key>LOG_WINDOW_DEACTIVATED</key>
-  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
-</record>
-<record>
-  <date>2019-05-29T10:55:13</date>
-  <millis>1559138113485</millis>
-  <sequence>53</sequence>
-  <level>300</level>
-  <thread>17</thread>
-  <message>CPU INFO</message>
-  <param>4</param>
-</record>
-<record>
-  <date>2019-05-29T10:55:13</date>
-  <millis>1559138113747</millis>
-  <sequence>57</sequence>
-  <level>300</level>
-  <thread>17</thread>
-  <message>SCREEN SIZE</message>
-  <param>1920</param>
-  <param>1080</param>
-  <param>1</param>
-</record>
-<record>
-  <date>2019-05-29T10:55:13</date>
-  <millis>1559138113747</millis>
-  <sequence>58</sequence>
-  <level>700</level>
-  <thread>17</thread>
-  <message>IDE_STARTUP</message>
-</record>
-<record>
-  <date>2019-05-29T10:55:16</date>
-  <millis>1559138116740</millis>
-  <sequence>89</sequence>
-  <logger>org.netbeans.ui.metrics.laf</logger>
-  <level>800</level>
-  <thread>17</thread>
-  <message>USG_LOOK_AND_FEEL</message>
-  <param>Darcula</param>
-  <param>Darcula</param>
-</record>
-<record>
-  <date>2019-05-29T10:55:22</date>
-  <millis>1559138122383</millis>
-  <sequence>96</sequence>
-  <level>800</level>
-  <thread>36</thread>
-  <message>MEMORY</message>
-  <key>MEMORY</key>
-  <catalog>&lt;null&gt;</catalog>
-  <param>16840781824</param>
-</record>
-<record>
-  <date>2019-05-29T10:55:30</date>
-  <millis>1559138130754</millis>
-  <sequence>98</sequence>
+  <date>2019-05-31T11:52:15</date>
+  <millis>1559314335987</millis>
+  <sequence>166</sequence>
   <logger>org.netbeans.ui.actions</logger>
   <level>400</level>
   <thread>23</thread>
@@ -694,41 +72,25 @@
   <param>Ne&amp;w Project...</param>
 </record>
 <record>
-  <date>2019-05-29T10:56:01</date>
-  <millis>1559138161182</millis>
-  <sequence>101</sequence>
+  <date>2019-05-31T11:52:21</date>
+  <millis>1559314341879</millis>
+  <sequence>171</sequence>
   <logger>org.netbeans.ui.actions</logger>
   <level>400</level>
   <thread>23</thread>
   <message>UI_ACTION_BUTTON_PRESS</message>
   <key>UI_ACTION_BUTTON_PRESS</key>
   <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[Plugins]</param>
+  <param>org.openide.awt.Actions$MenuItem[Options]</param>
   <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.openide.awt.AlwaysEnabledAction[Plu&amp;gins]</param>
+  <param>org.openide.awt.AlwaysEnabledAction[&amp;Options]</param>
   <param>org.openide.awt.AlwaysEnabledAction</param>
-  <param>Plu&amp;gins</param>
+  <param>&amp;Options</param>
 </record>
 <record>
-  <date>2019-05-29T10:56:33</date>
-  <millis>1559138193748</millis>
-  <sequence>102</sequence>
-  <logger>org.netbeans.ui.actions</logger>
-  <level>400</level>
-  <thread>23</thread>
-  <message>UI_ACTION_BUTTON_PRESS</message>
-  <key>UI_ACTION_BUTTON_PRESS</key>
-  <catalog>org.openide.awt.Bundle</catalog>
-  <param>org.openide.awt.Actions$MenuItem[About]</param>
-  <param>org.openide.awt.Actions$MenuItem</param>
-  <param>org.netbeans.core.actions.AboutAction[&amp;About]</param>
-  <param>org.netbeans.core.actions.AboutAction</param>
-  <param>&amp;About</param>
-</record>
-<record>
-  <date>2019-05-29T10:56:43</date>
-  <millis>1559138203930</millis>
-  <sequence>103</sequence>
+  <date>2019-05-31T11:52:44</date>
+  <millis>1559314364371</millis>
+  <sequence>172</sequence>
   <logger>org.netbeans.ui.focus</logger>
   <level>500</level>
   <thread>23</thread>
@@ -737,26 +99,26 @@
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
 <record>
-  <date>2019-05-29T10:56:43</date>
-  <millis>1559138203933</millis>
-  <sequence>104</sequence>
+  <date>2019-05-31T11:52:45</date>
+  <millis>1559314365412</millis>
+  <sequence>176</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>61</thread>
+  <thread>56</thread>
   <message>INDEXING_STARTED</message>
   <key>INDEXING_STARTED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
   <param>0</param>
 </record>
 <record>
-  <date>2019-05-29T10:56:44</date>
-  <millis>1559138204454</millis>
-  <sequence>109</sequence>
+  <date>2019-05-31T11:52:45</date>
+  <millis>1559314365423</millis>
+  <sequence>177</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>61</thread>
+  <thread>56</thread>
   <message>INDEXING_FINISHED</message>
   <key>INDEXING_FINISHED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>5</param>
+  <param>7</param>
 </record>

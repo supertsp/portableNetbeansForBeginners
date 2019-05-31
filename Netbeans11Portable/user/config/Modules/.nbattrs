@@ -21,26 +21,6 @@
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
     </fileobject>
-    <fileobject name="org-netbeans-modules-apisupport-ant.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
-    </fileobject>
-    <fileobject name="org-netbeans-modules-apisupport-installer.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
-    </fileobject>
-    <fileobject name="org-netbeans-modules-apisupport-kit.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
-    </fileobject>
-    <fileobject name="org-netbeans-modules-apisupport-project.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
-    </fileobject>
-    <fileobject name="org-netbeans-modules-apisupport-wizards.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
-    </fileobject>
     <fileobject name="org-netbeans-modules-beans.xml">
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
@@ -238,28 +218,28 @@
         <attr name="ergonomicsUnused" intvalue="0"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-editor.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-kit.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-platform.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-project.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-samples.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javafx2-scenebuilder.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136419183"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
+        <attr name="ergonomicsEnabled" longvalue="1559313169607"/>
+        <attr name="ergonomicsUnused" intvalue="2"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-javascript-bower.xml">
         <attr name="ergonomicsEnabled" longvalue="1559136439336"/>
@@ -520,10 +500,6 @@
     <fileobject name="org-netbeans-modules-spring-beans.xml">
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
-    </fileobject>
-    <fileobject name="org-netbeans-modules-timers.xml">
-        <attr name="ergonomicsEnabled" longvalue="1559136451142"/>
-        <attr name="ergonomicsUnused" intvalue="3"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-web-client-kit.xml">
         <attr name="ergonomicsEnabled" longvalue="1559136439336"/>

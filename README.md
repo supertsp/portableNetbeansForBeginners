@@ -3,7 +3,9 @@
 <!-- <img src="docs/images/image-banner.png" align="middle" width="3000"/> -->
 
 Have you thought about taking Netbeans anywhere with your saved settings and customizations?
+
 This project saves your personal settings in the following folders:
+
 * **jdk:** in this folder you put the version you want from JDK or OpenJDK
 * **m2LocalRepository:** in this folder all the Maven settings and downloads are saved
 * **netbeans:** in this folder is the installation of Netbeans

@@ -10,7 +10,7 @@ This project saves your personal settings in the following folders:
 * **sceneBuilder:** In this folder is the JavaFx Scene Builder
 * **user:** in this folder you save your preferences, modules, code templates, etc.
 
-## Original Apps Download Links
+### Original Apps Download Links
 * **Netbeans 8:** [https://netbeans.org/downloads/8.2/](https://netbeans.org/downloads/8.2/)
 * **Netbeans 9, 10, 11:** [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
 * **Oracle JDK:** [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
@@ -19,5 +19,5 @@ This project saves your personal settings in the following folders:
 * **JavaFx Scene Builder:** [https://gluonhq.com/products/scene-builder/#download](https://gluonhq.com/products/scene-builder/#download)
 * **Project that generates Netbeans executable file:** [https://github.com/supertsp/LauchingAnOtherAppWithCSharp](https://github.com/supertsp/LauchingAnOtherAppWithCSharp)
 
-##Notes
+### Notes
 All files and codes created exclusively in this project are under the [GNU / GPL v.3](https://www.gnu.org/licenses/gpl-3.0.en.html) license, however Netbeans, Oracle JDK, OpenJDK, JavaFx, JavaFx Scene Builder has its own licenses.

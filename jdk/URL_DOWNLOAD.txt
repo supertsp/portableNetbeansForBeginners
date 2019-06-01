@@ -1,2 +1,3 @@
-ARQUIVO ZIP DA OPEN JDK 8, 11 e 12
+ZIP FILE: OPEN JDK 8, 11 and 12
     https://developers.redhat.com/products/openjdk/download/
+

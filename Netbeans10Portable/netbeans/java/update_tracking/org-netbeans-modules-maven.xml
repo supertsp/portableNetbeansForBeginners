@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven/2">
-    <module_version install_time="1545021121587" last="true" origin="installer" specification_version="2.131.1">
-        <file crc="1990391501" name="config/Modules/org-netbeans-modules-maven.xml"/>
-        <file crc="993468040" name="maven-nblib/netbeans-cos.jar"/>
-        <file crc="2035456386" name="maven-nblib/netbeans-eventspy.jar"/>
-        <file crc="3879195110" name="modules/org-netbeans-modules-maven.jar"/>
-    </module_version>
-</module>

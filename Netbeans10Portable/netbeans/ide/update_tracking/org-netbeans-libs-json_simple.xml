@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.json_simple/1">
-    <module_version install_time="1545021118831" last="true" origin="installer" specification_version="0.15.1">
-        <file crc="1407381065" name="config/Modules/org-netbeans-libs-json_simple.xml"/>
-        <file crc="3115414834" name="modules/ext/json-simple-1.1.1.jar"/>
-        <file crc="1008161193" name="modules/org-netbeans-libs-json_simple.jar"/>
-    </module_version>
-</module>

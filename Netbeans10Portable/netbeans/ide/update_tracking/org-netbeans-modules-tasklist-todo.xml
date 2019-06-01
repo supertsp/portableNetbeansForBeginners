@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.tasklist.todo/1">
-    <module_version install_time="1545020646234" last="true" origin="installer" specification_version="1.34.1.1">
-        <file crc="496296242" name="config/Modules/org-netbeans-modules-tasklist-todo.xml"/>
-        <file crc="1044806244" name="modules/org-netbeans-modules-tasklist-todo.jar"/>
-    </module_version>
-</module>

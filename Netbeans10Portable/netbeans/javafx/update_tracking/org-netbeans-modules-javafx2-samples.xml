@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.samples">
-    <module_version install_time="1545020887452" last="true" origin="installer" specification_version="1.20.1">
-        <file crc="154085094" name="config/Modules/org-netbeans-modules-javafx2-samples.xml"/>
-        <file crc="738174860" name="modules/org-netbeans-modules-javafx2-samples.jar"/>
-    </module_version>
-</module>

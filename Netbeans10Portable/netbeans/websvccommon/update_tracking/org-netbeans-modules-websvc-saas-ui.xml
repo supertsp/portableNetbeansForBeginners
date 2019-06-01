@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.saas.ui">
-    <module_version install_time="1545020684531" last="true" origin="installer" specification_version="1.31.1">
-        <file crc="1098162674" name="config/Modules/org-netbeans-modules-websvc-saas-ui.xml"/>
-        <file crc="1330397951" name="modules/org-netbeans-modules-websvc-saas-ui.jar"/>
-    </module_version>
-</module>

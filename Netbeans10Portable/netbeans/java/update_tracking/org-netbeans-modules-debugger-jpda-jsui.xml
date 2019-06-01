@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.jsui/1">
-    <module_version install_time="1545020742738" last="true" origin="installer" specification_version="1.3.1">
-        <file crc="527380419" name="config/Modules/org-netbeans-modules-debugger-jpda-jsui.xml"/>
-        <file crc="2335605773" name="modules/org-netbeans-modules-debugger-jpda-jsui.jar"/>
-    </module_version>
-</module>

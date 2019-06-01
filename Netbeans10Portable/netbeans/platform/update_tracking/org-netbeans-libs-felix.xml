@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.felix">
-    <module_version install_time="1545020490544" last="true" origin="installer" specification_version="2.18.1">
-        <file crc="1327048437" name="config/Modules/org-netbeans-libs-felix.xml"/>
-        <file crc="3669616946" name="modules/ext/org.apache.felix.main-4.2.1.jar"/>
-        <file crc="1884104443" name="modules/org-netbeans-libs-felix.jar"/>
-    </module_version>
-</module>

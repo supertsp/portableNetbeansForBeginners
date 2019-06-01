@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler/3">
-    <module_version install_time="1545020901808" last="true" origin="installer" specification_version="3.32.1">
-        <file crc="983100856" name="VERSION.txt"/>
-        <file crc="2205319106" name="config/Modules/org-netbeans-modules-profiler.xml"/>
-        <file crc="1121610700" name="modules/org-netbeans-modules-profiler.jar"/>
-    </module_version>
-</module>

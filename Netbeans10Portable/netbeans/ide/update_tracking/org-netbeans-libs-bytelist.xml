@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.bytelist/1">
-    <module_version install_time="1545020619568" last="true" origin="installer" specification_version="0.32.1.1">
-        <file crc="3551089273" name="config/Modules/org-netbeans-libs-bytelist.xml"/>
-        <file crc="3455054661" name="modules/ext/bytelist-1.0.15.jar"/>
-        <file crc="2115182620" name="modules/ext/jcodings-1.0.18.jar"/>
-        <file crc="87598236" name="modules/org-netbeans-libs-bytelist.jar"/>
-    </module_version>
-</module>

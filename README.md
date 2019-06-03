@@ -20,6 +20,10 @@ This project saves your personal settings in the following folders:
 * **JavaFx SDK:** [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
 * **JavaFx Scene Builder:** [https://gluonhq.com/products/scene-builder/#download](https://gluonhq.com/products/scene-builder/#download)
 * **Project that generates Netbeans executable file:** [https://github.com/supertsp/LauchingAnOtherAppWithCSharp](https://github.com/supertsp/LauchingAnOtherAppWithCSharp)
+* **Rainbow Braces Plugin:** [http://plugins.netbeans.org/plugin/74749/rainbow-braces](http://plugins.netbeans.org/plugin/74749/rainbow-braces)
+* **Darcula LAF Theme Plugin:** [http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans)
+* **Color Codes Preview Plugin:** [http://plugins.netbeans.org/plugin/57827/color-codes-preview](http://plugins.netbeans.org/plugin/57827/color-codes-preview)
+
 
 ### Notes
 All files and codes created exclusively in this project are under the [GNU / GPL v.3](https://www.gnu.org/licenses/gpl-3.0.en.html) license, however Netbeans, Oracle JDK, OpenJDK, JavaFx, JavaFx Scene Builder has its own licenses.

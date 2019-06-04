@@ -6147,3 +6147,104 @@
   <key>LOG_WINDOW_DEACTIVATED</key>
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
+<record>
+  <date>2019-06-04T14:31:00</date>
+  <millis>1559669460347</millis>
+  <sequence>1343</sequence>
+  <logger>org.netbeans.ui.vcs</logger>
+  <level>800</level>
+  <thread>121</thread>
+  <message>USG_VCS_CMD</message>
+  <key>USG_VCS_CMD</key>
+  <catalog>org.netbeans.modules.versioning.util.Bundle</catalog>
+  <param>GIT</param>
+  <param>12990</param>
+  <param>0</param>
+  <param>UNKNOWN</param>
+  <param>EXTERNAL</param>
+</record>
+<record>
+  <date>2019-06-04T14:31:57</date>
+  <millis>1559669517419</millis>
+  <sequence>1344</sequence>
+  <logger>org.netbeans.ui.vcs</logger>
+  <level>800</level>
+  <thread>120</thread>
+  <message>USG_VCS_CMD</message>
+  <key>USG_VCS_CMD</key>
+  <catalog>org.netbeans.modules.versioning.util.Bundle</catalog>
+  <param>GIT</param>
+  <param>8788</param>
+  <param>0</param>
+  <param>UNKNOWN</param>
+  <param>EXTERNAL</param>
+</record>
+<record>
+  <date>2019-06-04T14:33:06</date>
+  <millis>1559669586239</millis>
+  <sequence>1345</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>125</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>302</param>
+</record>
+<record>
+  <date>2019-06-04T14:33:33</date>
+  <millis>1559669613993</millis>
+  <sequence>1346</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>23</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2019-06-04T14:39:05</date>
+  <millis>1559669945208</millis>
+  <sequence>1347</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>126</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>256</param>
+</record>
+<record>
+  <date>2019-06-04T14:39:22</date>
+  <millis>1559669962627</millis>
+  <sequence>1348</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>23</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2019-06-04T14:41:36</date>
+  <millis>1559670096905</millis>
+  <sequence>1349</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>127</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>98</param>
+</record>
+<record>
+  <date>2019-06-04T14:42:00</date>
+  <millis>1559670120180</millis>
+  <sequence>1350</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>23</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

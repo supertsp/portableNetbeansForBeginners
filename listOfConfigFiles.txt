@@ -6,4 +6,9 @@
     netbeans_default_cachedir="./user/"
 
 3) MAVEN: "netbeans/java/maven/conf/settings.xml"
-    <localRepository>m2LocalRepository/</localRepository>
+    <localRepository>${maven.home}/m2LocalRepository/</localRepository>
+
+4) SYMBOLIC LINK FOR MAVEN
+	On folder "[PortableNetbeans]\netbeans\java\maven>" run CMD as admin and type:
+		mklink /d m2LocalRepository "..\..\..\${maven.home}\m2LocalRepository"
+		

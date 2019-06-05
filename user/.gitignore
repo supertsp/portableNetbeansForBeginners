@@ -1,0 +1,8 @@
+# Folders that should not be included.
+index/ 
+mavenindex/
+
+# Extensions that should not be included.
+
+
+# Files that should not be included.

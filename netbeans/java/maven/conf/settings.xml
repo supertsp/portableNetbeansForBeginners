@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
@@ -18,7 +17,6 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 -->
-
 <!--
  | This is the configuration file for Maven. It can be specified at two levels:
  |
@@ -43,16 +41,14 @@ under the License.
  | values (values used when the setting is not specified) are provided.
  |
  |-->
-<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
   <!-- localRepository
    | The path to the local repository maven will use to store artifacts.
    |
    | Default: ${user.home}/.m2/repository
   <localRepository>/path/to/local/repo</localRepository>
   -->
-<localRepository>${maven.home}/m2LocalRepository/</localRepository>
+  <localRepository>C:\PortableNetbeans\m2LocalRepository\</localRepository>
   <!-- interactiveMode
    | This will determine whether maven prompts you when it needs input. If set to false,
    | maven will use a sensible default value, perhaps based on some other setting, for
@@ -61,7 +57,6 @@ under the License.
    | Default: true
   <interactiveMode>true</interactiveMode>
   -->
-
   <!-- offline
    | Determines whether maven should attempt to connect to the network when executing a build.
    | This will have an effect on artifact downloads, artifact deployment, and others.
@@ -69,7 +64,6 @@ under the License.
    | Default: false
   <offline>false</offline>
   -->
-
   <!-- pluginGroups
    | This is a list of additional group identifiers that will be searched when resolving plugins by their prefix, i.e.
    | when invoking a command line like "mvn prefix:goal". Maven will automatically add the group identifiers
@@ -81,7 +75,6 @@ under the License.
     <pluginGroup>com.your.plugins</pluginGroup>
     -->
   </pluginGroups>
-
   <!-- proxies
    | This is a list of proxies which can be used on this machine to connect to the network.
    | Unless otherwise specified (by system property or command-line switch), the first proxy
@@ -103,7 +96,6 @@ under the License.
     </proxy>
     -->
   </proxies>
-
   <!-- servers
    | This is a list of authentication profiles, keyed by the server-id used within the system.
    | Authentication profiles can be used whenever maven must make a connection to a remote server.
@@ -122,7 +114,6 @@ under the License.
       <password>repopwd</password>
     </server>
     -->
-
     <!-- Another sample, using keys to authenticate.
     <server>
       <id>siteServer</id>
@@ -131,7 +122,6 @@ under the License.
     </server>
     -->
   </servers>
-
   <!-- mirrors
    | This is a list of mirrors to be used in downloading artifacts from remote repositories.
    |
@@ -157,7 +147,6 @@ under the License.
     </mirror>
      -->
   </mirrors>
-
   <!-- profiles
    | This is a list of profiles which can be activated in a variety of ways, and which can modify
    | the build process. Profiles provided in the settings.xml are intended to provide local machine-
@@ -209,7 +198,6 @@ under the License.
       </repositories>
     </profile>
     -->
-
     <!--
      | Here is another profile, activated by the system property 'target-env' with a value of 'dev',
      | which provides a specific path to the Tomcat instance. To use this, your plugin configuration
@@ -245,7 +233,6 @@ under the License.
     </profile>
     -->
   </profiles>
-
   <!-- activeProfiles
    | List of profiles that are active for all builds.
    |

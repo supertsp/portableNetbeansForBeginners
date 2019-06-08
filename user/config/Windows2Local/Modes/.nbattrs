@@ -14,7 +14,6 @@
         <attr name="WinSys-TCRef-Order" stringvalue="evaluatorPane"/>
     </fileobject>
     <fileobject name="commonpalette">
-        <attr name="WinSys-TCRef-Order" stringvalue=""/>
         <attr name="_palette_visible_" boolvalue="true"/>
         <attr name="_palette_visible_FormDesignerPalette" boolvalue="true"/>
         <attr name="_palette_visible__empty_" boolvalue="false"/>
@@ -25,9 +24,6 @@
     <fileobject name="explorer">
         <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services/favorites/DashboardTopComponent/debuggingView"/>
     </fileobject>
-    <fileobject name="leftSlidingSide">
-        <attr name="WinSys-TCRef-Order" stringvalue=""/>
-    </fileobject>
     <fileobject name="navigator">
         <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/TruffleASTDebugView/DomTC/PhpHierarchyTopComponent"/>
     </fileobject>
@@ -36,14 +32,5 @@
     </fileobject>
     <fileobject name="properties">
         <attr name="WinSys-TCRef-Order" stringvalue="CssStylesTC/AnalyzeStackTopComponent/JavaHierarchyTopComponent/KnockoutTC/timers"/>
-    </fileobject>
-    <fileobject name="rightSlidingSide">
-        <attr name="WinSys-TCRef-Order" stringvalue=""/>
-    </fileobject>
-    <fileobject name="topSlidingSide">
-        <attr name="WinSys-TCRef-Order" stringvalue=""/>
-    </fileobject>
-    <fileobject name="webpreview">
-        <attr name="WinSys-TCRef-Order" stringvalue=""/>
     </fileobject>
 </attributes>

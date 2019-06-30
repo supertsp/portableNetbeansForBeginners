@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="com.junichi11.netbeans.php.enhancements">
-    <module_version install_time="1559136510716" last="true" origin="Plugin Portal" specification_version="0.12.0">
+    <module_version install_time="1559136510716" last="false" origin="Plugin Portal" specification_version="0.12.0">
         <file crc="3641584832" name="config/Modules/com-junichi11-netbeans-php-enhancements.xml"/>
         <file crc="4276430323" name="modules/com-junichi11-netbeans-php-enhancements.jar"/>
+        <file crc="169753354" name="modules/ext/LICENSE"/>
+        <file crc="826470540" name="modules/ext/gson-2.2.4-for-php-enhancements.jar"/>
+    </module_version>
+    <module_version install_time="1561923361661" last="true" origin="Plugin Portal" specification_version="1.0.0">
+        <file crc="3641584832" name="config/Modules/com-junichi11-netbeans-php-enhancements.xml"/>
+        <file crc="2017702288" name="modules/com-junichi11-netbeans-php-enhancements.jar"/>
         <file crc="169753354" name="modules/ext/LICENSE"/>
         <file crc="826470540" name="modules/ext/gson-2.2.4-for-php-enhancements.jar"/>
     </module_version>

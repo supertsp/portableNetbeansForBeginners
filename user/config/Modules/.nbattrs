@@ -21,6 +21,26 @@
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
     </fileobject>
+    <fileobject name="org-netbeans-modules-apisupport-ant.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-apisupport-installer.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-apisupport-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-apisupport-project.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-apisupport-wizards.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
+    </fileobject>
     <fileobject name="org-netbeans-modules-beans.xml">
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
@@ -500,6 +520,10 @@
     <fileobject name="org-netbeans-modules-spring-beans.xml">
         <attr name="ergonomicsEnabled" longvalue="1559135792385"/>
         <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-timers.xml">
+        <attr name="ergonomicsEnabled" longvalue="1561923296024"/>
+        <attr name="ergonomicsUnused" intvalue="3"/>
     </fileobject>
     <fileobject name="org-netbeans-modules-web-client-kit.xml">
         <attr name="ergonomicsEnabled" longvalue="1559136439336"/>

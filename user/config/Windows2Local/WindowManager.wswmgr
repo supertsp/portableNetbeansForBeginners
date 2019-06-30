@@ -37,11 +37,11 @@
   <path orientation="vertical" number="40" weight="0.7" />
   <path orientation="horizontal" number="40" weight="0.7" />
   <path orientation="vertical" number="40" weight="0.5" />
-  <path orientation="horizontal" number="1" weight="0.6958855098389982" />
+  <path orientation="horizontal" number="1" weight="0.6487676056338028" />
   </constraints>
   <bounds x="633" y="249" width="806" height="457" />
     </editor-area>
-    <screen width="1366" height="768"/>
+    <screen width="1920" height="1080"/>
     <active-mode name="explorer"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>

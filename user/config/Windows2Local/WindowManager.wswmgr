@@ -41,7 +41,7 @@
   </constraints>
   <bounds x="633" y="249" width="806" height="457" />
     </editor-area>
-    <screen width="1920" height="1080"/>
+    <screen width="1366" height="768"/>
     <active-mode name="explorer"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>

@@ -1,0 +1,11 @@
+# Folders that should not be included.
+*/
+
+# Extensions that should not be included.
+*.*
+
+# Files that should not be included.
+*
+
+# Files that should BE included.
+!downloadedFilesHere.txt

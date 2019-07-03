@@ -1,29 +1,29 @@
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522188</millis>
-  <sequence>10</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947037</millis>
+  <sequence>56</sequence>
   <level>300</level>
   <thread>17</thread>
   <message>SCREEN SIZE</message>
-  <param>1366</param>
-  <param>768</param>
+  <param>1920</param>
+  <param>1080</param>
   <param>1</param>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522188</millis>
-  <sequence>11</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947037</millis>
+  <sequence>57</sequence>
   <level>700</level>
   <thread>17</thread>
   <message>IDE_STARTUP</message>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522480</millis>
-  <sequence>12</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947203</millis>
+  <sequence>59</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -174,12 +174,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522508</millis>
-  <sequence>13</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947218</millis>
+  <sequence>60</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -330,12 +330,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522516</millis>
-  <sequence>14</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947223</millis>
+  <sequence>61</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -486,12 +486,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522516</millis>
-  <sequence>15</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947228</millis>
+  <sequence>62</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -642,12 +642,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522516</millis>
-  <sequence>16</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947229</millis>
+  <sequence>63</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -792,12 +792,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522516</millis>
-  <sequence>17</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947230</millis>
+  <sequence>64</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -942,12 +942,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522520</millis>
-  <sequence>18</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947235</millis>
+  <sequence>65</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1098,12 +1098,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522520</millis>
-  <sequence>19</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947236</millis>
+  <sequence>66</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1254,12 +1254,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522524</millis>
-  <sequence>20</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947237</millis>
+  <sequence>67</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1410,12 +1410,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522528</millis>
-  <sequence>21</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947238</millis>
+  <sequence>68</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1566,12 +1566,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522528</millis>
-  <sequence>22</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947239</millis>
+  <sequence>69</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1722,12 +1722,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522528</millis>
-  <sequence>23</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947240</millis>
+  <sequence>70</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -1878,12 +1878,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522528</millis>
-  <sequence>24</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947242</millis>
+  <sequence>71</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -2034,12 +2034,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522532</millis>
-  <sequence>25</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947243</millis>
+  <sequence>72</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -2190,12 +2190,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522532</millis>
-  <sequence>26</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947244</millis>
+  <sequence>73</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -2346,12 +2346,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522540</millis>
-  <sequence>27</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947264</millis>
+  <sequence>74</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -2502,15 +2502,15 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522544</millis>
-  <sequence>28</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947271</millis>
+  <sequence>75</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not find class, will not be able to replace its field...</message>
   <exception>
-    <message>java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[634 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@704712e4, ModuleCL@1fce1326[org.netbeans.api.annotations.common], ModuleCL@145b86af[org.openide.awt], ModuleCL@9ca73f[org.netbeans.api.progress], ModuleCL@56889c8c[org.netbeans.api.progress.nb], ModuleCL@39b0e258[org.openide.dialogs], ModuleCL@7196753f[org.openide.nodes], ModuleCL@14d6816d[org.openide.windows], ModuleCL@6a80387[org.netbeans.modules.editor.mimelookup], ...608 more]</message>
+    <message>java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[623 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@1813bc78, ModuleCL@5a473b63[org.netbeans.api.annotations.common], ModuleCL@b6af5ab[org.openide.awt], ModuleCL@78d5bd92[org.netbeans.api.progress], ModuleCL@2fa3aafb[org.netbeans.api.progress.nb], ModuleCL@501aba8b[org.openide.dialogs], ModuleCL@4f74b199[org.openide.nodes], ModuleCL@4daaa489[org.openide.windows], ModuleCL@4ba3c7c4[org.netbeans.modules.editor.mimelookup], ...597 more]</message>
     <frame>
       <class>org.netbeans.ProxyClassLoader</class>
       <method>loadClass</method>
@@ -2692,12 +2692,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522548</millis>
-  <sequence>29</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947283</millis>
+  <sequence>76</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -2848,12 +2848,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522552</millis>
-  <sequence>30</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947289</millis>
+  <sequence>77</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -3004,12 +3004,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522560</millis>
-  <sequence>31</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947299</millis>
+  <sequence>78</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -3160,12 +3160,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522560</millis>
-  <sequence>32</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947299</millis>
+  <sequence>79</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -3316,12 +3316,12 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:22</date>
-  <millis>1561936522568</millis>
-  <sequence>33</sequence>
+  <date>2019-07-03T15:35:47</date>
+  <millis>1562178947302</millis>
+  <sequence>80</sequence>
   <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>Can not replace field...</message>
   <exception>
     <message>java.lang.NoSuchFieldException: modifiers</message>
@@ -3472,9 +3472,9 @@
   </exception>
 </record>
 <record>
-  <date>2019-06-30T20:15:25</date>
-  <millis>1561936525688</millis>
-  <sequence>42</sequence>
+  <date>2019-07-03T15:35:52</date>
+  <millis>1562178952062</millis>
+  <sequence>116</sequence>
   <logger>org.netbeans.ui.metrics.laf</logger>
   <level>800</level>
   <thread>17</thread>
@@ -3483,47 +3483,63 @@
   <param>Darcula</param>
 </record>
 <record>
-  <date>2019-06-30T20:15:32</date>
-  <millis>1561936532104</millis>
-  <sequence>82</sequence>
+  <date>2019-07-03T15:35:57</date>
+  <millis>1562178957247</millis>
+  <sequence>168</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>23</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Ne&amp;w Project...]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Ne&amp;w Project...</param>
+</record>
+<record>
+  <date>2019-07-03T15:36:00</date>
+  <millis>1562178960693</millis>
+  <sequence>174</sequence>
   <level>800</level>
-  <thread>31</thread>
+  <thread>49</thread>
   <message>MEMORY</message>
   <key>MEMORY</key>
   <catalog>&lt;null&gt;</catalog>
-  <param>8479744000</param>
+  <param>16840781824</param>
 </record>
 <record>
-  <date>2019-06-30T20:16:22</date>
-  <millis>1561936582659</millis>
-  <sequence>84</sequence>
+  <date>2019-07-03T15:36:18</date>
+  <millis>1562178978194</millis>
+  <sequence>176</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>54</thread>
+  <thread>33</thread>
   <message>INDEXING_STARTED</message>
   <key>INDEXING_STARTED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
   <param>0</param>
 </record>
 <record>
-  <date>2019-06-30T20:16:22</date>
-  <millis>1561936582719</millis>
-  <sequence>85</sequence>
+  <date>2019-07-03T15:36:18</date>
+  <millis>1562178978200</millis>
+  <sequence>177</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>54</thread>
+  <thread>33</thread>
   <message>INDEXING_FINISHED</message>
   <key>INDEXING_FINISHED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>60</param>
+  <param>5</param>
 </record>
 <record>
-  <date>2019-06-30T20:16:25</date>
-  <millis>1561936585063</millis>
-  <sequence>94</sequence>
+  <date>2019-07-03T15:36:18</date>
+  <millis>1562178978411</millis>
+  <sequence>178</sequence>
   <logger>org.netbeans.ui.focus</logger>
   <level>500</level>
-  <thread>24</thread>
+  <thread>23</thread>
   <message>LOG_WINDOW_DEACTIVATED</message>
   <key>LOG_WINDOW_DEACTIVATED</key>
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>

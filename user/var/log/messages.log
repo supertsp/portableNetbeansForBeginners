@@ -1,41 +1,45 @@
 -------------------------------------------------------------------------------
->Log Session: Sunday, June 30, 2019 at 8:15:16 PM Brasilia Standard Time
+>Log Session: Wednesday, July 3, 2019 at 3:35:32 PM Brasilia Standard Time
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.0 (Build incubator-netbeans-release-404-on-20190319)
   Operating System        = Windows 10 version 10.0 running on amd64
   Java; VM; Vendor        = 12.0.1-redhat; OpenJDK 64-Bit Server VM 12.0.1-redhat+12; N/A
   Runtime                 = OpenJDK Runtime Environment 12.0.1-redhat+12
-  Java Home               = C:\Users\tiago\Desktop\PortableNetbeans\jdks\jdk12
+  Java Home               = C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk12
   System Locale; Encoding = pt_BR (nb); Cp1252
-  Home Directory          = C:\Users\tiago
-  Current Directory       = C:\Users\tiago\Desktop\PortableNetbeans
-  User Directory          = C:\Users\tiago\Desktop\PortableNetbeans\user
-  Cache Directory         = C:\Users\tiago\Desktop\PortableNetbeans\user
-  Installation            = C:\Users\tiago\Desktop\PortableNetbeans\netbeans\nb
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\ergonomics
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\ide
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\extide
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\java
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\apisupport
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\webcommon
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\websvccommon
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\enterprise
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\profiler
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\php
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\harness
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\groovy
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\javafx
-                            C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform
+  Home Directory          = C:\Users\TPEDROSO
+  Current Directory       = C:\Users\TPEDROSO\Desktop\PortableNetbeans
+  User Directory          = C:\Users\TPEDROSO\Desktop\PortableNetbeans\user
+  Cache Directory         = C:\Users\TPEDROSO\Desktop\PortableNetbeans\user
+  Installation            = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
   Boot & Ext. Classpath   = 
-  Application Classpath   = C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar
-  Startup Classpath       = C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\asm-all-5.0.1.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\core-base.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\core.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\nb\core\org-netbeans-upgrader.jar;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\nb\core\locale\core_nb.jar
+  Application Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar
+  Startup Classpath       = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\asm-all-5.0.1.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core-base.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\org-netbeans-upgrader.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\locale\core_nb.jar
 -------------------------------------------------------------------------------
-INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/tiago/Desktop/PortableNetbeans/netbeans/
+WARNING [org.netbeans.core.modules]: had to upgrade dependencies for module com.revivius.nb.darcula: added = [module org.openide.util.ui > 9.3] removed = []; details: [#243100: Separate desktop-independent utilities]
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
-WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.apisupport.ant, org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
 WARNING [org.openide.filesystems.Ordering]: Not all children in Services/MIMEResolver/ marked with the position attribute: [draganbjedov-netbeans-csv-dataobject-CSVDataObject-Extension.xml, org-netbeans-modules-gradle-GradleDataObject-Extension.xml], but some are: [org-openide-loaders-DataLoaderPool$InstanceLoaderSystem-Extension.xml, org-netbeans-core-startup-layers-SystemFileSystem-Extension.xml, org-netbeans-modules-java-JavaDataObject-Extension.xml, org-netbeans-modules-java-ClassDataObject-Extension.xml, org-netbeans-modules-image-ImageDataObject-serialVersionUID-Extension.xml, org-netbeans-modules-image-ImageDataObject-IMAGE_ICON_BASE-Extension.xml, org-netbeans-modules-image-ImageDataObject-openSupport-Extension.xml, org-netbeans-modules-image-ImageDataObject-printSupport-Extension.xml, org-netbeans-modules-properties-PropertiesDataObject-Extension.xml, org-netbeans-modules-javascript-gulp-file-Gulpfile-Registration.xml, org-netbeans-modules-javascript-grunt-file-Gruntfile-Registration.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-php-twig-editor-TwigDataObject-Extension.xml, org-netbeans-modules-javascript-karma-util-KarmaUtils-Registration.xml, org-netbeans-modules-javascript-nodejs-file-PackageJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerrcJson-Registration.xml, org-netbeans-modules-languages-manifest-MfDataObject-Extension.xml, org-netbeans-modules-languages-apacheconf-ApacheConfDataObject-Registration.xml, org-netbeans-modules-javascript-jstestdriver-JSTestDriverSupport-Registration.xml, org-netbeans-modules-languages-ini-IniDataObject-Extension.xml, org-netbeans-modules-languages-neon-NeonDataObject-Extension.xml, org-netbeans-modules-form-FormDataLoader-Extension.xml, org-netbeans-core-ide-ServiceTabProcessor-Extension.xml, org-netbeans-modules-testng-ui-wizards-TestNGSuiteDataObject-Registration.xml, org-netbeans-modules-css-editor-CssProjectSupport-Extension.xml, org-netbeans-modules-languages-diff-DiffDataObject-Extension.xml, org-netbeans-modules-javascript2-editor-JsLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-jade-editor-JadeLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-db-sql-loader-SQLDataObject-Extension.xml, org-netbeans-modules-javawebstart-JnlpDataObject-Extension.xml, org-netbeans-modules-j2ee-persistence-unit-PUDataObject-Registration.xml, org-netbeans-modules-jshell-env-JShellDataObject-Extension.xml, org-netbeans-modules-groovy-gsp-GspLanguage-Extension.xml, org-netbeans-modules-languages-yaml-YamlLanguage-Extension.xml, org-netbeans-modules-groovy-editor-api-parser-GroovyLanguage-Extension.xml, org-netbeans-modules-php-editor-index-PHPIndexer-LOG-Extension.xml, org-netbeans-modules-html-HtmlDataObject-Registration.xml, org-netbeans-modules-maven-grammar-POMDataObject-Registration.xml, org-apache-tools-ant-module-loader-AntProjectDataObject-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Namespace.xml, org-netbeans-modules-editor-settings-storage-SettingsProvider-Registration.xml, org-netbeans-modules-j2ee-ddloaders-common-DD2beansDataObject-Registration.xml, org-netbeans-modules-j2ee-sun-ddloaders-SunDescriptorDataObject-Registration.xml, org-netbeans-modules-url-URLDataObject-Extension.xml, org-netbeans-modules-pdf-PDFDataObject-Extension.xml, org-netbeans-modules-php-smarty-editor-TplDataObject-Extension.xml, org-netbeans-modules-tomcat5-ui-nodes-TomcatInstanceNode-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-web-core-jsploader-JspDataObject-Registration.xml, org-netbeans-modules-web-jsf-JSFConfigDataObject-Registration.xml, org-netbeans-modules-web-struts-StrutsConfigDataObject-Namespace.xml, org-netbeans-modules-spring-beans-loader-SpringXMLConfigDataObject-Namespace.xml, org-netbeans-modules-xsl-XSLDataObject-Namespace.xml, org-netbeans-modules-java-jarloader-JarDataObject-Registration.xml, org-netbeans-modules-xml-jaxb-JAXBWizard-Extension.xml, org-netbeans-lib-editor-codetemplates-storage-CodeTemplatesStorage-Namespace.xml, org-netbeans-modules-editor-macros-storage-MacrosStorage-Namespace.xml, mimeresolver-Registration.xml, org-netbeans-modules-web-beans-BeansDataObject-Namespace.xml, org-netbeans-modules-j2ee-sun-ide-sunresources-resourcesloader-SunResourceDataObject-Extension.xml, org-netbeans-modules-profiler-oql-language-OQLLanguageProvider-Extension.xml, org-netbeans-modules-dbschema-jdbcimpl-DBschemaDataObject-Extension.xml, org-netbeans-modules-css-prep-editor-less-LessCslLanguage-Extension.xml, org-netbeans-modules-css-prep-editor-scss-ScssCslLanguage-Extension.xml, org-netbeans-modules-j2ee-persistence-jpqleditor-ui-JPQLEditorTopComponent-Extension.xml, org-netbeans-modules-php-latte-LatteDataObject-Extension.xml, org-netbeans-modules-profiler-snaptracer-impl-NpssDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-HintDataObject-Extension.xml, org-netbeans-modules-javafx2-editor-fxml-FXMLDataObject-Extension.xml, org-netbeans-modules-form-palette-PaletteItemDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_PLAIN_XML-Registration.xml, org-netbeans-modules-xml-DTDDataObject-Extension.xml, org-netbeans-modules-xml-EntityDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_XSD_XML-Registration.xml, org-netbeans-libs-freemarker-FreemarkerFactory-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Registration.xml, resources-Registration.xml, org-netbeans-modules-profiler-ui-NpsDataObject-Registration.xml, org-netbeans-modules-profiler-ui-HprofDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-NodeMimeResolver-Registration.xml, org-netbeans-modules-xml-XMLDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-test-DeclarativeHintsTestDataObject-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-SimpleLanguage-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-R-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Ruby-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Python-Extension.xml, org-netbeans-modules-defaults-mime-wav.xml]
+WARNING [null]: Last record repeated 2 more times.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
 WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/eclipselink/eclipselink.jar
 WARNING [null]: Last record repeated again.
 INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
 java.lang.NoSuchFieldException: modifiers
@@ -457,7 +461,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[634 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@704712e4, ModuleCL@1fce1326[org.netbeans.api.annotations.common], ModuleCL@145b86af[org.openide.awt], ModuleCL@9ca73f[org.netbeans.api.progress], ModuleCL@56889c8c[org.netbeans.api.progress.nb], ModuleCL@39b0e258[org.openide.dialogs], ModuleCL@7196753f[org.openide.nodes], ModuleCL@14d6816d[org.openide.windows], ModuleCL@6a80387[org.netbeans.modules.editor.mimelookup], ...608 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[623 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@1813bc78, ModuleCL@5a473b63[org.netbeans.api.annotations.common], ModuleCL@b6af5ab[org.openide.awt], ModuleCL@78d5bd92[org.netbeans.api.progress], ModuleCL@2fa3aafb[org.netbeans.api.progress.nb], ModuleCL@501aba8b[org.openide.dialogs], ModuleCL@4f74b199[org.openide.nodes], ModuleCL@4daaa489[org.openide.windows], ModuleCL@4ba3c7c4[org.netbeans.modules.editor.mimelookup], ...597 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
@@ -891,8 +895,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.lib.uihandler [1.49.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.uihandler [2.39.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.uihandler.exceptionreporter [1.33.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.insane/1 [1.33.1.1 1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.timers/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.platform.ui/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.project.ui/1 [1.79.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.java.sourceui/1 [1.49.1.1.25.32.4 1 incubator-netbeans-release-404-on-20190319]
@@ -991,6 +993,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.php.api.testing/0 [0.23.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.php.project [2.140.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.php.editor [1.78.1.2 2 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.insane/1 [1.33.1.1 1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.nbjunit/1 [1.92.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.spellchecker.bindings.php [0.4.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.spellchecker.bindings.htmlxml [1.31.1 incubator-netbeans-release-404-on-20190319]
@@ -1098,9 +1101,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.maven.junit.ui [1.8.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.maven.junit/1 [1.37.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.maven.hints/1 [1.44.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.freemarker/1 [2.38.1.238 238 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.project/1 [1.80.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.maven.apisupport/1 [1.63.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.masterfs.windows [1.20.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.masterfs.nio2 [1.19.1 incubator-netbeans-release-404-on-20190319]
 	com.google.gson [2.7.0 2.7.0]
@@ -1211,18 +1211,10 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.bugzilla [1.81.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.bugzilla.exceptionreporter [1.28.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.bugtracking.bridge [1.49.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.wizards [1.24.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.refactoring [1.41.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.nbi.ant [1.26.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.libs.nbi.engine [1.25.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.installer [1.27.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.ant [2.76.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.harness [1.46.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.kit [1.34.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.apisupport.installer.maven [1.26.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.ant.grammar/1 [1.48.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.libs.svnClientAdapter.javahl/1 [1.28.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.libs.oracle.jsparser/1 [1.0 20181030-d1e23ce8c855]
+	org.netbeans.libs.freemarker/1 [2.38.1.238 238 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.lib.nbjshell9 [1.3.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.core.network [1.15.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.core.nativeaccess/1 [1.35.1 incubator-netbeans-release-404-on-20190319]
@@ -1248,12 +1240,38 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.junichi11.netbeans.modules.color.codes.preview [0.12.3 0.12.3 201906050512]
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
+	br.com.tiagopedroso.javaparainiciantes/1 [1.0.1 190703]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.xhr4j@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.5.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/ marked with the position attribute: [Java], but some are: [Maven2, Gradle, AntJava, ClientSide, PHP, Import, Samples]
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
+WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -1292,29 +1310,22 @@ Input arguments:
 	--add-exports=jdk.javadoc/com.sun.tools.javadoc.main=ALL-UNNAMED
 	-XX:+IgnoreUnrecognizedVMOptions
 	-Djdk.home=./jdks/jdk12
-	-Dnetbeans.home=C:\Users\tiago\Desktop\PortableNetbeans\netbeans\platform
-	-Dnetbeans.user=C:\Users\tiago\Desktop\PortableNetbeans\user\
-	-Dnetbeans.default_userdir_root=C:\Users\tiago\AppData\Roaming\NetBeans
+	-Dnetbeans.home=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
+	-Dnetbeans.user=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\
+	-Dnetbeans.default_userdir_root=C:\Users\TPEDROSO\AppData\Roaming\NetBeans
 	-XX:+HeapDumpOnOutOfMemoryError
-	-XX:HeapDumpPath=C:\Users\tiago\Desktop\PortableNetbeans\user\\var\log\heapdump.hprof
+	-XX:HeapDumpPath=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\\var\log\heapdump.hprof
 	-Dsun.awt.keepWorkingSetOnMinimize=true
-	-Dnetbeans.dirs=C:\Users\tiago\Desktop\PortableNetbeans\netbeans\nb;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\ide;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\extide;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\java;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\python;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\php;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\identity;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\harness;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\extra;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\tiago\Desktop\PortableNetbeans\netbeans\javafx
+	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\python;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\identity;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extra;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
 	exit
 Compiler: HotSpot 64-Bit Tiered Compilers
-Heap memory usage: initial 128,0MB maximum 2022,0MB
+Heap memory usage: initial 252,0MB maximum 4016,0MB
 Non heap memory usage: initial 7,3MB maximum -1b
-Garbage collector: G1 Young Generation (Collections=14 Total time spent=0s)
+Garbage collector: G1 Young Generation (Collections=15 Total time spent=0s)
 Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=8282 total loaded=8282 unloaded 0
-INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8.479.744.000
+Classes: loaded=8663 total loaded=8663 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16.840.781.824
 WARNING [org.openide.filesystems.Ordering]: Found same position 1.821 for both org-netbeans-modules-gradle-customPopup.shadow and org-netbeans-modules-maven-customPopup.shadow
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: Long time unused modules found, disabling:
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.apisupport.ant
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.apisupport.installer
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.apisupport.kit
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.apisupport.project
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.apisupport.wizards
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.timers
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.

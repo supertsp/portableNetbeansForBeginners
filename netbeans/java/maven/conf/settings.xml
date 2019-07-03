@@ -48,7 +48,7 @@ under the License.
    | Default: ${user.home}/.m2/repository
   <localRepository>/path/to/local/repo</localRepository>
   -->
-  <localRepository>C:\Users\tiago\Desktop\PortableNetbeans\m2LocalRepository\</localRepository>
+  <localRepository>C:\Users\TPEDROSO\Desktop\PortableNetbeans\m2LocalRepository\</localRepository>
   <!-- interactiveMode
    | This will determine whether maven prompts you when it needs input. If set to false,
    | maven will use a sensible default value, perhaps based on some other setting, for

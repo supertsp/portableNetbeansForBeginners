@@ -1,0 +1,24 @@
+# Folders that should not be included.
+user/index/ 
+user/mavenindex/
+jdks/jdk8/*
+jdks/jdk11/*
+jdks/jdk12/*
+m2LocalRepository/
+sceneBuilder/
+
+
+# Extensions that should not be included.
+jdks/jdk8/*.*
+jdks/jdk11/*.*
+jdks/jdk12/*.*
+
+# Files that should not be included.
+
+
+# Files that should BE included.
+!jdks/jdk8/downloadedFilesHere.txt
+!jdks/jdk11/downloadedFilesHere.txt
+!jdks/jdk12/downloadedFilesHere.txt
+!m2LocalRepository/mavenDownloadedFilesHere.txt
+!sceneBuilder/URL_DOWNLOAD.txt

@@ -1,5 +1,0 @@
-[auth]
-store-auth-creds = yes
-store-passwords = no
-password-stores = 
-

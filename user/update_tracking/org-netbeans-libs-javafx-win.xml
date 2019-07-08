@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.libs.javafx.win">
+    <module_version install_time="1562587633651" last="true" origin="NetBeans Distribution" specification_version="11.0.1">
+        <file crc="2634565923" name="config/Modules/org-netbeans-libs-javafx-win.xml"/>
+        <file crc="2160969281" name="modules/ext/javafx-base-11-win.jar"/>
+        <file crc="1720323982" name="modules/ext/javafx-controls-11-win.jar"/>
+        <file crc="2670942550" name="modules/ext/javafx-graphics-11-win.jar"/>
+        <file crc="2529014611" name="modules/ext/javafx-media-11-win.jar"/>
+        <file crc="3324970534" name="modules/ext/javafx-swing-11-win.jar"/>
+        <file crc="2985225211" name="modules/ext/javafx-web-11-win.jar"/>
+        <file crc="376766700" name="modules/org-netbeans-libs-javafx-win.jar"/>
+    </module_version>
+</module>

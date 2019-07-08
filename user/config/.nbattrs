@@ -2,7 +2,52 @@
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
     <fileobject name="">
-        <attr name="Templates\ClientSide\org.netbeans.spi.project.AuxiliaryConfiguration.http://www.netbeans.org/ns/editor-bookmarks/2#editor-bookmarks" stringvalue="&lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>"/>
+        <attr name="FormDesignerPalette\Borders\BevelBorder.palette_item\position" intvalue="100"/>
+        <attr name="FormDesignerPalette\Borders\CompoundBorder.palette_item\position" intvalue="200"/>
+        <attr name="FormDesignerPalette\Borders\EmptyBorder.palette_item\position" intvalue="300"/>
+        <attr name="FormDesignerPalette\Borders\EtchedBorder.palette_item\position" intvalue="400"/>
+        <attr name="FormDesignerPalette\Borders\LineBorder.palette_item\position" intvalue="500"/>
+        <attr name="FormDesignerPalette\Borders\MatteBorder.palette_item\position" intvalue="600"/>
+        <attr name="FormDesignerPalette\Borders\SoftBevelBorder.palette_item\position" intvalue="700"/>
+        <attr name="FormDesignerPalette\Borders\TitledBorder.palette_item\position" intvalue="800"/>
+        <attr name="FormDesignerPalette\SwingContainers\JDesktopPane.palette_item\position" intvalue="100"/>
+        <attr name="FormDesignerPalette\SwingContainers\JInternalFrame.palette_item\position" intvalue="200"/>
+        <attr name="FormDesignerPalette\SwingContainers\JLayeredPane.palette_item\position" intvalue="300"/>
+        <attr name="FormDesignerPalette\SwingContainers\JPanel.palette_item\position" intvalue="400"/>
+        <attr name="FormDesignerPalette\SwingContainers\JScrollPane.palette_item\position" intvalue="500"/>
+        <attr name="FormDesignerPalette\SwingContainers\JSplitPane.palette_item\position" intvalue="600"/>
+        <attr name="FormDesignerPalette\SwingContainers\JTabbedPane.palette_item\position" intvalue="700"/>
+        <attr name="FormDesignerPalette\SwingContainers\JToolBar.palette_item\position" intvalue="800"/>
+        <attr name="FormDesignerPalette\SwingControls\ButtonGroup.palette_item\position" intvalue="200"/>
+        <attr name="FormDesignerPalette\SwingControls\JButton.palette_item\position" intvalue="100"/>
+        <attr name="FormDesignerPalette\SwingControls\JCheckBox.palette_item\position" intvalue="300"/>
+        <attr name="FormDesignerPalette\SwingControls\JComboBox.palette_item\position" intvalue="400"/>
+        <attr name="FormDesignerPalette\SwingControls\JEditorPane.palette_item\position" intvalue="500"/>
+        <attr name="FormDesignerPalette\SwingControls\JFormattedTextField.palette_item\position" intvalue="600"/>
+        <attr name="FormDesignerPalette\SwingControls\JLabel.palette_item\position" intvalue="700"/>
+        <attr name="FormDesignerPalette\SwingControls\JList.palette_item\position" intvalue="800"/>
+        <attr name="FormDesignerPalette\SwingControls\JPasswordField.palette_item\position" intvalue="900"/>
+        <attr name="FormDesignerPalette\SwingControls\JProgressBar.palette_item\position" intvalue="1000"/>
+        <attr name="FormDesignerPalette\SwingControls\JRadioButton.palette_item\position" intvalue="1100"/>
+        <attr name="FormDesignerPalette\SwingControls\JScrollBar.palette_item\position" intvalue="1200"/>
+        <attr name="FormDesignerPalette\SwingControls\JSeparator.palette_item\position" intvalue="1300"/>
+        <attr name="FormDesignerPalette\SwingControls\JSlider.palette_item\position" intvalue="1400"/>
+        <attr name="FormDesignerPalette\SwingControls\JSpinner.palette_item\position" intvalue="1500"/>
+        <attr name="FormDesignerPalette\SwingControls\JTable.palette_item\position" intvalue="1600"/>
+        <attr name="FormDesignerPalette\SwingControls\JTextArea.palette_item\position" intvalue="1700"/>
+        <attr name="FormDesignerPalette\SwingControls\JTextField.palette_item\position" intvalue="1800"/>
+        <attr name="FormDesignerPalette\SwingControls\JTextPane.palette_item\position" intvalue="1900"/>
+        <attr name="FormDesignerPalette\SwingControls\JToggleButton.palette_item\position" intvalue="2000"/>
+        <attr name="FormDesignerPalette\SwingControls\JTree.palette_item\position" intvalue="2100"/>
+        <attr name="FormDesignerPalette\SwingMenus\JMenu.palette_item\position" intvalue="0"/>
+        <attr name="Templates\Classes\AnnotationType.java\position" intvalue="500"/>
+        <attr name="Templates\Classes\Applet.java\position" intvalue="1000"/>
+        <attr name="Templates\Classes\Empty.java\position" intvalue="1200"/>
+        <attr name="Templates\Classes\JApplet.java\position" intvalue="900"/>
+        <attr name="Templates\Classes\Package\position" intvalue="1500"/>
+        <attr name="Templates\Classes\ShellClass.java\position" intvalue="1400"/>
+        <attr name="Templates\Classes\module-info.java\position" intvalue="800"/>
+        <attr name="Templates\Classes\package-info.java\position" intvalue="700"/>
     </fileobject>
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="Darcula"/>

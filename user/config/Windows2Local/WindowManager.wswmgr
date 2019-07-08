@@ -3,10 +3,10 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
-   x="96"
-   y="72"
-   width="1728"
-   height="936"
+   x="-8"
+   y="-8"
+   width="1936"
+   height="1056"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
@@ -33,11 +33,11 @@
   </main-window>
     <editor-area state="joined" frame-state="0">
   <constraints>
-  <path orientation="horizontal" number="60" weight="0.8352941176470589" />
+  <path orientation="horizontal" number="60" weight="0.8200468933177022" />
   <path orientation="vertical" number="40" weight="0.7" />
   <path orientation="horizontal" number="40" weight="0.7" />
   <path orientation="vertical" number="40" weight="0.5" />
-  <path orientation="horizontal" number="1" weight="0.6487676056338028" />
+  <path orientation="horizontal" number="1" weight="1.1404399171523474" />
   </constraints>
   <bounds x="633" y="249" width="806" height="457" />
     </editor-area>
@@ -47,7 +47,7 @@
     <tc-list>
   <tc-id id="projectTabLogical_tc"/>
   <tc-id id="output"/>
-  <tc-id id="services"/>
   <tc-id id="projectTab_tc"/>
+  <tc-id id="services"/>
     </tc-list>
 </windowmanager>

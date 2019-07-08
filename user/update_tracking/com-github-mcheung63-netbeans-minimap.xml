@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.github.mcheung63.netbeans.minimap">
+    <module_version install_time="1562588322817" last="true" origin="Plugin Portal" specification_version="3.6">
+        <file crc="169213782" name="config/Modules/com-github-mcheung63-netbeans-minimap.xml"/>
+        <file crc="1539762082" name="modules/com-github-mcheung63-netbeans-minimap.jar"/>
+        <file crc="3472897573" name="modules/ext/com.github.mcheung63.netbeans.minimap/com-github-mcheung63/peter-swing.jar"/>
+        <file crc="385887944" name="modules/ext/com.github.mcheung63.netbeans.minimap/com-miglayout/miglayout.jar"/>
+        <file crc="3420158953" name="modules/ext/com.github.mcheung63.netbeans.minimap/commons-logging/commons-logging.jar"/>
+        <file crc="4163230234" name="modules/ext/com.github.mcheung63.netbeans.minimap/commons-vfs/commons-vfs.jar"/>
+        <file crc="2175593662" name="modules/ext/com.github.mcheung63.netbeans.minimap/org-imgscalr/imgscalr-lib.jar"/>
+        <file crc="765206114" name="update_tracking/com-github-mcheung63-netbeans-minimap.xml"/>
+    </module_version>
+</module>

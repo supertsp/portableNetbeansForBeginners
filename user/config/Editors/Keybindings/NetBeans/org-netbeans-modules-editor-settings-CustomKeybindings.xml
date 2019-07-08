@@ -5,5 +5,4 @@
     <bind actionName="toggle-comment" key="D-DIVIDE"/>
     <bind key="S-SPACE" remove="true"/>
     <bind key="S-F10" remove="true"/>
-    <bind key="SD-DOWN" remove="true"/>
 </bindings>

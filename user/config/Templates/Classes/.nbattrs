@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="Class.java">
+        <attr name="position" intvalue="200"/>
+    </fileobject>
+    <fileobject name="Code">
+        <attr name="position" intvalue="1600"/>
+    </fileobject>
+    <fileobject name="Enum.java">
+        <attr name="position" intvalue="300"/>
+    </fileobject>
+    <fileobject name="Exception.java">
+        <attr name="position" intvalue="600"/>
+    </fileobject>
+    <fileobject name="Executavel.java">
+        <attr name="displayName" stringvalue="Arquivo Java para Iniciantes"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="0"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="Interface.java">
+        <attr name="position" intvalue="400"/>
+    </fileobject>
+    <fileobject name="Main.java">
+        <attr name="position" intvalue="100"/>
+    </fileobject>
+    <fileobject name="Singleton.java">
+        <attr name="position" intvalue="1100"/>
+    </fileobject>
+</attributes>

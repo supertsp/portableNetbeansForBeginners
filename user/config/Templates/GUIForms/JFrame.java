@@ -38,9 +38,9 @@ public class ${name} extends javax.swing.JFrame {
     //<editor-fold defaultstate="collapsed" desc="constructor...">
     public ${name}() {
         initComponents();
-        moveJFrameToCenterOfScreen();
-        
+        moveJFrameToCenterOfScreen();        
         //your code below
+        
         
     }
     //</editor-fold>
@@ -67,6 +67,25 @@ public class ${name} extends javax.swing.JFrame {
     
     //    </editor-fold>
     
+    //</editor-fold>
+    
+
+    //\\ Do not change the lines of code below, except the EVENTS ;) \\//
+
+    //<editor-fold defaultstate="collapsed" desc="methods: getScreenWidth(), getScreenHeight(), moveJFrameToCenterOfScreen()...">
+    private static Integer getScreenWidth() {
+        return  Toolkit.getDefaultToolkit().getScreenSize().width;
+    }
+    
+    private static Integer getScreenHeight() {
+        return Toolkit.getDefaultToolkit().getScreenSize().height;
+    }
+    
+    private void moveJFrameToCenterOfScreen() {
+        super.setLocation((getScreenWidth() / 2) - (super.getWidth() / 2),
+                (getScreenHeight() / 2) - (super.getHeight() / 2)
+        );
+    }
     //</editor-fold>
 
     //<editor-fold defaultstate="collapsed" desc="generated method: main(String args[])...">
@@ -101,50 +120,66 @@ public class ${name} extends javax.swing.JFrame {
     }
     //</editor-fold>
 
-    //<editor-fold defaultstate="collapsed" desc="generated attributes...">
-    // JFrame variables declaration//GEN-BEGIN:variables
-    private javax.swing.JButton jButton1;
+    //<editor-fold defaultstate="collapsed" desc="generated attributes:...">
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JPanel backgroundPanel;
+    private javax.swing.JButton buttonClickme;
     // End of variables declaration//GEN-END:variables
-    // </editor-fold> 
+    //</editor-fold> 
 
-    //<editor-fold defaultstate="collapsed" desc="generated methods: initComponents() and events...">
+    //<editor-fold defaultstate="collapsed" desc="generated methods: initComponents() and EVENTS...">
+    
+    //generated method: initComponents()
     @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc=" Generated Code ">//GEN-BEGIN:initComponents
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jButton1 = new javax.swing.JButton();
+        backgroundPanel = new javax.swing.JPanel();
+        buttonClickme = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("Click-me");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        backgroundPanel.setBackground(new java.awt.Color(60, 64, 65));
+
+        buttonClickme.setText("Click-me");
+        buttonClickme.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                buttonClickmeActionPerformed(evt);
             }
         });
+
+        javax.swing.GroupLayout backgroundPanelLayout = new javax.swing.GroupLayout(backgroundPanel);
+        backgroundPanel.setLayout(backgroundPanelLayout);
+        backgroundPanelLayout.setHorizontalGroup(
+            backgroundPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(backgroundPanelLayout.createSequentialGroup()
+                .addGap(71, 71, 71)
+                .addComponent(buttonClickme, javax.swing.GroupLayout.PREFERRED_SIZE, 299, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(73, Short.MAX_VALUE))
+        );
+        backgroundPanelLayout.setVerticalGroup(
+            backgroundPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, backgroundPanelLayout.createSequentialGroup()
+                .addContainerGap(122, Short.MAX_VALUE)
+                .addComponent(buttonClickme)
+                .addGap(119, 119, 119))
+        );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(48, Short.MAX_VALUE)
-                .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 299, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(53, 53, 53))
+            .addComponent(backgroundPanel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addGap(126, 126, 126)
-                .addComponent(jButton1)
-                .addContainerGap(142, Short.MAX_VALUE))
+            .addComponent(backgroundPanel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
 
         pack();
-    }
-    // </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>//GEN-END:initComponents
     
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void buttonClickmeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonClickmeActionPerformed
         String[] options = new String[]{
             "Please... Click again :0", 
             "Come on! Click it again, you can do it! :|",
@@ -156,25 +191,9 @@ public class ${name} extends javax.swing.JFrame {
         
         int number = (int)(Math.random() * options.length);
         
-        jButton1.setText(options[number]);
-    }//GEN-LAST:event_jButton1ActionPerformed
+        buttonClickme.setText(options[number]);
+    }//GEN-LAST:event_buttonClickmeActionPerformed
     
     //</editor-fold>
-
-    //<editor-fold defaultstate="collapsed" desc="methods: computer screen resolution...">
-    private static Integer getScreenWidth() {
-        return  Toolkit.getDefaultToolkit().getScreenSize().width;
-    }
-    
-    private static Integer getScreenHeight() {
-        return Toolkit.getDefaultToolkit().getScreenSize().height;
-    }
-    
-    private void moveJFrameToCenterOfScreen() {
-        super.setLocation((getScreenWidth() / 2) - (super.getWidth() / 2),
-                (getScreenHeight() / 2) - (super.getHeight() / 2)
-        );
-    }
-    //</editor-fold>
-
+        
 }

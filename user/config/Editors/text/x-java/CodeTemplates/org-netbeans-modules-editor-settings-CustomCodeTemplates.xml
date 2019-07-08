@@ -27,6 +27,7 @@
     <codetemplate abbreviation="while" xml:space="preserve"><code><![CDATA[while (${expr instanceof="boolean" default="true"}) {
     ${cursor}
 }]]></code></codetemplate>
+    <codetemplate abbreviation="list" xml:space="preserve"><code><![CDATA[List<${TYPE default="String"}> ${IDX newVarName default="listOfVars"} = new ArrayList<>();]]></code></codetemplate>
     <codetemplate abbreviation="sout" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve"><code><![CDATA[System.out.println(${cursor});]]></code></codetemplate>
     <codetemplate abbreviation="jaxbm" xml:space="preserve"><code><![CDATA[try {            
                 javax.xml.bind.JAXBContext jaxbCtx= javax.xml.bind.JAXBContext.newInstance( ${OBJ2M instanceof="java.lang.Object" default="obj2BMarshalled"}.getClass().getPackage().getName());
@@ -53,6 +54,9 @@
 }
 ]]></code></codetemplate>
     <codetemplate abbreviation="print" xml:space="preserve"><code><![CDATA[System.out.print(${cursor});]]></code></codetemplate>
+    <codetemplate abbreviation="else" xml:space="preserve"><code><![CDATA[else {
+   ${cursor}
+}]]></code></codetemplate>
     <codetemplate abbreviation="jaxbu" xml:space="preserve"><code><![CDATA[
             try {
                 javax.xml.bind.JAXBContext jaxbCtx = javax.xml.bind.JAXBContext.newInstance(${UM_OBJ instanceof="java.lang.Object" default="umObj"}.getClass().getPackage().getName());

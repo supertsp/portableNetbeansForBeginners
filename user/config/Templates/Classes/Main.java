@@ -21,7 +21,7 @@ public class ${name} {
     
     //</editor-fold>
     
-    //<editor-fold defaultstate="collapsed" desc="executable method...">
+    //<editor-fold desc="executable method...">
     public static void main(String[] args) {
         
         

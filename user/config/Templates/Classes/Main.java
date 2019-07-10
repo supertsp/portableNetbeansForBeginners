@@ -3,7 +3,16 @@ package ${package};
 </#if>
 
 // <editor-fold defaultstate="collapsed" desc="imports...">
-import static javax.swing.JOptionPane.*;
+import static java.lang.Double.parseDouble;
+import static java.lang.Float.parseFloat;
+import static java.lang.Integer.parseInt;
+import static java.lang.String.valueOf;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import static javax.swing.JOptionPane.showMessageDialog;
+import static javax.swing.JOptionPane.showInputDialog;
+
 // </editor-fold>
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">

@@ -26,6 +26,13 @@
     <fileobject name="Main.java">
         <attr name="position" intvalue="100"/>
     </fileobject>
+    <fileobject name="Program.java">
+        <attr name="displayName" stringvalue="Easy Java Main Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="50"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
     <fileobject name="Singleton.java">
         <attr name="position" intvalue="1100"/>
     </fileobject>

@@ -22,7 +22,7 @@
         <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services/favorites/DashboardTopComponent/debuggingView"/>
     </fileobject>
     <fileobject name="navigator">
-        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/TruffleASTDebugView/DomTC/PhpHierarchyTopComponent"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/TruffleASTDebugView/DomTC"/>
     </fileobject>
     <fileobject name="output">
         <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/eventsView/profiler_pp/CallHierarchyTopComponent/AnalyzerTopComponent/AnalysisResultTopComponent/JavadocTopComponent/classes"/>

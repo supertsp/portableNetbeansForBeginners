@@ -4,7 +4,7 @@ package ${package}; //esse é nome da "pasta" que seu código está, pois assim 
 </#if>
 
 import static entradasaida.JanelaPopup.*;
-import static entradasaida.Conversoes.*;
+import static ferramentas.Conversoes.*;
 import static java.lang.Double.parseDouble;
 import static java.lang.Float.parseFloat;
 import static java.lang.Integer.parseInt;

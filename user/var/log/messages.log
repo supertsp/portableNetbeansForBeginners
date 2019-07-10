@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Wednesday, July 10, 2019 at 12:00:13 AM Brasilia Standard Time
+>Log Session: Wednesday, July 10, 2019 at 6:10:29 PM Brasilia Standard Time
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.0 (Build incubator-netbeans-release-404-on-20190319)
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -453,7 +453,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[487 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@7e1c933, ModuleCL@1f61bfd1[org.netbeans.api.annotations.common], ModuleCL@70a52c1b[org.openide.awt], ModuleCL@7664130d[org.netbeans.api.progress], ModuleCL@64e7699e[org.netbeans.api.progress.nb], ModuleCL@766adde4[org.openide.dialogs], ModuleCL@2ff6f2c6[org.openide.nodes], ModuleCL@795c604e[org.openide.windows], ModuleCL@26284d62[org.netbeans.modules.editor.mimelookup], ...461 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[488 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@460fef1d, ModuleCL@3ce696e[org.netbeans.api.annotations.common], ModuleCL@4f80b6ad[org.openide.awt], ModuleCL@7c93483b[org.netbeans.api.progress], ModuleCL@1ca3f436[org.netbeans.api.progress.nb], ModuleCL@a8bc789[org.openide.dialogs], ModuleCL@4cc7cb2c[org.openide.nodes], ModuleCL@5f5ca931[org.openide.windows], ModuleCL@5628c4d7[org.netbeans.modules.editor.mimelookup], ...462 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
@@ -609,6 +609,16 @@ java.lang.NoSuchFieldException: modifiers
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.37.1 incubator-netbeans-release-404-on-20190319]
 	org.openide.util [9.11.1 incubator-netbeans-release-404-on-20190319]
@@ -777,8 +787,8 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.web.browser.api [1.49.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.html/1 [1.65.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.html.editor/2 [2.59.1 incubator-netbeans-release-404-on-20190319]
-	org.netbeans.modules.terminal [1.31.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.core.output2/1 [1.46.1 incubator-netbeans-release-404-on-20190319]
+	org.netbeans.modules.terminal [1.31.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.css.visual/3 [3.36.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.web.inspect [0.34.1 incubator-netbeans-release-404-on-20190319]
 	org.netbeans.modules.versioning.core/1 [1.35.1.1.42 1 incubator-netbeans-release-404-on-20190319]
@@ -1097,14 +1107,19 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.junichi11.netbeans.modules.rainbow.braces [1.2.0 190522]
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
-INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+	br.com.tiagopedroso.javaparainiciantes/1 [1.0.3 190710]
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.5.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
-INFO [org.openide.awt.Toolbar]: Too long AWTTask: 715 ms for org.openide.awt.MenuBar$MenuBarFolder@427f910b(FolderList{MultiFileObject@280e947f[Menu]})
-WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/Samples/ marked with the position attribute: [JavaFX], but some are: [Standard]
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -1154,79 +1169,40 @@ Input arguments:
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 128,0MB maximum 2022,0MB
 Non heap memory usage: initial 7,3MB maximum -1b
-Garbage collector: G1 Young Generation (Collections=14 Total time spent=0s)
+Garbage collector: G1 Young Generation (Collections=18 Total time spent=0s)
 Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=8501 total loaded=8501 unloaded 0
+Classes: loaded=8320 total loaded=8320 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8.479.744.000
-WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.autoupdate.ui.LocalDownloadSupport.getDefaultDir(LocalDownloadSupport.java:328)
-INFO [org.netbeans.updater]: 780: Unpacking br-com-tiagopedroso-javaparainiciantes.nbm
-INFO [org.netbeans.updater]: File installed C:\Users\tiago\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml@0
-INFO [org.netbeans.updater]: Copied file C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm:netbeans/config/Modules/br-com-tiagopedroso-javaparainiciantes.xml to C:\Users\tiago\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
-INFO [org.netbeans.updater]: File installed C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz@0
-INFO [org.netbeans.updater]: Copied file C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm:netbeans/modules/br-com-tiagopedroso-javaparainiciantes.jar.pack.gz to C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz
-INFO [org.netbeans.updater]: Unpack C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz to C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
-INFO [org.netbeans.updater]: File C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz deleted.
-WARNING [org.netbeans.updater]: Error: Cannot delete C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm
-INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@103dad36
-INFO [org.netbeans.updater]: File C:\Users\tiago\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml modified.
-INFO [org.netbeans.updater]: File installed C:\Users\tiago\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml@0
-INFO [org.netbeans.updater]: File C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\additional_information.xml deleted.
-INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
-	br.com.tiagopedroso.javaparainiciantes/1 [1.0.2 190710]
 WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/ marked with the position attribute: [Java], but some are: [Maven2, AntJava, Import, Samples]
 WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/Samples/ marked with the position attribute: [JavaFX], but some are: [Standard]
-WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/ marked with the position attribute: [Java], but some are: [Maven2, AntJava, Import, Samples]
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 42 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 33 binary roots took: 1.880 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\test took: 3 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\src took: 1.293 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 1 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 1.296 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 1 ms]
-INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.navigation.ElementScanningTask@5c59dee4, phase: ELEMENTS_RESOLVED, priority: 300] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 1.030 ms.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 46 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 33 binary roots took: 1.157 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\test took: 15 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\src took: 875 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 890 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.navigation.ElementScanningTask@2380999a, phase: ELEMENTS_RESOLVED, priority: 300] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 1.047 ms.
 WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-jshell-editor-HistoryCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ActionProviderSupport.verifyUserPropertiesFile(ActionProviderSupport.java:925)
-INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.hints.spiimpl.hints.HintsTask@5ae3139a, phase: RESOLVED, priority: 500] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 416 ms.
-WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@344b88cb[MultiFileObject@329a1ce4[Actions/Help/master-help.xml]]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 1 ms
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@2779983f[MultiFileObject@4194ecc1[Actions/Help/master-help.xml]]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.Stamps]: cannot rename (#0): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 607 ms
-INFO [org.netbeans.Stamps]: cannot rename (#1): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 366 ms
-INFO [org.netbeans.Stamps]: cannot rename (#2): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 561 ms
-INFO [org.netbeans.Stamps]: cannot rename (#3): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 646 ms
-INFO [org.netbeans.Stamps]: cannot rename (#4): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 705 ms
-INFO [org.netbeans.Stamps]: cannot rename (#5): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 44 ms
-INFO [org.netbeans.Stamps]: cannot rename (#6): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 491 ms
-INFO [org.netbeans.Stamps]: cannot rename (#7): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 391 ms
-INFO [org.netbeans.Stamps]: cannot rename (#8): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 612 ms
-INFO [org.netbeans.Stamps]: cannot rename (#9): C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: after GC
-INFO [org.netbeans.Stamps]: Slept 332 ms
-WARNING [org.netbeans.Stamps]: Error saving cache C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-INFO [org.netbeans.Stamps]: Could not delete: C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-java.io.IOException: Could not delete: C:\Users\tiago\Desktop\PortableNetbeans\user\all-layers.dat
-	at org.netbeans.Stamps.deleteCache(Stamps.java:504)
-	at org.netbeans.Stamps.access$200(Stamps.java:67)
-[catch] at org.netbeans.Stamps$Store.store(Stamps.java:698)
-	at org.netbeans.Stamps$Worker.run(Stamps.java:876)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 297 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 33 binary roots took: 1.000 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\AppSimples\src took: 31 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 31 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.mercurial]: version: null
+INFO [org.netbeans.modules.subversion]: Finished indexing svn cache with 0 entries. Elapsed time: 0 ms.
+Even though the source level of C:\Users\tiago\source\AppSimples\src is set to: 12, java.util.zip.CRC32C cannot be found on the system module path: 
+Changing source level to 1.8
+Even though the source level of  is set to: 12, java.util.zip.CRC32C cannot be found on the system module path: 
+Changing source level to 1.8
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 SEVERE [org.openide.util.RequestProcessor]: Error in RequestProcessor org.netbeans.modules.lsp.client.LSPBindings$Cleanup
 java.lang.NullPointerException
 	at org.netbeans.modules.lsp.client.LSPBindings$Cleanup.run(LSPBindings.java:243)

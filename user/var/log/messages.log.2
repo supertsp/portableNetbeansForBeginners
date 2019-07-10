@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, July 9, 2019 at 11:01:40 PM Brasilia Standard Time
+>Log Session: Wednesday, July 10, 2019 at 6:04:21 PM Brasilia Standard Time
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.0 (Build incubator-netbeans-release-404-on-20190319)
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -453,7 +453,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[487 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@7e1c933, ModuleCL@1f61bfd1[org.netbeans.api.annotations.common], ModuleCL@70a52c1b[org.openide.awt], ModuleCL@7664130d[org.netbeans.api.progress], ModuleCL@64e7699e[org.netbeans.api.progress.nb], ModuleCL@766adde4[org.openide.dialogs], ModuleCL@2ff6f2c6[org.openide.nodes], ModuleCL@795c604e[org.openide.windows], ModuleCL@26284d62[org.netbeans.modules.editor.mimelookup], ...461 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[488 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@895c4f5, ModuleCL@291631cb[org.netbeans.api.annotations.common], ModuleCL@2ec352c5[org.openide.awt], ModuleCL@a40f780[org.netbeans.api.progress], ModuleCL@780802a1[org.netbeans.api.progress.nb], ModuleCL@6008ec02[org.openide.dialogs], ModuleCL@54e9cfbc[org.openide.nodes], ModuleCL@5918de56[org.openide.windows], ModuleCL@61bdd2de[org.netbeans.modules.editor.mimelookup], ...462 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
@@ -1097,6 +1097,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.junichi11.netbeans.modules.rainbow.braces [1.2.0 190522]
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
+	br.com.tiagopedroso.javaparainiciantes/1 [1.0.2 190710]
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
@@ -1154,35 +1155,10 @@ Heap memory usage: initial 128,0MB maximum 2022,0MB
 Non heap memory usage: initial 7,3MB maximum -1b
 Garbage collector: G1 Young Generation (Collections=13 Total time spent=0s)
 Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=8585 total loaded=8585 unloaded 0
+Classes: loaded=8224 total loaded=8224 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8.479.744.000
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/ marked with the position attribute: [Java], but some are: [Maven2, AntJava, Import, Samples]
 WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/Samples/ marked with the position attribute: [JavaFX], but some are: [Standard]
-WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
-WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-jshell-editor-HistoryCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
-INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.navigation.ElementScanningTask@14f77a9f, phase: ELEMENTS_RESOLVED, priority: 300] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 709 ms.
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2.134 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 32 binary roots took: 3.294 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\JavaApplication2\src took: 788 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 3 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\JavaApplication2\test took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 789 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 3 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 450 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 32 binary roots took: 738 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\JavaApplication2\src took: 38 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tiago\source\JavaApplication2\test took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 39 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-SEVERE [org.openide.util.RequestProcessor]: Error in RequestProcessor org.netbeans.modules.lsp.client.LSPBindings$Cleanup
-java.lang.NullPointerException
-	at org.netbeans.modules.lsp.client.LSPBindings$Cleanup.run(LSPBindings.java:243)
-	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
-	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
-	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
-[catch] at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.

@@ -5910,3 +5910,57 @@ jul 09, 2019 10:11:11 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDir
 INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\modules\ext\com.github.mcheung63.netbeans.minimap deleted.
 jul 09, 2019 10:11:11 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
 INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\modules\ext deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMAÇÕES: Entering updater.jar .................................................................... 
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: Deleting file: C:\Users\tiago\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: File C:\Users\tiago\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\update_tracking deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: Deleting file: C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: File C:\Users\tiago\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\modules deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: Deleting file: C:\Users\tiago\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: File C:\Users\tiago\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\update\deactivate deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\update deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: Deleting file: C:\Users\tiago\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMAÇÕES: File C:\Users\tiago\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+jul 10, 2019 6:09:12 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMAÇÕES: Directory C:\Users\tiago\Desktop\PortableNetbeans\user\config\Modules deleted.
+jul 10, 2019 6:10:23 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMAÇÕES: Entering updater.jar .................................................................... 
+jul 10, 2019 6:10:26 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMAÇÕES: 780: Unpacking br-com-tiagopedroso-javaparainiciantes.nbm
+jul 10, 2019 6:10:26 PM org.netbeans.updater.ModuleUpdate createFromNbmDistribution
+ADVERTÊNCIA: Missing info : C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm
+java.nio.file.NoSuchFileException: C:\Users\tiago\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:198)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1840)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1160)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:719)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:239)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:169)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:346)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:317)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:283)
+	at org.netbeans.updater.ModuleUpdate.createFromNbmDistribution(ModuleUpdate.java:131)
+	at org.netbeans.updater.ModuleUpdate.<init>(ModuleUpdate.java:56)
+	at org.netbeans.updater.ModuleUpdater.unpack(ModuleUpdater.java:314)
+	at org.netbeans.updater.ModuleUpdater.run(ModuleUpdater.java:117)
+

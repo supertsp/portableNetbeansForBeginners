@@ -1,6 +1,7 @@
 # Folders that should not be included.
 user/index/ 
 user/mavenindex/
+user/var/*
 jdks/jdk8/*
 jdks/jdk11/*
 jdks/jdk12/*
@@ -22,3 +23,4 @@ jdks/jdk12/*.*
 !jdks/jdk12/downloadedFilesHere.txt
 !m2LocalRepository/mavenDownloadedFilesHere.txt
 !sceneBuilder/URL_DOWNLOAD.txt
+!user/var/imported

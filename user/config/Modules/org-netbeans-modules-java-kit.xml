@@ -4,7 +4,7 @@
 <module name="org.netbeans.modules.java.kit">
     <param name="autoload">false</param>
     <param name="eager">false</param>
-    <param name="enabled">false</param>
+    <param name="enabled">true</param>
     <param name="jar">modules/org-netbeans-modules-java-kit.jar</param>
     <param name="reloadable">false</param>
 </module>

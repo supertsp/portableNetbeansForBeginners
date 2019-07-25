@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.web.webmodule">
+    <module_version install_time="1563282496858" last="true" origin="installer" specification_version="1.43">
+        <file crc="3979377833" name="config/Modules/org-netbeans-api-web-webmodule.xml"/>
+        <file crc="1500919562" name="modules/org-netbeans-api-web-webmodule.jar"/>
+    </module_version>
+</module>

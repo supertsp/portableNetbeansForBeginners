@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.hints.declarative.test">
-    <module_version install_time="1553033932129" last="true" origin="installer" specification_version="1.20.1.1.1">
+    <module_version install_time="1563281742987" last="true" origin="installer" specification_version="1.21.0.1.1">
         <file crc="386055126" name="config/Modules/org-netbeans-modules-java-hints-declarative-test.xml"/>
-        <file crc="4066620806" name="modules/org-netbeans-modules-java-hints-declarative-test.jar"/>
+        <file crc="2635761109" name="modules/org-netbeans-modules-java-hints-declarative-test.jar"/>
     </module_version>
 </module>

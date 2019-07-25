@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.springframework/1">
-    <module_version install_time="1553033959881" last="true" origin="installer" specification_version="1.41.1">
+    <module_version install_time="1563281770694" last="true" origin="installer" specification_version="1.42">
         <file crc="277049246" name="config/Modules/org-netbeans-libs-springframework.xml"/>
         <file crc="1338861610" name="modules/ext/spring-3.0/license.txt"/>
         <file crc="1923082017" name="modules/ext/spring-3.0/spring-aop-3.2.7.RELEASE.jar"/>
@@ -46,6 +46,6 @@
         <file crc="2933070425" name="modules/ext/spring-4/spring-webmvc-4.0.1.RELEASE.jar"/>
         <file crc="160562322" name="modules/ext/spring-4/spring-webmvc-portlet-4.0.1.RELEASE.jar"/>
         <file crc="4289747132" name="modules/ext/spring-4/spring-websocket-4.0.1.RELEASE.jar"/>
-        <file crc="2665099891" name="modules/org-netbeans-libs-springframework.jar"/>
+        <file crc="393842274" name="modules/org-netbeans-libs-springframework.jar"/>
     </module_version>
 </module>

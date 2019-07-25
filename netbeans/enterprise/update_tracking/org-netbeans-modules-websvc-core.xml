@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.core">
+    <module_version install_time="1563282258289" last="true" origin="installer" specification_version="1.49.0.1.4">
+        <file crc="2969014844" name="config/Modules/org-netbeans-modules-websvc-core.xml"/>
+        <file crc="1944069306" name="modules/org-netbeans-modules-websvc-core.jar"/>
+    </module_version>
+</module>

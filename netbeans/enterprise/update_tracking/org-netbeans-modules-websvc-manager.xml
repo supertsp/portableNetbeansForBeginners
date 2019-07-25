@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.manager">
+    <module_version install_time="1563282259257" last="true" origin="installer" specification_version="1.33">
+        <file crc="4058672979" name="config/Modules/org-netbeans-modules-websvc-manager.xml"/>
+        <file crc="1569672675" name="modules/ext/build-ws.xml"/>
+        <file crc="4059800689" name="modules/org-netbeans-modules-websvc-manager.jar"/>
+    </module_version>
+</module>

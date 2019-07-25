@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.jellytools.enterprise/3">
-    <module_version install_time="1553034539146" last="true" origin="installer" specification_version="3.30.1">
+    <module_version install_time="1563282227401" last="true" origin="installer" specification_version="3.31">
         <file crc="1828624115" name="config/Modules/org-netbeans-modules-jellytools-enterprise.xml"/>
-        <file crc="713755438" name="modules/org-netbeans-modules-jellytools-enterprise.jar"/>
+        <file crc="2637574933" name="modules/org-netbeans-modules-jellytools-enterprise.jar"/>
     </module_version>
 </module>

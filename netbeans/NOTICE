@@ -1,5 +1,5 @@
 Apache NetBeans
-Copyright 2017-2018 The Apache Software Foundation
+Copyright 2017-2019 The Apache Software Foundation
 
 This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
@@ -183,6 +183,13 @@ This product includes software developed by the Visigoth Software Society (http:
 
 [ini4j]
 Copyright 2005,2009 Ivan SZKIBA
+
+
+junixsocket
+Unix Domain Sockets for Java + RMI-over-AF_UNIX. 
+
+Copyright (c) 2009-2018 Dr. Christian Kohlschütter
+See https://github.com/kohlschutter/junixsocket for more information
 
 
 Apache Lucene
@@ -639,6 +646,10 @@ This product includes software developed at
 The OSGi Alliance (http://www.osgi.org/).
 Copyright (c) OSGi Alliance (2000, 2012).
 Licensed under the Apache License 2.0.
+
+
+Kotlin Compiler
+Copyright 2010-2019 JetBrains s.r.o and respective authors and developers
 
 
 This software includes code from IntelliJ IDEA Community Edition

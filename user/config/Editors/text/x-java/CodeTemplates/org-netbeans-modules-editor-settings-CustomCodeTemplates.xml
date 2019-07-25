@@ -15,7 +15,7 @@
     ${selection}${cursor}
 }
 ]]></code></codetemplate>
-    <codetemplate abbreviation="for" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve"><code><![CDATA[for (int ${IDX newVarName default="i"} = 0; ${IDX} < ${MAX default="10"}; ${IDX}++) {
+    <codetemplate abbreviation="for" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve"><code><![CDATA[for (int ${IDX newVarName default="count"} = 0; ${IDX} < ${MAX default="10"}; ${IDX}++) {
     ${selection}${cursor}
 }
 ]]></code></codetemplate>
@@ -53,6 +53,9 @@
     ${cursor}
 }
 ]]></code></codetemplate>
+    <codetemplate abbreviation="foreach" xml:space="preserve"><code><![CDATA[for (${TYPE iterableElementType default="Object" editable=false} ${ELEM newVarName default="elem" ordering=2} : ${ITER iterable default="col" ordering=1}) {
+    ${selection}${cursor}
+}]]></code></codetemplate>
     <codetemplate abbreviation="print" xml:space="preserve"><code><![CDATA[System.out.print(${cursor});]]></code></codetemplate>
     <codetemplate abbreviation="else" xml:space="preserve"><code><![CDATA[else {
    ${cursor}

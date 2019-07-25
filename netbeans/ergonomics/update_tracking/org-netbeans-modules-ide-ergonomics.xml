@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.ergonomics">
-    <module_version install_time="1553034674604" last="true" origin="installer" specification_version="1.31.1">
+    <module_version install_time="1563282552027" last="true" origin="installer" specification_version="1.32">
         <file crc="3535844926" name="config/Modules/org-apache-tools-ant-module.xml"/>
         <file crc="2213752857" name="config/Modules/org-netbeans-libs-jstl.xml"/>
         <file crc="1617045149" name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
@@ -30,6 +30,8 @@
         <file crc="3301232498" name="config/Modules/org-netbeans-modules-glassfish-common.xml"/>
         <file crc="2702026050" name="config/Modules/org-netbeans-modules-glassfish-javaee.xml"/>
         <file crc="2758334486" name="config/Modules/org-netbeans-modules-glassfish-tooling.xml"/>
+        <file crc="3937195781" name="config/Modules/org-netbeans-modules-gradle-htmlui.xml"/>
+        <file crc="2965603326" name="config/Modules/org-netbeans-modules-gradle-javaee.xml"/>
         <file crc="3689656022" name="config/Modules/org-netbeans-modules-gradle-kit.xml"/>
         <file crc="2877370734" name="config/Modules/org-netbeans-modules-groovy-and-gradle-kit.xml"/>
         <file crc="2622047863" name="config/Modules/org-netbeans-modules-groovy-antproject.xml"/>
@@ -93,6 +95,7 @@
         <file crc="1468647981" name="config/Modules/org-netbeans-modules-javaee-injection.xml"/>
         <file crc="1198573134" name="config/Modules/org-netbeans-modules-javaee-project.xml"/>
         <file crc="3767699200" name="config/Modules/org-netbeans-modules-javaee7-api.xml"/>
+        <file crc="1937080097" name="config/Modules/org-netbeans-modules-javaee8-api.xml"/>
         <file crc="2908810702" name="config/Modules/org-netbeans-modules-javafx2-editor.xml"/>
         <file crc="2977097385" name="config/Modules/org-netbeans-modules-javafx2-kit.xml"/>
         <file crc="2077589441" name="config/Modules/org-netbeans-modules-javafx2-platform.xml"/>
@@ -118,6 +121,7 @@
         <file crc="1388551464" name="config/Modules/org-netbeans-modules-javascript2-requirejs.xml"/>
         <file crc="3994177930" name="config/Modules/org-netbeans-modules-javascript2-sdoc.xml"/>
         <file crc="4221679877" name="config/Modules/org-netbeans-modules-javawebstart.xml"/>
+        <file crc="4183216983" name="config/Modules/org-netbeans-modules-kotlin-editor.xml"/>
         <file crc="3225380789" name="config/Modules/org-netbeans-modules-languages-apacheconf.xml"/>
         <file crc="766925369" name="config/Modules/org-netbeans-modules-languages-ini.xml"/>
         <file crc="3052139365" name="config/Modules/org-netbeans-modules-maven-checkstyle.xml"/>
@@ -131,7 +135,12 @@
         <file crc="2343765796" name="config/Modules/org-netbeans-modules-maven-repository.xml"/>
         <file crc="736388720" name="config/Modules/org-netbeans-modules-maven.xml"/>
         <file crc="1648207514" name="config/Modules/org-netbeans-modules-nashorn-execution.xml"/>
+        <file crc="3883981854" name="config/Modules/org-netbeans-modules-openjfx-samples.xml"/>
         <file crc="3755509102" name="config/Modules/org-netbeans-modules-options-java.xml"/>
+        <file crc="1793759858" name="config/Modules/org-netbeans-modules-payara-common.xml"/>
+        <file crc="703303513" name="config/Modules/org-netbeans-modules-payara-jakartaee.xml"/>
+        <file crc="3162166450" name="config/Modules/org-netbeans-modules-payara-micro.xml"/>
+        <file crc="2750600423" name="config/Modules/org-netbeans-modules-payara-tooling.xml"/>
         <file crc="692041583" name="config/Modules/org-netbeans-modules-php-apigen.xml"/>
         <file crc="1178439351" name="config/Modules/org-netbeans-modules-php-atoum.xml"/>
         <file crc="3011686777" name="config/Modules/org-netbeans-modules-php-code-analysis.xml"/>
@@ -221,6 +230,6 @@
         <file crc="1012668242" name="config/Modules/org-netbeans-modules-websvc-wsstackapi.xml"/>
         <file crc="2487084630" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
         <file crc="769021491" name="config/Modules/org-netbeans-modules-xml-tools-java.xml"/>
-        <file crc="2535479889" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+        <file crc="1140603220" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
     </module_version>
 </module>

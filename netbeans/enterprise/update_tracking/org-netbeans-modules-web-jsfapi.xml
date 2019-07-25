@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jsfapi/1">
+    <module_version install_time="1563282230805" last="true" origin="installer" specification_version="1.39">
+        <file crc="4147136735" name="config/Modules/org-netbeans-modules-web-jsfapi.xml"/>
+        <file crc="664891357" name="modules/org-netbeans-modules-web-jsfapi.jar"/>
+    </module_version>
+</module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.nbjavac.api">
-    <module_version install_time="1562587633932" last="true" origin="Plugin Portal" specification_version="1.6">
+    <module_version install_time="1564075047904" last="true" origin="NetBeans Plugin Portal" specification_version="1.6">
         <file crc="2829355974" name="config/Modules/org-netbeans-modules-nbjavac-api.xml"/>
         <file crc="1527566425" name="modules/ext/nb-javac-api.jar"/>
         <file crc="4070947916" name="modules/org-netbeans-modules-nbjavac-api.jar"/>

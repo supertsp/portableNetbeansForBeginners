@@ -217,6 +217,8 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_6
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_6.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_7.mdd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_7.xsd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_8.mdd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_8.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_1_4.mdd                                       CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_1_4.xsd                                       CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_5.mdd                                         CDDL-1.1          
@@ -225,6 +227,9 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-c
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_6.xsd                                         CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_7.mdd                                         CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_7.xsd                                         CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_8.xsd                                         CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/connector_1_5.xsd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/connector_1_7.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_2_1.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_2_1.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_0.mdd                                                  CDDL-1.1          
@@ -234,11 +239,16 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_1.x
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_2.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_2.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_1_4.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_web_services_1_1.xsd                                        CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_web_services_client_1_1.xsd                                 CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_5.xsd                                                     CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_6.xsd                                                     CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_7.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_8.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_2.xsd                                      CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_3.xsd                                      CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_4.xsd                                      CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_4_1.xsd                                    CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_2.xsd                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_3.xsd                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_4.xsd                               CDDL-1.1          
@@ -248,7 +258,9 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/jsp_2_2.xsd  
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/jsp_2_3.xsd                                                      CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/permissions_7.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_2.dtd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_2_1.dtd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_3.dtd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_3_1.dtd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_4.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_4.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_5.mdd                                                  CDDL-1.1          
@@ -257,12 +269,17 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_0.m
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_0.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_1.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_1.xsd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_4_0.mdd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_4_0.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_3_0.xsd                                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_3_1.xsd                                               CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_4_0.xsd                                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_0.mdd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_0.xsd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_1.mdd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_1.xsd                                             CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_4_0.mdd                                             CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_4_0.xsd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/datatypes.dtd                                                        W3C2          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/XMLSchema.dtd                                                        W3C2          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/xml.xsd                                                              W3C2          
@@ -307,6 +324,7 @@ enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-w
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_2_4-1.dtd                                    CDDL-1.1          
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_2_5-0.dtd                                    CDDL-1.1          
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_3_0-0.dtd                                    CDDL-1.1          
+enterprise/payara.eecommon/src/org/netbeans/modules/payara/eecommon/dd/resources/payara-web-app_4.dtd                               CDDL-1.1          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/xml.xsd                                                               W3C2          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/j2ee_1_4.xsd                                                      CDDL-1.1          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/j2ee_web_services_client_1_1.xsd                                  CDDL-1.1          
@@ -343,6 +361,7 @@ enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_1_
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_0.xsd                                               CDDL-1.1          
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_1.xsd                                               CDDL-1.1          
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_2.xsd                                               CDDL-1.1          
+enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_3.xsd                                               CDDL-1.1          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/sun-jaxws.xsd                                                 CDDL-1.0          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/javaee_web_services_metadata_handler_2_0.xsd                  CDDL-1.1          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/wsdl_customizationschema_2_0.xsd                              CDDL-1.1          
@@ -469,10 +488,13 @@ enterprise/modules/ext/aws-sdk/httpcore-4.1.jar                       Apache-2.0
 enterprise/modules/ext/commons-fileupload-1.3.jar                     Apache-2.0
 enterprise/modules/ext/el-impl.jar                                    CDDL-1.0
 enterprise/modules/ext/glassfish-jspparser-4.0.jar                    CDDL-1.1
+enterprise/modules/ext/javaee-api-5.jar                               CDDL-1.0
 enterprise/modules/ext/javaee-api-6.0.jar                             CDDL-1.1
 enterprise/modules/ext/javaee-api-7.0.jar                             CDDL-1.1
+enterprise/modules/ext/javaee-api-8.0.jar                             CDDL-1.1
 enterprise/modules/ext/javaee-web-api-6.0.jar                         CDDL-1.1
 enterprise/modules/ext/javaee-web-api-7.0.jar                         CDDL-1.1
+enterprise/modules/ext/javaee-web-api-8.0.jar                         CDDL-1.1
 enterprise/modules/ext/javaee6-endorsed/javax.annotation.jar          CDDL-1.1
 enterprise/modules/ext/javaee6-endorsed/jaxb-api-osgi.jar             CDDL-1.1
 enterprise/modules/ext/javaee6-endorsed/webservices-api-osgi.jar      CDDL-1.1
@@ -595,7 +617,7 @@ ide/modules/ext/commons-compress-1.8.1.jar                            Apache-2.0
 ide/modules/ext/commons-net-3.6.jar                                   Apache-2.0
 ide/modules/ext/freemarker-2.3.19.jar                                 freemarker
 ide/modules/ext/generated-wsdl-xsd-2004.08.24.jar                     WSDL-2004
-ide/modules/ext/graal-sdk-1.0.0-rc12.jar                              UPL
+ide/modules/ext/graal-sdk-19.0.0.jar                                  UPL
 ide/modules/ext/html5-parser.jar                                      MIT-html5-parser
 ide/modules/ext/icu4j-4_4_2.jar                                       MIT-icu4j
 ide/modules/ext/ini4j-0.5.1.jar                                       Apache-2.0
@@ -607,7 +629,6 @@ ide/modules/ext/jaxb/jaxb-impl-2.2.5-2.jar                            CDDL-1.1
 ide/modules/ext/jaxb/jaxb-xjc-2.2.5-2.jar                             CDDL-1.1-MIT-jaxb-xjc
 ide/modules/ext/jaxb/jaxb1-impl-2.2.5-2.jar                           CDDL-1.1-BSD-MIT-jaxb1-xjc
 ide/modules/ext/jcodings-1.0.18.jar                                   MIT-nocopyright
-ide/modules/ext/jcodings-1.0.41.jar                                   MIT-nocopyright
 ide/modules/ext/jing.jar                                              BSD-jing
 ide/modules/ext/joni-2.1.11.jar                                       MIT-jruby
 ide/modules/ext/jsch-agentproxy-core.jar                              BSD-jsch-agentproxy
@@ -615,13 +636,16 @@ ide/modules/ext/jsch-agentproxy-pageant.jar                           BSD-jsch-a
 ide/modules/ext/jsch-agentproxy-sshagent.jar                          BSD-jsch-agentproxy
 ide/modules/ext/jsch-agentproxy-usocket-jna.jar                       BSD-jsch-agentproxy
 ide/modules/ext/json-simple-1.1.1.jar                                 Apache-2.0
+ide/modules/ext/junixsocket-common-2.2.0.jar                          Apache-2.0
+ide/modules/ext/junixsocket-core-2.2.0.jar                            Apache-2.0
+ide/modules/ext/junixsocket-native-common-2.2.0.jar                   Apache-2.0
 ide/modules/ext/jvyamlb-0.2.6.jar                                     MIT-jvyamlb
 ide/modules/ext/libpam4j-1.1.jar                                      MIT
 ide/modules/ext/log4j-1.2.15.jar                                      Apache-2.0
 ide/modules/ext/lucene-core-3.5.0.jar                                 Apache-2.0-lucene
-ide/modules/ext/org.eclipse.lsp4j-0.4.1.jar                           EPL-v10
-ide/modules/ext/org.eclipse.lsp4j.generator-0.4.1.jar                 EPL-v10
-ide/modules/ext/org.eclipse.lsp4j.jsonrpc-0.4.1.jar                   EPL-v10
+ide/modules/ext/org.eclipse.lsp4j-0.7.0.jar                           EPL-v10
+ide/modules/ext/org.eclipse.lsp4j.generator-0.7.0.jar                 EPL-v10
+ide/modules/ext/org.eclipse.lsp4j.jsonrpc-0.7.0.jar                   EPL-v10
 ide/modules/ext/org.eclipse.tm4e.core_0.2.0.201809031154.jar          EPL-v10
 ide/modules/ext/org.eclipse.xtend.lib-2.14.0.jar                      EPL-v10
 ide/modules/ext/org.eclipse.xtend.lib.macro-2.14.0.jar                EPL-v10
@@ -715,6 +739,7 @@ java/maven/lib/wagon-http-shared-2.10.jar                             Apache-2.0
 java/maven/lib/wagon-provider-api-2.10.jar                            Apache-2.0
 java/modules/ext/byte-buddy-1.7.9.jar                                 Apache-2.0+BSD-INRIA
 java/modules/ext/cglib-2.2.jar                                        Apache-2.0
+java/modules/ext/corba/omgapi/glassfish-corba-omgapi.jar              CDDL-1.1
 java/modules/ext/eclipselink/javax.persistence-2.1.0.jar              EPL-v10-eclipselink
 java/modules/ext/eclipselink/org.eclipse.persistence.antlr-2.5.2.jar  EPL-v10-eclipselink
 java/modules/ext/eclipselink/org.eclipse.persistence.asm-2.5.2.jar    EPL-v10-eclipselink
@@ -829,9 +854,10 @@ webcommon/jsstubs/corestubs.zip                                       BSD-ecmasc
 webcommon/jsstubs/domstubs.zip                                        W3C2
 webcommon/jsstubs/reststubs.zip                                       W3C2
 webcommon/modules/ext/dd-plist.jar                                    MIT-dd-plist
-webcommon/modules/ext/js-1.0.0-rc12.jar                               UPL
-webcommon/modules/ext/regex-1.0.0-rc12.jar                            UPL
-webcommon/modules/ext/truffle-api-1.0.0-rc12.jar                      UPL
+webcommon/modules/ext/icu4j-62.1.jar                                  MIT-icu4j
+webcommon/modules/ext/js-19.0.0.jar                                   UPL
+webcommon/modules/ext/regex-19.0.0.jar                                UPL
+webcommon/modules/ext/truffle-api-19.0.0.jar                          UPL
 
 ******************************************************************************************************************************************************
 Apache NetBeans includes a number of source files that are not covered by the apache license. The following files are part of this distribution.
@@ -848,6 +874,8 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_6
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_6.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_7.mdd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_7.xsd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_8.mdd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_8.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_1_4.mdd                                       CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_1_4.xsd                                       CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_5.mdd                                         CDDL-1.1          
@@ -856,6 +884,9 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-c
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_6.xsd                                         CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_7.mdd                                         CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_7.xsd                                         CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application-client_8.xsd                                         CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/connector_1_5.xsd                                                CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/connector_1_7.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_2_1.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_2_1.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_0.mdd                                                  CDDL-1.1          
@@ -865,11 +896,16 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_1.x
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_2.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/ejb-jar_3_2.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_1_4.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_web_services_1_1.xsd                                        CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/j2ee_web_services_client_1_1.xsd                                 CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_5.xsd                                                     CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_6.xsd                                                     CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_7.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_8.xsd                                                     CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_2.xsd                                      CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_3.xsd                                      CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_4.xsd                                      CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_1_4_1.xsd                                    CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_2.xsd                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_3.xsd                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/javaee_web_services_client_1_4.xsd                               CDDL-1.1          
@@ -879,7 +915,9 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/jsp_2_2.xsd  
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/jsp_2_3.xsd                                                      CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/permissions_7.xsd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_2.dtd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_2_1.dtd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_3.dtd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_3_1.dtd                                                CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_4.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_4.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_2_5.mdd                                                  CDDL-1.1          
@@ -888,12 +926,17 @@ enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_0.m
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_0.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_1.mdd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_3_1.xsd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_4_0.mdd                                                  CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-app_4_0.xsd                                                  CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_3_0.xsd                                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_3_1.xsd                                               CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-common_4_0.xsd                                               CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_0.mdd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_0.xsd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_1.mdd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_3_1.xsd                                             CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_4_0.mdd                                             CDDL-1.1          
+enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/web-fragment_4_0.xsd                                             CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/datatypes.dtd                                                        W3C2          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/XMLSchema.dtd                                                        W3C2          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/xml.xsd                                                              W3C2          
@@ -938,6 +981,7 @@ enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-w
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_2_4-1.dtd                                    CDDL-1.1          
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_2_5-0.dtd                                    CDDL-1.1          
 enterprise/j2ee.sun.dd/src/org/netbeans/modules/j2ee/sun/dd/impl/resources/sun-web-app_3_0-0.dtd                                    CDDL-1.1          
+enterprise/payara.eecommon/src/org/netbeans/modules/payara/eecommon/dd/resources/payara-web-app_4.dtd                               CDDL-1.1          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/xml.xsd                                                               W3C2          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/j2ee_1_4.xsd                                                      CDDL-1.1          
 enterprise/web.core/src/org/netbeans/modules/web/taglib/resources/j2ee_web_services_client_1_1.xsd                                  CDDL-1.1          
@@ -960,6 +1004,7 @@ enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_1_
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_0.xsd                                               CDDL-1.1          
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_1.xsd                                               CDDL-1.1          
 enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_2.xsd                                               CDDL-1.1          
+enterprise/web.jsf/src/org/netbeans/modules/web/jsf/resources/web-facesconfig_2_3.xsd                                               CDDL-1.1          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/sun-jaxws.xsd                                                 CDDL-1.0          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/javaee_web_services_metadata_handler_2_0.xsd                  CDDL-1.1          
 enterprise/websvc.core/src/org/netbeans/modules/websvc/core/resources/wsdl_customizationschema_2_0.xsd                              CDDL-1.1          

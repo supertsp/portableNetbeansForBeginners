@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="35/58/12/16/07/2019">
+
+
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.linux" distribution="org-netbeans-libs-javafx-linux.nbm" downloadsize="35786" homepage="http://www.netbeans.org/" license="EF9B4C3C" moduleauthor="" needsrestart="false" releasedate="2019/07/16">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.netbeans.libs.javafx.linux" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="netbeans-release-428-on-20190716" OpenIDE-Module-Java-Dependencies="Java &gt; 11" OpenIDE-Module-Module-Dependencies="org.openide.modules &gt; 7.40, org.netbeans.libs.javafx &gt; 2.10" OpenIDE-Module-Name="JavaFX Implementation for Linux" OpenIDE-Module-Needs="org.openide.modules.os.Linux" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="11.1"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.macosx" distribution="org-netbeans-libs-javafx-macosx.nbm" downloadsize="35778" homepage="http://www.netbeans.org/" license="EF9B4C3C" moduleauthor="" needsrestart="false" releasedate="2019/07/16">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.netbeans.libs.javafx.macosx" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="netbeans-release-428-on-20190716" OpenIDE-Module-Java-Dependencies="Java &gt; 11" OpenIDE-Module-Module-Dependencies="org.openide.modules &gt; 7.40, org.netbeans.libs.javafx &gt; 2.10" OpenIDE-Module-Name="JavaFX Implementation for Mac OS X" OpenIDE-Module-Needs="org.openide.modules.os.MacOSX" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="11.1"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.netbeans.libs.javafx.win" distribution="org-netbeans-libs-javafx-win.nbm" downloadsize="35740" homepage="http://www.netbeans.org/" license="EF9B4C3C" moduleauthor="" needsrestart="false" releasedate="2019/07/16">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.netbeans.libs.javafx.win" OpenIDE-Module-Fragment-Host="org.netbeans.libs.javafx" OpenIDE-Module-Implementation-Version="netbeans-release-428-on-20190716" OpenIDE-Module-Java-Dependencies="Java &gt; 11" OpenIDE-Module-Module-Dependencies="org.openide.modules &gt; 7.40, org.netbeans.libs.javafx &gt; 2.10" OpenIDE-Module-Name="JavaFX Implementation for Windows" OpenIDE-Module-Needs="org.openide.modules.os.Windows" OpenIDE-Module-Provides="org.openide.modules.jre.JavaFX" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="11.1"/>
+    
+</module>
+
+<license name="EF9B4C3C" url="licenses/EF9B4C3C.license"/>
+</module_updates>
+

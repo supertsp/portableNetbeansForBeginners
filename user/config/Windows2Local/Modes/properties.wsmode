@@ -5,9 +5,10 @@
   <kind type="view" />
   <state type="joined"  />
   <constraints>
+    <path orientation="vertical" number="0" weight="0.75"/>
     <path orientation="horizontal" number="60" weight="0.8200468933177022"/>
     <path orientation="vertical" number="40" weight="0.7"/>
-    <path orientation="horizontal" number="80" weight="0.23761194971197916"/>
+    <path orientation="horizontal" number="80" weight="0.3043583731848944"/>
     <path orientation="vertical" number="80" weight="0.5"/>
   </constraints>
   <bounds x="74" y="582" width="288" height="332" />

@@ -5,7 +5,7 @@
         <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
     </fileobject>
     <fileobject name="bottomSlidingSide">
-        <attr name="WinSys-TCRef-Order" stringvalue="output"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="output_1/output"/>
     </fileobject>
     <fileobject name="code_evaluator">
         <attr name="WinSys-TCRef-Order" stringvalue="evaluatorPane"/>
@@ -25,7 +25,7 @@
         <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/TruffleASTDebugView/DomTC"/>
     </fileobject>
     <fileobject name="output">
-        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/eventsView/profiler_pp/CallHierarchyTopComponent/AnalyzerTopComponent/AnalysisResultTopComponent/JavadocTopComponent/classes"/>
+        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/eventsView/profiler_pp/CallHierarchyTopComponent/AnalyzerTopComponent/AnalysisResultTopComponent/JavadocTopComponent/classes/output"/>
     </fileobject>
     <fileobject name="properties">
         <attr name="WinSys-TCRef-Order" stringvalue="CssStylesTC/properties/AnalyzeStackTopComponent/KnockoutTC/JavaHierarchyTopComponent/timers"/>

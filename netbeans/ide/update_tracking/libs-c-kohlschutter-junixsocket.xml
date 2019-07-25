@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="libs.c.kohlschutter.junixsocket/1">
+    <module_version install_time="1563281505637" last="true" origin="installer" specification_version="2.20">
+        <file crc="832506245" name="config/Modules/libs-c-kohlschutter-junixsocket.xml"/>
+        <file crc="756127201" name="modules/ext/junixsocket-common-2.2.0.jar"/>
+        <file crc="1680503799" name="modules/ext/junixsocket-core-2.2.0.jar"/>
+        <file crc="1574167954" name="modules/ext/junixsocket-native-common-2.2.0.jar"/>
+        <file crc="3174374941" name="modules/libs-c-kohlschutter-junixsocket.jar"/>
+    </module_version>
+</module>

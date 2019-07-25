@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.refactoring">
+    <module_version install_time="1563282312097" last="true" origin="installer" specification_version="1.31.0.45">
+        <file crc="1283863720" name="config/Modules/org-netbeans-modules-web-refactoring.xml"/>
+        <file crc="3977950770" name="modules/org-netbeans-modules-web-refactoring.jar"/>
+    </module_version>
+</module>

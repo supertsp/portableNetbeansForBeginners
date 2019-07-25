@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.extbrowser.chrome">
+    <module_version install_time="1563281973918" last="true" origin="installer" specification_version="1.15">
+        <file crc="107333246" name="config/Modules/org-netbeans-modules-extbrowser-chrome.xml"/>
+        <file crc="3749577531" name="modules/org-netbeans-modules-extbrowser-chrome.jar"/>
+    </module_version>
+</module>

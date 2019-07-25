@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.macros/0">
-    <module_version install_time="1553033641308" last="true" origin="installer" specification_version="1.35.1.1.23">
+    <module_version install_time="1563281511138" last="true" origin="installer" specification_version="1.36.0.1.23">
         <file crc="3196086936" name="config/Modules/org-netbeans-modules-editor-macros.xml"/>
-        <file crc="2026825677" name="modules/org-netbeans-modules-editor-macros.jar"/>
+        <file crc="2175850674" name="modules/org-netbeans-modules-editor-macros.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.languages.manifest">
-    <module_version install_time="1553033668602" last="true" origin="installer" specification_version="1.36.1">
+    <module_version install_time="1563281533093" last="true" origin="installer" specification_version="1.37">
         <file crc="82613707" name="config/Modules/org-netbeans-modules-languages-manifest.xml"/>
-        <file crc="2804482859" name="modules/org-netbeans-modules-languages-manifest.jar"/>
+        <file crc="4184032845" name="modules/org-netbeans-modules-languages-manifest.jar"/>
     </module_version>
 </module>

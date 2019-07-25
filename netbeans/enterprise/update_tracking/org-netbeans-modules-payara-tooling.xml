@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.payara.tooling/0">
+    <module_version install_time="1563282237401" last="true" origin="installer" specification_version="2.0">
+        <file crc="2255742216" name="config/Modules/org-netbeans-modules-payara-tooling.xml"/>
+        <file crc="4161477866" name="modules/org-netbeans-modules-payara-tooling.jar"/>
+    </module_version>
+</module>

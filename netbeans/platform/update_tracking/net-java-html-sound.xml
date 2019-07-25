@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="net.java.html.sound">
-    <module_version install_time="1553033484518" last="true" origin="installer" specification_version="1.5.1">
+    <module_version install_time="1563281356123" last="true" origin="installer" specification_version="1.6.1">
         <file crc="3339792725" name="config/Modules/net-java-html-sound.xml"/>
-        <file crc="399340323" name="modules/net-java-html-sound.jar"/>
+        <file crc="2059868792" name="modules/net-java-html-sound.jar"/>
     </module_version>
 </module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.platform/1">
+    <module_version install_time="1563282224265" last="true" origin="installer" specification_version="1.35">
+        <file crc="1128986410" name="config/Modules/org-netbeans-modules-j2ee-platform.xml"/>
+        <file crc="4234039622" name="docs/javaee-doc-api.jar"/>
+        <file crc="1676731251" name="modules/org-netbeans-modules-j2ee-platform.jar"/>
+    </module_version>
+</module>

@@ -20,12 +20,13 @@ This project saves your personal settings in the following folders:
 * **Open JDK:** [https://developers.redhat.com/products/openjdk/download/](https://developers.redhat.com/products/openjdk/download/)
 * **JavaFx SDK:** [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
 * **JavaFx Scene Builder:** [https://gluonhq.com/products/scene-builder/#download](https://gluonhq.com/products/scene-builder/#download)
-* **Project that generates Netbeans executable file:** [https://github.com/supertsp/LauchingAnOtherAppWithCSharp](https://github.com/supertsp/LauchingAnOtherAppWithCSharp)
-* **Rainbow Braces Plugin:** [http://plugins.netbeans.org/plugin/74749/rainbow-braces](http://plugins.netbeans.org/plugin/74749/rainbow-braces)
+* **Project that generates Netbeans executable file (using):** [https://github.com/supertsp/LauchingAnOtherAppWithCSharp](https://github.com/supertsp/LauchingAnOtherAppWithCSharp)
+* **Rainbow Braces Plugin (using):** [http://plugins.netbeans.org/plugin/74749/rainbow-braces](http://plugins.netbeans.org/plugin/74749/rainbow-braces)
 * **Darcula LAF Theme Plugin - revivius:** [http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans](http://plugins.netbeans.org/plugin/62424/darcula-laf-for-netbeans)
 * **Darcula LAF Theme Plugin - mibrahim (using):** [http://plugins.netbeans.org/plugin/75744/darcula-laf-for-netbeans](http://plugins.netbeans.org/plugin/75744/darcula-laf-for-netbeans)
 * **Color Codes Preview Plugin:** [http://plugins.netbeans.org/plugin/57827/color-codes-preview](http://plugins.netbeans.org/plugin/57827/color-codes-preview)
 * **Radar - SonarQube:** [http://plugins.netbeans.org/plugin/51532/radar-netbeans](http://plugins.netbeans.org/plugin/51532/radar-netbeans)
+* **Netbeans Module to Facilitate Java Programming Learning (using):** [https://github.com/supertsp/NetbeansModule_JavaParaIniciantes](https://github.com/supertsp/NetbeansModule_JavaParaIniciantes/blob/master/BibliotecaJavaSimples_PRD/dist/BibliotecaJavaSimples_v1.0.2.jar)
 
 
 ### Notes

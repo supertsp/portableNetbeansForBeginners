@@ -1,7 +1,7 @@
 <record>
-  <date>2019-07-25T15:41:22</date>
-  <millis>1564080082868</millis>
-  <sequence>40</sequence>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623022</millis>
+  <sequence>91</sequence>
   <level>300</level>
   <thread>17</thread>
   <message>SCREEN SIZE</message>
@@ -10,17 +10,797 @@
   <param>1</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:22</date>
-  <millis>1564080082868</millis>
-  <sequence>41</sequence>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623022</millis>
+  <sequence>92</sequence>
   <level>700</level>
   <thread>17</thread>
   <message>IDE_STARTUP</message>
 </record>
 <record>
-  <date>2019-07-25T15:41:27</date>
-  <millis>1564080087223</millis>
-  <sequence>50</sequence>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623283</millis>
+  <sequence>94</sequence>
+  <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
+  <level>800</level>
+  <thread>23</thread>
+  <message>Can not replace field...</message>
+  <exception>
+    <message>java.lang.NoSuchFieldException: modifiers</message>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>getDeclaredField</method>
+      <line>2417</line>
+      <file>jrt:/java.base/java/lang/Class.class</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>779</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>770</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceHTMLCompletionColor</method>
+      <line>694</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>createLookAndFeelCustomizationKeysAndValues</method>
+      <line>292</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.LFCustoms</class>
+      <method>getLookAndFeelCustomizationKeysAndValues</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installLFCustoms</method>
+      <line>334</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installPerLFDefaults</method>
+      <line>250</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>install</method>
+      <line>228</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>run</method>
+      <line>536</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.CoreBridgeImpl$1$1</class>
+      <method>run</method>
+      <line>112</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>313</line>
+      <file>jrt:/java.desktop/java/awt/event/InvocationEvent.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>770</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>721</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>715</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>389</line>
+      <file>jrt:/java.base/java/security/AccessController.class</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>85</line>
+      <file>jrt:/java.base/java/security/ProtectionDomain$JavaSecurityAccessImpl.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>740</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623285</millis>
+  <sequence>95</sequence>
+  <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
+  <level>800</level>
+  <thread>23</thread>
+  <message>Can not replace field...</message>
+  <exception>
+    <message>java.lang.NoSuchFieldException: modifiers</message>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>getDeclaredField</method>
+      <line>2417</line>
+      <file>jrt:/java.base/java/lang/Class.class</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>779</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>770</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceHTMLCompletionColor</method>
+      <line>695</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>createLookAndFeelCustomizationKeysAndValues</method>
+      <line>292</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.LFCustoms</class>
+      <method>getLookAndFeelCustomizationKeysAndValues</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installLFCustoms</method>
+      <line>334</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installPerLFDefaults</method>
+      <line>250</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>install</method>
+      <line>228</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>run</method>
+      <line>536</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.CoreBridgeImpl$1$1</class>
+      <method>run</method>
+      <line>112</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>313</line>
+      <file>jrt:/java.desktop/java/awt/event/InvocationEvent.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>770</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>721</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>715</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>389</line>
+      <file>jrt:/java.base/java/security/AccessController.class</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>85</line>
+      <file>jrt:/java.base/java/security/ProtectionDomain$JavaSecurityAccessImpl.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>740</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623292</millis>
+  <sequence>96</sequence>
+  <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
+  <level>800</level>
+  <thread>23</thread>
+  <message>Can not replace field...</message>
+  <exception>
+    <message>java.lang.NoSuchFieldException: modifiers</message>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>getDeclaredField</method>
+      <line>2417</line>
+      <file>jrt:/java.base/java/lang/Class.class</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>779</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>770</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceCSSPreprocessorCompletionColors</method>
+      <line>705</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>createLookAndFeelCustomizationKeysAndValues</method>
+      <line>293</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.LFCustoms</class>
+      <method>getLookAndFeelCustomizationKeysAndValues</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installLFCustoms</method>
+      <line>334</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installPerLFDefaults</method>
+      <line>250</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>install</method>
+      <line>228</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>run</method>
+      <line>536</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.CoreBridgeImpl$1$1</class>
+      <method>run</method>
+      <line>112</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>313</line>
+      <file>jrt:/java.desktop/java/awt/event/InvocationEvent.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>770</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>721</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>715</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>389</line>
+      <file>jrt:/java.base/java/security/AccessController.class</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>85</line>
+      <file>jrt:/java.base/java/security/ProtectionDomain$JavaSecurityAccessImpl.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>740</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623293</millis>
+  <sequence>97</sequence>
+  <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
+  <level>800</level>
+  <thread>23</thread>
+  <message>Can not replace field...</message>
+  <exception>
+    <message>java.lang.NoSuchFieldException: modifiers</message>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>getDeclaredField</method>
+      <line>2417</line>
+      <file>jrt:/java.base/java/lang/Class.class</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>779</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>770</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceCSSPreprocessorCompletionColors</method>
+      <line>706</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>createLookAndFeelCustomizationKeysAndValues</method>
+      <line>293</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.LFCustoms</class>
+      <method>getLookAndFeelCustomizationKeysAndValues</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installLFCustoms</method>
+      <line>334</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installPerLFDefaults</method>
+      <line>250</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>install</method>
+      <line>228</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>run</method>
+      <line>536</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.CoreBridgeImpl$1$1</class>
+      <method>run</method>
+      <line>112</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>313</line>
+      <file>jrt:/java.desktop/java/awt/event/InvocationEvent.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>770</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>721</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>715</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>389</line>
+      <file>jrt:/java.base/java/security/AccessController.class</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>85</line>
+      <file>jrt:/java.base/java/security/ProtectionDomain$JavaSecurityAccessImpl.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>740</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2019-07-26T09:03:43</date>
+  <millis>1564142623313</millis>
+  <sequence>98</sequence>
+  <logger>com.revivius.nb.darcula.DarculaLFCustoms</logger>
+  <level>800</level>
+  <thread>23</thread>
+  <message>Can not replace field...</message>
+  <exception>
+    <message>java.lang.NoSuchFieldException: modifiers</message>
+    <frame>
+      <class>java.lang.Class</class>
+      <method>getDeclaredField</method>
+      <line>2417</line>
+      <file>jrt:/java.base/java/lang/Class.class</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>779</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceFieldValue</method>
+      <line>770</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>replaceProjectTabColors</method>
+      <line>727</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>com.revivius.nb.darcula.DarculaLFCustoms</class>
+      <method>createLookAndFeelCustomizationKeysAndValues</method>
+      <line>294</line>
+      <file>${user.dir}modules/com-revivius-nb-darcula.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.LFCustoms</class>
+      <method>getLookAndFeelCustomizationKeysAndValues</method>
+      <line>171</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installLFCustoms</method>
+      <line>334</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>installPerLFDefaults</method>
+      <line>250</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>install</method>
+      <line>228</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.swing.plaf.Startup</class>
+      <method>run</method>
+      <line>536</line>
+      <file>${netbeans.home}modules/org-netbeans-swing-plaf.jar</file>
+    </frame>
+    <frame>
+      <class>org.netbeans.core.CoreBridgeImpl$1$1</class>
+      <method>run</method>
+      <line>112</line>
+      <file>${netbeans.home}modules/org-netbeans-core.jar</file>
+    </frame>
+    <frame>
+      <class>java.awt.event.InvocationEvent</class>
+      <method>dispatch</method>
+      <line>313</line>
+      <file>jrt:/java.desktop/java/awt/event/InvocationEvent.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+      <line>770</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>721</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+      <line>715</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue$4.class</file>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+      <line>389</line>
+      <file>jrt:/java.base/java/security/AccessController.class</file>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+      <line>85</line>
+      <file>jrt:/java.base/java/security/ProtectionDomain$JavaSecurityAccessImpl.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+      <line>740</line>
+      <file>jrt:/java.desktop/java/awt/EventQueue.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+      <line>203</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+      <line>124</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+      <line>113</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>109</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+      <line>101</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+      <line>90</line>
+      <file>jrt:/java.desktop/java/awt/EventDispatchThread.class</file>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2019-07-26T09:03:49</date>
+  <millis>1564142629756</millis>
+  <sequence>131</sequence>
   <logger>org.netbeans.ui.metrics.laf</logger>
   <level>800</level>
   <thread>17</thread>
@@ -29,20 +809,20 @@
   <param>Darcula</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:36</date>
-  <millis>1564080096305</millis>
-  <sequence>396</sequence>
+  <date>2019-07-26T09:03:59</date>
+  <millis>1564142639754</millis>
+  <sequence>184</sequence>
   <level>800</level>
-  <thread>24</thread>
+  <thread>49</thread>
   <message>MEMORY</message>
   <key>MEMORY</key>
   <catalog>&lt;null&gt;</catalog>
   <param>16840781824</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:36</date>
-  <millis>1564080096884</millis>
-  <sequence>397</sequence>
+  <date>2019-07-26T09:04:07</date>
+  <millis>1564142647603</millis>
+  <sequence>185</sequence>
   <logger>org.netbeans.ui.actions</logger>
   <level>400</level>
   <thread>23</thread>
@@ -56,15 +836,54 @@
   <param>&amp;About</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:54</date>
-  <millis>1564080114211</millis>
-  <sequence>400</sequence>
+  <date>2019-07-26T09:04:16</date>
+  <millis>1564142656196</millis>
+  <sequence>186</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>23</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2019-07-26T09:04:22</date>
+  <millis>1564142662237</millis>
+  <sequence>187</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>34</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>418</param>
+</record>
+<record>
+  <date>2019-07-26T09:04:23</date>
+  <millis>1564142663849</millis>
+  <sequence>188</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>23</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject[Open Proj&amp;ect...]</param>
+  <param>org.netbeans.modules.project.ui.actions.OpenProject</param>
+  <param>Open Proj&amp;ect...</param>
+</record>
+<record>
+  <date>2019-07-26T09:04:28</date>
+  <millis>1564142668332</millis>
+  <sequence>191</sequence>
   <logger>org.netbeans.core.windows.persistence</logger>
   <level>800</level>
   <thread>23</thread>
-  <message>[PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'output'. Reason: MultiFileObject@634f4e20[Windows2Local/Components/output.settings]</message>
+  <message>[PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'output'. Reason: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]</message>
   <exception>
-    <message>java.io.IOException: MultiFileObject@634f4e20[Windows2Local/Components/output.settings]</message>
+    <message>java.io.IOException: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]</message>
     <frame>
       <class>org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer</class>
       <method>parse</method>
@@ -504,33 +1323,33 @@
   </exception>
 </record>
 <record>
-  <date>2019-07-25T15:41:57</date>
-  <millis>1564080117606</millis>
-  <sequence>401</sequence>
+  <date>2019-07-26T09:04:34</date>
+  <millis>1564142674339</millis>
+  <sequence>213</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>49</thread>
   <message>INDEXING_STARTED</message>
   <key>INDEXING_STARTED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
   <param>0</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:57</date>
-  <millis>1564080117614</millis>
-  <sequence>402</sequence>
+  <date>2019-07-26T09:04:34</date>
+  <millis>1564142674403</millis>
+  <sequence>216</sequence>
   <logger>org.netbeans.ui.indexing</logger>
   <level>800</level>
-  <thread>24</thread>
+  <thread>49</thread>
   <message>INDEXING_FINISHED</message>
   <key>INDEXING_FINISHED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
-  <param>6</param>
+  <param>62</param>
 </record>
 <record>
-  <date>2019-07-25T15:41:57</date>
-  <millis>1564080117732</millis>
-  <sequence>403</sequence>
+  <date>2019-07-26T09:04:34</date>
+  <millis>1564142674696</millis>
+  <sequence>225</sequence>
   <logger>org.netbeans.ui.focus</logger>
   <level>500</level>
   <thread>23</thread>

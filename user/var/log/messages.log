@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Thursday, July 25, 2019 at 3:41:16 PM Brasilia Standard Time
+>Log Session: Friday, July 26, 2019 at 9:03:26 AM Brasilia Standard Time
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.1
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -24,12 +24,26 @@
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy
-                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
+                            C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
   Boot & Ext. Classpath   = 
-  Application Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar
+  Application Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar
   Startup Classpath       = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\asm-all-5.0.1.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core-base.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\org-netbeans-upgrader.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\locale\core_nb.jar
 -------------------------------------------------------------------------------
-INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/
+WARNING [org.netbeans.core.startup.NbEvents]: The extension C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\ext\jcodings-1.0.18.jar may be multiply loaded by modules: [C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\org-netbeans-libs-bytelist.jar, C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\org-netbeans-modules-textmate-lexer.jar]; see: http://www.netbeans.org/download/dev/javadoc/org-openide-modules/org/openide/modules/doc-files/classpath.html#class-path
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness
+WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
@@ -465,7 +479,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[581 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@356ef69, ModuleCL@1a793587[org.netbeans.api.annotations.common], ModuleCL@36b9b67c[org.openide.awt], ModuleCL@4fe6a7d7[org.netbeans.api.progress], ModuleCL@2c38f15f[org.netbeans.api.progress.nb], ModuleCL@7f3e3c52[org.openide.dialogs], ModuleCL@44f6f9f[org.openide.nodes], ModuleCL@7e6da8de[org.openide.windows], ModuleCL@15b40c45[org.netbeans.modules.editor.mimelookup], ...554 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[581 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@b024405, ModuleCL@6313b5ba[org.netbeans.api.annotations.common], ModuleCL@7cd43dd5[org.openide.awt], ModuleCL@40af815c[org.netbeans.api.progress], ModuleCL@34321a14[org.netbeans.api.progress.nb], ModuleCL@f39ebc[org.openide.dialogs], ModuleCL@4c5cd3c2[org.openide.nodes], ModuleCL@67eefd8[org.openide.windows], ModuleCL@1083ae4a[org.netbeans.modules.editor.mimelookup], ...554 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
@@ -1203,19 +1217,46 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
 	br.com.tiagopedroso.javaparainiciantes/1 [1.0.3 190710]
-INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/eclipselink/eclipselink.jar
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
 INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+INFO [org.openide.awt.Toolbar]: Too long AWTTask: 564 ms for org.openide.awt.Toolbar$Folder@2dac964e(FolderList{MultiFileObject@717a4048[Toolbars/Debug]})
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\modules\org-netbeans-modules-uihandler.jar took 1.308 ms
 SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Line number:1
 SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Column number:1
 SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Public ID:null
 SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: System ID:null
 SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Error message:Fim prematuro do arquivo.
+WARNING [org.openide.filesystems.FileUtil]: FileUtil.normalizeFile(C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Editors\AnnotationTypes\CurrentPCLinePart.xml) took 627 ms. Result is C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Editors\AnnotationTypes\CurrentPCLinePart.xml
 Diagnostic information
 Input arguments:
+	-Djdk.home=C:/Users/TPEDROSO/Desktop/PortableNetbeans/jdks/jdk12
+	-Dnetbeans.default_userdir_root=C:/Users/TPEDROSO/.netbeans
+	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\python;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\identity;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extra;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
+	-Dnetbeans.home=C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
 	-XX:+UseStringDeduplication
 	-Xss2m
@@ -1250,23 +1291,16 @@ Input arguments:
 	--add-exports=java.base/sun.reflect.annotation=ALL-UNNAMED
 	--add-exports=jdk.javadoc/com.sun.tools.javadoc.main=ALL-UNNAMED
 	-XX:+IgnoreUnrecognizedVMOptions
-	-Djdk.home=./jdks/jdk12
-	-Dnetbeans.home=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
-	-Dnetbeans.user=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\
-	-Dnetbeans.default_userdir_root=C:\Users\TPEDROSO\AppData\Roaming\NetBeans
 	-XX:+HeapDumpOnOutOfMemoryError
-	-XX:HeapDumpPath=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\\var\log\heapdump.hprof
-	-Dsun.awt.keepWorkingSetOnMinimize=true
-	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\python;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\identity;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extra;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
-	exit
+	-XX:HeapDumpPath=./user//var/log/heapdump.hprof
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 252,0MB maximum 4016,0MB
 Non heap memory usage: initial 7,3MB maximum -1b
-Garbage collector: G1 Young Generation (Collections=13 Total time spent=0s)
+Garbage collector: G1 Young Generation (Collections=20 Total time spent=0s)
 Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=9223 total loaded=9223 unloaded 0
+Classes: loaded=9308 total loaded=9308 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16.840.781.824
-INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'output'. Reason: MultiFileObject@634f4e20[Windows2Local/Components/output.settings]
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'output'. Reason: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]
 org.xml.sax.SAXParseException; lineNumber: 26; columnNumber: 2; O conteúdo dos elementos deve consistir em dados ou marcação do caractere correto.
 	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
 	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
@@ -1283,7 +1317,7 @@ org.xml.sax.SAXParseException; lineNumber: 26; columnNumber: 2; O conteúdo dos e
 	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
 	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
 	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.parse(XMLSettingsSupport.java:795)
-Caused: java.io.IOException: MultiFileObject@634f4e20[Windows2Local/Components/output.settings]
+Caused: java.io.IOException: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]
 	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.parse(XMLSettingsSupport.java:799)
 	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.getSettings(SerialDataConvertor.java:380)
 	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:400)
@@ -1341,6 +1375,37 @@ Caused: java.io.IOException: MultiFileObject@634f4e20[Windows2Local/Components/o
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: Long time unused modules found, disabling:
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova.platforms.android
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.extbrowser.chrome
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.angular
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.ojet
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.bower
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.cdnjs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.grunt
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.gulp
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.jstestdriver
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.karma
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.nodejs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extdoc
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extjs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jade
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jquery
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jsdoc
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.kit
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.nodejs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.prototypejs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.react
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\ext\org.eclipse.xtend.lib.macro-2.14.0.jar took 937 ms
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.requirejs
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.sdoc
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.languages.ini
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.kit
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.samples
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.clientproject
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.javascript.debugger
+INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.webkit.tooling
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.

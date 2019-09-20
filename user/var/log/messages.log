@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------
->Log Session: Friday, July 26, 2019 at 9:03:26 AM Brasilia Standard Time
+>Log Session: Friday, September 20, 2019 9:18:15 AM BRT
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.1
   Operating System        = Windows 10 version 10.0 running on amd64
-  Java; VM; Vendor        = 12.0.1-redhat; OpenJDK 64-Bit Server VM 12.0.1-redhat+12; N/A
-  Runtime                 = OpenJDK Runtime Environment 12.0.1-redhat+12
-  Java Home               = C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk12
+  Java; VM; Vendor        = 1.8.0_212-3-redhat; OpenJDK 64-Bit Server VM 25.212-b04; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 1.8.0_212-3-redhat-b04
+  Java Home               = C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre
   System Locale; Encoding = pt_BR (nb); Cp1252
   Home Directory          = C:\Users\TPEDROSO
   Current Directory       = C:\Users\TPEDROSO\Desktop\PortableNetbeans
@@ -24,29 +24,16 @@
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness
                             C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy
-                            C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
-  Boot & Ext. Classpath   = 
-  Application Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar
+                            C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
+  Boot & Ext. Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\resources.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\rt.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\sunrsasign.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\jsse.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\jce.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\charsets.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\jfr.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\classes;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\access-bridge-64.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\cldrdata.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\dnsns.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\jaccess.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\localedata.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\nashorn.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\sunec.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\sunjce_provider.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\sunmscapi.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\sunpkcs11.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\jdks\jdk8\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\boot.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-modules.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-lookup.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util-ui.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\lib\org-openide-util.jar;./jdks/jdk8\lib\dt.jar;./jdks/jdk8\lib\tools.jar
   Startup Classpath       = C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\asm-all-5.0.1.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core-base.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\core.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-netbeans-libs-asm.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems-compat8.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\core\org-openide-filesystems.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\org-netbeans-upgrader.jar;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb\core\locale\core_nb.jar
 -------------------------------------------------------------------------------
 WARNING [org.netbeans.core.startup.NbEvents]: The extension C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\ext\jcodings-1.0.18.jar may be multiply loaded by modules: [C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\org-netbeans-libs-bytelist.jar, C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\org-netbeans-modules-textmate-lexer.jar]; see: http://www.netbeans.org/download/dev/javadoc/org-openide-modules/org/openide/modules/doc-files/classpath.html#class-path
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness
-WARNING [org.netbeans.modules.netbinox]: Cannot compute install area. No common prefix between C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform and C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy
-INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
 WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
-WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.hints, org.netbeans.modules.jshell.support, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.apisupport.ant, org.netbeans.modules.java.hints, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
@@ -59,430 +46,17 @@ WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Ser
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Not all children in Services/MIMEResolver/ marked with the position attribute: [org-netbeans-modules-kotlin-editor-KtDataObject-Extension.xml], but some are: [org-openide-loaders-DataLoaderPool$InstanceLoaderSystem-Extension.xml, org-netbeans-core-startup-layers-SystemFileSystem-Extension.xml, org-netbeans-modules-java-JavaDataObject-Extension.xml, org-netbeans-modules-java-ClassDataObject-Extension.xml, org-netbeans-modules-image-ImageDataObject-serialVersionUID-Extension.xml, org-netbeans-modules-image-ImageDataObject-IMAGE_ICON_BASE-Extension.xml, org-netbeans-modules-image-ImageDataObject-openSupport-Extension.xml, org-netbeans-modules-image-ImageDataObject-printSupport-Extension.xml, org-netbeans-modules-properties-PropertiesDataObject-Extension.xml, org-netbeans-modules-javascript-gulp-file-Gulpfile-Registration.xml, org-netbeans-modules-javascript-grunt-file-Gruntfile-Registration.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-javascript-karma-util-KarmaUtils-Registration.xml, org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerJson-Registration.xml, org-netbeans-modules-javascript-bower-file-BowerrcJson-Registration.xml, org-netbeans-modules-languages-manifest-MfDataObject-Extension.xml, org-netbeans-modules-languages-apacheconf-ApacheConfDataObject-Registration.xml, org-netbeans-modules-javascript-jstestdriver-JSTestDriverSupport-Registration.xml, org-netbeans-modules-languages-ini-IniDataObject-Extension.xml, org-netbeans-modules-form-FormDataLoader-Extension.xml, org-netbeans-core-ide-ServiceTabProcessor-Extension.xml, org-netbeans-modules-testng-ui-wizards-TestNGSuiteDataObject-Registration.xml, org-netbeans-modules-css-editor-CssProjectSupport-Extension.xml, org-netbeans-modules-languages-diff-DiffDataObject-Extension.xml, org-netbeans-modules-javascript2-editor-JsLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-jade-editor-JadeLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-javascript2-editor-JsonLanguage-createMultiViewEditorElement-Extension.xml, org-netbeans-modules-db-sql-loader-SQLDataObject-Extension.xml, org-netbeans-modules-javawebstart-JnlpDataObject-Extension.xml, org-netbeans-modules-j2ee-persistence-unit-PUDataObject-Registration.xml, org-netbeans-modules-jshell-env-JShellDataObject-Extension.xml, org-netbeans-modules-languages-yaml-YamlLanguage-Extension.xml, org-netbeans-modules-html-HtmlDataObject-Registration.xml, org-netbeans-modules-maven-grammar-POMDataObject-Registration.xml, org-apache-tools-ant-module-loader-AntProjectDataObject-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Namespace.xml, org-netbeans-modules-editor-settings-storage-SettingsProvider-Registration.xml, org-netbeans-modules-j2ee-ddloaders-common-DD2beansDataObject-Registration.xml, org-netbeans-modules-j2ee-sun-ddloaders-SunDescriptorDataObject-Registration.xml, org-netbeans-modules-url-URLDataObject-Extension.xml, org-netbeans-modules-pdf-PDFDataObject-Extension.xml, org-netbeans-modules-tomcat5-ui-nodes-TomcatInstanceNode-createMultiViewEditorElement-Registration.xml, org-netbeans-modules-web-core-jsploader-JspDataObject-Registration.xml, org-netbeans-modules-web-jsf-JSFConfigDataObject-Registration.xml, org-netbeans-modules-web-struts-StrutsConfigDataObject-Namespace.xml, org-netbeans-modules-spring-beans-loader-SpringXMLConfigDataObject-Namespace.xml, org-netbeans-modules-xsl-XSLDataObject-Namespace.xml, org-netbeans-modules-java-jarloader-JarDataObject-Registration.xml, org-netbeans-modules-xml-jaxb-JAXBWizard-Extension.xml, org-netbeans-lib-editor-codetemplates-storage-CodeTemplatesStorage-Namespace.xml, org-netbeans-modules-editor-macros-storage-MacrosStorage-Namespace.xml, org-netbeans-modules-web-beans-BeansDataObject-Namespace.xml, org-netbeans-modules-j2ee-sun-ide-sunresources-resourcesloader-SunResourceDataObject-Extension.xml, org-netbeans-modules-profiler-oql-language-OQLLanguageProvider-Extension.xml, org-netbeans-modules-dbschema-jdbcimpl-DBschemaDataObject-Extension.xml, org-netbeans-modules-css-prep-editor-less-LessCslLanguage-Extension.xml, org-netbeans-modules-css-prep-editor-scss-ScssCslLanguage-Extension.xml, org-netbeans-modules-j2ee-persistence-jpqleditor-ui-JPQLEditorTopComponent-Extension.xml, org-netbeans-modules-profiler-snaptracer-impl-NpssDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-HintDataObject-Extension.xml, org-netbeans-modules-payara-eecommon-dd-loader-PayaraDescriptorDataObject-Registration.xml, org-netbeans-modules-form-palette-PaletteItemDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_PLAIN_XML-Registration.xml, org-netbeans-modules-xml-DTDDataObject-Extension.xml, org-netbeans-modules-xml-EntityDataObject-Extension.xml, org-netbeans-modules-xml-XMLDataObject-MIME_XSD_XML-Registration.xml, org-netbeans-libs-freemarker-FreemarkerFactory-Registration.xml, org-netbeans-modules-apisupport-project-layers-LayerDataObject-Registration.xml, org-netbeans-modules-profiler-ui-NpsDataObject-Registration.xml, org-netbeans-modules-profiler-ui-HprofDataObject-Registration.xml, org-netbeans-modules-javascript-nodejs-file-NodeMimeResolver-Registration.xml, org-netbeans-modules-xml-XMLDataObject-Registration.xml, org-netbeans-modules-java-hints-declarative-test-DeclarativeHintsTestDataObject-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-SimpleLanguage-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-R-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Ruby-Extension.xml, org-netbeans-modules-debugger-jpda-truffle-mime-LanguageResolvers-Python-Extension.xml, org-netbeans-modules-defaults-mime-wav.xml]
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceSearchNotFoundColor(DarculaLFCustoms.java:604)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:284)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceGlyphGutterLineColor(DarculaLFCustoms.java:614)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:285)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFormDesignerGapBorderColors(DarculaLFCustoms.java:625)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:286)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFormDesignerGapBorderColors(DarculaLFCustoms.java:626)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:286)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceLFCustomsTextFgColors(DarculaLFCustoms.java:638)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:288)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceLFCustomsTextFgColors(DarculaLFCustoms.java:639)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:288)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:657)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:658)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:659)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:660)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:661)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:662)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:663)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:664)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCompletionColors(DarculaLFCustoms.java:665)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:289)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceSQLCompletionColumnColor(DarculaLFCustoms.java:674)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:290)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
 INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not find class, will not be able to replace its field...
 java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
-	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[581 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@76fb509a, org.netbeans.JarClassLoader@b024405, ModuleCL@6313b5ba[org.netbeans.api.annotations.common], ModuleCL@7cd43dd5[org.openide.awt], ModuleCL@40af815c[org.netbeans.api.progress], ModuleCL@34321a14[org.netbeans.api.progress.nb], ModuleCL@f39ebc[org.openide.dialogs], ModuleCL@4c5cd3c2[org.openide.nodes], ModuleCL@67eefd8[org.openide.windows], ModuleCL@1083ae4a[org.netbeans.modules.editor.mimelookup], ...554 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[575 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@548c4f57, org.netbeans.JarClassLoader@29f7b725, ModuleCL@4e505085[org.netbeans.api.annotations.common], ModuleCL@55fae95a[org.openide.awt], ModuleCL@7c6d995c[org.netbeans.api.progress], ModuleCL@75ce15ee[org.netbeans.api.progress.nb], ModuleCL@7092e32a[org.openide.dialogs], ModuleCL@7352da58[org.openide.nodes], ModuleCL@5d5aaf0f[org.openide.windows], ModuleCL@7849e32e[org.netbeans.modules.editor.mimelookup], ...549 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
 [catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:751)
 	at com.revivius.nb.darcula.DarculaLFCustoms.replaceJSPCompletionColor(DarculaLFCustoms.java:683)
 	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:291)
@@ -492,149 +66,24 @@ Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.c
 	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
 	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
 	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceHTMLCompletionColor(DarculaLFCustoms.java:694)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:292)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceHTMLCompletionColor(DarculaLFCustoms.java:695)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:292)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCSSPreprocessorCompletionColors(DarculaLFCustoms.java:705)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:293)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceCSSPreprocessorCompletionColors(DarculaLFCustoms.java:706)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:293)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [com.revivius.nb.darcula.DarculaLFCustoms]: Can not replace field...
-java.lang.NoSuchFieldException: modifiers
-	at java.base/java.lang.Class.getDeclaredField(Class.java:2417)
-[catch] at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:779)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceFieldValue(DarculaLFCustoms.java:770)
-	at com.revivius.nb.darcula.DarculaLFCustoms.replaceProjectTabColors(DarculaLFCustoms.java:727)
-	at com.revivius.nb.darcula.DarculaLFCustoms.createLookAndFeelCustomizationKeysAndValues(DarculaLFCustoms.java:294)
-	at org.netbeans.swing.plaf.LFCustoms.getLookAndFeelCustomizationKeysAndValues(LFCustoms.java:171)
-	at org.netbeans.swing.plaf.Startup.installLFCustoms(Startup.java:334)
-	at org.netbeans.swing.plaf.Startup.installPerLFDefaults(Startup.java:250)
-	at org.netbeans.swing.plaf.Startup.install(Startup.java:228)
-	at org.netbeans.swing.plaf.Startup.run(Startup.java:536)
-	at org.netbeans.core.CoreBridgeImpl$1$1.run(CoreBridgeImpl.java:112)
-	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
+WARNING [null]: Last record repeated again.
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/eclipselink/eclipselink.jar
+WARNING [null]: Last record repeated again.
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.38 netbeans-release-428-on-20190716]
 	org.openide.util [9.12 netbeans-release-428-on-20190716]
@@ -875,64 +324,23 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.lib.uihandler [1.50 netbeans-release-428-on-20190716]
 	org.netbeans.modules.uihandler [2.40 netbeans-release-428-on-20190716]
 	org.netbeans.modules.uihandler.exceptionreporter [1.34 netbeans-release-428-on-20190716]
-	com.google.gson [2.7.0 2.7.0]
-	org.netbeans.modules.textmate.lexer/0 [1.3 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.platform.ui/1 [1.47 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.project.ui/1 [1.80 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.sourceui/1 [1.50.0.1.25.32.5 1 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.testrunner [1.25 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.testrunner.ui [1.9 netbeans-release-428-on-20190716]
-	org.netbeans.libs.testng/1 [1.19 netbeans-release-428-on-20190716]
-	org.netbeans.modules.testng [2.25 netbeans-release-428-on-20190716]
-	org.netbeans.modules.testng.ui [1.13 netbeans-release-428-on-20190716]
-	org.apache.commons.logging [1.1.1 1.1.1]
-	org.netbeans.modules.maven.embedder/2 [2.58 netbeans-release-428-on-20190716]
-	org.netbeans.modules.maven.indexer/2 [2.44 netbeans-release-428-on-20190716]
-	org.apache.commons.codec [1.3.0 1.3.0]
-	org.netbeans.modules.maven.model/1 [1.49 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.api.common/0 [1.128 netbeans-release-428-on-20190716]
-	org.netbeans.modules.swing.validation/2 [1.37 netbeans-release-428-on-20190716]
-	org.netbeans.modules.maven.indexer.ui/2 [2.39 netbeans-release-428-on-20190716]
-	org.netbeans.modules.maven/2 [2.133 netbeans-release-428-on-20190716]
-	org.netbeans.modules.testng.maven [2.21 netbeans-release-428-on-20190716]
-	org.netbeans.modules.java.testrunner.ant [1.7 netbeans-release-428-on-20190716]
-	org.netbeans.modules.testng.ant [2.20 netbeans-release-428-on-20190716]
-	org.netbeans.lib.terminalemulator [1.42 netbeans-release-428-on-20190716]
-	org.netbeans.modules.terminal.nb [1.5 netbeans-release-428-on-20190716]
-	org.netbeans.libs.javafx [2.12 netbeans-release-428-on-20190716]
-	org.netbeans.html.xhr4j [1.6.1 1.6.1]
-	net.java.html.json [1.6.1 1.6.1]
-	net.java.html [1.6.1 1.6.1]
-	net.java.html.boot.fx [1.6.1 1.6.1]
-	net.java.html.boot [1.6.1 1.6.1]
-	org.netbeans.html.ko4j [1.6.1 1.6.1]
-	org.netbeans.api.htmlui [1.12 netbeans-release-428-on-20190716]
-	org.netbeans.modules.templatesui [1.8 netbeans-release-428-on-20190716]
-	org.netbeans.modules.templates/1 [1.12 netbeans-release-428-on-20190716]
-	org.netbeans.modules.team.ide [1.18 netbeans-release-428-on-20190716]
-	org.netbeans.modules.tasklist.ui/1 [1.36.0.1.1 1 netbeans-release-428-on-20190716]
-	org.netbeans.modules.tasklist.todo/1 [1.36.0.1 1 netbeans-release-428-on-20190716]
-	org.netbeans.modules.tasklist.projectint/1 [1.34 netbeans-release-428-on-20190716]
-	org.netbeans.modules.tasklist.kit [1.33 netbeans-release-428-on-20190716]
-	org.netbeans.libs.ini4j/1 [1.39 netbeans-release-428-on-20190716]
-	org.netbeans.libs.svnClientAdapter/1 [1.45 netbeans-release-428-on-20190716]
-	org.netbeans.modules.subversion [1.46.0.42.1 netbeans-release-428-on-20190716]
-	org.netbeans.libs.cglib/1 [1.31 netbeans-release-428-on-20190716]
-	org.netbeans.libs.springframework/1 [1.42 netbeans-release-428-on-20190716]
-	org.netbeans.modules.j2ee.core.utilities/0 [1.38 netbeans-release-428-on-20190716]
-	org.netbeans.modules.j2ee.metadata/0 [1.37 netbeans-release-428-on-20190716]
-	org.netbeans.modules.ant.browsetask [1.45 netbeans-release-428-on-20190716]
-	org.netbeans.modules.ant.debugger/1 [1.42.0.2 netbeans-release-428-on-20190716]
-	org.netbeans.modules.ant.freeform/1 [1.51 netbeans-release-428-on-20190716]
+	org.netbeans.insane/1 [1.34.0.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.core.multitabs/1 [1.17.0.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.editor.bookmarks/1 [1.42 netbeans-release-428-on-20190716]
 	org.netbeans.modules.editor.plain.lib/1 [1.38 netbeans-release-428-on-20190716]
 	com.jcraft.jsch [0.1.54 0.1.54]
 	org.netbeans.modules.dlight.nativeexecution [1.44.0.1 1 netbeans-release-428-on-20190716]
+	org.netbeans.lib.terminalemulator [1.42 netbeans-release-428-on-20190716]
+	org.netbeans.modules.terminal.nb [1.5 netbeans-release-428-on-20190716]
 	org.netbeans.modules.dlight.terminal [1.28.0.1 1 netbeans-release-428-on-20190716]
+	org.netbeans.modules.tasklist.projectint/1 [1.34 netbeans-release-428-on-20190716]
+	org.netbeans.modules.tasklist.todo/1 [1.36.0.1 1 netbeans-release-428-on-20190716]
+	org.netbeans.modules.tasklist.ui/1 [1.36.0.1.1 1 netbeans-release-428-on-20190716]
+	org.netbeans.modules.tasklist.kit [1.33 netbeans-release-428-on-20190716]
 	org.netbeans.core.multitabs.project [1.15.0.1.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.editor.search [1.30.0.0.55 0 netbeans-release-428-on-20190716]
 	org.netbeans.modules.languages.diff [1.38 netbeans-release-428-on-20190716]
+	org.apache.commons.logging [1.1.1 1.1.1]
 	org.netbeans.modules.html.parser/1 [1.39.0.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.html.validation/1 [1.35 netbeans-release-428-on-20190716]
 	org.netbeans.modules.languages.manifest [1.37 netbeans-release-428-on-20190716]
@@ -949,6 +357,40 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.editor.macros/0 [1.36.0.1.23 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.editor.plain/2 [1.40 netbeans-release-428-on-20190716]
 	org.netbeans.modules.ide.kit [1.38 netbeans-release-428-on-20190716]
+	org.netbeans.modules.timers/1 [1.36 netbeans-release-428-on-20190716]
+	com.google.gson [2.7.0 2.7.0]
+	org.netbeans.modules.textmate.lexer/0 [1.3 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.platform.ui/1 [1.47 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.project.ui/1 [1.80 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.sourceui/1 [1.50.0.1.25.32.5 1 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.testrunner [1.25 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.testrunner.ui [1.9 netbeans-release-428-on-20190716]
+	org.netbeans.libs.testng/1 [1.19 netbeans-release-428-on-20190716]
+	org.netbeans.modules.testng [2.25 netbeans-release-428-on-20190716]
+	org.netbeans.modules.testng.ui [1.13 netbeans-release-428-on-20190716]
+	org.netbeans.modules.maven.embedder/2 [2.58 netbeans-release-428-on-20190716]
+	org.netbeans.modules.maven.indexer/2 [2.44 netbeans-release-428-on-20190716]
+	org.apache.commons.codec [1.3.0 1.3.0]
+	org.netbeans.modules.maven.model/1 [1.49 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.api.common/0 [1.128 netbeans-release-428-on-20190716]
+	org.netbeans.modules.swing.validation/2 [1.37 netbeans-release-428-on-20190716]
+	org.netbeans.modules.maven.indexer.ui/2 [2.39 netbeans-release-428-on-20190716]
+	org.netbeans.modules.maven/2 [2.133 netbeans-release-428-on-20190716]
+	org.netbeans.modules.testng.maven [2.21 netbeans-release-428-on-20190716]
+	org.netbeans.modules.java.testrunner.ant [1.7 netbeans-release-428-on-20190716]
+	org.netbeans.modules.testng.ant [2.20 netbeans-release-428-on-20190716]
+	org.netbeans.modules.templates/1 [1.12 netbeans-release-428-on-20190716]
+	org.netbeans.modules.team.ide [1.18 netbeans-release-428-on-20190716]
+	org.netbeans.libs.ini4j/1 [1.39 netbeans-release-428-on-20190716]
+	org.netbeans.libs.svnClientAdapter/1 [1.45 netbeans-release-428-on-20190716]
+	org.netbeans.modules.subversion [1.46.0.42.1 netbeans-release-428-on-20190716]
+	org.netbeans.libs.cglib/1 [1.31 netbeans-release-428-on-20190716]
+	org.netbeans.libs.springframework/1 [1.42 netbeans-release-428-on-20190716]
+	org.netbeans.modules.j2ee.core.utilities/0 [1.38 netbeans-release-428-on-20190716]
+	org.netbeans.modules.j2ee.metadata/0 [1.37 netbeans-release-428-on-20190716]
+	org.netbeans.modules.ant.browsetask [1.45 netbeans-release-428-on-20190716]
+	org.netbeans.modules.ant.debugger/1 [1.42.0.2 netbeans-release-428-on-20190716]
+	org.netbeans.modules.ant.freeform/1 [1.51 netbeans-release-428-on-20190716]
 	org.netbeans.modules.projectui.buildmenu/1 [1.31.0.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.ant.kit [1.34 netbeans-release-428-on-20190716]
 	org.netbeans.modules.i18n/1 [1.58 netbeans-release-428-on-20190716]
@@ -1045,7 +487,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.notifications [1.13 netbeans-release-428-on-20190716]
 	org.netbeans.core.netigso [1.36 netbeans-release-428-on-20190716]
 	org.netbeans.modules.netbinox [1.46 netbeans-release-428-on-20190716]
-	org.netbeans.insane/1 [1.34.0.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.nbjunit/1 [1.93 netbeans-release-428-on-20190716]
 	org.netbeans.modules.nbjavac.impl [1.6 190220]
 	org.netbeans.modules.nbjavac/1 [1.6 190220]
@@ -1073,8 +514,10 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.junit.ui [1.10 netbeans-release-428-on-20190716]
 	org.netbeans.modules.maven.junit.ui [1.9 netbeans-release-428-on-20190716]
 	org.netbeans.modules.maven.junit/1 [1.38 netbeans-release-428-on-20190716]
-	org.netbeans.modules.maven.htmlui [1.5 netbeans-release-428-on-20190716]
 	org.netbeans.modules.maven.hints/1 [1.45 netbeans-release-428-on-20190716]
+	org.netbeans.libs.freemarker/1 [2.39.0.238 238 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.project/1 [1.81 netbeans-release-428-on-20190716]
+	org.netbeans.modules.maven.apisupport/1 [1.64 netbeans-release-428-on-20190716]
 	org.netbeans.modules.masterfs.windows [1.21 netbeans-release-428-on-20190716]
 	org.netbeans.modules.masterfs.nio2 [1.20 netbeans-release-428-on-20190716]
 	com.google.guava [15.0.0 15.0.0]
@@ -1085,16 +528,10 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.lexer.nbbridge/1 [1.37.0.1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.languages.ini [1.30 netbeans-release-428-on-20190716]
 	org.netbeans.modules.kotlin.editor [1.0 netbeans-release-428-on-20190716]
-	org.netbeans.modules.ko4j.debugging [1.7 netbeans-release-428-on-20190716]
 	org.netbeans.modules.keyring.fallback [1.13 netbeans-release-428-on-20190716]
 	org.netbeans.modules.keyring.impl [1.29 netbeans-release-428-on-20190716]
 	org.netbeans.modules.junit.ant.ui [1.10 netbeans-release-428-on-20190716]
 	org.netbeans.modules.junit.ant [1.8 netbeans-release-428-on-20190716]
-	org.netbeans.lib.nbjshell [1.7 netbeans-release-428-on-20190716]
-	org.netbeans.modules.debugger.jpda.projects [1.45 netbeans-release-428-on-20190716]
-	org.netbeans.modules.debugger.jpda.projectsui [1.8 netbeans-release-428-on-20190716]
-	org.netbeans.modules.debugger.jpda/2 [1.112.0.80 80 netbeans-release-428-on-20190716]
-	org.netbeans.modules.jshell.support [1.5.0.25.55.17.1.5 netbeans-release-428-on-20190716]
 	org.netbeans.modules.javascript2.sdoc [1.3 netbeans-release-428-on-20190716]
 	org.netbeans.modules.javascript2.requirejs [0.12 netbeans-release-428-on-20190716]
 	org.netbeans.modules.javascript2.react [0.4 netbeans-release-428-on-20190716]
@@ -1156,7 +593,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.git [1.27.0.1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.form.refactoring/0 [0.22.0.1.4.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.modules.form.kit [1.33 netbeans-release-428-on-20190716]
-	org.netbeans.modules.extexecution.process.jdk9 [1.5 netbeans-release-428-on-20190716]
 	org.apache.commons.io [1.4 1.4]
 	org.netbeans.modules.extexecution.process [1.32 netbeans-release-428-on-20190716]
 	org.netbeans.modules.extexecution.impl [1.30 netbeans-release-428-on-20190716]
@@ -1168,6 +604,9 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.docker.ui/0 [1.5 netbeans-release-428-on-20190716]
 	org.netbeans.modules.docker.editor/0 [1.5 netbeans-release-428-on-20190716]
 	org.netbeans.modules.dlight.nativeexecution.nb [1.5 netbeans-release-428-on-20190716]
+	org.netbeans.modules.debugger.jpda.projects [1.45 netbeans-release-428-on-20190716]
+	org.netbeans.modules.debugger.jpda.projectsui [1.8 netbeans-release-428-on-20190716]
+	org.netbeans.modules.debugger.jpda/2 [1.112.0.80 80 netbeans-release-428-on-20190716]
 	org.netbeans.modules.debugger.jpda.ui/1 [1.59 netbeans-release-428-on-20190716]
 	org.netbeans.modules.debugger.jpda.visual/1 [1.22 netbeans-release-428-on-20190716]
 	org.netbeans.modules.debugger.jpda.trufflenode/1 [1.2 netbeans-release-428-on-20190716]
@@ -1187,17 +626,22 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.bugzilla [1.82 netbeans-release-428-on-20190716]
 	org.netbeans.modules.bugzilla.exceptionreporter [1.29 netbeans-release-428-on-20190716]
 	org.netbeans.modules.bugtracking.bridge [1.50 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.wizards [1.25 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.refactoring [1.42 netbeans-release-428-on-20190716]
+	org.netbeans.libs.nbi.ant [1.27 netbeans-release-428-on-20190716]
+	org.netbeans.libs.nbi.engine [1.26 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.installer [1.28 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.ant [2.77 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.harness [1.47 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.kit [1.35 netbeans-release-428-on-20190716]
+	org.netbeans.modules.apisupport.installer.maven [1.27 netbeans-release-428-on-20190716]
 	org.netbeans.modules.ant.grammar/1 [1.49 netbeans-release-428-on-20190716]
 	org.netbeans.libs.svnClientAdapter.javahl/1 [1.29 netbeans-release-428-on-20190716]
 	org.netbeans.libs.oracle.jsparser/1 [1.0 20181030-d1e23ce8c855]
-	org.netbeans.libs.javafx.win [11.1 netbeans-release-428-on-20190716]
 	org.netbeans.libs.graaljs/1 [1.1 netbeans-release-428-on-20190716]
-	org.netbeans.libs.freemarker/1 [2.39.0.238 238 netbeans-release-428-on-20190716]
-	org.netbeans.lib.nbjshell9 [1.4 netbeans-release-428-on-20190716]
 	org.netbeans.core.network [1.17 netbeans-release-428-on-20190716]
 	org.netbeans.core.nativeaccess/1 [1.36 netbeans-release-428-on-20190716]
 	org.netbeans.core.io.ui/1 [1.35 netbeans-release-428-on-20190716]
-	org.netbeans.core.browser.webview/1 [1.20.0.1.1 1 netbeans-release-428-on-20190716]
 	org.netbeans.api.progress.compat8 [1.52 netbeans-release-428-on-20190716]
 	org.eclipse.mylyn.commons.xmlrpc [3.17.0 3.17.0.v20150625-2042]
 	org.eclipse.mylyn.commons.repositories.core [1.9.0 1.9.0.v20150625-2042]
@@ -1216,21 +660,21 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	com.junichi11.netbeans.modules.rainbow.braces [1.2.0 190522]
 	com.jcraft.jzlib [1.0.7 1.0.7]
 	com.googlecode.javaewah.JavaEWAH [0.7.9 0.7.9]
-	br.com.tiagopedroso.javaparainiciantes/1 [1.0.3 190710]
-INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.6.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.6.1 resolved
-INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.6.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.markdown.core@2.6.0.v20150901-2143 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@2.6.0.v20150901-2143 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@2.6.0.v20150901-2143 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.6.2.201501210735-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.json@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.fx@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.ko4j@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.boot.script@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.geo@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle net.java.html.sound@1.6.1 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.netbeans.html.xhr4j@1.6.1 resolved
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/docs/javax.persistence-2.1.0-doc.zip
-WARNING [null]: Last record repeated again.
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.j2ee.eclipselink/modules/ext/eclipselink/eclipselink.jar
-WARNING [null]: Last record repeated again.
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.javacapi/modules/ext/nb-javac-api.jar
-WARNING [null]: Last record repeated again.
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-impl.jar
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.libs.jaxb/modules/ext/jaxb/jaxb-xjc.jar
 WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Can not resolve URL: nbinst://org.netbeans.modules.xml.jaxb.api/modules/ext/jaxb/api/jsr173_1.0_api.jar
@@ -1243,20 +687,9 @@ INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows syst
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
-INFO [org.openide.awt.Toolbar]: Too long AWTTask: 564 ms for org.openide.awt.Toolbar$Folder@2dac964e(FolderList{MultiFileObject@717a4048[Toolbars/Debug]})
-WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform\modules\org-netbeans-modules-uihandler.jar took 1.308 ms
-SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Line number:1
-SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Column number:1
-SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Public ID:null
-SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: System ID:null
-SEVERE [org.netbeans.modules.welcome.content.RSSFeed]: Error message:Fim prematuro do arquivo.
-WARNING [org.openide.filesystems.FileUtil]: FileUtil.normalizeFile(C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Editors\AnnotationTypes\CurrentPCLinePart.xml) took 627 ms. Result is C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Editors\AnnotationTypes\CurrentPCLinePart.xml
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
 Diagnostic information
 Input arguments:
-	-Djdk.home=C:/Users/TPEDROSO/Desktop/PortableNetbeans/jdks/jdk12
-	-Dnetbeans.default_userdir_root=C:/Users/TPEDROSO/.netbeans
-	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\python;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\identity;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extra;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
-	-Dnetbeans.home=C:/Users/TPEDROSO/Desktop/PortableNetbeans/netbeans/platform
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
 	-XX:+UseStringDeduplication
 	-Xss2m
@@ -1291,121 +724,449 @@ Input arguments:
 	--add-exports=java.base/sun.reflect.annotation=ALL-UNNAMED
 	--add-exports=jdk.javadoc/com.sun.tools.javadoc.main=ALL-UNNAMED
 	-XX:+IgnoreUnrecognizedVMOptions
+	-Djdk.home=./jdks/jdk8
+	-Dnetbeans.home=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\platform
+	-Dnetbeans.user=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\
+	-Dnetbeans.default_userdir_root=C:\Users\TPEDROSO\AppData\Roaming\NetBeans
 	-XX:+HeapDumpOnOutOfMemoryError
-	-XX:HeapDumpPath=./user//var/log/heapdump.hprof
+	-XX:HeapDumpPath=C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\\var\log\heapdump.hprof
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\nb;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extide;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\apisupport;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\websvccommon;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\enterprise;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\mobility;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\profiler;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\python;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\identity;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\harness;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cnd;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\cndext;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\dlight;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\extra;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javacard;C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx
+	exit
 Compiler: HotSpot 64-Bit Tiered Compilers
-Heap memory usage: initial 252,0MB maximum 4016,0MB
-Non heap memory usage: initial 7,3MB maximum -1b
-Garbage collector: G1 Young Generation (Collections=20 Total time spent=0s)
-Garbage collector: G1 Old Generation (Collections=0 Total time spent=0s)
-Classes: loaded=9308 total loaded=9308 unloaded 0
+Heap memory usage: initial 252,0MB maximum 3570,0MB
+Non heap memory usage: initial 2,4MB maximum -1b
+Garbage collector: PS Scavenge (Collections=12 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=3 Total time spent=0s)
+Classes: loaded=10580 total loaded=10580 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 16.840.781.824
-INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'output'. Reason: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]
-org.xml.sax.SAXParseException; lineNumber: 26; columnNumber: 2; O conteúdo dos elementos deve consistir em dados ou marcação do caractere correto.
-	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
-	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.startOfMarkup(XMLDocumentFragmentScannerImpl.java:2573)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2663)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
-	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:534)
-	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
-	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
-	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
-	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1216)
-	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
-	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.parse(XMLSettingsSupport.java:795)
-Caused: java.io.IOException: MultiFileObject@5095cd7c[Windows2Local/Components/output.settings]
-	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.parse(XMLSettingsSupport.java:799)
-	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.getSettings(SerialDataConvertor.java:380)
-	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:400)
-[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:547)
-	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:657)
-	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:453)
-	at org.netbeans.core.windows.WindowManagerImpl.getTopComponentForID(WindowManagerImpl.java:1002)
-	at org.netbeans.core.windows.model.TopComponentSubModel.getTopComponent(TopComponentSubModel.java:353)
-	at org.netbeans.core.windows.model.TopComponentSubModel.getTopComponents(TopComponentSubModel.java:65)
-	at org.netbeans.core.windows.model.DefaultModeModel.getTopComponents(DefaultModeModel.java:406)
-	at org.netbeans.core.windows.model.DefaultModel.getModeTopComponents(DefaultModel.java:919)
-	at org.netbeans.core.windows.Central.getModeTopComponents(Central.java:1552)
-	at org.netbeans.core.windows.ModeImpl.getTopComponents(ModeImpl.java:199)
-	at org.netbeans.core.windows.Central.doCheckSlidingModes(Central.java:1072)
-	at org.netbeans.core.windows.PersistenceHandler.getConfig(PersistenceHandler.java:602)
-	at org.netbeans.core.windows.PersistenceHandler.save(PersistenceHandler.java:289)
-	at org.netbeans.core.windows.WindowSystemImpl.save(WindowSystemImpl.java:68)
-	at org.netbeans.core.NbLifeExit.doStopInfra(NbLifeExit.java:127)
-	at org.netbeans.core.NbLifeExit.run(NbLifeExit.java:74)
-	at org.netbeans.core.startup.ModuleSystem$2.run(ModuleSystem.java:340)
-	at org.netbeans.ModuleManager.shutDownAsync(ModuleManager.java:2294)
-	at org.netbeans.core.startup.ModuleSystem.shutDownAsync(ModuleSystem.java:346)
-	at org.netbeans.core.NbLifeExit.doExit(NbLifeExit.java:114)
-	at org.netbeans.core.NbLifeExit.run(NbLifeExit.java:71)
-	at org.netbeans.modules.openide.util.NbMutexEventProvider$Event.doEvent(NbMutexEventProvider.java:95)
-	at org.netbeans.modules.openide.util.NbMutexEventProvider$Event.readAccess(NbMutexEventProvider.java:70)
-	at org.netbeans.modules.openide.util.LazyMutexImplementation.readAccess(LazyMutexImplementation.java:66)
-	at org.openide.util.Mutex.readAccess(Mutex.java:235)
-	at org.netbeans.core.NbLifecycleManager.exit(NbLifecycleManager.java:209)
-	at org.netbeans.core.NbLifecycleManager.exit(NbLifecycleManager.java:115)
-	at org.netbeans.core.windows.view.ui.MainWindow$9.windowClosing(MainWindow.java:529)
-	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
-	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2068)
-	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
-	at java.desktop/java.awt.Window.processEvent(Window.java:2027)
-	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5008)
-	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
-	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2762)
-	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4840)
-	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
-	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
-	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
-	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
-	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
-	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
-	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:136)
-	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: Long time unused modules found, disabling:
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova.platforms.android
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.extbrowser.chrome
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.angular
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.ojet
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.bower
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.cdnjs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.grunt
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.gulp
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.jstestdriver
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.karma
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.nodejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extjs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jade
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jquery
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jsdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.kit
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.nodejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.prototypejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.react
-WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ide\modules\ext\org.eclipse.xtend.lib.macro-2.14.0.jar took 937 ms
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.requirejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.sdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.languages.ini
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.kit
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.samples
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.clientproject
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.javascript.debugger
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.webkit.tooling
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.apisupport.project.NbModuleProject$4.run(NbModuleProject.java:735)
+INFO [org.openide.awt.Toolbar]: Too long AWTTask: 2.594 ms for org.openide.awt.MenuBar$LazyMenu$MenuFolder@45dbd89f(FolderList{MultiFileObject@7c4695d9[Menu/Profile]})
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 11.260 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 47 binary roots took: 1.332 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModuloJavaParaIniciantes\src took: 335 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModuloJavaParaIniciantes\build\classes-generated took: 114 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModuloJavaParaIniciantes\test\unit\src took: 336 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\BibliotecaJavaSimples_prd\src took: 3.742 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\BibliotecaJavaSimples_prd\test took: 136 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModeloProjetoJavaParaIniciantes\src took: 91 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModeloProjetoJavaParaIniciantes\test took: 39 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\NetbeansModule_JavaParaIniciantes\ModuloJavaParaIniciantes\build\test\unit\classes-generated took: 57 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\src took: 33 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\test took: 43 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 10 source roots took: 4.926 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 2 ms]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [JavaHyperlinkProvider.instance, org.netbeans.modules.j2ee.persistence.editor.hyperlink.NamedQueryHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance, org.netbeans.modules.apisupport.project.hyperlink.ApisupportHyperlinkProvider.instance]
+INFO [org.netbeans.modules.java.source.parsing.JavacParser]: Did not parse anything for: file:/C:/Users/TPEDROSO/source/NetbeansProjects/NetbeansModule_JavaParaIniciantes/ModuloJavaParaIniciantes/src/br/com/tiagopedroso/javaparainiciantes/AppSimplesWizardIterator.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
+WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/Samples/ marked with the position attribute: [JavaFX], but some are: [Standard, HTML5]
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@2e322540[MultiFileObject@165f2ee4[Actions/Help/master-help.xml]]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 29 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 1 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\domstubs.zip took: 115 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\corestubs.zip took: 51 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\reststubs.zip took: 42 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 208 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.autoupdate.ui.LocalDownloadSupport.getDefaultDir(LocalDownloadSupport.java:328)
+INFO [org.netbeans.updater]: 780: Unpacking br-com-tiagopedroso-javaparainiciantes.nbm
+INFO [org.netbeans.updater]: File installed C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml@0
+INFO [org.netbeans.updater]: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm:netbeans/config/Modules/br-com-tiagopedroso-javaparainiciantes.xml to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+INFO [org.netbeans.updater]: File installed C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz@0
+INFO [org.netbeans.updater]: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm:netbeans/modules/br-com-tiagopedroso-javaparainiciantes.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz
+INFO [org.netbeans.updater]: Unpack C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+INFO [org.netbeans.updater]: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar.pack.gz deleted.
+WARNING [org.netbeans.updater]: Error: Cannot delete C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\br-com-tiagopedroso-javaparainiciantes.nbm
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7df0679c
+INFO [org.netbeans.updater]: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml modified.
+INFO [org.netbeans.updater]: File installed C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml@0
+INFO [org.netbeans.updater]: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\additional_information.xml deleted.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [JavaHyperlinkProvider.instance, org.netbeans.modules.j2ee.persistence.editor.hyperlink.NamedQueryHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance, org.netbeans.modules.apisupport.project.hyperlink.ApisupportHyperlinkProvider.instance]
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	br.com.tiagopedroso.javaparainiciantes/1 [1.0.3 190920]
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/ marked with the position attribute: [Java], but some are: [Maven2, AntJava, ClientSide, Import, Samples]
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
+WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Project/Samples/ marked with the position attribute: [JavaFX], but some are: [Standard, HTML5]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 8 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.modules.project.uiapi.DefaultProjectOperationsImplementation]: project folder C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss@792698d8:66c1f8a5 was not empty: [C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\src@64c540:63e0e19, C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\lib@6720e3:f69182f, C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\manifest.mf@87e1ea34:350edfd2, C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\test@e5e9ad4:28562ed3]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 54 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\reststubs.zip took: 71 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\domstubs.zip took: 127 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\jsstubs\corestubs.zip took: 50 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 248 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.modules.java.source.indexing.JavaIndex]: Ignoring root with no ClassPath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\src
+WARNING [org.netbeans.modules.java.source.indexing.JavaIndex]: Ignoring root with no ClassPath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimplesOIniciosss\test
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 3 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 binary roots took: 111 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src took: 265 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\test took: 70 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 335 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ActionProviderSupport.verifyUserPropertiesFile(ActionProviderSupport.java:927)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.modules.project.uiapi.DefaultProjectOperationsImplementation]: project folder C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples@d19aee5b:46876066 was not empty: [C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\lib@182e6ee2:1ec5af62]
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@402f2671 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 192 ms.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.css.visual.HtmlEditorSourceTask@6f58e14a : class org.netbeans.modules.css.visual.HtmlEditorSourceTask ignored cancel for 53 ms.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.csl.hints.GsfHintsProvider@38283e51 : class org.netbeans.modules.csl.hints.GsfHintsProvider ignored cancel for 3.234 ms.
+log4j:WARN No appenders could be found for logger (nu.validator.source.LocationRecorder).
+log4j:WARN Please initialize the log4j system properly.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 12 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 binary roots took: 55 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src took: 221 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\test took: 37 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 258 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@45a5792a : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 95 ms.
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=listaexercicios.NewJFrame$1 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesAdded: type ElementHandle[kind=OTHER; sigs=listaexercicios.NewJFrame$1 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=listaexercicios.NewJFrame$1 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesAdded: type ElementHandle[kind=OTHER; sigs=listaexercicios.NewJFrame$1 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 554 > endpos: -1
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=com.sun.media.sound.SoftVoice$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=com.sun.media.sound.SoftVoice$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=com.sun.media.sound.SoftVoice$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=com.sun.media.sound.SoftVoice$4 ]
+INFO [org.netbeans.modules.bugtracking.BugtrackingManager]: Loading stored repositories took 76 millis.
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$4 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$5 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$2 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessBuilder$Redirect$3 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.ch.ExtendedSocketOption$1 ]
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 1.524 > endpos: -1
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.AbstractRefactoring$ProgressL@39659f10 called start multiple times
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@6b76ef83 called start multiple times
+WARNING [org.netbeans.modules.java.source.parsing.JavacParser]: ClassPath identity changed for C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src\listaexercicios\Diamond.java@dd69907e:1afb85a, class path owner: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples (class org.netbeans.modules.java.j2seproject.J2SEProject) original sourcePath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src;C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\test new sourcePath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.AbstractRefactoring$ProgressL@237b8db3 called start multiple times
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@65235715 called start multiple times
+WARNING [org.netbeans.modules.java.source.parsing.JavacParser]: ClassPath identity changed for C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src\listaexercicios\Recurso.java@d32f0b8b:1afb85a, class path owner: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples (class org.netbeans.modules.java.j2seproject.J2SEProject) original sourcePath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src;C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\test new sourcePath: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\src
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 595 > endpos: -1
+INFO [org.netbeans.modules.java.source.parsing.JavacParser]: Did not parse anything for: file:/C:/Users/TPEDROSO/source/NetbeansProjects/AppSimples/src/listaexercicios/Exercicio101.java
+INFO [org.netbeans.modules.mercurial]: version: null
+INFO [org.netbeans.modules.subversion]: Finished indexing svn cache with 0 entries. Elapsed time: 1 ms.
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@9e43878 returned null parser for Snapshot 805084535: MimePath[text/x-java] org.netbeans.modules.editor.NbEditorDocument@22fc5ce9, mimeType='text/x-java', kitClass=null, length=301, version=10, file=null
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@9e43878 returned null parser for Snapshot 64474483: MimePath[text/x-java] org.netbeans.modules.editor.NbEditorDocument@2dcc4ad5, mimeType='text/x-java', kitClass=null, length=139, version=13, file=null
+INFO [org.netbeans.modules.gsf.testrunner.ui.api.UICommonUtils]: File cannot be found for selected node: Libraries.
+INFO [null]: Last record repeated 2 more times.
+WARNING [org.openide.text.CloneableEditorSupport]: org.netbeans.modules.properties.PropertiesEditorSupport should override asynchronousOpen(). See http://bits.netbeans.org/dev/javadoc/org-openide-text/apichanges.html#CloneableEditorSupport.asynchronousOpen
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 29 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples2\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples2\src took: 684 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 684 ms (New or modified files: 1, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Classes/ marked with the position attribute: [Kotlin.kt], but some are: [Executavel.java, Program.java, Main.java, Class.java, Enum.java, AnnotationType.java, Interface.java, Exception.java, package-info.java, module-info.java, Empty.java, Package, Singleton.java, Code, ShellClass.java]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.000 for both Templates/UnitTests/EmptyTestNGTest.java and Templates/UnitTests/JUnit5Suite.java
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Other/ marked with the position attribute: [Applet.java, JApplet.java], but some are: [SQLTemplate.sql, html.html, welcomePrimefaces.xhtml, welcomeRichfaces.xhtml, welcomeIcefaces.xhtml, xhtml.xhtml, javascript.js, reactjs.jsx, json.json, SpringXMLConfig.shadow, JnlpTemplate.jnlp, properties.properties, CascadeStyleSheet.css, Dockerfile, Project.xml, EmptyYAML.yml, EmptyINI.ini, CustomTask.java, ApacheConfTemplate.conf, file, Folder]
+WARNING [null]: Note - org.netbeans.modules.templates.ui.TemplatesPanel ought to override getPersistenceType() rather than using the client property or accepting the default.
+Even though the source level of  is set to: 9, java.util.zip.CRC32C cannot be found on the system module path: 
+Changing source level to 1.8
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Classes/AnnotationType.java and Templates/Classes/Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.100 for both Templates/Classes/Package and Templates/Classes/Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated 5 more times.
+WARNING [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+WARNING [null]: Last record repeated 12 times in total.
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@3dd148f6 returned null parser for Snapshot 1402393355: Program.java
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@3dd148f6 returned null parser for Snapshot 1995868054: Program.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated 2 more times.
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 236483401: Executavel.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 703017907: Main.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 1028356162: Class.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 1316976629: Enum.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 382987786: AnnotationType.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 645332447: Enum.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 1109109341: AnnotationType.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 165467630: Interface.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 1144144319: Interface.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 221097256: Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 22665161: Bean.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@102bf2d0 returned null parser for Snapshot 155882100: Singleton.java
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [org-netbeans-modules-csl-editor-hyperlink-GsfHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.text.CloneableEditorSupport]: org.netbeans.modules.xml.text.TextEditorSupport should override asynchronousOpen(). See http://bits.netbeans.org/dev/javadoc/org-openide-text/apichanges.html#CloneableEditorSupport.asynchronousOpen
+
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+SEVERE [org.openide.actions.SaveAction]
+
+msg
+Caused: org.openide.util.UserCancelException: Content could not be saved using the current encoding
+	at org.netbeans.modules.xml.text.TextEditorSupport.handleUnsupportedEncoding(TextEditorSupport.java:448)
+	at org.netbeans.modules.xml.text.TextEditorSupport.saveDocument(TextEditorSupport.java:410)
+	at org.netbeans.modules.xml.text.TextEditorSupport$Env.save(TextEditorSupport.java:666)
+[catch] at org.openide.actions.SaveAction.performAction(SaveAction.java:107)
+	at org.openide.actions.SaveAction.performAction(SaveAction.java:77)
+	at org.openide.actions.SaveAction$Delegate.actionPerformed(SaveAction.java:224)
+	at org.openide.awt.ContextAction$Performer.actionPerformed(ContextAction.java:448)
+	at org.openide.awt.ContextManager.actionPerformed(ContextManager.java:263)
+	at org.openide.awt.ContextAction.actionPerformed(ContextAction.java:106)
+	at org.openide.util.actions.ActionInvoker$1.run(ActionInvoker.java:68)
+	at org.openide.util.actions.ActionInvoker$ActionRunnable.actionPerformed(ActionInvoker.java:137)
+	at org.netbeans.core.ModuleActions.invokeAction(ModuleActions.java:84)
+	at org.netbeans.modules.openide.actions.ActionsBridgeImpl.invokeAction(ActionsBridgeImpl.java:35)
+	at org.openide.util.actions.ActionInvoker$ActionRunnable.doRun(ActionInvoker.java:128)
+	at org.openide.util.actions.ActionInvoker$2.run(ActionInvoker.java:85)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+There were some problems while saving XML Document
+Cause: Content could not be saved using the current encoding
+SEVERE [org.openide.actions.SaveAction]
+
+msg
+Caused: org.openide.util.UserCancelException: Content could not be saved using the current encoding
+	at org.netbeans.modules.xml.text.TextEditorSupport.handleUnsupportedEncoding(TextEditorSupport.java:448)
+	at org.netbeans.modules.xml.text.TextEditorSupport.saveDocument(TextEditorSupport.java:410)
+	at org.netbeans.modules.xml.text.TextEditorSupport$Env.save(TextEditorSupport.java:666)
+	at org.openide.loaders.DataObject$DOSavable.handleSave(DataObject.java:1460)
+	at org.netbeans.spi.actions.AbstractSavable.save(AbstractSavable.java:84)
+[catch] at org.openide.actions.SaveAction.performAction(SaveAction.java:107)
+	at org.openide.actions.SaveAction.performAction(SaveAction.java:84)
+	at org.openide.actions.SaveAction$Delegate.actionPerformed(SaveAction.java:224)
+	at org.openide.awt.ContextAction$Performer.actionPerformed(ContextAction.java:448)
+	at org.openide.awt.ContextManager.actionPerformed(ContextManager.java:263)
+	at org.openide.awt.ContextAction.actionPerformed(ContextAction.java:106)
+	at org.openide.util.actions.ActionInvoker$1.run(ActionInvoker.java:68)
+	at org.openide.util.actions.ActionInvoker$ActionRunnable.actionPerformed(ActionInvoker.java:137)
+	at org.netbeans.core.ModuleActions.invokeAction(ModuleActions.java:84)
+	at org.netbeans.modules.openide.actions.ActionsBridgeImpl.invokeAction(ActionsBridgeImpl.java:35)
+	at org.openide.util.actions.ActionInvoker$ActionRunnable.doRun(ActionInvoker.java:128)
+	at org.openide.util.actions.ActionInvoker$2.run(ActionInvoker.java:85)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+There were some problems while saving XML Document
+Cause: Content could not be saved using the current encoding
+INFO [org.netbeans.modules.masterfs.watcher.windows.WindowsNotifier]: Adding listener for drive C:/
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.csl.hints.GsfHintsProvider@648e9555 : class org.netbeans.modules.csl.hints.GsfHintsProvider ignored cancel for 66 ms.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [GsfHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.bind.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.bootstrap.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.element.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.equals.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.extend.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.forEach.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.fromJson.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.identity.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.injector.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isArray.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isDate.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isDefined.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isElement.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isNumber.html".
+INFO [null]: Last record repeated again.
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.isObject.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.lowercase.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.module.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.noop.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.reloadWithDebugInfo.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.toJson.html".
+INFO [AngularDoc]: Cannot load AngularJS documentation from "https://code.angularjs.org/1.4.0/docs/partials/api/ng/function/angular.uppercase.html".
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [org-netbeans-modules-csl-editor-hyperlink-GsfHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 1477208359: Singleton.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 1348334145: AnnotationType.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 50350028: Enum.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 588312045: Class.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 409923065: Main.java
+INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@164a6a6b returned null parser for Snapshot 1367816247: Program.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.csl.hints.GsfHintsProvider@d54ee46 : class org.netbeans.modules.csl.hints.GsfHintsProvider ignored cancel for 194 ms.
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [GsfHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 10 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.modules.project.uiapi.DefaultProjectOperationsImplementation]: project folder C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples@d19aee5b:d877b8b was not empty: [C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\lib@182e6ee2:7ee32683]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 40 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 3 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\TPEDROSO\source\NetbeansProjects\AppSimples\test took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.openide.filesystems.Ordering]: Encountered non-boolean relative ordering attribute <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/> from org.netbeans.spi.project.AuxiliaryConfiguration.http://www.netbeans.org/ns/editor-bookmarks/2#editor-bookmarks on Templates/ClientSide
+WARNING [org.openide.filesystems.Ordering]: Found same position 1.800 for both Templates/PayaraResources and Templates/SunResources
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FBAFt#002Ehistory#007C_21'. Reason: Top component MultiView-java#002Eso888FBAFt#002Ehistory#007C_21 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FBB0t#002Ehistory#007C_22'. Reason: Top component MultiView-java#002Eso888FBB0t#002Ehistory#007C_22 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-html#002EsoD3B7C259xt#002Ehistory#007C_7'. Reason: Top component MultiView-html#002EsoD3B7C259xt#002Ehistory#007C_7 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-sql#002Esou1A60C181xt#002Ehistory#007C_1'. Reason: Top component MultiView-sql#002Esou1A60C181xt#002Ehistory#007C_1 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-javascript9BE7A9A5text#002Ehistory#007C'. Reason: Top component MultiView-javascript9BE7A9A5text#002Ehistory#007C could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-css#002EsouAA09361xt#002Ehistory#007C_1'. Reason: Top component MultiView-css#002EsouAA09361xt#002Ehistory#007C_1 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-json#002EsoC63685Btext#002Ehistory#007C'. Reason: Top component MultiView-json#002EsoC63685Btext#002Ehistory#007C could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-html#002EsoD3B7C253xt#002Ehistory#007C_1'. Reason: Top component MultiView-html#002EsoD3B7C253xt#002Ehistory#007C_1 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-xml#002EtexEE7DCAE1xt#002Ehistory#007C_1'. Reason: Top component MultiView-xml#002EtexEE7DCAE1xt#002Ehistory#007C_1 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-xml#002Etex23F1BEEFtext#002Ehistory#007C'. Reason: Top component MultiView-xml#002Etex23F1BEEFtext#002Ehistory#007C could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FB94t#002Ehistory#007C_15'. Reason: Top component MultiView-java#002Eso888FB94t#002Ehistory#007C_15 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC8xt#002Ehistory#007C_8'. Reason: Top component MultiView-java#002Eso10CA9CC8xt#002Ehistory#007C_8 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-sql#002Esou6B61DD8Ftext#002Ehistory#007C'. Reason: Top component MultiView-sql#002Esou6B61DD8Ftext#002Ehistory#007C could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC4xt#002Ehistory#007C_4'. Reason: Top component MultiView-java#002Eso10CA9CC4xt#002Ehistory#007C_4 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-propertiesFF320223xt#002Ehistory#007C_1'. Reason: Top component MultiView-propertiesFF320223xt#002Ehistory#007C_1 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC5xt#002Ehistory#007C_5'. Reason: Top component MultiView-java#002Eso10CA9CC5xt#002Ehistory#007C_5 could not be located or loaded from Components folder.
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso2D0988CFtext#002Ehistory#007C'. Reason: Top component MultiView-java#002Eso2D0988CFtext#002Ehistory#007C could not be located or loaded from Components folder.
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.
+WARNING [org.netbeans.JarClassLoader]: Opening C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\java\maven\lib\aether-connector-basic-1.0.2.v20150114.jar took 1.092 ms

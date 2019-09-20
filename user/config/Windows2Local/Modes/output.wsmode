@@ -5,12 +5,11 @@
   <kind type="view" />
   <state type="joined"  minimized="true"  />
   <constraints>
-    <path orientation="vertical" number="0" weight="0.75"/>
-    <path orientation="horizontal" number="60" weight="0.8200468933177022"/>
+    <path orientation="horizontal" number="60" weight="0.7595588235294117"/>
     <path orientation="vertical" number="80" weight="0.3"/>
     <path orientation="horizontal" number="30" weight="0.8"/>
   </constraints>
-  <bounds x="192" y="707" width="768" height="208" />
+  <bounds x="136" y="495" width="546" height="145" />
   <frame state="0"/>
     <active-tc  prev-id="output" />
     <empty-behavior permanent="true"/>

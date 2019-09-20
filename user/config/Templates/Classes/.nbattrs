@@ -11,7 +11,7 @@
         <attr name="position" intvalue="300"/>
     </fileobject>
     <fileobject name="Exception.java">
-        <attr name="position" intvalue="600"/>
+        <attr name="position" intvalue="807"/>
     </fileobject>
     <fileobject name="Executavel.java">
         <attr name="displayName" stringvalue="Arquivo Java para Iniciantes"/>
@@ -21,7 +21,7 @@
         <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Interface.java">
-        <attr name="position" intvalue="400"/>
+        <attr name="position" intvalue="312"/>
     </fileobject>
     <fileobject name="Main.java">
         <attr name="position" intvalue="100"/>
@@ -34,6 +34,6 @@
         <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Singleton.java">
-        <attr name="position" intvalue="1100"/>
+        <attr name="position" intvalue="425"/>
     </fileobject>
 </attributes>

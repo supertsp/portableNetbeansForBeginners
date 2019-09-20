@@ -1,1494 +1,170 @@
-jul 25, 2019 2:21:39 PM org.netbeans.updater.UpdaterFrame <clinit>
+set 18, 2019 8:11:40 AM org.netbeans.updater.UpdaterFrame <clinit>
 INFORMA합ES: Entering updater.jar .................................................................... 
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-zend2.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-zend2.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-antproject.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-antproject.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-editor.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-editor.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-refactoring.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-refactoring.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-annotation.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-annotation.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-symfony2.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-symfony2.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-doctrine2.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-doctrine2.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-editor.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-editor.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-selenium2-php.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-selenium2-php.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-zend2.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-zend2.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-code-analysis.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-code-analysis.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-htmlui.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-htmlui.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-and-gradle-kit.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-and-gradle-kit.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-doctrine2.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-doctrine2.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-java.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-java.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-annotation.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-annotation.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-latte.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-latte.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-composer.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-composer.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-zend.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-zend.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext\groovy.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext\groovy.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-templates.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-templates.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm-commons.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm-commons.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-phpmodule.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-phpmodule.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-executable.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-executable.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-editor.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-editor.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-apigen.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-apigen.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-codeception.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-codeception.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-samples.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-samples.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-samples.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-samples.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-spellchecker-bindings-php.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-spellchecker-bindings-php.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-kit.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-kit.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-refactoring.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-refactoring.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-openjfx-samples.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-openjfx-samples.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-executable.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-executable.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-maven-groovy.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-maven-groovy.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext\groovy-ant.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext\groovy-ant.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\ext deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-nette-tester.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-nette-tester.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-smarty.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-smarty.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\gradle-tooling-api.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\gradle-tooling-api.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-zend.xml
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-zend.xml deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-samples.jar
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-samples.jar deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:41 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-javaee.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-javaee.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-and-gradle-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-and-gradle-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-framework.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-framework.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader\settings.gradle
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader\settings.gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phpunit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phpunit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-composer.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-composer.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-platform.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-platform.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\VERSION.txt
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\VERSION.txt deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-maven-groovy.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-maven-groovy.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-nette2.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-nette2.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-editor.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-editor.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-symfony2.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-symfony2.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-scenebuilder.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-scenebuilder.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-openjfx-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-openjfx-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-codeception.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-codeception.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-libs-groovy.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-libs-groovy.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-openjfx-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-openjfx-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-refactoring.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-refactoring.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-smarty.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-smarty.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-dbgp.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-dbgp.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-project.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-project.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-zend.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-zend.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-libs-javacup.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-libs-javacup.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-support.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-support.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-latte.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-latte.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-libs-groovy.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-libs-groovy.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-testing.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-testing.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-latte.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-latte.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\VERSION.txt
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\VERSION.txt deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-refactoring.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-refactoring.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-project.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-project.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-framework.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-framework.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-templates.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-templates.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-editor.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-editor.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-editor.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-editor.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\VERSION.txt
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\VERSION.txt deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-code-analysis.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-code-analysis.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-htmlui.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-htmlui.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-project.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-project.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-project.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-project.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-nette2.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-nette2.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-nette-tester.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-nette-tester.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-kit.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-kit.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-zend.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-zend.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-dbgp.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-dbgp.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-spellchecker-bindings-php.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-spellchecker-bindings-php.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-gsp.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-gsp.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-editor.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-editor.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\zend\NetBeansCommandsProvider.php
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\zend\NetBeansCommandsProvider.php deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\zend deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-selenium2-php.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-selenium2-php.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-editor.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-editor.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-support.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-support.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-symfony.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-symfony.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-twig.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-twig.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-templates.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-templates.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-samples.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-samples.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-maven-groovy.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-maven-groovy.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-smarty.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-smarty.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-gsp.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-gsp.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-platform.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-platform.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-htmlui.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-htmlui.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-editor.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-editor.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-javaee.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-gradle-javaee.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-languages-neon.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-languages-neon.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-libs-javacup.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-libs-javacup.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs\phpsigfiles.zip
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs\phpsigfiles.zip deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phpdoc.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phpdoc.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-javaee.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-javaee.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-languages-neon.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-languages-neon.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-dbgp.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-dbgp.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-codeception.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-codeception.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-refactoring.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-refactoring.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\slf4j-api.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\slf4j-api.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-executable.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-executable.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-documentation.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-documentation.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\ext\java-cup-11a.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\ext\java-cup-11a.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\ext deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-phpmodule.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-phpmodule.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-apigen.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-apigen.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-twig.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-twig.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\slf4j-jdk14.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\slf4j-jdk14.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-and-gradle-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-and-gradle-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-twig.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-twig.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-refactoring.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-refactoring.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-smarty.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-smarty.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-kit.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-kit.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-libs-javacup.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-libs-javacup.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-composer.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-composer.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-doctrine2.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-doctrine2.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-latte.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-latte.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-kit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-kit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-refactoring.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-refactoring.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phpdoc.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phpdoc.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm-tree.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\asm-tree.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-apigen.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-apigen.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-nette-tester.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-nette-tester.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-kit.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-kit.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-documentation.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-documentation.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-javaee.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-javaee.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phpunit.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phpunit.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-kit.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-kit.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader\build.gradle
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader\build.gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\daemon-loader deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-phpmodule.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-phpmodule.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-annotation.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-annotation.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-testing.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-testing.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-maven-groovy.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-maven-groovy.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\phpunit\NetBeansSuite.php
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\phpunit\NetBeansSuite.php deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\phpunit deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-java.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-java.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phpunit.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phpunit.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-twig.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-twig.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-scenebuilder.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-scenebuilder.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-editor.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-editor.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-atoum.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-atoum.xml deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-editor.jar
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-editor.jar deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phing.xml
-jul 25, 2019 2:21:42 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phing.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-spellchecker-bindings-php.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-spellchecker-bindings-php.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\org.jacoco.core.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle\org.jacoco.core.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\gradle deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-platform.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-platform.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-kit.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-kit.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-editor.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-editor.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-dbgp.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-dbgp.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-antproject.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-antproject.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phing.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-phing.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-project.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-project.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-gsp.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-gsp.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-scenebuilder.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-scenebuilder.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-doctrine2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-doctrine2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-project.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-project.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-selenium2-php.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-selenium2-php.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-samples.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-samples.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-project.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking\org-netbeans-modules-javafx2-project.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-editor.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-editor.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-editor.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-editor.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-openjfx-samples.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-openjfx-samples.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phing.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phing.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-codeception.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-codeception.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-nette-tester.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-nette-tester.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-symfony.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-symfony.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-scenebuilder.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-javafx2-scenebuilder.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-samples.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-samples.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-editor.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-editor.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-framework.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-api-framework.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phpunit.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phpunit.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phpdoc.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-phpdoc.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-libs-groovy.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-libs-groovy.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-platform.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules\org-netbeans-modules-javafx2-platform.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-nette2.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-nette2.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-code-analysis.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-code-analysis.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-antproject.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-antproject.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs\predefined_vars.zip
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs\predefined_vars.zip deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\docs deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-symfony2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-symfony2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-zend2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-zend2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-and-gradle-kit.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-and-gradle-kit.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-symfony.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-symfony.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-htmlui.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-gradle-htmlui.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-nette2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-nette2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-symfony2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-symfony2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phing.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-phing.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-atoum.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-atoum.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-samples.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-samples.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-languages-neon.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-languages-neon.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-support.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-groovy-support.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-kit.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules\org-netbeans-modules-javafx2-kit.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\config deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx\.lastModified deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\javafx deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-support.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-support.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-zend2.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-zend2.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-project.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-project.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-testing.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-api-testing.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-composer.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-composer.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-kit.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-gradle-kit.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-antproject.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-groovy-antproject.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-refactoring.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules\org-netbeans-modules-groovy-refactoring.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-apigen.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-apigen.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-documentation.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-api-documentation.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phpdoc.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-phpdoc.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-java.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking\org-netbeans-modules-gradle-java.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-atoum.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking\org-netbeans-modules-php-atoum.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\update_tracking deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-symfony.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-symfony.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-atoum.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules\org-netbeans-modules-php-atoum.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-samples.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules\org-netbeans-modules-php-samples.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\ergonomics\config\Modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-gsp.jar
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules\org-netbeans-modules-groovy-gsp.jar deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\groovy\modules deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-code-analysis.xml
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDelete
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules\org-netbeans-modules-php-code-analysis.xml deleted.
-jul 25, 2019 2:21:43 PM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
-INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\php\config\Modules deleted.
-jul 25, 2019 2:24:56 PM org.netbeans.updater.UpdaterFrame <clinit>
-INFORMA합ES: Entering updater.jar .................................................................... 
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater unpack
+set 18, 2019 8:11:41 AM org.netbeans.updater.ModuleUpdater unpack
 INFORMA합ES: 780: Unpacking com-revivius-nb-darcula.nbm
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater unpack
+set 18, 2019 8:11:41 AM org.netbeans.updater.ModuleUpdater unpack
 INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\com-revivius-nb-darcula.nbm:netbeans/config/Modules/com-revivius-nb-darcula.xml to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\com-revivius-nb-darcula.xml
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater unpack
+set 18, 2019 8:11:41 AM org.netbeans.updater.ModuleUpdater unpack
 INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\com-revivius-nb-darcula.nbm:netbeans/modules/com-revivius-nb-darcula.jar to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\com-revivius-nb-darcula.jar
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater unpack
+set 18, 2019 8:11:41 AM org.netbeans.updater.ModuleUpdater unpack
 INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\com-revivius-nb-darcula.nbm:netbeans/modules/ext/com.revivius.nb-darcula/com-bulenkov/darcula.jar to C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\ext\com.revivius.nb-darcula\com-bulenkov\darcula.jar
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater unpack
+set 18, 2019 8:11:41 AM org.netbeans.updater.ModuleUpdater unpack
 INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\com-revivius-nb-darcula.nbm deleted.
-jul 25, 2019 2:24:58 PM org.netbeans.updater.XMLUtil write
-INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@31d0e694
-jul 25, 2019 2:24:58 PM org.netbeans.updater.UpdateTracking$Module write
+set 18, 2019 8:11:41 AM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@5eca3ff3
+set 18, 2019 8:11:41 AM org.netbeans.updater.UpdateTracking$Module write
 INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\com-revivius-nb-darcula.xml modified.
-jul 25, 2019 2:24:58 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+set 18, 2019 8:11:42 AM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
 INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\download\additional_information.xml deleted.
-jul 25, 2019 3:37:01 PM org.netbeans.updater.UpdaterFrame <clinit>
+set 19, 2019 9:00:15 AM org.netbeans.updater.UpdaterFrame <clinit>
 INFORMA합ES: Entering updater.jar .................................................................... 
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: 780: Unpacking org-netbeans-libs-oracle-jsparser.nbm
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: Backup file C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\config\Modules\org-netbeans-libs-oracle-jsparser.xml to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update\backup\netbeans\config\Modules\org-netbeans-libs-oracle-jsparser.xml
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\config\Modules\org-netbeans-libs-oracle-jsparser.xml deleted.
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update\download\org-netbeans-libs-oracle-jsparser.nbm:netbeans/config/Modules/org-netbeans-libs-oracle-jsparser.xml to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\config\Modules\org-netbeans-libs-oracle-jsparser.xml
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update\download\org-netbeans-libs-oracle-jsparser.nbm:netbeans/modules/ext/com.oracle.js.parser.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\ext\com.oracle.js.parser.jar.pack.gz
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack200
-INFORMA합ES: Unpack C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\ext\com.oracle.js.parser.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\ext\com.oracle.js.parser.jar
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\ext\com.oracle.js.parser.jar.pack.gz deleted.
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: Copied file C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update\download\org-netbeans-libs-oracle-jsparser.nbm:netbeans/modules/org-netbeans-libs-oracle-jsparser.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\org-netbeans-libs-oracle-jsparser.jar.pack.gz
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack200
-INFORMA합ES: Unpack C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\org-netbeans-libs-oracle-jsparser.jar.pack.gz to C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\org-netbeans-libs-oracle-jsparser.jar
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\modules\org-netbeans-libs-oracle-jsparser.jar.pack.gz deleted.
-jul 25, 2019 3:37:03 PM org.netbeans.updater.ModuleUpdater unpack
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update\download\org-netbeans-libs-oracle-jsparser.nbm deleted.
-jul 25, 2019 3:37:03 PM org.netbeans.updater.XMLUtil write
-INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7907ba0e
-jul 25, 2019 3:37:03 PM org.netbeans.updater.UpdateTracking$Module write
-INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\netbeans\webcommon\update_tracking\org-netbeans-libs-oracle-jsparser.xml modified.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 9:00:15 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\deactivate_later.txt
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\deactivate_later.txt deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 9:37:14 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\deactivate_later.txt
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\deactivate_later.txt deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 11:08:32 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules deleted.
+set 19, 2019 11:17:28 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 19, 2019 11:17:29 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update_tracking deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules\br-com-tiagopedroso-javaparainiciantes.jar deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\modules deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate\to_uninstall.txt deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update\deactivate deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\update deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: Deleting file: C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDelete
+INFORMA합ES: File C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules\br-com-tiagopedroso-javaparainiciantes.xml deleted.
+set 20, 2019 9:18:13 AM org.netbeans.updater.ModuleDeactivator doDeleteEmptyDirectory
+INFORMA합ES: Directory C:\Users\TPEDROSO\Desktop\PortableNetbeans\user\config\Modules deleted.

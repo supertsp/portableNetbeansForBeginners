@@ -2,11 +2,11 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
+//<editor-fold defaultstate="collapsed" desc="imports...">
 //import ...
-// </editor-fold>
+//</editor-fold>
 
-// <editor-fold defaultstate="collapsed" desc="documentation...">
+//<editor-fold defaultstate="collapsed" desc="documentation...">
 /**
  * Objective: ...
  * 
@@ -14,7 +14,8 @@ package ${package};
  * 
  * @version 1.0.0
  * @author ${user}, ${date}, ${time}
- */// </editor-fold>
+ * Last update: -
+ *///</editor-fold>
 public interface ${name} {
     
     //<editor-fold defaultstate="collapsed" desc="constants attributes...">

@@ -2,7 +2,7 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
+//<editor-fold defaultstate="collapsed" desc="imports...">
 import static java.lang.Double.parseDouble;
 import static java.lang.Float.parseFloat;
 import static java.lang.Integer.parseInt;
@@ -11,9 +11,9 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
 import java.util.Scanner;
-// </editor-fold>
+//</editor-fold>
 
-// <editor-fold defaultstate="collapsed" desc="documentation...">
+//<editor-fold defaultstate="collapsed" desc="documentation...">
 /**
  * Objective: ...
  * 
@@ -21,7 +21,8 @@ import java.util.Scanner;
  * 
  * @version 1.0.0
  * @author ${user}, ${date}, ${time}
- */// </editor-fold>
+ * Last update: -
+ *///</editor-fold>
 public class ${name} {
 
     //<editor-fold defaultstate="collapsed" desc="static attributes...">

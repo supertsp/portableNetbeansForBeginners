@@ -7,9 +7,324 @@
     <id>https://blogs.apache.org/netbeans/feed/entries/atom</id>
             <link rel="self" type="application/atom+xml" href="https://blogs.apache.org/netbeans/feed/entries/atom" />
         <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/" />
-        <updated>2019-07-26T05:23:44+00:00</updated>
-    <generator uri="http://roller.apache.org" version="5.2.3">Apache Roller</generator>
+        <updated>2019-09-17T18:51:49+00:00</updated>
+    <generator uri="http://roller.apache.org" version="5.2.4">Apache Roller</generator>
         <entry>
+        <id>https://blogs.apache.org/netbeans/entry/netbeans-at-oracle-code-one</id>
+        <title type="html">NetBeans at Oracle Code One 2019</title>
+        <author><name>Geertjan</name></author>
+        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/netbeans-at-oracle-code-one"/>
+        <published>2019-09-11T08:24:59+00:00</published>
+        <updated>2019-09-11T09:00:06+00:00</updated> 
+        <category term="General" label="General" />
+        <content type="html">An Apache NetBeans schedule for those going to Oracle Code One 2019 next week!
+
+&lt;p&gt;&lt;b&gt;Saturday, September 14&lt;/b&gt;
+
+&lt;p&gt;19:00 Hang out in the Thirsty Bear in Howard Street
+
+&lt;p&gt;&lt;b&gt;Monday, September 16&lt;/b&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;b&gt;Why You Should Be Coding with the NetBeans IDE&lt;/b&gt; [BOF1321]
+&lt;br&gt;Mark Stephens, Developer, IDRsolutions
+&lt;br&gt;Ethan Price, Developer, IDRsolutions
+&lt;br&gt;02:30 PM - 03:15 PM | Moscone South - Room 305&lt;/li&gt;
+&lt;p&gt;
+&lt;li&gt;&lt;b&gt;Java IDE Wars&lt;/b&gt; [DEV1375]
+&lt;br&gt;Ken Fogel, Teacher, Dawson College
+&lt;br&gt;Scott Selikoff, Software Developer, Selikoff Solutions, LLC
+&lt;br&gt;Jeanne Boyarsky, Developer, CodeRanch
+&lt;br&gt;04:00 PM - 04:45 PM | Moscone South - Room 304&lt;/li&gt;
+&lt;p&gt;
+&lt;li&gt;&lt;b&gt;Hacking the NetBeans IDE&lt;/b&gt; [BOF1338]
+&lt;br&gt;Mark Stephens, IDR Solutions
+&lt;br&gt;06:00 PM - 06:45 PM | Moscone South - Room 309&lt;/li&gt;
+&lt;p&gt;
+&lt;li&gt;&lt;b&gt;Hacking the NetBeans Profiler&lt;/b&gt; [BOF4170]
+&lt;br&gt;Ryan Cuprak, Formulation Applications R&amp;D Development Senior Manager, Dassault Systemes
+&lt;br&gt;06:00 PM - 06:45 PM | Moscone South - Room 305&lt;/li&gt;
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Tuesday, September 17&lt;/b&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;b&gt;Getting Started with Deep Learning for Enterprise Java Developers&lt;/b&gt; [DEV2126]
+&lt;br&gt;Zoran Sevarac, Associate Professor, University of Belgrade, Faculty of Organisational Sciences
+&lt;br&gt;Suyash Joshi, Developer Marketing Director, Oracle
+&lt;br&gt;12:30 PM - 01:15 PM | Moscone South - Room 308&lt;/li&gt;
+&lt;p&gt;
+&lt;li&gt;&lt;b&gt;Testing on Oracle Autonomous Database with Homomorphic Encryption, Using NetBeans and Java - BYOL&lt;/b&gt; [HOL3196]
+&lt;br&gt;Simon Bain, Founder &amp; CTO, ShieldIO
+&lt;br&gt;12:30 PM - 02:30 PM |  Moscone West - Room 3024C&lt;/li&gt;
+
+&lt;/p&gt;&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Wednesday, September 18&lt;/b&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;b&gt;Apache NetBeans: Its Status and Future&lt;/b&gt; [DEV2506]
+&lt;br&gt;Geertjan Wielenga, Product Manager, Oracle
+&lt;br&gt;Mark Stephens, Developer, IDRsolutions
+&lt;br&gt;Ethan Price, Developer, IDRsolutions
+&lt;br&gt;06:00 PM - 06:45 PM | Moscone South - Room 206&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Thursday, September 19&lt;/b&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;b&gt;Testing on Oracle Autonomous Database with Homomorphic Encryption, Using NetBeans and Java - BYOL&lt;/b&gt; [HOL3196]
+&lt;br&gt;Simon Bain, Founder &amp; CTO, ShieldIO
+&lt;br&gt;09:00 AM - 11:00 AM |  Moscone West - Room 3024C&lt;/li&gt;
+
+&lt;p&gt;
+&lt;li&gt;19:00 Hang out in the Thirsty Bear in Howard Street&lt;/li&gt;
+
+&lt;/p&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>https://blogs.apache.org/netbeans/entry/what-to-do-with-javafx</id>
+        <title type="html">What to do with JavaFX and OpenJFX in Apache NetBeans?</title>
+        <author><name>Geertjan</name></author>
+        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/what-to-do-with-javafx"/>
+        <published>2019-08-25T09:29:48+00:00</published>
+        <updated>2019-08-25T11:30:21+00:00</updated> 
+        <category term="General" label="General" />
+        <content type="html">If Apache NetBeans runs on JDK 8, a range of Ant-based JavaFX sample applications are available in NetBeans to help you get started and learn about JavaFX. However, if NetBeans does not run on JDK 8, the available Ant-based JavaFX samples don&amp;#39;t work (can&amp;#39;t be created) but there&amp;#39;s no point in working on fixing that since from JDK 11 onwards JavaFX is no longer part of the JDK and Maven/Gradle-based &lt;a href=&quot;https://openjfx.io&quot;&gt;OpenJFX&lt;/a&gt; samples are obvious candidates for integration into NetBeans instead.
+
+&lt;p&gt;However, how should that be handled in NetBeans? Before Apache NetBeans 11.1, there was no integration with OpenJFX. Only JavaFX projects and samples were built into NetBeans, which led to a great deal of confusion since when someone sets up an environment from scratch today, they&amp;#39;re unlikely to have installed JDK 8. Much more likely, they&amp;#39;ll have JDK 11 or 12 and then those JavaFX projects and samples in NetBeans cannot be used, i.e., when you try to create those samples, while running NetBeans on anything other than JDK 8, you&amp;#39;re simply told in the wizard that you have the wrong JDK. And then you somehow need to find out that the best thing to do next is use the &lt;a href=&quot;https://openjfx.io/openjfx-docs/&quot;&gt;OpenJFX documentation&lt;/a&gt; to set up the OpenJFX samples in NetBeans.&lt;/p&gt;
+
+&lt;p&gt;That is suboptimal and so Gluon integrated their two sample applications into Apache NetBeans 11.1, i.e., in the most recent release:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apache/netbeans/tree/master/javafx/openjfx.samples&quot;&gt;https://github.com/apache/netbeans/tree/master/javafx/openjfx.samples&lt;/a&gt;
+
+&lt;p&gt;That is a step forward but still suboptimal, as explained here by Jaroslav Tulach:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apache/netbeans/pull/1241#issuecomment-491357016&quot;&gt;https://github.com/apache/netbeans/pull/1241#issuecomment-491357016&lt;/a&gt;
+
+&lt;p&gt;That entire new module is not needed. Literally, all that needs to be done is that this file needs to be updated with two new template registrations:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apache/netbeans/blob/master/java/maven/src/org/netbeans/modules/maven/newproject/MavenWizardIterator.java&quot;&gt;https://github.com/apache/netbeans/blob/master/java/maven/src/org/netbeans/modules/maven/newproject/MavenWizardIterator.java&lt;/a&gt;
+
+&lt;p&gt;And, literally, this is all that needs to be added there, since the two OpenJFX samples are on Maven Central and as pointed out above, &amp;quot;NetBeans has a nice support for creating wizards over Maven archetypes.&amp;quot;&lt;/p&gt;
+
+&lt;pre&gt;@TemplateRegistration(folder = ArchetypeWizards.TEMPLATE_FOLDER, 
+position = 925, 
+displayName = &amp;quot;#LBL_Maven_FXML_Archetype&amp;quot;, 
+iconBase = &amp;quot;org/netbeans/modules/maven/resources/jaricon.png&amp;quot;, 
+description = &amp;quot;javafx.html&amp;quot;)
+@Messages(&amp;quot;LBL_Maven_FXML_Archetype=FXML JavaFX Maven Archetype&amp;quot;)
+public static WizardDescriptor.InstantiatingIterator&amp;lt;?&amp;gt; openJFXFML() {
+    return ArchetypeWizards.definedArchetype(&amp;quot;org.openjfx&amp;quot;, &amp;quot;javafx-archetype-fxml&amp;quot;, &amp;quot;0.0.2&amp;quot;, null, LBL_Maven_FXML_Archetype());
+}
+
+@TemplateRegistration(folder = ArchetypeWizards.TEMPLATE_FOLDER, 
+position = 926, 
+displayName = &amp;quot;#LBL_Maven_Simple_Archetype&amp;quot;, 
+iconBase = &amp;quot;org/netbeans/modules/maven/resources/jaricon.png&amp;quot;, 
+description = &amp;quot;javafx.html&amp;quot;)
+@Messages(&amp;quot;LBL_Maven_Simple_Archetype=Simple JavaFX Maven Archetype&amp;quot;)
+public static WizardDescriptor.InstantiatingIterator&amp;lt;?&amp;gt; openJFXSimple() {
+    return ArchetypeWizards.definedArchetype(&amp;quot;org.openjfx&amp;quot;, &amp;quot;javafx-archetype-simple&amp;quot;, &amp;quot;0.0.2&amp;quot;, null, LBL_Maven_Simple_Archetype());
+}&lt;/pre&gt;
+
+&lt;p&gt;That literally is all that is needed to be added to the Java source file above, instead of having a completely new module, which doesn&amp;#39;t integrate as neatly as the above with the Apache NetBeans infrastructure. (And this is a small tip for anyone else wanting to make their Maven archetypes available to NetBeans: the above is literally all you need to do.)&lt;/p&gt;
+
+&lt;p&gt;However, the fundamental question remains: how do we notify users of Apache NetBeans that they should be using OpenJFX and not JavaFX? Maybe we should simply remove all JavaFX projects and samples, however that would be unfortunate for anyone using JDK 8. Or maybe the solution is to create a category named &amp;quot;Legacy&amp;quot; in the New Project dialog and then put all JavaFX projects and samples there, so that it&amp;#39;s clear that they&amp;#39;re not recommended, while still having them available for JDK 8 users?&lt;/p&gt;
+
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>https://blogs.apache.org/netbeans/entry/simplified-apache-netbeans-welcome-screen</id>
+        <title type="html">Simplified Apache NetBeans Welcome Screen</title>
+        <author><name>Geertjan</name></author>
+        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/simplified-apache-netbeans-welcome-screen"/>
+        <published>2019-08-24T09:08:19+00:00</published>
+        <updated>2019-08-25T09:32:54+00:00</updated> 
+        <category term="General" label="General" />
+        <content type="html">To simplify the Welcome Screen and, in particular, replace all links to netbeans.org with netbeans.apache.org, I have created this issue and pull request:
+
+&lt;p&gt;&lt;a href=&quot;https://issues.apache.org/jira/browse/NETBEANS-3020&quot;&gt;https://issues.apache.org/jira/browse/NETBEANS-3020&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/apache/netbeans/pull/1457&quot;&gt;https://github.com/apache/netbeans/pull/1457&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All references to netbeans.org are replaced with equivalents at netbeans.apache.org and the News column, which pointed to netbeans.org, is removed from the tab below, while the Blogs column is renamed to News, since newsworthy items now come from here, i.e., from this blog:&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;400&quot; height=&quot;292&quot; src=&quot;https://issues.apache.org/jira/secure/attachment/12978380/apache-netbeans-welcome-new.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, the Featured Demo on the first tab is removed, best to have as few links to external places as possible, i.e., help reduce potential points of failure, especially here where having that demo in the page doesn&amp;#39;t add all that much while removing it reduces the need for external URL calls that could cause problems and slow things down.&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>https://blogs.apache.org/netbeans/entry/lsp-client-demo-ba-sh</id>
+        <title type="html">LSP Client demo - (ba)sh language server</title>
+        <author><name>Geertjan</name></author>
+        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/lsp-client-demo-ba-sh"/>
+        <published>2019-08-17T15:25:14+00:00</published>
+        <updated>2019-08-17T19:23:01+00:00</updated> 
+        <category term="General" label="General" />
+        <content type="html">&lt;p&gt;Below is a scenario by Jan Lahoda, the creator of LSP integration for Apache NetBeans, for how to integrate the bash language server with Apache NetBeans, including syntax highlighting.&lt;/p&gt;
+
+&lt;h3&gt;Setting Up&lt;/h3&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;&lt;p&gt;Install npm (and node.js). On Ubuntu, e.g., do &amp;quot;apt install npm&amp;quot;, though something different will be needed on Mac OS X.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a directory in which we are going to work, have a terminal opened in that directory.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install the bash-language-server:&lt;/p&gt;
+
+&lt;pre&gt;npm install bash-language-server&lt;/pre&gt;
+
+&lt;p&gt;On Mac OSX:&lt;/p&gt;
+
+&lt;pre&gt;npm install bash-language-server --unsafe-perm&lt;/pre&gt;
+
+&lt;p&gt;This will install the server into the current directory.&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Try the bash server:&lt;/p&gt;
+
+&lt;pre&gt;./node_modules/bash-language-server/bin/main.js --help&lt;/pre&gt;
+
+&lt;p&gt;You should see something like this:&lt;/p&gt;
+
+&lt;pre&gt;Usage:
+  bash-language-server start
+  bash-language-server -h | --help
+  bash-language-server -v | --version&lt;/pre&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;Create a NetBeans module. Create a File Type (Module Development/File Type), mime type: text/sh, file extension: sh&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;h3&gt;Syntax Coloring via TextMate&lt;/h3&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;Download the TextMate grammar file here, and put it alongside the newly created DataObject:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/microsoft/vscode/master/extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json&quot;&gt;https://raw.githubusercontent.com/microsoft/vscode/master/extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json&lt;/a&gt;&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;
+Add &amp;quot;TextMate Lexer&amp;quot; as a dependency of the module.
+&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Into the DataObject add this annotation:&lt;/p&gt;
+
+&lt;pre&gt;@GrammarRegistration(grammar=&amp;quot;shell-unix-bash.tmLanguage.json&amp;quot;, mimeType=&amp;quot;text/sh&amp;quot;)&lt;/pre&gt;
+
+&lt;p&gt;GrammarRegistration is:&lt;/p&gt;
+
+&lt;pre&gt;import org.netbeans.modules.textmate.lexer.api.GrammarRegistration;&lt;/pre&gt;
+
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;p&gt;This should lead to syntax highlighted source for .sh bash files taken from the TextMate grammar file.&lt;/p&gt;
+
+
+&lt;h3&gt;Language Support via the Language Server&lt;/h3&gt;
+
+&lt;p&gt;Next, we need to add language support using the language server.&lt;/p&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;Add &amp;quot;LSP Client&amp;quot; and &amp;quot;MIME Lookup API&amp;quot; as dependencies of the module.&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;Create a new class, ShellClient, in the module, put this into it, (replacing &amp;quot;&amp;lt;path-to-bash-language-server&amp;gt;&amp;quot; with the absolute path to &amp;quot;node_modules/bash-language-server&amp;quot;):&lt;/p&gt;
+
+&lt;pre&gt;import java.io.IOException;
+import org.netbeans.api.editor.mimelookup.MimeRegistration;
+import org.netbeans.modules.lsp.client.spi.LanguageServerProvider;
+import org.openide.util.Exceptions;
+import org.openide.util.Lookup;
+
+@MimeRegistration(mimeType=&amp;quot;text/sh&amp;quot;, service=LanguageServerProvider.class)
+public class ShellClient implements LanguageServerProvider {
+
+   @Override
+   public LanguageServerDescription startServer(Lookup lkp) {
+       try {
+           Process p = new ProcessBuilder(&amp;quot;&amp;lt;path-to-bash-language-server&amp;gt;/bin/main.js&amp;quot;, &amp;quot;start&amp;quot;).start();
+           return LanguageServerDescription.create(p.getInputStream(), p.getOutputStream(), p);
+       } catch (IOException ex) {
+           Exceptions.printStackTrace(ex);
+           return null;
+       }
+   }
+
+}&lt;/pre&gt;
+
+&lt;p&gt;You may need to explicitly call node in the above code, i.e., as follows:&lt;/p&gt;
+
+&lt;pre&gt;Process p = new ProcessBuilder(
+        &amp;quot;/usr/local/bin/node&amp;quot;, 
+        &amp;quot;&amp;lt;path-to-bash-language-server&amp;gt;/bin/main.js&amp;quot;, 
+        &amp;quot;start&amp;quot;).start();&lt;/pre&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;p&gt;Build and start the module.&lt;/p&gt;
+
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;p&gt;Caveat: the language server is started only for files that are inside a project, so create (any) new project, and inside the project, put a shell file. E.g. copy &amp;quot;bin/netbeans&amp;quot; as &amp;quot;test.sh&amp;quot; into the project. Open it in the editor - there should be syntax highlighting, Navigator, and code completion should show something, etc.&lt;/p&gt;</content>
+    </entry>
+    <entry>
+        <id>https://blogs.apache.org/netbeans/entry/why-does-apache-netbeans-need</id>
+        <title type="html">Why Does Apache NetBeans Need Its Own Parsers?</title>
+        <author><name>Geertjan</name></author>
+        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/why-does-apache-netbeans-need"/>
+        <published>2019-08-06T12:11:45+00:00</published>
+        <updated>2019-08-06T12:15:42+00:00</updated> 
+        <category term="General" label="General" />
+        <content type="html">A question was asked on the &lt;a href=&quot;https://lists.apache.org/thread.html/ebabfa11e9a88069a762e68a8ade3c70669fb070c891552ea847e4be@%3Cdev.netbeans.apache.org%3E&quot;&gt;Apache NetBeans mailing list&lt;/a&gt;: &amp;quot;I was just curious about the theoretical aspect of parsing. Isn&amp;#39;t there a unified parsing API, using ANTLR/lex/yacc which can parse any language given a grammar for it? Why do we use a different parsing implementation (like the Graal JS parser in this instance) when a unified approach will help us support lots of languages easily?&amp;quot;
+
+&lt;p&gt;Tim Boudreau, involved in NetBeans from its earliest hours, responds, in the thread linked above:&lt;/p&gt;
+
+&lt;b&gt;&lt;p&gt;First, in an IDE, you are *never* just &amp;quot;parsing&amp;quot;.  You are doing *a lot* with the results of the parse.  An IDE doesn&amp;#39;t have to just parse one file;  it must also understand the context of the project that file lives in;  how it relates to other files and those files interdependencies; multiple versions of languages;  and the fact that the results of a parse do not map cleanly to a bunch of stuff an IDE would show you that would be useful.  For example, say the caret is in a java method, and you want to find all other methods that call the one you&amp;#39;re in and show the user a list of them.  The amount of work that has to happen to answer that question is very, very large.  To do that quickly enough to be useful, you need to do it ahead of time and have a bunch of indexing and caching software behind the scenes (all of which must be adapted to whatever the parser provides) so you can look it up when you need it.  In short, a parser is kind of like a toilet seat by itself.  You don&amp;#39;t want to use it without a whole lot of plumbing attached to it.&lt;/p&gt;
+
+&lt;p&gt;Second, while there are tools like ANTLR (version 4 of which is awesome, by the way), there is still a lot of code you have to write to interact with the results of a parse to do something useful beyond syntax coloring in an IDE.  One of my side projects is tooling for NetBeans that *do* let you take an ANTLR grammar and auto generate a lot of the features a language plugin should have.  Even with that almost completely declarative, you wind up needing a lot of code.  One of the languages I&amp;#39;m testing it with is a simple language called YASL which lets you define javascript-like schemas with validation constraints (e.g., this field is a string, but it must be at least 7 characters and match this pattern;  this is an integer number but it must be &amp;gt; 1 and less than 1000 - that sort of thing).  All the parsing goodness in the world won&amp;#39;t write hints that notice that, say, the maximum is less than the minimum in an integer constraint and offer to swap them.  Someone has to write that by hand.&lt;/p&gt;
+
+&lt;p&gt;Third, in an IDE with a 20 year history, a lot of parser generating technologies have come and gone - javacc, javacup, ANTLR, and good old hand-written lexers and parsers.  Unifying them all would be an enormous amount of work, would break a lot of code that works just fine, and the end result would be - stuff we&amp;#39;ve already got, that already works, just with one-parser-generator-to-rule-them-all underneath.  Other than prettiness, I don&amp;#39;t know what problem that solves.&lt;/p&gt;
+
+&lt;p&gt;So, all of this is to say:  We use different parsing implementations because parsing is just a tiny piece of supporting a language, so it wouldn&amp;#39;t make the hard parts easier enough to be worth it.  And there will be new cool parser-generating technologies that come along, and it&amp;#39;s good to be able to use them, rather than be married to one-parser-generator-to-rule-them-all and have this conversation again, when they come along.&lt;/p&gt;&lt;/b&gt;</content>
+    </entry>
+    <entry>
         <id>https://blogs.apache.org/netbeans/entry/php-7-4-support</id>
         <title type="html">PHP 7.4 Support</title>
         <author><name>Junichi</name></author>
@@ -900,110 +1215,6 @@ indicate that the project has yet to be fully endorsed by the ASF.&lt;/i&gt;&lt;
 &lt;p&gt;Where is all this documented, how can anyone know what will be donated in which order, etc? Easy, go here, to the end of this page:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/NETBEANS/Apache+Transition&quot;&gt;https://cwiki.apache.org/confluence/display/NETBEANS/Apache+Transition&lt;/a&gt;&lt;/p&gt;</content>
-    </entry>
-    <entry>
-        <id>https://blogs.apache.org/netbeans/entry/tentative-schedule-for-apache-netbeans</id>
-        <title type="html">Tentative Schedule for Apache NetBeans (incubating) 9.0 Release</title>
-        <author><name>Geertjan</name></author>
-        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/tentative-schedule-for-apache-netbeans"/>
-        <published>2018-07-10T12:24:51+00:00</published>
-        <updated>2018-07-21T09:05:20+00:00</updated> 
-        <category term="General" label="General" />
-        <content type="html">&lt;p&gt;We&amp;#39;re currently running two processes, both of which it would be great if everyone would participate in -- and in fact it&amp;#39;s really important that everyone does these two things:&lt;/p&gt;
-
-&lt;ol&gt;
-
-&lt;li&gt;Vote in the PPMC thread:
-
-&lt;p&gt;&lt;a href=&quot;https://lists.apache.org/thread.html/a644bb8e3ba2cbd06328bb004f1b18b4171763cd3d78a9131615f687@%3Cdev.netbeans.apache.org%3E&quot;&gt;https://lists.apache.org/thread.html/a644bb8e3ba2cbd06328bb004f1b18b4171763cd3d78a9131615f687@%3Cdev.netbeans.apache.org%3E&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Doing the above means more than putting a +1, it means downloading the sources, building them, looking at keys, etc, as described above.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;Fill out the Community Acceptance survey, which is focused on the functionality (versus the sources, which is what the PPMC thread is about), which takes about 5 minutes:
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfw1WT1HDjR-nPMcXn8gBCQXk5k3IiXSoXW85FZezaPQQzGTQ/viewform&quot;&gt;https://docs.google.com/forms/d/e/1FAIpQLSfw1WT1HDjR-nPMcXn8gBCQXk5k3IiXSoXW85FZezaPQQzGTQ/viewform
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The Community Acceptance Survey runs until Sunday the 22nd of July. Issues found in the meantime will hopefully not be critical and not require a new voting candidate, but we&amp;#39;ll need to see how things go and nothing can be guaranteed here of course -- i.e., someone could find a blocker of some kind during the community acceptance survey process.&lt;/p&gt;&lt;/li&gt;
-
-&lt;/ol&gt;
-
-&lt;p&gt;Hopefully, nothing going wrong and everything going well, we&amp;#39;ll then be at a point to start the IPMC vote thread on the 23rd and, if everything goes well, release Apache NetBeans (incubating) 9.0 at the beginning of August.&lt;/p&gt;
-
-&lt;p&gt;After that we&amp;#39;ll work on the 2nd donation, relicensing it, moving it into master etc.&lt;/p&gt;
-</content>
-    </entry>
-    <entry>
-        <id>https://blogs.apache.org/netbeans/entry/netbeans-for-javaee-project-productivity</id>
-        <title type="html">Apache NetBeans and Java EE Productivity in Burkina Faso</title>
-        <author><name>Constantin Drabo</name></author>
-        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/netbeans-for-javaee-project-productivity"/>
-        <published>2018-07-03T21:13:35+00:00</published>
-        <updated>2018-07-03T21:31:53+00:00</updated> 
-        <category term="Technology" label="Technology" />
-        <category term="apache" scheme="http://roller.apache.org/ns/tags/" />
-        <category term="javaee" scheme="http://roller.apache.org/ns/tags/" />
-        <category term="netbeans" scheme="http://roller.apache.org/ns/tags/" />
-        <content type="html">Last Saturday (June 30, 2018) I was invited to COFAN (Conférence au Faso sur le Numérique) to present tips for building enterprise Java applications. COFAN is a conference divided into multiple sessions on a variety of technologies. It was started last year and the second tour has been taking place since May and it is sponsored by the government of Burkina Faso.
-
-&lt;p&gt;I was given the opportunity to talk about enterprise Java in general and to show how NetBeans can be a great tool to develop strong and professional Java enterprise applications.&lt;/p&gt;
-
-&lt;p&gt;A room filled with an attentive audience was very enthusiastic. They were also satisfied by the answers to their questions, while some decided to continue using NetBeans, with others promising to start working with it for the first time!&lt;/p&gt;
-
-&lt;p&gt;Pictures of the event are below:&lt;/p&gt;
-
-&lt;a href=&quot;https://blogs.apache.org/netbeans/mediaresource/e2bd868d-97e2-4c97-a457-93c2b96767d2&quot;&gt;&lt;img src=&quot;https://blogs.apache.org/netbeans/mediaresource/e2bd868d-97e2-4c97-a457-93c2b96767d2?t=true&quot; alt=&quot;Dg89kZAW0AMSZYu.jpg&quot;&gt;&lt;/a&gt;
-
-&lt;a href=&quot;https://blogs.apache.org/netbeans/mediaresource/9625fd82-4e53-4590-bba8-8812f8fbc8c5&quot;&gt;&lt;img src=&quot;https://blogs.apache.org/netbeans/mediaresource/9625fd82-4e53-4590-bba8-8812f8fbc8c5?t=true&quot; alt=&quot;room.jpg&quot;&gt;&lt;/a&gt;
-
-&lt;a href=&quot;https://blogs.apache.org/netbeans/mediaresource/91d0e57f-5c18-4ed8-8cfa-9eb615f1b62b&quot;&gt;&lt;img src=&quot;https://blogs.apache.org/netbeans/mediaresource/91d0e57f-5c18-4ed8-8cfa-9eb615f1b62b?t=true&quot; alt=&quot;36383483_10210031611501425_6227302090679517184_n.jpg&quot;&gt;&lt;/a&gt;
-
-
-</content>
-    </entry>
-    <entry>
-        <id>https://blogs.apache.org/netbeans/entry/1-5-m-lines-of</id>
-        <title type="html">1.5 M Lines Of Oracle Code Now in Apache NetBeans Git</title>
-        <author><name>Geertjan</name></author>
-        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/1-5-m-lines-of"/>
-        <published>2018-06-26T16:21:04+00:00</published>
-        <updated>2018-07-21T09:05:42+00:00</updated> 
-        <category term="General" label="General" />
-        <content type="html">Hurray! The 2nd Oracle donation of NetBeans to the Apache Software Foundation, constituting 1.5M lines of code, providing tools for enterprise Java, JavaScript, PHP, Groovy, and more, has now landed on a branch of Apache NetBeans Git: 
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/apache/incubator-netbeans/tree/2ndDonation&quot;&gt;&lt;img src=&quot;https://blogs.apache.org/netbeans/mediaresource/77fa7b9d-31f4-4402-9551-ba7ae22645cd?t=true&quot; alt=&quot;Screen Shot 2018-06-26 at 17.53.37.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Go here to see the new branch containing the 2nd donation: &lt;a href=&quot;https://github.com/apache/incubator-netbeans/tree/2ndDonation&quot;&gt;https://github.com/apache/incubator-netbeans/tree/2ndDonation&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    </entry>
-    <entry>
-        <id>https://blogs.apache.org/netbeans/entry/netbeans-status-at-fossback-18</id>
-        <title type="html">NetBeans Status at FossBack &amp;#39;18</title>
-        <author><name>Geertjan</name></author>
-        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/netbeans-status-at-fossback-18"/>
-        <published>2018-06-22T19:58:02+00:00</published>
-        <updated>2018-06-26T14:52:25+00:00</updated> 
-        <category term="General" label="General" />
-        <content type="html">The session outlining 10 tips for large corporate projects moving to Apache, with NetBeans as an illustrative example, presented at FossBack &amp;#39;18, is now available on YouTube:
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Bnznard9Nls&quot;&gt;&lt;img src=&quot;https://blogs.apache.org/netbeans/mediaresource/0896fd2c-a055-4695-b738-02efe764dedc?t=true&quot; alt=&quot;Screen Shot 2018-06-22 at 22.04.50.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Click above or, alternatively, go here: &lt;a href=&quot;https://www.youtube.com/watch?v=Bnznard9Nls&quot;&gt;https://www.youtube.com/watch?v=Bnznard9Nls&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The full report on the session and NetBeans attendance is here: &lt;a href=&quot;https://blogs.apache.org/netbeans/entry/apache-netbeans-at-foss-backstage&quot;&gt;https://blogs.apache.org/netbeans/entry/apache-netbeans-at-foss-backstage&lt;/a&gt;&lt;/p&gt;</content>
-    </entry>
-    <entry>
-        <id>https://blogs.apache.org/netbeans/entry/1-5m-lines-of-netbeans</id>
-        <title type="html">1.5M Lines of NetBeans Code from Oracle to Apache</title>
-        <author><name>Geertjan</name></author>
-        <link rel="alternate" type="text/html" href="https://blogs.apache.org/netbeans/entry/1-5m-lines-of-netbeans"/>
-        <published>2018-06-21T12:12:55+00:00</published>
-        <updated>2018-06-21T12:12:55+00:00</updated> 
-        <category term="General" label="General" />
-        <content type="html">Great news: the process of completing the 2nd donation is now done and Oracle has made available a ZIP file constituting the 2nd donation. Oracle donated around 4,000,000 lines of code in the 1st donation last year and has now completed the 2nd donation constituting around 1,500,000 lines of code. This donation constitutes the modules of NetBeans dealing with enterprise Java, JavaScript, PHP, Groovy, as well as miscellaneous features applicable to Mobile and Web development.
-
-&lt;p&gt;We will continue to wrap up the final release of Apache NetBeans (incubating) 9.0, which will be focused on Java SE only. After that, or at least separate from that process, we will start relicensing the new code, i.e., from the 2nd donation, once it is in Apache NetBeans Git. Right now, it is a ZIP file, it needs to be moved to Apache NetBeans Git, and we need to do that in the right way, and figure out what the right way is.&lt;/p&gt;
-
-&lt;p&gt;This is a significant step forward in the transition of NetBeans from Oracle to Apache.&lt;/p&gt;</content>
     </entry>
 </feed>
 

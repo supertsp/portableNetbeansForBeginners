@@ -45,10 +45,17 @@
         <attr name="FormDesignerPalette\SwingWindows\JFileChooser.palette_item\position" intvalue="300"/>
         <attr name="FormDesignerPalette\SwingWindows\JFrame.palette_item\position" intvalue="400"/>
         <attr name="FormDesignerPalette\SwingWindows\JOptionPane.palette_item\position" intvalue="500"/>
-        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsEnabled" longvalue="1564079532670"/>
-        <attr name="Modules\org-netbeans-libs-oracle-jsparser.xml\ergonomicsUnused" intvalue="0"/>
+        <attr name="Templates\Classes\AnnotationType.java\position" intvalue="325"/>
+        <attr name="Templates\Classes\Empty.java\position" intvalue="1350"/>
+        <attr name="Templates\Classes\Kotlin.kt\position" intvalue="772"/>
+        <attr name="Templates\Classes\Package\position" intvalue="450"/>
+        <attr name="Templates\Classes\module-info.java\position" intvalue="1225"/>
+        <attr name="Templates\Classes\package-info.java\position" intvalue="876"/>
     </fileobject>
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="Darcula"/>
+    </fileobject>
+    <fileobject name="Keymaps">
+        <attr name="currentKeymap" stringvalue="NetBeans"/>
     </fileobject>
 </attributes>

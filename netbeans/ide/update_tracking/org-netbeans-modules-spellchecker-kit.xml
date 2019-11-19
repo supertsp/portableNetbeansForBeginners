@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.spellchecker.kit">
-    <module_version install_time="1563281555965" last="true" origin="installer" specification_version="1.30">
+    <module_version install_time="1571483579119" last="true" origin="installer" specification_version="1.31">
         <file crc="828845662" name="config/Modules/org-netbeans-modules-spellchecker-kit.xml"/>
-        <file crc="100971131" name="modules/org-netbeans-modules-spellchecker-kit.jar"/>
+        <file crc="1961309728" name="modules/org-netbeans-modules-spellchecker-kit.jar"/>
     </module_version>
 </module>

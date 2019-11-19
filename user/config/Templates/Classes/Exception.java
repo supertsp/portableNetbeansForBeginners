@@ -2,12 +2,12 @@
 package ${package};
 </#if>
 
-//<editor-fold defaultstate="collapsed" desc="imports...">
+// <editor-fold defaultstate="collapsed" desc="imports...">
 import java.util.List;
 import java.util.ArrayList;
-//</editor-fold>
+// </editor-fold>
 
-//<editor-fold defaultstate="collapsed" desc="documentation...">
+// <editor-fold defaultstate="collapsed" desc="documentation...">
 /**
  * Objective: ...
  * 
@@ -15,21 +15,23 @@ import java.util.ArrayList;
  * 
  * @version 1.0.0
  * @author ${user}, ${date}, ${time}
- *///</editor-fold>
+ */// </editor-fold>
 public class ${name} extends Exception {
+	
+	/**
+	 * Creates a new instance of <code>${name}</code> without detail message.
+	 */
+	public ${name}() {
+		
+	}
 
-    /**
-     * Creates a new instance of <code>${name}</code> without detail message.
-     */
-    public ${name}() {
-    }
 
+	/**
+	 * Constructs an instance of <code>${name}</code> with the specified detail message.
+	 * @param msg the detail message.
+	 */
+	public ${name}(String msg) {
+		super(msg);
+	}
 
-    /**
-     * Constructs an instance of <code>${name}</code> with the specified detail message.
-     * @param msg the detail message.
-     */
-    public ${name}(String msg) {
-        super(msg);
-    }
-}
+}//class

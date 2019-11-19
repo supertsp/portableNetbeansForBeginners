@@ -4,7 +4,4 @@
     <fileobject name="org-netbeans-modules-editor-settings-CustomFontsColors-annotations.xml">
         <attr name="nbeditor-settings-ColoringType" stringvalue="annotation"/>
     </fileobject>
-    <fileobject name="org-netbeans-modules-editor-settings-CustomFontsColors-tokenColorings.xml">
-        <attr name="nbeditor-settings-ColoringType" stringvalue="token"/>
-    </fileobject>
 </attributes>

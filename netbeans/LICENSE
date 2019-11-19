@@ -209,6 +209,7 @@ Apache NetBeans includes a number of source files that are not covered by the ap
 Sourcefile                                                                                                                           LICENSE     NOTES
 (path in the source)                                                                                 (text is in file in licenses directory)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+enterprise/glassfish.eecommon/src/org/netbeans/modules/glassfish/eecommon/api/ddtemplates/javaee/glassfish-web.xml                   EPL-v20          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_1_4.mdd                                              CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_1_4.xsd                                              CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_5.mdd                                                CDDL-1.1          
@@ -426,6 +427,10 @@ java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/orm
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/persistence_2_0.xsd                                     EDL-1.0         1
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/orm_2_1.xsd                                             EDL-1.0         2
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/persistence_2_1.xsd                                     EDL-1.0         2
+java/java.lsp.server/vscode/package-lock.json                                                                                 MIT-vscode-ext          
+java/java.lsp.server/vscode/package.json                                                                                      MIT-vscode-ext          
+java/java.lsp.server/vscode/tsconfig.json                                                                                     MIT-vscode-ext          
+java/java.lsp.server/vscode/src/extension.ts                                                                                  MIT-vscode-ext          
 java/junit.ui/src/org/netbeans/modules/junit/ui/resources/junit5-logo.png                                                            EPL-v20          
 java/xml.jaxb/src/org/netbeans/modules/xml/jaxb/resources/eclipselink_oxm_2_3.xsd                                                    EDL-1.0         3
 nb/welcome/src/org/netbeans/modules/welcome/resources/xhtml1-transitional.dtd                                                           W3C2          
@@ -482,9 +487,19 @@ enterprise/docs/webservices-extra-api-javadoc.jar                     CDDL-1.1
 enterprise/docs/webservices-extra-javadoc.jar                         CDDL-1.1
 enterprise/docs/webservices-rt-javadoc.jar                            CDDL-1.1
 enterprise/docs/webservices-tools-javadoc.jar                         CDDL-1.1
-enterprise/modules/ext/aws-sdk/aws-java-sdk-1.2.1.jar                 Apache-2.0
-enterprise/modules/ext/aws-sdk/httpclient-4.1.1.jar                   Apache-2.0
-enterprise/modules/ext/aws-sdk/httpcore-4.1.jar                       Apache-2.0
+enterprise/modules/ext/aws-sdk/aws-java-sdk-core-1.11.569.jar         Apache-2.0
+enterprise/modules/ext/aws-sdk/aws-java-sdk-elasticbeanstalk-1.11.569.jar Apache-2.0
+enterprise/modules/ext/aws-sdk/aws-java-sdk-kms-1.11.569.jar          Apache-2.0
+enterprise/modules/ext/aws-sdk/aws-java-sdk-s3-1.11.569.jar           Apache-2.0
+enterprise/modules/ext/aws-sdk/httpclient-4.5.5.jar                   Gradle
+enterprise/modules/ext/aws-sdk/httpcore-4.4.9.jar                     Gradle
+enterprise/modules/ext/aws-sdk/ion-java-1.0.2.jar                     Gradle
+enterprise/modules/ext/aws-sdk/jackson-annotations-2.6.0.jar          Apache-2.0
+enterprise/modules/ext/aws-sdk/jackson-core-2.6.7.jar                 Apache-2.0
+enterprise/modules/ext/aws-sdk/jackson-databind-2.6.7.2.jar           Apache-2.0
+enterprise/modules/ext/aws-sdk/jackson-dataformat-cbor-2.6.7.jar      Apache-2.0
+enterprise/modules/ext/aws-sdk/jmespath-java-1.11.569.jar             Apache-2.0
+enterprise/modules/ext/aws-sdk/joda-time-2.8.1.jar                    Apache-2.0
 enterprise/modules/ext/commons-fileupload-1.3.jar                     Apache-2.0
 enterprise/modules/ext/el-impl.jar                                    CDDL-1.0
 enterprise/modules/ext/glassfish-jspparser-4.0.jar                    CDDL-1.1
@@ -773,6 +788,12 @@ java/modules/ext/maven/lucene-core-5.5.5.jar                          Apache-2.0
 java/modules/ext/maven/lucene-highlighter-5.5.5.jar                   Apache-2.0
 java/modules/ext/maven/lucene-queryparser-5.5.5.jar                   Apache-2.0
 java/modules/ext/maven/maven-dependency-tree-2.0.jar                  Apache-2.0
+java/modules/ext/org.eclipse.lsp4j-0.5.0.jar                          EPL-v10
+java/modules/ext/org.eclipse.lsp4j.generator-0.5.0.jar                EPL-v10
+java/modules/ext/org.eclipse.lsp4j.jsonrpc-0.5.0.jar                  EPL-v10
+java/modules/ext/org.eclipse.xtend.lib-2.14.0.jar                     EPL-v10
+java/modules/ext/org.eclipse.xtend.lib.macro-2.14.0.jar               EPL-v10
+java/modules/ext/org.eclipse.xtext.xbase.lib-2.14.0.jar               EPL-v10
 java/modules/ext/spring-3.0/spring-aop-3.2.7.RELEASE.jar              Apache-2.0-spring3.2.7
 java/modules/ext/spring-3.0/spring-aspects-3.2.7.RELEASE.jar          Apache-2.0-spring3.2.7
 java/modules/ext/spring-3.0/spring-beans-3.2.7.RELEASE.jar            Apache-2.0-spring3.2.7
@@ -830,8 +851,8 @@ platform/docs/junit-jupiter-params-5.3.1-javadoc.jar                  EPL-v20
 platform/docs/junit-jupiter-params-5.3.1-sources.jar                  EPL-v20
 platform/docs/testng-6.8.1-javadoc.zip                                Apache-2.0+MIT+testng
 platform/modules/ext/hamcrest-core-1.3.jar                            BSD-hamcrest
-platform/modules/ext/jna-4.4.0.jar                                    Apache-2.0
-platform/modules/ext/jna-platform-4.4.0.jar                           Apache-2.0
+platform/modules/ext/jna-5.4.0.jar                                    Apache-2.0
+platform/modules/ext/jna-platform-5.4.0.jar                           Apache-2.0
 platform/modules/ext/junit-4.12.jar                                   EPL-v10
 platform/modules/ext/junit-jupiter-api-5.3.1.jar                      EPL-v20
 platform/modules/ext/junit-jupiter-engine-5.3.1.jar                   EPL-v20
@@ -854,6 +875,7 @@ webcommon/jsstubs/corestubs.zip                                       BSD-ecmasc
 webcommon/jsstubs/domstubs.zip                                        W3C2
 webcommon/jsstubs/reststubs.zip                                       W3C2
 webcommon/modules/ext/dd-plist.jar                                    MIT-dd-plist
+webcommon/modules/ext/graal-js-parser-e20fe15.jar                     UPL
 webcommon/modules/ext/icu4j-62.1.jar                                  MIT-icu4j
 webcommon/modules/ext/js-19.0.0.jar                                   UPL
 webcommon/modules/ext/regex-19.0.0.jar                                UPL
@@ -866,6 +888,7 @@ Apache NetBeans includes a number of source files that are not covered by the ap
 Sourcefile                                                                                                                           LICENSE     NOTES
 (path in the source)                                                                                 (text is in file in licenses directory)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+enterprise/glassfish.eecommon/src/org/netbeans/modules/glassfish/eecommon/api/ddtemplates/javaee/glassfish-web.xml                   EPL-v20          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_1_4.mdd                                              CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_1_4.xsd                                              CDDL-1.1          
 enterprise/j2ee.dd/src/org/netbeans/modules/j2ee/dd/impl/resources/application_5.mdd                                                CDDL-1.1          
@@ -1069,6 +1092,10 @@ java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/orm
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/persistence_2_0.xsd                                     EDL-1.0         1
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/orm_2_1.xsd                                             EDL-1.0         2
 java/j2ee.persistence/src/org/netbeans/modules/j2ee/persistence/dd/resources/persistence_2_1.xsd                                     EDL-1.0         2
+java/java.lsp.server/vscode/package-lock.json                                                                                 MIT-vscode-ext          
+java/java.lsp.server/vscode/package.json                                                                                      MIT-vscode-ext          
+java/java.lsp.server/vscode/tsconfig.json                                                                                     MIT-vscode-ext          
+java/java.lsp.server/vscode/src/extension.ts                                                                                  MIT-vscode-ext          
 java/junit.ui/src/org/netbeans/modules/junit/ui/resources/junit5-logo.png                                                            EPL-v20          
 java/xml.jaxb/src/org/netbeans/modules/xml/jaxb/resources/eclipselink_oxm_2_3.xsd                                                    EDL-1.0         3
 nb/welcome/src/org/netbeans/modules/welcome/resources/xhtml1-transitional.dtd                                                           W3C2          

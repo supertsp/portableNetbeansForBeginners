@@ -3,6 +3,9 @@
 <bindings>
     <bind actionName="copy-selection-else-line-down" key="D-D"/>
     <bind actionName="toggle-comment" key="D-DIVIDE"/>
+    <bind key="SD-C" remove="true"/>
+    <bind key="SD-KP_DOWN" remove="true"/>
     <bind key="S-SPACE" remove="true"/>
     <bind key="S-F10" remove="true"/>
+    <bind key="SD-DOWN" remove="true"/>
 </bindings>

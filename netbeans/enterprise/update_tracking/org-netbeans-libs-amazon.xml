@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.amazon/1">
-    <module_version install_time="1563282142152" last="true" origin="installer" specification_version="1.15">
+    <module_version install_time="1571484586996" last="true" origin="installer" specification_version="1.16">
         <file crc="1636377766" name="config/Modules/org-netbeans-libs-amazon.xml"/>
-        <file crc="146579954" name="modules/ext/aws-sdk/aws-java-sdk-1.2.1.jar"/>
-        <file crc="2522027023" name="modules/ext/aws-sdk/httpclient-4.1.1.jar"/>
-        <file crc="841884431" name="modules/ext/aws-sdk/httpcore-4.1.jar"/>
-        <file crc="2761324438" name="modules/org-netbeans-libs-amazon.jar"/>
+        <file crc="1681808320" name="modules/ext/aws-sdk/aws-java-sdk-core-1.11.569.jar"/>
+        <file crc="1826514233" name="modules/ext/aws-sdk/aws-java-sdk-elasticbeanstalk-1.11.569.jar"/>
+        <file crc="1375928125" name="modules/ext/aws-sdk/aws-java-sdk-kms-1.11.569.jar"/>
+        <file crc="239332437" name="modules/ext/aws-sdk/aws-java-sdk-s3-1.11.569.jar"/>
+        <file crc="2863789116" name="modules/ext/aws-sdk/httpclient-4.5.5.jar"/>
+        <file crc="971931856" name="modules/ext/aws-sdk/httpcore-4.4.9.jar"/>
+        <file crc="619522256" name="modules/ext/aws-sdk/ion-java-1.0.2.jar"/>
+        <file crc="2730082188" name="modules/ext/aws-sdk/jackson-annotations-2.6.0.jar"/>
+        <file crc="4284193492" name="modules/ext/aws-sdk/jackson-core-2.6.7.jar"/>
+        <file crc="2452609980" name="modules/ext/aws-sdk/jackson-databind-2.6.7.2.jar"/>
+        <file crc="128727585" name="modules/ext/aws-sdk/jackson-dataformat-cbor-2.6.7.jar"/>
+        <file crc="3166474435" name="modules/ext/aws-sdk/jmespath-java-1.11.569.jar"/>
+        <file crc="2328139421" name="modules/ext/aws-sdk/joda-time-2.8.1.jar"/>
+        <file crc="1708654447" name="modules/org-netbeans-libs-amazon.jar"/>
     </module_version>
 </module>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.eclipse.mylyn.commons.core">
-    <module_version install_time="1563281543052" last="true" origin="installer" specification_version="3.17.0.v20150625-2042">
+    <module_version install_time="1571483556200" last="true" origin="installer" specification_version="3.17.0.v20150625-2042">
         <file crc="3050857776" name="config/Modules/org-eclipse-mylyn-commons-core.xml"/>
         <file crc="3888632270" name="modules/org-eclipse-mylyn-commons-core.jar"/>
     </module_version>

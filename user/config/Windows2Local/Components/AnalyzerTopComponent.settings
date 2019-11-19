@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
 <settings version="1.0">
-    <module name="org.netbeans.modules.java.hints/1" spec="1.88.0.17.25.12.1.1.32.5.1.13"/>
+    <module name="org.netbeans.modules.java.hints/1" spec="1.89.0.17.25.12.1.1.32.5.1.13"/>
     <instanceof class="java.awt.Component"/>
     <instanceof class="java.awt.Container"/>
     <instanceof class="java.awt.MenuContainer"/>

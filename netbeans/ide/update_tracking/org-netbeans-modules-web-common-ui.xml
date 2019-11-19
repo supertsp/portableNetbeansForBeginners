@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.common.ui">
-    <module_version install_time="1563282509759" last="true" origin="installer" specification_version="1.6">
+    <module_version install_time="1571485025436" last="true" origin="installer" specification_version="1.7">
         <file crc="234880315" name="config/Modules/org-netbeans-modules-web-common-ui.xml"/>
-        <file crc="1467291565" name="modules/org-netbeans-modules-web-common-ui.jar"/>
+        <file crc="2215370688" name="modules/org-netbeans-modules-web-common-ui.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.fold/1">
-    <module_version install_time="1563282538304" last="true" origin="installer" specification_version="1.50">
+    <module_version install_time="1571485081665" last="true" origin="installer" specification_version="1.51">
         <file crc="1352432432" name="config/Modules/org-netbeans-modules-editor-fold.xml"/>
-        <file crc="1516623976" name="modules/org-netbeans-modules-editor-fold.jar"/>
+        <file crc="132948155" name="modules/org-netbeans-modules-editor-fold.jar"/>
     </module_version>
 </module>

@@ -4,8 +4,12 @@ This project's dependencies
 Runtime dependencies:
 =====================
 
+From: Amazon Labs
+  - Amazon Ion Java: A Java implementation of the Amazon Ion data notation (https://github.com/amznlabs/ion-java/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: Amazon Web Services
-  - AWS SDK For Java:  Amazon Web Services SDK for Java (http://aws.amazon.com/sdkforjava/)
+  - AWS SDK for Java: The AWS SDK for Java (https://aws.amazon.com/sdkforjava/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Antlr
@@ -184,6 +188,16 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - org.eclipse.mylyn.wikitext.markdown.core: Support for the Markdown wiki style (http://www.eclipse.org/mylyn/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+
+From: FasterXML
+  - Jackson-annotations: Core annotations used for value types, used by Jackson data binding package (https://github.com/FasterXML/jackson-annotations)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core: Core Jackson abstractions, basic JSON streaming API implementation (https://github.com/FasterXML/jackson-core)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-databind: General data-binding functionality for Jackson: works on core streaming API (http://github.com/FasterXML/jackson)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-CBOR: Support for reading and writing Concise Binary Object Representation ([CBOR](https://www.rfc-editor.org/info/rfc7049) encoded data using Jackson abstractions (streaming API, data binding, tree model) (http://wiki.fasterxml.com/JacksonForCbor)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Generated from common-util-5.0.jar, glassfish-ee-api-4.1.jar, javax.el-2.2.6.jar, and javax.servlet.jsp-2.3.2.jar
   - GlassFish JSP Parser: GlassFish Unified JSP Parser
@@ -535,6 +549,10 @@ From: TestNG
   - TestNG: Java testing framework. (http://testng.org/doc/download.html)
     License: Apache-2.0+MIT+testng
 
+From: The Joda Project
+  - Joda-Time: Date and time library to replace JDK date handling (http://www.joda.org/joda-time/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: W3C
   - CSS 2.1 Specification: Documentation for the CSS 2.1 standard (http://www.w3.org/TR/CSS21/)
     License: W3C
@@ -557,10 +575,6 @@ From: http://commons.apache.org/net/
 
 From: http://commons.apache.org/proper/commons-fileupload/
   - Apache Commons FileUpload: File upload component
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-From: http://db.apache.org/derby/
-  - Derby: Apache Derby, an Apache DB subproject, is an open source relational database implemented entirely in Java
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: http://ecma-international.org/ecma-262/5.1/
@@ -665,6 +679,10 @@ From: https://code.google.com/p/guava-libraries/
 From: https://github.com/3breadt/dd-plist
   - plist: An open source library to parse and generate property lists
     License: MIT license dd-plist variant
+
+From: https://github.com/JaroslavTulach/graaljs/commit/e20fe15dc14a42b5246901cefc524235e7b77505
+  - Graal.js Parser: An ECMAScript 6 (ECMAScript 2015) compliant parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
+    License: UPL
 
 From: https://github.com/eclipse/tm4e
   - TextMate support for Eclipse: Used to interpret TextMate grammars

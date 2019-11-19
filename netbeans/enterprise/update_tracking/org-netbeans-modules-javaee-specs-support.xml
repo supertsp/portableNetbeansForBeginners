@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee.specs.support/0">
-    <module_version install_time="1563282503355" last="true" origin="installer" specification_version="1.30">
+    <module_version install_time="1571485012930" last="true" origin="installer" specification_version="1.31">
         <file crc="2708558995" name="config/Modules/org-netbeans-modules-javaee-specs-support.xml"/>
-        <file crc="455386642" name="modules/org-netbeans-modules-javaee-specs-support.jar"/>
+        <file crc="3492610056" name="modules/org-netbeans-modules-javaee-specs-support.jar"/>
     </module_version>
 </module>

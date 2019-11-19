@@ -1,6 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
 <codetemplates>
+    <codetemplate abbreviation="endg" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.GetMapping" default="GetMapping" editable="false"}("${url}")
+public ${retobj} ${method}(${cursor}) {
+        return null;
+}]]></code>
+        <description><![CDATA[HTTP GET RestController endpoint method]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="rtrf" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.context.annotation.Bean" default="Bean" editable="false"}
+public ${RET type="org.springframework.web.reactive.function.server.RouterFunction" default="RouterFunction" editable="false"}<${GEN type="org.springframework.web.reactive.function.server.ServerResponse" default="ServerResponse" editable="false"}> routes() {
+	return ${FUN type="org.springframework.web.reactive.function.server.RouterFunctions" default="RouterFunctions" editable="false"}.route(${PRED type="org.springframework.web.reactive.function.server.RequestPredicates" default="RequestPredicates" editable="false"}.GET("${url}"), ${HandlerClass}::${method})${cursor};
+}]]></code>
+        <description><![CDATA[Spring Webflux router function bean]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="dmp" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.DeleteMapping" default="DeleteMapping" editable="false"}("${url}")]]></code>
+        <description><![CDATA[Spring Web @DeleteMapping annotation]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="endd" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.DeleteMapping" default="DeleteMapping" editable="false"}("${url}")
+public ${RET type="org.springframework.http.ResponseEntity" default="ResponseEntity" editable="false"}<${retobj}> ${method}(${cursor}) {
+        return null;
+}]]></code>
+        <description><![CDATA[HTTP DELETE RestController endpoint method]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="for" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
+        <code><![CDATA[for (int ${IDX newVarName default="count"} = 0; ${IDX} < ${MAX default="10"}; ${IDX}++) {
+    ${selection}${cursor}
+}
+]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="gmp" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.GetMapping" default="GetMapping" editable="false"}("${url}")]]></code>
+        <description><![CDATA[Spring Web @GetMapping annotation]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="while" xml:space="preserve">
+        <code><![CDATA[while (${expr instanceof="boolean" default="true"}) {
+    ${cursor}
+}]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="sout" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
+        <code><![CDATA[System.out.println(${cursor});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="switch" xml:space="preserve">
+        <code><![CDATA[switch (${var instanceof="java.lang.Enum"}) {
+    case ${valor1 completionInvoke}:
+        ${cursor1};
+        break;
+    
+    case ${valor2 completionInvoke}:
+        ${cursor2};
+        break;
+    
+    case ${valor3 completionInvoke}:
+        ${cursor3};
+        break;
+
+    default:
+        ${cursor4};
+}]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="souts" xml:space="preserve">
+        <code><![CDATA[System.out.println("${cursor}");]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="wh" xml:space="preserve">
+        <code><![CDATA[while (${expr instanceof="boolean" default="true"}) {
+    ${cursor}
+}
+]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="foreach" xml:space="preserve">
+        <code><![CDATA[for (${TYPE iterableElementType default="Object" editable=false} ${ELEM newVarName default="elem" ordering=2} : ${ITER iterable default="col" ordering=1}) {
+    ${selection}${cursor}
+}]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="psmp" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.PostMapping" default="PostMapping" editable="false"}("${url}")]]></code>
+        <description><![CDATA[Spring Web @PostMapping annotation]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="ptmp" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.PutMapping" default="PutMapping" editable="false"}("${url}")]]></code>
+        <description><![CDATA[Spring Web @PutMapping annotation]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="rmp" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.RequestMapping" default="RequestMapping" editable="false"}(value = "${url}", method = ${meth instanceof="org.springframework.web.bind.annotation.RequestMethod" default="RequestMethod.GET"})]]></code>
+        <description><![CDATA[Spring Web @RequestMapping annotation]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="else" xml:space="preserve">
+        <code><![CDATA[else {
+   ${cursor}
+}]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="elseif" xml:space="preserve">
+        <code><![CDATA[else if (${EXP instanceof="boolean" default="true"}) {
+   ${cursor}
+}]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="endps" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.PostMapping" default="PostMapping" editable="false"}("${url}")
+public ${RET type="org.springframework.http.ResponseEntity" default="ResponseEntity" editable="false"}<${retobj}> ${method}(${cursor}) {
+        return null;
+}]]></code>
+        <description><![CDATA[HTTP POST RestController endpoint method]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="endpt" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.web.bind.annotation.PutMapping" default="PutMapping" editable="false"}("${url}")
+public ${RET type="org.springframework.http.ResponseEntity" default="ResponseEntity" editable="false"}<${retobj}> ${method}(${cursor}) {
+        return null;
+}]]></code>
+        <description><![CDATA[HTTP PUT RestController endpoint method]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="whilexp" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
+        <code><![CDATA[while (${EXP instanceof="boolean" default="true"}) { 
+    ${selection}${cursor}
+}
+]]></code>
+    </codetemplate>
     <codetemplate abbreviation="sw" xml:space="preserve">
         <code><![CDATA[switch (${var instanceof="java.lang.Enum"}) {
     case ${valor1 completionInvoke}:
@@ -27,11 +144,14 @@
 }
 ]]></code>
     </codetemplate>
-    <codetemplate abbreviation="for" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
-        <code><![CDATA[for (int ${IDX newVarName default="count"} = 0; ${IDX} < ${MAX default="10"}; ${IDX}++) {
-    ${selection}${cursor}
-}
-]]></code>
+    <codetemplate abbreviation="cmdlr" xml:space="preserve">
+        <code><![CDATA[@${ANNO type="org.springframework.context.annotation.Bean" default="Bean" editable="false"}
+public ${RET type="org.springframework.boot.CommandLineRunner" default="CommandLineRunner" editable="false"} ${cmdLineRunner}(){
+    return (args)->{
+        ${cursor}
+    };
+}]]></code>
+        <description><![CDATA[Spring Boot CommandLineRunner bean]]></description>
     </codetemplate>
     <codetemplate abbreviation="whileit" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
         <code><![CDATA[while (${IT instanceof="java.util.Iterator" default="it"}.hasNext()) {
@@ -40,16 +160,8 @@
 }
 ]]></code>
     </codetemplate>
-    <codetemplate abbreviation="while" xml:space="preserve">
-        <code><![CDATA[while (${expr instanceof="boolean" default="true"}) {
-    ${cursor}
-}]]></code>
-    </codetemplate>
     <codetemplate abbreviation="list" xml:space="preserve">
         <code><![CDATA[List<${TYPE default="String"}> ${IDX newVarName default="listOfVars"} = new ArrayList<>();]]></code>
-    </codetemplate>
-    <codetemplate abbreviation="sout" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
-        <code><![CDATA[System.out.println(${cursor});]]></code>
     </codetemplate>
     <codetemplate abbreviation="jaxbm" xml:space="preserve">
         <code><![CDATA[try {            
@@ -64,48 +176,11 @@
         }]]></code>
         <description><![CDATA[Sample template to marshal JAXB objects.]]></description>
     </codetemplate>
-    <codetemplate abbreviation="switch" xml:space="preserve">
-        <code><![CDATA[switch (${var instanceof="java.lang.Enum"}) {
-    case ${valor1 completionInvoke}:
-        ${cursor1}
-        break;
-    
-    case ${valor2 completionInvoke}:
-        ${cursor2}
-        break;
-    
-    case ${valor3 completionInvoke}:
-        ${cursor3}
-        break;
-
-    default:
-        ${cursor4}
-}]]></code>
-    </codetemplate>
-    <codetemplate abbreviation="souts" xml:space="preserve">
-        <code><![CDATA[System.out.println("${cursor}");]]></code>
-    </codetemplate>
     <codetemplate abbreviation="prints" xml:space="preserve">
         <code><![CDATA[System.out.print("${cursor}");]]></code>
     </codetemplate>
-    <codetemplate abbreviation="wh" xml:space="preserve">
-        <code><![CDATA[while (${expr instanceof="boolean" default="true"}) {
-    ${cursor}
-}
-]]></code>
-    </codetemplate>
-    <codetemplate abbreviation="foreach" xml:space="preserve">
-        <code><![CDATA[for (${TYPE iterableElementType default="Object" editable=false} ${ELEM newVarName default="elem" ordering=2} : ${ITER iterable default="col" ordering=1}) {
-    ${selection}${cursor}
-}]]></code>
-    </codetemplate>
     <codetemplate abbreviation="print" xml:space="preserve">
         <code><![CDATA[System.out.print(${cursor});]]></code>
-    </codetemplate>
-    <codetemplate abbreviation="else" xml:space="preserve">
-        <code><![CDATA[else {
-   ${cursor}
-}]]></code>
     </codetemplate>
     <codetemplate abbreviation="jaxbu" xml:space="preserve">
         <code><![CDATA[
@@ -120,22 +195,11 @@
         ]]></code>
         <description><![CDATA[Sample template to unmarshal JAXB objects.]]></description>
     </codetemplate>
-    <codetemplate abbreviation="elseif" xml:space="preserve">
-        <code><![CDATA[else if (${EXP instanceof="boolean" default="true"}) {
-   ${cursor}
-}]]></code>
-    </codetemplate>
     <codetemplate abbreviation="try" xml:space="preserve">
         <code><![CDATA[try {
     ${selection}${cursor}
 } catch (Exception e) {
     
 }]]></code>
-    </codetemplate>
-    <codetemplate abbreviation="whilexp" contexts="BLOCK,CASE,LABELED_STATEMENT,DO_WHILE_LOOP,ENHANCED_FOR_LOOP,FOR_LOOP,IF,WHILE_LOOP,LAMBDA_EXPRESSION" xml:space="preserve">
-        <code><![CDATA[while (${EXP instanceof="boolean" default="true"}) { 
-    ${selection}${cursor}
-}
-]]></code>
     </codetemplate>
 </codetemplates>

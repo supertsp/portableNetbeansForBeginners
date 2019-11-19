@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
 <editor-preferences>
+    <entry javaType="java.lang.Boolean" name="enable-indent" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
     <entry name="code-folding-collapse-innerclass" remove="true"/>
     <entry name="code-folding-collapse-javadoc" remove="true"/>
     <entry name="code-folding-collapse-method" remove="true"/>

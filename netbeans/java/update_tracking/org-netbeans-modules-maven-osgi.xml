@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.osgi/1">
-    <module_version install_time="1563281781433" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1571483970611" last="true" origin="installer" specification_version="1.41">
         <file crc="2810362290" name="config/Modules/org-netbeans-modules-maven-osgi.xml"/>
-        <file crc="3194500191" name="modules/org-netbeans-modules-maven-osgi.jar"/>
+        <file crc="418682440" name="modules/org-netbeans-modules-maven-osgi.jar"/>
     </module_version>
 </module>

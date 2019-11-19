@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbi.ant">
-    <module_version install_time="1563281387797" last="true" origin="installer" specification_version="1.27">
+    <module_version install_time="1571483343230" last="true" origin="installer" specification_version="1.28">
         <file crc="55657938" name="config/Modules/org-netbeans-libs-nbi-ant.xml"/>
-        <file crc="255623782" name="modules/ext/nbi-ant-tasks.jar"/>
-        <file crc="3006812243" name="modules/ext/nbi-registries-management.jar"/>
-        <file crc="1114850205" name="modules/org-netbeans-libs-nbi-ant.jar"/>
+        <file crc="1174748507" name="modules/ext/nbi-ant-tasks.jar"/>
+        <file crc="3526160788" name="modules/ext/nbi-registries-management.jar"/>
+        <file crc="1778403017" name="modules/org-netbeans-libs-nbi-ant.jar"/>
         <file crc="4264964434" name="nbi/.common/common.properties"/>
         <file crc="2182362675" name="nbi/.common/common.xml"/>
         <file crc="259541933" name="nbi/.common/engine.properties"/>
@@ -21,7 +21,7 @@
         <file crc="1761515161" name="nbi/stub/ext/components/products/helloworld/manifest.mf"/>
         <file crc="1667142793" name="nbi/stub/ext/components/products/helloworld/nbproject/build-impl.xml"/>
         <file crc="4281027625" name="nbi/stub/ext/components/products/helloworld/nbproject/genfiles.properties"/>
-        <file crc="943403276" name="nbi/stub/ext/components/products/helloworld/nbproject/project.properties"/>
+        <file crc="3700366583" name="nbi/stub/ext/components/products/helloworld/nbproject/project.properties"/>
         <file crc="3034541000" name="nbi/stub/ext/components/products/helloworld/nbproject/project.xml"/>
         <file crc="2171495554" name="nbi/stub/ext/components/products/helloworld/src/org/mycompany/Bundle.properties"/>
         <file crc="2752699428" name="nbi/stub/ext/components/products/helloworld/src/org/mycompany/ConfigurationLogic.java"/>
@@ -33,7 +33,7 @@
         <file crc="1737427026" name="nbi/stub/ext/engine/manifest.mf"/>
         <file crc="2401327545" name="nbi/stub/ext/engine/nbproject/build-impl.xml"/>
         <file crc="3197588034" name="nbi/stub/ext/engine/nbproject/genfiles.properties"/>
-        <file crc="3904385388" name="nbi/stub/ext/engine/nbproject/project.properties"/>
+        <file crc="2524599906" name="nbi/stub/ext/engine/nbproject/project.properties"/>
         <file crc="2614352264" name="nbi/stub/ext/engine/nbproject/project.xml"/>
         <file crc="2380037263" name="nbi/stub/ext/engine/src/data/engine.properties"/>
         <file crc="2592399303" name="nbi/stub/ext/engine/src/native/launcher/unix/i18n/launcher.properties"/>

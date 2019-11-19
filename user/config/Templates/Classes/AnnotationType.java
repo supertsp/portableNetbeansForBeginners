@@ -2,7 +2,7 @@
 package ${package};
 </#if>
 
-//<editor-fold defaultstate="collapsed" desc="documentation...">
+// <editor-fold defaultstate="collapsed" desc="documentation...">
 /**
  * Objective: ...
  * 
@@ -11,7 +11,9 @@ package ${package};
  * @version 1.0.0
  * @author ${user}, ${date}, ${time}
  * Last update: -
- *///</editor-fold>
+ */// </editor-fold>
 public @interface ${name} {
+	
+	
 
-}
+}//annotation

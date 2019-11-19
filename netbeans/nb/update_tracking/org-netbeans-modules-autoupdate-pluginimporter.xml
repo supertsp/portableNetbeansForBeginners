@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.autoupdate.pluginimporter">
-    <module_version install_time="1563281884405" last="true" origin="installer" specification_version="1.25">
+    <module_version install_time="1571484154527" last="true" origin="installer" specification_version="1.26">
         <file crc="2803260829" name="config/Modules/org-netbeans-modules-autoupdate-pluginimporter.xml"/>
-        <file crc="3027952717" name="modules/org-netbeans-modules-autoupdate-pluginimporter.jar"/>
+        <file crc="684422600" name="modules/org-netbeans-modules-autoupdate-pluginimporter.jar"/>
     </module_version>
 </module>

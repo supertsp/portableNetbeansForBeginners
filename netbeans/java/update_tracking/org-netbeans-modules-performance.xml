@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.performance">
-    <module_version install_time="1563281788489" last="true" origin="installer" specification_version="1.13">
+    <module_version install_time="1571483981187" last="true" origin="installer" specification_version="1.14">
         <file crc="2039327621" name="config/Modules/org-netbeans-modules-performance.xml"/>
-        <file crc="572512877" name="modules/org-netbeans-modules-performance.jar"/>
+        <file crc="4226244357" name="modules/org-netbeans-modules-performance.jar"/>
     </module_version>
 </module>

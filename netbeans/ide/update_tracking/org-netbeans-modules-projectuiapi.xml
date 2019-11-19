@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.projectuiapi/1">
-    <module_version install_time="1563282537298" last="true" origin="installer" specification_version="1.93.0.8">
+    <module_version install_time="1571485079561" last="true" origin="installer" specification_version="1.94.0.8">
         <file crc="3329607602" name="config/ModuleAutoDeps/org-netbeans-modules-projectuiapi.xml"/>
         <file crc="1443847563" name="config/Modules/org-netbeans-modules-projectuiapi.xml"/>
-        <file crc="3930663996" name="modules/org-netbeans-modules-projectuiapi.jar"/>
+        <file crc="3674939832" name="modules/org-netbeans-modules-projectuiapi.jar"/>
     </module_version>
 </module>

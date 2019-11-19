@@ -6,10 +6,10 @@
   <kind type="view" />
   <state type="joined"  />
   <constraints>
-    <path orientation="horizontal" number="20" weight="0.19338235294117648"/>
+    <path orientation="horizontal" number="20" weight="0.20842911877394635"/>
     <path orientation="vertical" number="20" weight="0.5"/>
   </constraints>
-  <bounds x="136" y="174" width="314" height="269" />
+  <bounds x="192" y="252" width="441" height="388" />
   <frame state="0"/>
     <active-tc  id="projectTabLogical_tc" />
     <empty-behavior permanent="true"/>

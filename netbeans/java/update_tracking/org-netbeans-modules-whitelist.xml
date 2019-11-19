@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.whitelist">
-    <module_version install_time="1563282507147" last="true" origin="installer" specification_version="1.28">
+    <module_version install_time="1571485020009" last="true" origin="installer" specification_version="1.29">
         <file crc="1351095255" name="config/Modules/org-netbeans-modules-whitelist.xml"/>
-        <file crc="3464848876" name="modules/org-netbeans-modules-whitelist.jar"/>
+        <file crc="268136950" name="modules/org-netbeans-modules-whitelist.jar"/>
     </module_version>
 </module>

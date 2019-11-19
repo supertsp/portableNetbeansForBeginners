@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="br.com.tiagopedroso.javaparainiciantes/1">
-    <module_version install_time="1568982350388" last="true" origin="br-com-tiagopedroso-javaparainiciantes_v1.0.3.nbm" specification_version="1.0.3">
-        <file crc="628520374" name="config/Modules/br-com-tiagopedroso-javaparainiciantes.xml"/>
-        <file crc="2592207219" name="modules/br-com-tiagopedroso-javaparainiciantes.jar"/>
-    </module_version>
-</module>

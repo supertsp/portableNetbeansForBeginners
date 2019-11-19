@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.profiler.nbimpl/1">
-    <module_version install_time="1563282246607" last="true" origin="installer" specification_version="1.30">
-        <file crc="230839840" name="ant/nblib/org-netbeans-modules-profiler-nbimpl.jar"/>
+    <module_version install_time="1571484788269" last="true" origin="installer" specification_version="1.31">
+        <file crc="3143618377" name="ant/nblib/org-netbeans-modules-profiler-nbimpl.jar"/>
         <file crc="843527244" name="config/Modules/org-netbeans-modules-profiler-nbimpl.xml"/>
-        <file crc="3987334416" name="modules/org-netbeans-modules-profiler-nbimpl.jar"/>
+        <file crc="572358708" name="modules/org-netbeans-modules-profiler-nbimpl.jar"/>
     </module_version>
 </module>

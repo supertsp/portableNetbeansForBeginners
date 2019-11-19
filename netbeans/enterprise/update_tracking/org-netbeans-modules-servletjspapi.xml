@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.servletjspapi/1">
-    <module_version install_time="1563282213611" last="true" origin="installer" specification_version="1.35.0.25">
+    <module_version install_time="1571484727251" last="true" origin="installer" specification_version="1.36.0.25">
         <file crc="852551831" name="config/Modules/org-netbeans-modules-servletjspapi.xml"/>
-        <file crc="3922196005" name="modules/org-netbeans-modules-servletjspapi.jar"/>
+        <file crc="781379039" name="modules/org-netbeans-modules-servletjspapi.jar"/>
     </module_version>
 </module>

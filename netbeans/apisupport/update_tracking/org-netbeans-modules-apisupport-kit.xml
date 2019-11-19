@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.kit">
-    <module_version install_time="1563281945948" last="true" origin="installer" specification_version="1.35">
+    <module_version install_time="1571484277755" last="true" origin="installer" specification_version="1.36">
         <file crc="145657658" name="VERSION.txt"/>
         <file crc="1181658957" name="config/Modules/org-netbeans-modules-apisupport-kit.xml"/>
-        <file crc="634183284" name="modules/org-netbeans-modules-apisupport-kit.jar"/>
+        <file crc="3297020354" name="modules/org-netbeans-modules-apisupport-kit.jar"/>
     </module_version>
 </module>

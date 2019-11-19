@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.eclipse.mylyn.bugzilla.core">
-    <module_version install_time="1563281885401" last="true" origin="installer" specification_version="3.17.0.v20150828-2026">
+    <module_version install_time="1571484156528" last="true" origin="installer" specification_version="3.17.0.v20150828-2026">
         <file crc="2863355554" name="config/Modules/org-eclipse-mylyn-bugzilla-core.xml"/>
         <file crc="3540364864" name="modules/org-eclipse-mylyn-bugzilla-core.jar"/>
     </module_version>

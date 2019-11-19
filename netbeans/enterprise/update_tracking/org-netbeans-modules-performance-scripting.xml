@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.performance.scripting">
-    <module_version install_time="1563282243370" last="true" origin="installer" specification_version="1.8">
+    <module_version install_time="1571484782318" last="true" origin="installer" specification_version="1.9">
         <file crc="3779476371" name="config/Modules/org-netbeans-modules-performance-scripting.xml"/>
-        <file crc="1867982164" name="modules/org-netbeans-modules-performance-scripting.jar"/>
+        <file crc="2415629263" name="modules/org-netbeans-modules-performance-scripting.jar"/>
     </module_version>
 </module>

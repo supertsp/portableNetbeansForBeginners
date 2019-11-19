@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.java.hints">
-    <module_version install_time="1563282504624" last="true" origin="installer" specification_version="1.35.0.13.3.25.32.5.8">
+    <module_version install_time="1571485015431" last="true" origin="installer" specification_version="1.36.0.13.3.25.32.5.8">
         <file crc="1410390243" name="config/Modules/org-netbeans-spi-java-hints.xml"/>
         <file crc="3342077428" name="modules/ext/byte-buddy-1.7.9.jar"/>
-        <file crc="835170539" name="modules/org-netbeans-spi-java-hints.jar"/>
+        <file crc="655755941" name="modules/org-netbeans-spi-java-hints.jar"/>
     </module_version>
 </module>

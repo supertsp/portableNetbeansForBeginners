@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.ergonomics">
-    <module_version install_time="1563282552027" last="true" origin="installer" specification_version="1.32">
+    <module_version install_time="1571485107081" last="true" origin="installer" specification_version="1.33">
         <file crc="3535844926" name="config/Modules/org-apache-tools-ant-module.xml"/>
         <file crc="2213752857" name="config/Modules/org-netbeans-libs-jstl.xml"/>
         <file crc="1617045149" name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
@@ -83,6 +83,7 @@
         <file crc="3954023465" name="config/Modules/org-netbeans-modules-java-j2seprofiles.xml"/>
         <file crc="4139191243" name="config/Modules/org-netbeans-modules-java-j2seproject.xml"/>
         <file crc="510433324" name="config/Modules/org-netbeans-modules-java-kit.xml"/>
+        <file crc="2824584854" name="config/Modules/org-netbeans-modules-java-lsp-server.xml"/>
         <file crc="912196229" name="config/Modules/org-netbeans-modules-java-module-graph.xml"/>
         <file crc="3512685901" name="config/Modules/org-netbeans-modules-java-navigation.xml"/>
         <file crc="3969935613" name="config/Modules/org-netbeans-modules-java-openjdk-project.xml"/>
@@ -135,7 +136,6 @@
         <file crc="2343765796" name="config/Modules/org-netbeans-modules-maven-repository.xml"/>
         <file crc="736388720" name="config/Modules/org-netbeans-modules-maven.xml"/>
         <file crc="1648207514" name="config/Modules/org-netbeans-modules-nashorn-execution.xml"/>
-        <file crc="3883981854" name="config/Modules/org-netbeans-modules-openjfx-samples.xml"/>
         <file crc="3755509102" name="config/Modules/org-netbeans-modules-options-java.xml"/>
         <file crc="1793759858" name="config/Modules/org-netbeans-modules-payara-common.xml"/>
         <file crc="703303513" name="config/Modules/org-netbeans-modules-payara-jakartaee.xml"/>
@@ -230,6 +230,6 @@
         <file crc="1012668242" name="config/Modules/org-netbeans-modules-websvc-wsstackapi.xml"/>
         <file crc="2487084630" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
         <file crc="769021491" name="config/Modules/org-netbeans-modules-xml-tools-java.xml"/>
-        <file crc="1140603220" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+        <file crc="465375057" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
     </module_version>
 </module>

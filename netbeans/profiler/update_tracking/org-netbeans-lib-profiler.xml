@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.profiler/1">
-    <module_version install_time="1563282244887" last="true" origin="installer" specification_version="1.113">
+    <module_version install_time="1571484784748" last="true" origin="installer" specification_version="1.114">
         <file crc="2155818874" name="config/Modules/org-netbeans-lib-profiler.xml"/>
         <file crc="2995719193" name="lib/deployed/cvm/linux/libprofilerinterface.so"/>
         <file crc="2627201476" name="lib/deployed/cvm/linux/libprofilerinterface_g.so"/>
@@ -35,10 +35,10 @@
         <file crc="418582797" name="lib/deployed/jdk16/windows-amd64/profilerinterface.map"/>
         <file crc="402168066" name="lib/deployed/jdk16/windows/profilerinterface.dll"/>
         <file crc="1318557195" name="lib/deployed/jdk16/windows/profilerinterface.map"/>
-        <file crc="4004463329" name="lib/jfluid-server-15.jar"/>
-        <file crc="825594969" name="lib/jfluid-server-cvm.jar"/>
-        <file crc="4014349991" name="lib/jfluid-server.jar"/>
-        <file crc="4269233225" name="modules/org-netbeans-lib-profiler.jar"/>
+        <file crc="2185285042" name="lib/jfluid-server-15.jar"/>
+        <file crc="3790884526" name="lib/jfluid-server-cvm.jar"/>
+        <file crc="3628597427" name="lib/jfluid-server.jar"/>
+        <file crc="1870844256" name="modules/org-netbeans-lib-profiler.jar"/>
         <file crc="3699355800" name="remote-pack-defs/README.txt"/>
         <file crc="1977290288" name="remote-pack-defs/build.xml"/>
         <file crc="3621195125" name="remote-pack-defs/calibrate-15.bat"/>

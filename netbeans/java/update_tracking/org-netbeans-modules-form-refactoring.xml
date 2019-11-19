@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.form.refactoring/0">
-    <module_version install_time="1563281701557" last="true" origin="installer" specification_version="0.22.0.1.4.1">
+    <module_version install_time="1571483837680" last="true" origin="installer" specification_version="0.23.0.1.4.1">
         <file crc="1558902617" name="config/Modules/org-netbeans-modules-form-refactoring.xml"/>
-        <file crc="3252002780" name="modules/org-netbeans-modules-form-refactoring.jar"/>
+        <file crc="1733739100" name="modules/org-netbeans-modules-form-refactoring.jar"/>
     </module_version>
 </module>

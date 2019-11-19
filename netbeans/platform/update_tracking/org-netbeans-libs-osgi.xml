@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.osgi">
-    <module_version install_time="1563281884812" last="true" origin="installer" specification_version="1.27">
+    <module_version install_time="1571484155312" last="true" origin="installer" specification_version="1.28">
         <file crc="3882420389" name="config/Modules/org-netbeans-libs-osgi.xml"/>
         <file crc="971358898" name="modules/ext/osgi.cmpn-7.0.0.jar"/>
         <file crc="1626519391" name="modules/ext/osgi.core-7.0.0.jar"/>
-        <file crc="35574664" name="modules/org-netbeans-libs-osgi.jar"/>
+        <file crc="2868521469" name="modules/org-netbeans-libs-osgi.jar"/>
     </module_version>
 </module>

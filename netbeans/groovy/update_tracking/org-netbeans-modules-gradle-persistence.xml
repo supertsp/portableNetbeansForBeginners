@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.persistence">
-    <module_version install_time="1563282513507" last="true" origin="installer" specification_version="1.1">
+    <module_version install_time="1571485032478" last="true" origin="installer" specification_version="1.2">
         <file crc="1136891560" name="config/Modules/org-netbeans-modules-gradle-persistence.xml"/>
-        <file crc="1303356173" name="modules/org-netbeans-modules-gradle-persistence.jar"/>
+        <file crc="735997565" name="modules/org-netbeans-modules-gradle-persistence.jar"/>
     </module_version>
 </module>

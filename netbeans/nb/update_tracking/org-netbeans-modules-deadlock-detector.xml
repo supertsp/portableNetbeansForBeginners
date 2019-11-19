@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.deadlock.detector">
-    <module_version install_time="1563281888970" last="true" origin="installer" specification_version="1.11">
+    <module_version install_time="1571484163650" last="true" origin="installer" specification_version="1.12">
         <file crc="3388246380" name="config/Modules/org-netbeans-modules-deadlock-detector.xml"/>
-        <file crc="1427558266" name="modules/org-netbeans-modules-deadlock-detector.jar"/>
+        <file crc="1548059555" name="modules/org-netbeans-modules-deadlock-detector.jar"/>
     </module_version>
 </module>

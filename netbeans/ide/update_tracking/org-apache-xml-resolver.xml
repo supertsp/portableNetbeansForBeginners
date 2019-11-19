@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.xml.resolver">
-    <module_version install_time="1563282536258" last="true" origin="installer" specification_version="1.36.0.12">
+    <module_version install_time="1571485077480" last="true" origin="installer" specification_version="1.37.0.12">
         <file crc="3464639154" name="config/Modules/org-apache-xml-resolver.xml"/>
-        <file crc="438576713" name="modules/ext/resolver-1.2.jar"/>
-        <file crc="786002440" name="modules/org-apache-xml-resolver.jar"/>
+        <file crc="1441582045" name="modules/ext/resolver-1.2.jar"/>
+        <file crc="1937164981" name="modules/org-apache-xml-resolver.jar"/>
     </module_version>
 </module>

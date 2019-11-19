@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.bugtracking.bridge">
-    <module_version install_time="1563281416931" last="true" origin="installer" specification_version="1.50">
+    <module_version install_time="1571483391954" last="true" origin="installer" specification_version="1.51">
         <file crc="337954893" name="config/Modules/org-netbeans-modules-bugtracking-bridge.xml"/>
-        <file crc="3415223559" name="modules/org-netbeans-modules-bugtracking-bridge.jar"/>
+        <file crc="2763976330" name="modules/org-netbeans-modules-bugtracking-bridge.jar"/>
     </module_version>
 </module>

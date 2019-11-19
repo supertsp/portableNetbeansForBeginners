@@ -2,11 +2,11 @@
 package ${package};
 </#if>
 
-//<editor-fold defaultstate="collapsed" desc="imports...">
+// <editor-fold defaultstate="collapsed" desc="imports...">
 //import ...
-//</editor-fold>
+// </editor-fold>
 
-//<editor-fold defaultstate="collapsed" desc="documentation...">
+// <editor-fold defaultstate="collapsed" desc="documentation...">
 /**
  * Objective: ...
  * 
@@ -15,27 +15,27 @@ package ${package};
  * @version 1.0.0
  * @author ${user}, ${date}, ${time}
  * Last update: -
- *///</editor-fold>
+ */// </editor-fold>
 public enum ${name} {
-    
-    //<editor-fold defaultstate="collapsed" desc="constants...">
-    
-    //</editor-fold>
+	
+	// <editor-fold desc="constants...">
 
-    //<editor-fold defaultstate="collapsed" desc="auxiliary attributes...">
-    
-    //</editor-fold>
+	// </editor-fold>
 
-    //<editor-fold defaultstate="collapsed" desc="constructor...">
-    
-    //</editor-fold>
-    
-    //<editor-fold defaultstate="collapsed" desc="getter methods...">
-    
-    //</editor-fold>
+	// <editor-fold defaultstate="collapsed" desc="auxiliary fields...">
 
-    //<editor-fold defaultstate="collapsed" desc="static methods...">
-    
-    //</editor-fold>
-    
-}
+	// </editor-fold>
+
+	// <editor-fold defaultstate="collapsed" desc="constructor...">
+
+	// </editor-fold>
+
+	// <editor-fold defaultstate="collapsed" desc="getter methods...">
+
+	// </editor-fold>
+
+	// <editor-fold defaultstate="collapsed" desc="static methods...">
+
+	// </editor-fold>
+	
+}//enum

@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
+    <fileobject name="AnnotationType.java">
+        <attr name="position" intvalue="900"/>
+    </fileobject>
     <fileobject name="Class.java">
-        <attr name="position" intvalue="200"/>
+        <attr name="position" intvalue="600"/>
     </fileobject>
     <fileobject name="Code">
-        <attr name="position" intvalue="1600"/>
+        <attr name="position" intvalue="1800"/>
     </fileobject>
     <fileobject name="Enum.java">
-        <attr name="position" intvalue="300"/>
+        <attr name="position" intvalue="700"/>
     </fileobject>
     <fileobject name="Exception.java">
-        <attr name="position" intvalue="807"/>
+        <attr name="position" intvalue="1300"/>
     </fileobject>
     <fileobject name="Executavel.java">
         <attr name="displayName" stringvalue="Arquivo Java para Iniciantes"/>
@@ -21,26 +24,39 @@
         <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Interface.java">
-        <attr name="position" intvalue="312"/>
+        <attr name="position" intvalue="800"/>
+    </fileobject>
+    <fileobject name="JPAORMClass.java">
+        <attr name="displayName" stringvalue="JPA ORM Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="400"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="JPARepositoryInterface.java">
+        <attr name="displayName" stringvalue="JPA Repository Interface"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="300"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Main.java">
         <attr name="position" intvalue="100"/>
     </fileobject>
-    <fileobject name="NewClassORM.java">
-        <attr name="displayName" stringvalue="JPA class for ORM"/>
-        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="requireProject" boolvalue="true"/>
-        <attr name="targetName" stringvalue="Kotlin"/>
-        <attr name="template" boolvalue="true"/>
-    </fileobject>
     <fileobject name="Program.java">
         <attr name="displayName" stringvalue="Easy Java Main Class"/>
         <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="50"/>
+        <attr name="position" intvalue="200"/>
         <attr name="requireProject" boolvalue="true"/>
         <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Singleton.java">
-        <attr name="position" intvalue="425"/>
+        <attr name="position" intvalue="1000"/>
+    </fileobject>
+    <fileobject name="SpringBootEndpointClass.java">
+        <attr name="displayName" stringvalue="Spring Boot Endpoint Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="500"/>
+        <attr name="template" boolvalue="true"/>
     </fileobject>
 </attributes>

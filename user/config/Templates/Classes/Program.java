@@ -85,7 +85,7 @@ public class ${name} {
 
 		String finalMessage = "\n" + border + "\n";
 		for (int count = 0; count < slicesOfMessage.length; count++) {
-			finalMessage += "|  " + (String.format("%" + (border.length() - 6) + "s", slicesOfMessage[count])) + "  |\n";
+			finalMessage += "|  " + (String.format("%-" + (border.length() - 6) + "s", slicesOfMessage[count])) + "  |\n";
 		}
 		finalMessage += border + "\n";
 
@@ -98,12 +98,9 @@ public class ${name} {
 		String border = drawBorderLines(messageToUser, 2);
 		String[] slicesOfMessage = messageToUser.toString().split("\n");
 
-//		Integer spaceFormat = /;
-//		String test = String.format("%" + (border.length() - 6) + "s", slicesOfMessage[0]);
-//		System.out.println(test);
 		String headerMessage = "\n" + border + "\n";
 		for (int count = 0; count < slicesOfMessage.length; count++) {
-			headerMessage += "|  " + (String.format("%" + (border.length() - 6) + "s", slicesOfMessage[count])) + "  |\n";
+			headerMessage += "|  " + (String.format("%-" + (border.length() - 6) + "s", slicesOfMessage[count])) + "  |\n";
 		}
 		System.out.print(headerMessage + "|  ");
 

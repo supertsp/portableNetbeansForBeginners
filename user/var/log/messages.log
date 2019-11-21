@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Thursday, November 21, 2019 9:28:02 AM BRT
+>Log Session: Thursday, November 21, 2019 9:58:59 AM BRT
 >System Info: 
   Product Version         = Apache NetBeans IDE 11.2 Portable
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -37,9 +37,6 @@ WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ant.hints
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
-WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml
-WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
-WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml
 WARNING [null]: Last record repeated again.
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-NpmDebugLogDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml
 WARNING [org.openide.filesystems.Ordering]: Found same position 127 for both Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageJsonDataObject-Registration.xml and Services/MIMEResolver/org-netbeans-modules-javascript-nodejs-file-PackageLockJsonDataObject-Registration.xml
@@ -50,7 +47,7 @@ java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completio
 	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:197)
-Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[564 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@548c4f57, org.netbeans.JarClassLoader@4bcb1aec, ModuleCL@2718e2e2[org.netbeans.api.annotations.common], ModuleCL@1f401cdd[org.openide.awt], ModuleCL@ad43413[org.netbeans.api.progress], ModuleCL@76610201[org.netbeans.api.progress.nb], ModuleCL@168ef1dd[org.openide.dialogs], ModuleCL@9b7b125[org.openide.nodes], ModuleCL@22e868ac[org.openide.windows], ModuleCL@5ce717fa[org.netbeans.modules.editor.mimelookup], ...539 more]
+Caused: java.lang.ClassNotFoundException: org.netbeans.modules.web.core.syntax.completion.api.JspCompletionItem starting from SystemClassLoader[515 modules] with possible defining loaders null and declared parents [org.netbeans.MainImpl$BootClassLoader@548c4f57, org.netbeans.JarClassLoader@4ba66948, ModuleCL@5ab1ffc4[org.netbeans.api.annotations.common], ModuleCL@7c6f283c[org.openide.awt], ModuleCL@45221402[org.netbeans.api.progress], ModuleCL@2036419d[org.netbeans.api.progress.nb], ModuleCL@75acc580[org.openide.dialogs], ModuleCL@70072dc1[org.openide.nodes], ModuleCL@25d0b5c7[org.openide.windows], ModuleCL@37f83249[org.netbeans.modules.editor.mimelookup], ...490 more]
 	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:199)
 	at org.netbeans.ModuleManager$SystemClassLoader.loadClass(ModuleManager.java:769)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
@@ -235,70 +232,25 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.websvc.jaxws21/1 [1.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.json_simple/1 [0.18 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.web.common [1.104 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.web.indent [1.26 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.extexecution.base/2 [1.10 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.extexecution/2 [1.54 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.extbrowser/1 [1.59 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.browser.api [1.51 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.web.common.ui [1.7 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.gsf.testrunner/2 [2.15 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.gsf.testrunner.ui [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.gototest/1 [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.common.ui [1.7 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.antlr3.runtime [1.27.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.css.lib/1 [1.89 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html.lexer/1 [1.44 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html.editor.lib/3 [3.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.indent [1.26 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.css.model [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.css.editor/1 [1.74 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.extbrowser/1 [1.59 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.web.browser.api [1.51 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html/1 [1.67 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html.editor/2 [2.61 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.gsf.codecoverage [1.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.web.clientproject.api [1.109 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.webkit.debugging [1.59 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.webkit.tooling [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.debug/1 [1.23 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.debug.ui/1 [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.javascript.debugger [1.21 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.terminal [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.core.output2/1 [1.48 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.css.visual/3 [3.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.inspect [0.36 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.project.ant.ui/1 [1.71 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.core.ide/1 [1.47 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.server/0 [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.selenium2.server [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.selenium2 [1.11 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.selenium2.webclient [1.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.clientproject [1.92 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.client.samples [1.20 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.gulp [0.19 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.types/1 [1.6 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.antlr4.runtime [1.7.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.json [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.lexer/1 [1.12 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.nashorn/1 [1.40 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.doc/1 [1.5 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.model/1 [1.10 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.source.query/0 [0.5 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.cdnjs/0 [0.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.bower [0.11 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.karma/0 [0.22 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.lib.v8debug/1 [1.22 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.v8debug/1 [1.16.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.commons_compress/0 [0.12.0.181 181 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.editor/1 [0.79 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.nodejs/0 [0.18 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.nodejs/0 [0.35 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.jna/2 [2.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.netserver [1.19 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.extbrowser.chrome [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.grunt [0.20 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.bytelist/1 [0.35.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.jvyamlb/1 [0.35 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.languages.yaml [2.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.libs.jstestdriver [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript.jstestdriver [0.18 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.web.client.kit [1.22 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.versioning.core/1 [1.37.0.1.42 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.versioning/1 [1.53.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.spellchecker.apimodule [1.31 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -319,6 +271,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.uihandler.exceptionreporter [1.35 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	com.google.gson [2.7.0 2.7.0]
 	org.netbeans.modules.textmate.lexer/0 [1.4 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.project.ant.ui/1 [1.71 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.platform.ui/1 [1.48 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.project.ui/1 [1.81 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.sourceui/1 [1.51.0.1.25.32.5 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -339,6 +292,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.testng.maven [2.22 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.testrunner.ant [1.8 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.testng.ant [2.21 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.terminal [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.lib.terminalemulator [1.43 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.terminal.nb [1.6 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.templates/1 [1.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -357,9 +311,11 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.ant.browsetask [1.46 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.ant.debugger/1 [1.43.0.2 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.ant.freeform/1 [1.52 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.ide/1 [1.47 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.multitabs/1 [1.18.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.editor.bookmarks/1 [1.43 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.editor.plain.lib/1 [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.jna/2 [2.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	com.jcraft.jsch [0.1.54 0.1.54]
 	org.netbeans.modules.dlight.nativeexecution [1.45.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.dlight.terminal [1.29.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -369,7 +325,12 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.html.parser/1 [1.40.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html.validation/1 [1.36 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.languages.manifest [1.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.output2/1 [1.48 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.css.visual/3 [3.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.properties/1 [1.61 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.bytelist/1 [0.35.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.jvyamlb/1 [0.35 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.languages.yaml [2.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.image/1 [1.54 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.editor.kit [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.print [7.32 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -429,8 +390,10 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.properties.syntax/1 [1.56 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.spellchecker.bindings.properties [1.28 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.spellchecker.bindings.htmlxml [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.selenium2.webclient.protractor [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.selenium2.webclient.mocha [1.12 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.server/0 [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.selenium2.server [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.selenium2 [1.11 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.selenium2.webclient [1.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.selenium2.java [1.8 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.selenium2.maven [1.8 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.schema2beans/1 [1.53 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -515,23 +478,15 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.localtasks [1.31 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.localhistory [1.40 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.lexer.nbbridge/1 [1.38.0.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.languages.ini [1.31 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.kotlin.editor [1.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.keyring.fallback [1.14 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.keyring.impl [1.30 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.junit.ant.ui [1.11 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.junit.ant [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.sdoc [1.4 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.requirejs [0.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.react [0.5 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.prototypejs [0.11 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.knockout [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.jsdoc [1.4 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.extjs [1.15 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.jquery [1.15 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.extdoc [1.4 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.jade/1 [0.12 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.javascript2.kit/1 [0.19 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.javascript2.debug/1 [1.23 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.javascript2.debug.ui/1 [1.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.lib.v8debug/1 [1.22 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.javascript.v8debug/1 [1.16.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.javascript.v8debug.ui/1 [1.5.0.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.source.queries [1.24 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.java.source.queriesimpl [1.23 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -570,12 +525,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.hudson.maven [1.35 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.hudson.git [1.24 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.hudson.ant [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.api.knockout [1.7 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.html.knockout [1.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.html.ojet [0.14 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.html.custom [1.12 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.core.browser/1 [1.34.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.html.angular [1.18 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.eclipse.jgit [3.6.2 3.6.2.201501210735-r]
 	org.netbeans.libs.jna.platform/2 [2.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.jsch.agentproxy/1 [0.20 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -589,6 +539,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.editor.mimelookup.impl/1 [1.38 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.editor.htmlui [1.5 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.editor.global.format/1 [1.21.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.commons_compress/0 [0.12.0.181 181 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	libs.c.kohlschutter.junixsocket/1 [2.21 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.docker.api/0 [1.26 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.docker.ui/0 [1.6 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -599,7 +550,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.debugger.jpda/2 [1.113.0.80 80 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.debugger.jpda.ui/1 [1.60 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.debugger.jpda.visual/1 [1.23 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.debugger.jpda.trufflenode/1 [1.3 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.graalsdk [1.2 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.libs.truffleapi [1.3 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.debugger.jpda.truffle/1 [1.3 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -608,9 +558,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.modules.debugger.jpda.kit [1.21 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.debugger.jpda.heapwalk/1 [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.modules.css.prep [1.36 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.cordova.platforms [1.42 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.cordova.platforms.android [1.32 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	org.netbeans.modules.cordova [1.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.eclipse.mylyn.bugzilla.core [3.17.0 3.17.0.v20150828-2026]
 	org.apache.commons.httpclient [3.1.0 3.1.0]
 	org.netbeans.modules.bugzilla [1.83 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -624,6 +571,7 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.core.network [1.18 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.nativeaccess/1 [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.io.ui/1 [1.36 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.browser/1 [1.34.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.api.progress.compat8 [1.53 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.eclipse.mylyn.commons.xmlrpc [3.17.0 3.17.0.v20150625-2042]
 	org.eclipse.mylyn.commons.repositories.core [1.9.0 1.9.0.v20150625-2042]
@@ -648,8 +596,6 @@ INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows syst
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
-WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.apache.maven.settings.building.DefaultSettingsBuildingRequest.setSystemProperties(DefaultSettingsBuildingRequest.java:122)
-WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.apache.maven.repository.internal.MavenRepositorySystemUtils.newSession(MavenRepositorySystemUtils.java:133)
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -699,152 +645,23 @@ Input arguments:
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 256,0MB maximum 3618,0MB
 Non heap memory usage: initial 2,4MB maximum -1b
-Garbage collector: PS Scavenge (Collections=11 Total time spent=0s)
-Garbage collector: PS MarkSweep (Collections=3 Total time spent=0s)
-Classes: loaded=10851 total loaded=10851 unloaded 0
+Garbage collector: PS Scavenge (Collections=5 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=7520 total loaded=7520 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 17.066.430.464
-INFO [org.openide.awt.Toolbar]: Too long AWTTask: 1.204 ms for org.openide.awt.MenuBar$LazyMenu$MenuFolder@2f9fd10d(FolderList{MultiFileObject@5615ab5f[Menu/BuildProject]})
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
 WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 4.382 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 153 binary roots took: 4.270 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\CapivaraWars\Java\Backend\NEW\CapivaraWarsPlayerServiceAPI\src\test\resources took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\CapivaraWars\Java\Backend\NEW\CapivaraWarsPlayerServiceAPI\src\main\resources took: 172 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\CapivaraWars\Java\Backend\NEW\CapivaraWarsPlayerServiceAPI\src\main\java took: 74 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\CapivaraWars\Java\Backend\NEW\CapivaraWarsPlayerServiceAPI\src\test\java took: 197 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 4 source roots took: 443 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 87 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 1 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\NetBeansProjects\TiagoPedrosoAtividadeBaralho\src took: 1.035 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 1.035 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
-INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@3e28fab3 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 67 ms.
-INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2.124 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 19 binary roots took: 2.751 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\tpedroso\source\NetBeansProjects\TiagoPedrosoAtividadeBaralho\src took: 120 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 120 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ActionProviderSupport.verifyUserPropertiesFile(ActionProviderSupport.java:927)
-WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@7ee68911[MultiFileObject@7620c0d6[Actions/Help/master-help.xml]]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 15 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\App\PortableNetbeans\netbeans\webcommon\jsstubs\reststubs.zip took: 261 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\App\PortableNetbeans\netbeans\webcommon\jsstubs\corestubs.zip took: 58 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\App\PortableNetbeans\netbeans\webcommon\jsstubs\domstubs.zip took: 75 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 394 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-WARNING [null]: Note - org.netbeans.modules.templates.ui.TemplatesPanel ought to override getPersistenceType() rather than using the client property or accepting the default.
-Even though the source level of  is set to: 9, java.util.zip.CRC32C cannot be found on the system module path: 
-Changing source level to 1.8
-INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@1f8604be returned null parser for Snapshot 493429532: Program.java
-INFO [org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl]: Downloaded maven index file has size 0 (zipped). The usable space in C:\App\PortableNetbeans\user is 110.448.291.840.
-INFO [org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl]: could not (re-)index central
-sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
-	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
-	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:392)
-Caused: sun.security.validator.ValidatorException: PKIX path building failed
-	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:397)
-	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:302)
-	at sun.security.validator.Validator.validate(Validator.java:262)
-	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:330)
-	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:237)
-	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132)
-	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1621)
-Caused: javax.net.ssl.SSLHandshakeException
-	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
-	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
-	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
-	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
-	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1639)
-	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
-	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
-	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
-	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
-	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
-	at org.apache.maven.wagon.providers.http.httpclient.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275)
-	at org.apache.maven.wagon.providers.http.httpclient.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:123)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:318)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.execchain.RetryExec.execute(RetryExec.java:86)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
-	at org.apache.maven.wagon.providers.http.httpclient.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
-	at org.apache.maven.wagon.providers.http.AbstractHttpClientWagon.execute(AbstractHttpClientWagon.java:832)
-	at org.apache.maven.wagon.providers.http.AbstractHttpClientWagon.fillInputData(AbstractHttpClientWagon.java:983)
-Caused: org.apache.maven.wagon.TransferFailedException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.apache.maven.wagon.providers.http.AbstractHttpClientWagon.fillInputData(AbstractHttpClientWagon.java:1066)
-	at org.apache.maven.wagon.providers.http.AbstractHttpClientWagon.fillInputData(AbstractHttpClientWagon.java:960)
-	at org.apache.maven.wagon.StreamWagon.getInputStream(StreamWagon.java:116)
-	at org.apache.maven.wagon.StreamWagon.getIfNewer(StreamWagon.java:88)
-	at org.apache.maven.wagon.StreamWagon.get(StreamWagon.java:61)
-	at org.apache.maven.index.updater.WagonHelper$WagonFetcher.retrieve(WagonHelper.java:220)
-Caused: java.io.IOException: Transfer for nexus-maven-repository-index.properties failed; sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
-	at org.apache.maven.index.updater.WagonHelper$WagonFetcher.retrieve(WagonHelper.java:245)
-	at org.apache.maven.index.updater.WagonHelper$WagonFetcher.retrieve(WagonHelper.java:202)
-	at org.apache.maven.index.updater.DefaultIndexUpdater.downloadIndexProperties(DefaultIndexUpdater.java:342)
-	at org.apache.maven.index.updater.DefaultIndexUpdater.access$000(DefaultIndexUpdater.java:76)
-	at org.apache.maven.index.updater.DefaultIndexUpdater$IndexAdaptor.setProperties(DefaultIndexUpdater.java:465)
-	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:681)
-	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:161)
-	at org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl.indexLoadedRepo(NexusRepositoryIndexerImpl.java:528)
-	at org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl.access$200(NexusRepositoryIndexerImpl.java:122)
-[catch] at org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl$3.run(NexusRepositoryIndexerImpl.java:659)
-	at org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl$3.run(NexusRepositoryIndexerImpl.java:652)
-	at org.netbeans.modules.openide.util.DefaultMutexImplementation.writeAccess(DefaultMutexImplementation.java:229)
-	at org.openide.util.Mutex.writeAccess(Mutex.java:246)
-	at org.netbeans.modules.maven.indexer.NexusRepositoryIndexerImpl.indexRepo(NexusRepositoryIndexerImpl.java:652)
-	at org.netbeans.modules.maven.indexer.api.RepositoryIndexer.indexRepo(RepositoryIndexer.java:42)
-	at org.netbeans.modules.maven.ProjectOpenedHookImpl$2.run(ProjectOpenedHookImpl.java:207)
-	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
-	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
-	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
-	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
-INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@1f8604be returned null parser for Snapshot 1436326823: Program.java
-INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@1f8604be returned null parser for Snapshot 1004899355: Program.java
-WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
-INFO [org.netbeans.modules.parsing.impl.SourceCache]: Parser factory: org.netbeans.modules.java.source.parsing.JavacParserFactory@1f8604be returned null parser for Snapshot 1821188899: Program.java
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@4f749daf[MultiFileObject@1c22c8d5[Actions/Help/master-help.xml]]
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@21ba7c29 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 156 ms.
 WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 3 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FB8Ft#002Ehistory#007C_10'. Reason: Top component MultiView-java#002Eso888FB8Ft#002Ehistory#007C_10 could not be located or loaded from Components folder.
-INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC9xt#002Ehistory#007C_9'. Reason: Top component MultiView-java#002Eso10CA9CC9xt#002Ehistory#007C_9 could not be located or loaded from Components folder.
-INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC6xt#002Ehistory#007C_6'. Reason: Top component MultiView-java#002Eso10CA9CC6xt#002Ehistory#007C_6 could not be located or loaded from Components folder.
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: Long time unused modules found, disabling:
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova.platforms.android
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.cordova
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.extbrowser.chrome
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.angular
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.html.ojet
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.bower
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.cdnjs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.grunt
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.gulp
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.jstestdriver
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.karma
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript.nodejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.extjs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jade
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jquery
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.jsdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.kit
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.nodejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.prototypejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.react
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.requirejs
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.javascript2.sdoc
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.languages.ini
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.kit
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.client.samples
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.clientproject
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.inspect
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.javascript.debugger
-INFO [org.netbeans.modules.ide.ergonomics.fod.FeatureManager]: org.netbeans.modules.web.webkit.tooling
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
 INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
 INFO [null]: Last record repeated again.

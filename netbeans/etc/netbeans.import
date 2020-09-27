@@ -13,7 +13,7 @@ include config/Preferences/org/netbeans/core[.]properties|config/Services/MIMERe
 #org.netbeans.modules.html OptionsExport/Advanced/HTMLPalette
 include config/HTMLPalette/.*
 #org.netbeans.modules.j2eeserver OptionsExport/Advanced/J2EE
-include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC|GlassFishEE8)/.*
+include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC|GlassFishEE8|GlassFishJakartaEE8)/.*
 #org.netbeans.modules.web.core OptionsExport/Advanced/JSPPalette
 include config/JSPPalette/.*
 #null OptionsExport/Advanced/JavaPlatform

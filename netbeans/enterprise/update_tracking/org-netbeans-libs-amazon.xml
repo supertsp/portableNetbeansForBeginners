@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.amazon/1">
-    <module_version install_time="1571484586996" last="true" origin="installer" specification_version="1.16">
+    <module_version install_time="1598375942824" last="true" origin="installer" specification_version="1.19">
         <file crc="1636377766" name="config/Modules/org-netbeans-libs-amazon.xml"/>
         <file crc="1681808320" name="modules/ext/aws-sdk/aws-java-sdk-core-1.11.569.jar"/>
         <file crc="1826514233" name="modules/ext/aws-sdk/aws-java-sdk-elasticbeanstalk-1.11.569.jar"/>
@@ -14,6 +14,6 @@
         <file crc="128727585" name="modules/ext/aws-sdk/jackson-dataformat-cbor-2.6.7.jar"/>
         <file crc="3166474435" name="modules/ext/aws-sdk/jmespath-java-1.11.569.jar"/>
         <file crc="2328139421" name="modules/ext/aws-sdk/joda-time-2.8.1.jar"/>
-        <file crc="1708654447" name="modules/org-netbeans-libs-amazon.jar"/>
+        <file crc="1211592899" name="modules/org-netbeans-libs-amazon.jar"/>
     </module_version>
 </module>

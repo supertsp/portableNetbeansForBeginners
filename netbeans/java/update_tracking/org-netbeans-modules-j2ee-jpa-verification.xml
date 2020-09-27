@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.jpa.verification">
-    <module_version install_time="1571483882369" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1598375609659" last="true" origin="installer" specification_version="1.44">
         <file crc="3628661449" name="config/Modules/org-netbeans-modules-j2ee-jpa-verification.xml"/>
-        <file crc="2531554426" name="modules/org-netbeans-modules-j2ee-jpa-verification.jar"/>
+        <file crc="3705068919" name="modules/org-netbeans-modules-j2ee-jpa-verification.jar"/>
     </module_version>
 </module>

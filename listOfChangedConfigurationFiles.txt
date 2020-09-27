@@ -1,6 +1,6 @@
 1) JDK: "netbeans/etc/netbeans.conf"
 
-    netbeans_jdkhome="./jdks/jdk12"
+    netbeans_jdkhome="./jdks/jdk8"
 
 
 

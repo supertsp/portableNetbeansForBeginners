@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gototest/1">
-    <module_version install_time="1571485024017" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1598375231553" last="true" origin="installer" specification_version="1.42">
         <file crc="1907751588" name="config/Modules/org-netbeans-modules-gototest.xml"/>
-        <file crc="1926643120" name="modules/org-netbeans-modules-gototest.jar"/>
+        <file crc="1985373476" name="modules/org-netbeans-modules-gototest.jar"/>
     </module_version>
 </module>

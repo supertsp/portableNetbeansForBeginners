@@ -5,8 +5,8 @@
   <joined-properties
    x="-8"
    y="-8"
-   width="1382"
-   height="744"
+   width="1936"
+   height="1056"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
@@ -19,9 +19,9 @@
 />
   <separated-properties
    x="192"
-   y="105"
+   y="104"
    width="1536"
-   height="84"
+   height="83"
    relative-x="0.0"
    relative-y="0.0"
    relative-width="0.0"
@@ -33,13 +33,12 @@
   </main-window>
     <editor-area state="joined" frame-state="0">
   <constraints>
-  <path orientation="horizontal" number="60" weight="0.7522058823529412" />
+  <path orientation="horizontal" number="60" weight="0.7" />
   <path orientation="vertical" number="40" weight="0.7" />
-  <path orientation="horizontal" number="40" weight="0.6438689815556853" />
+  <path orientation="horizontal" number="40" weight="0.7" />
   <path orientation="vertical" number="40" weight="0.5" />
-  <path orientation="horizontal" number="1" weight="0.9951923076923077" />
   </constraints>
-  <bounds x="633" y="252" width="806" height="462" />
+  <bounds x="633" y="249" width="806" height="457" />
     </editor-area>
     <screen width="1920" height="1080"/>
     <active-mode name="explorer"/>

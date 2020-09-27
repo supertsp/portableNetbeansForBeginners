@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.plain/2">
-    <module_version install_time="1571483498128" last="true" origin="installer" specification_version="1.41">
+    <module_version install_time="1598375216716" last="true" origin="installer" specification_version="1.44">
         <file crc="977811071" name="config/Modules/org-netbeans-modules-editor-plain.xml"/>
-        <file crc="1540014682" name="modules/org-netbeans-modules-editor-plain.jar"/>
+        <file crc="2809987700" name="modules/org-netbeans-modules-editor-plain.jar"/>
     </module_version>
 </module>

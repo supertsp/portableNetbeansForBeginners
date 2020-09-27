@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.earproject">
-    <module_version install_time="1571484736270" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1598376066288" last="true" origin="installer" specification_version="1.60">
         <file crc="2490954521" name="config/Modules/org-netbeans-modules-j2ee-earproject.xml"/>
-        <file crc="2947866551" name="modules/org-netbeans-modules-j2ee-earproject.jar"/>
+        <file crc="2073861917" name="modules/org-netbeans-modules-j2ee-earproject.jar"/>
     </module_version>
 </module>

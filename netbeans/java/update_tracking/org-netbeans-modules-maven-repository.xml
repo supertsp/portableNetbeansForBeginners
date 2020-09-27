@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.repository/1">
-    <module_version install_time="1571483973846" last="true" origin="installer" specification_version="1.48">
+    <module_version install_time="1598375689256" last="true" origin="installer" specification_version="1.51">
         <file crc="3883033223" name="config/Modules/org-netbeans-modules-maven-repository.xml"/>
-        <file crc="4123851617" name="modules/org-netbeans-modules-maven-repository.jar"/>
+        <file crc="3420779658" name="modules/org-netbeans-modules-maven-repository.jar"/>
     </module_version>
 </module>

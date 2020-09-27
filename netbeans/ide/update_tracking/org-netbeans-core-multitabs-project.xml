@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.multitabs.project">
-    <module_version install_time="1571483416054" last="true" origin="installer" specification_version="1.16.0.1.1">
+    <module_version install_time="1598375136964" last="true" origin="installer" specification_version="1.19.0.1.1">
         <file crc="3119371406" name="config/Modules/org-netbeans-core-multitabs-project.xml"/>
-        <file crc="3639875769" name="modules/org-netbeans-core-multitabs-project.jar"/>
+        <file crc="1222240980" name="modules/org-netbeans-core-multitabs-project.jar"/>
     </module_version>
 </module>

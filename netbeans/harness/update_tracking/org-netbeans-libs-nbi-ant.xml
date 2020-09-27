@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.nbi.ant">
-    <module_version install_time="1571483343230" last="true" origin="installer" specification_version="1.28">
+    <module_version install_time="1598375073187" last="true" origin="installer" specification_version="1.31">
         <file crc="55657938" name="config/Modules/org-netbeans-libs-nbi-ant.xml"/>
-        <file crc="1174748507" name="modules/ext/nbi-ant-tasks.jar"/>
-        <file crc="3526160788" name="modules/ext/nbi-registries-management.jar"/>
-        <file crc="1778403017" name="modules/org-netbeans-libs-nbi-ant.jar"/>
+        <file crc="2778834555" name="modules/ext/nbi-ant-tasks.jar"/>
+        <file crc="1241138513" name="modules/ext/nbi-registries-management.jar"/>
+        <file crc="3707893347" name="modules/org-netbeans-libs-nbi-ant.jar"/>
         <file crc="4264964434" name="nbi/.common/common.properties"/>
         <file crc="2182362675" name="nbi/.common/common.xml"/>
         <file crc="259541933" name="nbi/.common/engine.properties"/>
@@ -12,7 +12,7 @@
         <file crc="2068275967" name="nbi/.common/group.xml"/>
         <file crc="2967434680" name="nbi/.common/product.properties"/>
         <file crc="2122414532" name="nbi/.common/product.xml"/>
-        <file crc="1579859060" name="nbi/stub/build.properties"/>
+        <file crc="265193436" name="nbi/stub/build.properties"/>
         <file crc="2610593048" name="nbi/stub/build.xml"/>
         <file crc="1866837110" name="nbi/stub/ext/components/products/helloworld/build.xml"/>
         <file crc="721509617" name="nbi/stub/ext/components/products/helloworld/data/Bundle.properties"/>
@@ -58,7 +58,7 @@
         <file crc="3762808329" name="nbi/stub/ext/infra/build/engine/build.xml"/>
         <file crc="226117779" name="nbi/stub/ext/infra/build/products/helloworld/build.properties"/>
         <file crc="1119849420" name="nbi/stub/ext/infra/build/products/helloworld/build.xml"/>
-        <file crc="3241173245" name="nbi/stub/template.xml"/>
-        <file crc="1332154935" name="nbi/stub/tmpl.properties"/>
+        <file crc="2230850688" name="nbi/stub/template.xml"/>
+        <file crc="2388418969" name="nbi/stub/tmpl.properties"/>
     </module_version>
 </module>

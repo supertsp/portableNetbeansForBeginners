@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.examples/1">
-    <module_version install_time="1571483884498" last="true" origin="installer" specification_version="1.42">
+    <module_version install_time="1598375611845" last="true" origin="installer" specification_version="1.45">
         <file crc="1661208696" name="config/Modules/org-netbeans-modules-java-examples.xml"/>
-        <file crc="226283614" name="modules/org-netbeans-modules-java-examples.jar"/>
+        <file crc="1884395361" name="modules/org-netbeans-modules-java-examples.jar"/>
     </module_version>
 </module>

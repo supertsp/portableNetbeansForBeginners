@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.groovy">
-    <module_version install_time="1571485059505" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1598376317432" last="true" origin="installer" specification_version="1.21">
         <file crc="341544524" name="config/Modules/org-netbeans-modules-maven-groovy.xml"/>
-        <file crc="921013350" name="modules/org-netbeans-modules-maven-groovy.jar"/>
+        <file crc="3286362444" name="modules/org-netbeans-modules-maven-groovy.jar"/>
     </module_version>
 </module>

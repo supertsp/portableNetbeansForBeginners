@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.util.enumerations">
-    <module_version install_time="1571483285420" last="true" origin="installer" specification_version="6.39">
+    <module_version install_time="1598375018244" last="true" origin="installer" specification_version="6.42">
         <file crc="4290833959" name="config/Modules/org-openide-util-enumerations.xml"/>
-        <file crc="2270358551" name="modules/org-openide-util-enumerations.jar"/>
+        <file crc="3438927489" name="modules/org-openide-util-enumerations.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.asm">
-    <module_version install_time="1571485066164" last="true" origin="installer" specification_version="5.9">
-        <file crc="2977601252" name="core/asm-all-5.0.1.jar"/>
-        <file crc="4001872950" name="core/org-netbeans-libs-asm.jar"/>
+    <module_version install_time="1598374934978" last="true" origin="installer" specification_version="5.12">
+        <file crc="976129466" name="core/asm-8.0.1.jar"/>
+        <file crc="270215868" name="core/asm-commons-8.0.1.jar"/>
+        <file crc="3126236488" name="core/asm-tree-8.0.1.jar"/>
+        <file crc="2291106142" name="core/org-netbeans-libs-asm.jar"/>
     </module_version>
 </module>

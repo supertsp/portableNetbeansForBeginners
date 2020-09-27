@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.dataview">
-    <module_version install_time="1571484443662" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1598375175304" last="true" origin="installer" specification_version="1.42">
         <file crc="3221262164" name="config/Modules/org-netbeans-modules-db-dataview.xml"/>
-        <file crc="2503233774" name="modules/org-netbeans-modules-db-dataview.jar"/>
+        <file crc="3736840204" name="modules/org-netbeans-modules-db-dataview.jar"/>
     </module_version>
 </module>

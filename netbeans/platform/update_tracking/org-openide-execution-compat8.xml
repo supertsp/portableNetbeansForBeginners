@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.execution.compat8">
-    <module_version install_time="1571483284621" last="true" origin="installer" specification_version="9.8">
+    <module_version install_time="1598375017504" last="true" origin="installer" specification_version="9.11">
         <file crc="2906034987" name="config/Modules/org-openide-execution-compat8.xml"/>
-        <file crc="2213997104" name="modules/org-openide-execution-compat8.jar"/>
+        <file crc="1888608252" name="modules/org-openide-execution-compat8.jar"/>
     </module_version>
 </module>

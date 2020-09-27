@@ -1,3 +1,0 @@
-ZIP FILE FOR OPENJDK VERSIONS
-    https://gluonhq.com/products/scene-builder/#download
-

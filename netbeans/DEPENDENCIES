@@ -15,7 +15,7 @@ From: Amazon Web Services
 From: Antlr
   - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr.org)
     License: BSD-like Antlr Runtime 3 license
-  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (http://www.antlr.org)
+  - Antlr: ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions. (https://www.antlr.org)
     License: BSD-like Antlr Runtime 4 license
 
 From: Apache
@@ -68,27 +68,29 @@ From: Apache Software Foundation
   - Apache CXF: Apache CXF is an open-source services framework that aids in the development of services using front-end programming APIs, like JAX-WS and JAX-RS. (http://cxf.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
     Comment: Only used to extract the WSDL xsd
-  - Apache Commons Codec: Provides implementations of common encoders and decoders. (http://commons.apache.org/codec/)
+  - Apache Commons Codec: Provides implementations of common encoders and decoders. (https://commons.apache.org/proper/commons-codec/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Commons IO: Assist with developing IO functionality (http://commons.apache.org/io/)
+  - Apache Commons IO: Assist with developing IO functionality (https://commons.apache.org/proper/commons-io/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache FreeMarker: Template engine
+    License: Apache-2.0-freemarker
   - Apache HttpClient: Apache HttpComponents Client (http://hc.apache.org/httpcomponents-client)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache HttpCore: Apache HttpComponents Core (blocking I/O) (http://hc.apache.org/httpcomponents-core-ga/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Jakarta Commons Lang: Provides a host of helper utilities for the java.lang API (http://commons.apache.org/lang/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Jakarta Commons Logging: Logging component (http://commons.apache.org/logging/)
+  - Apache Jakarta Commons Logging: Logging component (https://commons.apache.org/proper/commons-logging/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Lucene: Java-based indexing and search technology (http://lucene.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache Lucene: Java-based indexing and search technology (http://lucene.apache.org/)
+  - Apache Lucene: Java-based indexing and search technology (https://lucene.apache.org/core/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Lucene addendums
   - Apache Maven Distribution: Apache Maven Distribution (http://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache WS Common Utilities: High performance XML processing based on SAX (http://ws.apache.org/commons/util/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Apache XMLRPC: Java implementation of XML-RPC (http://ws.apache.org/xmlrpc/)
+  - Apache XMLRPC: Java implementation of XML-RPC (https://ws.apache.org/xmlrpc/index.html)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Xerces: Xerces XML parser. (http://xerces.apache.org/xerces-j/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -112,7 +114,7 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Log4j: Logging support library (http://logging.apache.org/log4j/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Maven Dependency Tree: Maven Dependency Tree (http://maven.apache.org/)
+  - Maven Dependency Tree: Maven Dependency Tree (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Indexer: Maven remote repository indexing engine. (http://repo1.maven.org/maven2/org/apache/maven/indexer/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -126,6 +128,10 @@ From: Apache Software Foundation
   - jakarta-taglibs 'standard': An implementation of JavaServer Pages Standard Tag Library (JSTL) (http://archive.apache.org/dist/jakarta/taglibs/standard/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
     Comment: Only used to create tag library documentation
+  - langdetect: Fork of the com.cybozu.labs.langdetect language-detection library (https://github.com/validator/language-detection/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - salvation: This is a general purpose library for working with Content Security Policy policies. (https://github.com/shapesecurity/salvation)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Byte Buddy
   - Byte Buddy: Code Generation Library (https://github.com/raphw/byte-buddy)
@@ -160,6 +166,8 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Language Server Protocol Library: Eclipse Language Server Protocol Library (http://www.eclipse.org/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+  - Eclipse Language Server Protocol Library: Eclipse Language Server Protocol Library (http://www.eclipse.org/)
+    License: Eclipse Public License v2.0
   - Eclipse Mylyn Commons Core library: Eclipse Mylyn Commons Core library (http://www.eclipse.org/mylyn/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Xtend library: Eclipse Xtend library (http://www.eclipse.org/)
@@ -189,6 +197,16 @@ From: Eclipse
   - org.eclipse.mylyn.wikitext.markdown.core: Support for the Markdown wiki style (http://www.eclipse.org/mylyn/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
 
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/8.0.0)
+  - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
+    License: Eclipse Public License v2.0
+  - JakartaEE API 8.0.0: JakartaEE API 8.0.0
+    License: Eclipse Public License v2.0
+
+From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-web-api/8.0.0)
+  - JakartaEE Web API 8.0.0: JakartaEE Web API 8.0.0
+    License: Eclipse Public License v2.0
+
 From: FasterXML
   - Jackson-annotations: Core annotations used for value types, used by Jackson data binding package (https://github.com/FasterXML/jackson-annotations)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -199,12 +217,20 @@ From: FasterXML
   - Jackson-dataformat-CBOR: Support for reading and writing Concise Binary Object Representation ([CBOR](https://www.rfc-editor.org/info/rfc7049) encoded data using Jackson abstractions (streaming API, data binding, tree model) (http://wiki.fasterxml.com/JacksonForCbor)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
+From: FormDev Software GmbH.
+  - FlatLaf Look and Feel: FlatLaf Look and Feel (https://www.formdev.com/flatlaf/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 From: Generated from common-util-5.0.jar, glassfish-ee-api-4.1.jar, javax.el-2.2.6.jar, and javax.servlet.jsp-2.3.2.jar
   - GlassFish JSP Parser: GlassFish Unified JSP Parser
     License: CDDL-1.1
 
-From: Generated from javaee-api-7.0-javadoc.jar
-  - Java(TM) Enterprise Edition 7 API Documentation: Java(TM) Enterprise Edition 7 API Documentation
+From: Generated from jakarta.jakartaee-api-8.0.0-javadoc.jar
+  - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
+    License: Eclipse Public License v2.0
+
+From: Generated from javaee-api-8.0.1-javadoc.jar
+  - Java(TM) Enterprise Edition 8 API Documentation: Java(TM) Enterprise Edition 7 API Documentation
     License: CDDL-1.0
 
 From: Generated from taglibrary jar
@@ -227,20 +253,24 @@ From: GitHub
   - jvyamlb: A pure Java YAML 1.1 loader and dumper.
     License: MIT license jvyamlb variant
 
-From: GlassFish Community (https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.0)
-  - JavaMail API: JavaMail API 1.6.0
+From: GlassFish Community (https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2)
+  - JavaMail API: JavaMail API 1.6.2
+    License: CDDL-1.1
+
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.annotation/javax.annotation-api/1.3.2)
+  - Javax Annotation API: Javax Annotation API 1.3.2
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax.batch/javax.batch-api/1.0.1)
   - Java Batch API: Java Batch API 1.0.1
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.enterprise.concurrent/javax.enterprise.concurrent-api/1.0)
-  - Javax Concurrent API: Javax Concurrent API 1.0
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.enterprise.concurrent/javax.enterprise.concurrent-api/1.1)
+  - Javax Concurrent API: Javax Concurrent API 1.1
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.enterprise.deploy/javax.enterprise.deploy-api/1.6)
-  - Javax Deploy API: Javax Deploy API 1.6
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.enterprise.deploy/javax.enterprise.deploy-api/1.7)
+  - Javax Deploy API: Javax Deploy API 1.7
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax.faces/javax.faces-api/2.3)
@@ -255,24 +285,24 @@ From: GlassFish Community (https://mvnrepository.com/artifact/javax.jws/jsr181-a
   - JSR 181 Maintenance Release 1: Web Services Metadata for Java
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.management.j2ee/javax.management.j2ee-api/1.1.1)
-  - Javax Management J2EE API: Javax Management J2EE API 1.1.1
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.management.j2ee/javax.management.j2ee-api/1.1.2)
+  - Javax Management J2EE API: Javax Management J2EE API 1.1.2
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.resource/javax.resource-api/1.7)
-  - Javax Resource API: Javax Resource API 1.7
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.resource/javax.resource-api/1.7.1)
+  - Javax Resource API: Javax Resource API 1.7.1
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.security.jacc/javax.security.jacc-api/1.5)
-  - Java Authorization Contract For Containers API: Java Authorization Contract For Containers API 1.5
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.security.jacc/javax.security.jacc-api/1.6)
+  - Java Authorization Contract For Containers API: Java Authorization Contract For Containers API 1.6
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.registry/javax.xml.registry-api/1.0.7)
-  - Javax XML Registry API: Javax XML Registry API 1.0.7
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.registry/javax.xml.registry-api/1.0.8)
+  - Javax XML Registry API: Javax XML Registry API 1.0.8
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.rpc/javax.xml.rpc-api/1.1.1)
-  - Javax XML RPC API: Javax XML RPC API 1.1.1
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.rpc/javax.xml.rpc-api/1.1.2)
+  - Javax XML RPC API: Javax XML RPC API 1.1.2
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.soap/javax.xml.soap-api/1.3.5)
@@ -283,8 +313,8 @@ From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml.ws/jaxws
   - JAX WS API 2.2.8: JAX WS(JSR 224) API
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml/webservices-api-osgi/2.0)
-  - Metro Web Services API OSGi Bundle 2.0: Metro Web Services API OSGi Bundle
+From: GlassFish Community (https://mvnrepository.com/artifact/javax.xml/webservices-api-osgi/2.0.1)
+  - Metro Web Services API OSGi Bundle 2.0.1: Metro Web Services API OSGi Bundle
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-api/6.0)
@@ -295,8 +325,8 @@ From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-api/7
   - JavaEE API 7.0: JavaEE API 7.0
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-api/8.0)
-  - JavaEE API 8.0: JavaEE API 8.0
+From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-api/8.0.1)
+  - JavaEE API 8.0.1: JavaEE API 8.0.1
     License: CDDL-1.1
 
 From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-web-api/6.0)
@@ -307,12 +337,12 @@ From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-web-a
   - JavaEE Web API 7.0: JavaEE Web API 7.0
     License: CDDL-1.1
 
-From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-web-api/8.0)
-  - JavaEE Web API 8.0: JavaEE Web API 8.0
+From: GlassFish Community (https://mvnrepository.com/artifact/javax/javaee-web-api/8.0.1)
+  - JavaEE Web API 8.0.1: JavaEE Web API 8.0.1
     License: CDDL-1.1
 
 From: Gradle Inc.
-  - Gradle Tooling API: Gradle Tooling API Library (https://gradle.org/)
+  - Gradle Wrapper: Gradle Tooling API (https://gradle.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Gradle Wrapper: Gradle Wrapper (https://gradle.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -334,15 +364,11 @@ From: JCraft, Inc.
 From: JUnit
   - JUnit Jupiter API: JUnit Jupiter API
     License: Eclipse Public License v2.0
-  - JUnit Jupiter API: JUnit Jupiter API (http://search.maven.org/#artifactdetails|org.junit.jupiter|junit-jupiter-api|5.3.1|jar)
-    License: Eclipse Public License v2.0
   - JUnit Jupiter Engine: JUnit Jupiter Engine
-    License: Eclipse Public License v2.0
-  - JUnit Jupiter Engine: JUnit Jupiter Engine (http://search.maven.org/#artifactdetails|org.junit.jupiter|junit-jupiter-engine|5.3.1|jar)
     License: Eclipse Public License v2.0
   - JUnit Jupiter Params: JUnit Jupiter Params
     License: Eclipse Public License v2.0
-  - JUnit Jupiter Params: JUnit Jupiter Params (http://search.maven.org/#artifactdetails|org.junit.jupiter|junit-jupiter-params|5.3.1|jar)
+  - JUnit Jupiter: JUnit Jupiter (https://search.maven.org/search?q=g:org.junit.jupiter%20AND%20v:5.6.0)
     License: Eclipse Public License v2.0
   - JUnit: JUnit harness runtime (http://search.maven.org/#artifactdetails|junit|junit|4.12|jar)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
@@ -360,6 +386,8 @@ From: Jive Software/Ignite Realtime
     License: Apache-2.0-smack
 
 From: NetBeans
+  - CND Debugger parts: CND Debugger parts that didn't go through the Apache IP Clearance yet
+    License: CDDL-1.0
   - External Browser DLLs: Windows DLLs for external browser integration
     License: CDDL-1.0
   - NetBeans Application Launchers: Windows Launchers for the NetBeans Platform
@@ -385,9 +413,7 @@ From: OSGi
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: OW2 Consortium
-  - OW2 ASM: Bytecode manipulation library (http://forge.ow2.org/project/download.php?group_id=23&file_id=19789)
-    License: BSD license with INRIA copyright
-  - OW2 ASM: Bytecode manipulation library (https://asm.ow2.io/)
+  - OW2 ASM: Bytecode manipulation library (https://repository.ow2.org/nexus/content/repositories/releases/org/ow2/asm/)
     License: BSD license with INRIA copyright
 
 From: OpenJDK (http://hg.openjdk.java.net/)
@@ -488,12 +514,14 @@ From: Oracle
 From: Oracle (http://glassfish.dev.java.net)
   - JSP Syntax Reference: Reference for the JSP 2.0 syntax
     License: CDDL-1.0
-  - Java(TM) Enterprise Edition 7 API Documentation: Java(TM) Enterprise Edition 7 API Documentation
-    License: CDDL-1.0
 
 From: Oracle (https://glassfish.dev.java.net/)
   - Java API for Servlets, Java API for JavaServer Pages: Java API for Servlets, Java API for JavaServer Pages, Java API for Expression Language
     License: CDDL-1.0+1.1
+
+From: Oracle (https://javaee.github.io/)
+  - Java(TM) Enterprise Edition 8 API Documentation: Java(TM) Enterprise Edition 8 API Documentation
+    License: CDDL-1.0
 
 From: Oracle (https://javaee.github.io/jstl-api/)
   - JSP Standard Tag Library (API): JavaServer Pages Standard Tag Library (API)
@@ -509,17 +537,9 @@ From: Oracle (https://javaee.github.io/uel-ri/)
   - Expression Language Implementation: Provides an implementation of the Expression Language (EL).
     License: CDDL-1.0
 
-From: Oracle (https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api-osgi/2.2)
-  - Java Architecture for XML Binding: JAXB (JSR 222) API bundled for OSGi distribution
-    License: CDDL-1.1
-
 From: Oracle (https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api-osgi/2.2.7)
   - JAXB API bundled for OSGi distribution: JAXB API bundled for OSGi distribution 2.2.7
     License: CDDL-1.1
-
-From: QOS.ch
-  - SLF4J Logging: SLF4J Logging Libraries for Java (https://www.slf4j.org/)
-    License: MIT
 
 From: Sonatype
   - Aether :: API: The application programming interface for the repository system. (http://www.eclipse.org/)
@@ -532,14 +552,16 @@ From: SourceForce
 From: SourceForge
   - JENA-IRI: The Jena IRI Library is an implementation of RFC 3987 (IRI) and RFC 3986 (URI), and a partial implementation of other related standards. (http://jena.sourceforge.net/iri/index.html)
     License: BSD-like iri license
-  - Saxon: Complete and conformant implementation of the XSLT 2.0, XQuery 1.0, and XPath 2.0 Recommendations published on 23 January 2007 by W3C. (http://saxon.sourceforge.net/)
-    License: MPL 1.0 license
+
+From: Spring
+  - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 5.2.2
+  - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
+    License: Apache-2.0-spring4.3.25
 
 From: SpringSource
-  - Spring Framework: Java/J2EE application framework (http://www.springsource.org/download (http://repo.spring.io/release/org/springframework/spring/))
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 4.0.1
-  - Spring Framework: Java/J2EE application framework (http://www.springsource.org/download)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 3.2.7
+  - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
+    License: Apache-2.0-spring3.2.18
 
 From: Subclipse
   - SVNClientAdapter Library: Integration library for subversion client (http://subclipse.tigris.org/svnClientAdapter.html)
@@ -565,16 +587,8 @@ From: http://cglib.sourceforge.net/
   - Code Generation Library: Library for extending JAVA classes and implementing interfaces at runtime.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-From: http://commons.apache.org/compress/
-  - Commons Compress: The Apache Commons Compress library defines an API for working with ar, cpio, Unix dump, tar, zip, gzip, XZ, Pack200, bzip2, 7z, arj, lzma, snappy, DEFLATE and Z files.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
 From: http://commons.apache.org/net/
   - Commons Net: Apache Commons Net implements the client side of many basic Internet protocols.
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-From: http://commons.apache.org/proper/commons-fileupload/
-  - Apache Commons FileUpload: File upload component
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: http://ecma-international.org/ecma-262/5.1/
@@ -585,10 +599,6 @@ From: http://ecma-international.org/ecma-262/5.1/
 From: http://groovy-lang.org/
   - Groovy: Groovy Language distribution.
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Apache Groovy addendums
-
-From: http://h2database.com
-  - H2 Database Engine: The H2 Database Enginge is a pure java database, that can be used in embedded and server mode.
-    License: Eclipse Public License v1, h2 variant
 
 From: http://hc.apache.org/
   - Apache Commons HttpClient: HTTP client
@@ -619,10 +629,6 @@ From: http://jquery.com
   - jquery-api.xml: Documentation api file for jQuery
     License: MIT license JQuery variant
 
-From: http://kenai.com/projects/nb-process-killler
-  - nb-processtree-killer: Library allowing to kill external process trees.
-    License: MIT
-
 From: http://search.maven.org/#artifactdetails|junit|junit|4.12|jar
   - JUnit: JUnit is a regression testing framework
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
@@ -630,15 +636,16 @@ From: http://search.maven.org/#artifactdetails|junit|junit|4.12|jar
 From: http://site.icu-project.org/
   - ICU4J: Unicode and Globalization support
     License: MIT license icu4j variant
-
-From: http://surfnet.dl.sourceforge.net/project/freemarker/freemarker/2.3.19/freemarker-2.3.19.tar.gz
-  - FreeMarker: Template engine
-    License: freemarker
-    Comment: contents trimmed with pattern: freemarker/ext/* freemarker/ext/dom/* freemarker/ext/jdom/* freemarker/ext/jsp/* freemarker/ext/rhino/* freemarker/ext/servlet/* freemarker/ext/xml/* freemarker/log/**/Log4J* freemarker/log/**/Avalon* freemarker/**/*Jython* freemarker/cache/WebappTemplateLoader*
+  - icu4j: icu4j license
+    License: MIT license icu4j variant
 
 From: http://tomcat.apache.org
   - Apache Tomcat: Tomcat HTTP server (internal)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: http://typescriptlang.org/
+  - typescript: TypeScript is a language for application scale JavaScript development
+    License: Apache 2.0 license for typescript
 
 From: http://wordlist.sourceforge.net/
   - SCOWL Wordlist: English dictionary word list
@@ -672,8 +679,12 @@ From: http://www2.cs.tum.edu/projects/cup/
   - Java CUP: LALR Parser Generator in Java
     License: JavaCUP
 
-From: https://code.google.com/p/guava-libraries/
-  - Guava: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth
+From: https://commons.apache.org/proper/commons-compress/index.html
+  - Commons Compress: The Apache Commons Compress library defines an API for working with ar, cpio, Unix dump, tar, zip, gzip, XZ, Pack200, bzip2, 7z, arj, lzma, snappy, DEFLATE, lz4, Brotli, Zstandard, DEFLATE64 and Z files.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: https://commons.apache.org/proper/commons-fileupload/
+  - Apache Commons FileUpload: File upload component
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: https://github.com/3breadt/dd-plist
@@ -684,14 +695,52 @@ From: https://github.com/JaroslavTulach/graaljs/commit/e20fe15dc14a42b5246901cef
   - Graal.js Parser: An ECMAScript 6 (ECMAScript 2015) compliant parser for JavaScript source code. Based on the parser of Graal.js (https://github.com/graalvm/graaljs).
     License: UPL
 
+From: https://github.com/Microsoft/vscode-languageserver-node#readme
+  - vscode-jsonrpc: A json rpc implementation over streams
+    License: MIT license for jsonrpc
+  - vscode-languageserver-protocol: VSCode Language Server Protocol implementation
+    License: MIT license for vscode-languageserver-protocol
+  - vscode-languageserver-types: Types used by the Language server for node
+    License: MIT license for vscode-languageserver-types
+  - vscode-languageserver: Language server implementation for node
+    License: MIT license for vscode-languageserver
+
+From: https://github.com/Microsoft/vscode-uri#readme
+  - vscode-uri: The URI implementation that is used by VS Code and its extensions
+    License: MIT license for vscode-uri
+
+From: https://github.com/RyanZim/universalify#readme
+  - universalify: Make a callback- or promise-based function support both promises and callbacks.
+    License: MIT license for universalify
+
 From: https://github.com/eclipse/tm4e
   - TextMate support for Eclipse: Used to interpret TextMate grammars
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+
+From: https://github.com/google/guava
+  - Guava: Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: https://github.com/isaacs/node-graceful-fs#readme
+  - graceful-fs: A drop-in replacement for fs, making various improvements.
+    License: ISC license for graceful-fs
 
 From: https://github.com/javafxports/openjdk-jfx/
   - JavaFX: JavaFX API and Implementation
     License: GPL v2 with Classpath exception (http://openjdk.java.net/legal/gplv2+ce.html)
     Comment: Used at compile. Possibly downloaded later.
+
+From: https://github.com/jhy/jsoup
+  - jsoup: jsoup library
+    License: MIT license jsoup variant
+
+From: https://github.com/jprichardson/node-fs-extra
+  - fs-extra: fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.
+    License: MIT license for fs-extra
+
+From: https://github.com/jprichardson/node-jsonfile#readme
+  - jsonfile: Easily read/write JSON files.
+    License: MIT license for jsonfile
 
 From: https://github.com/jruby/bytelist
   - Bytelist: The ByteList library from JRuby.
@@ -714,15 +763,61 @@ From: https://github.com/kohsuke/winp
   - winp: Library allowing to control windows processes.
     License: MIT-winp
 
+From: https://github.com/mathisonian/command-exists
+  - command-exists: check whether a command line command exists in the current environment
+    License: MIT license for command-exists
+
+From: https://github.com/matthiasblaesing/netbeans-processtreekiller
+  - NetBeans processtreekiller: Library allowing to kill external process trees.
+    License: MIT
+
 From: https://github.com/oracle/graal
   - Graal SDK and Truffle API: Graal SDK and Truffle API
     License: UPL
-  - icu4j: icu4j license
-    License: MIT license icu4j variant
 
 From: https://github.com/requirejs/requirejs
   - javascript2.editor-requirejs-resources: Testcase for issue #246060
     License: MIT
+
+From: https://github.com/sindresorhus/crypto-random-string#readme
+  - crypto-random-string: Generate a cryptographically strong random string
+    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
+
+From: https://github.com/sindresorhus/p-debounce#readme
+  - p-debounce: Debounce promise-returning & async functions
+    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
+
+From: https://github.com/sindresorhus/temp-dir#readme
+  - temp-dir: Get the real path of the system temp directory
+    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
+
+From: https://github.com/sindresorhus/tempy#readme
+  - tempy: Get a random temporary file or directory path
+    License: MIT license for tempy
+
+From: https://github.com/sindresorhus/unique-string#readme
+  - unique-string: Generate a unique random string
+    License: MIT license for p-debounce, crypto-random-string, temp-dir, unique-string
+
+From: https://github.com/theia-ide/typescript-language-server#readme
+  - typescript-language-server: Language Server Protocol (LSP) implementation for TypeScript using tsserver
+    License: Apache 2.0 license for typescript-language-server
+
+From: https://github.com/tj/commander.js#readme
+  - commander: the complete solution for node.js command-line programs
+    License: MIT license for commander
+
+From: https://github.com/validator/galimatias
+  - ISO-RELAX: Relax validation APIs
+    License: MIT-galimatias
+
+From: https://github.com/vsch/flexmark-java
+  - FlexMark-java: FlexMark library
+    License: BSD license with FlexMark copyright
+
+From: https://h2database.com
+  - H2 Database Engine: The H2 Database Enginge is a pure java database, that can be used in embedded and server mode.
+    License: Eclipse Public License v1, h2 variant
 
 From: https://javacc.dev.java.net/files/documents/17/686/javacc-3.2.zip
   - JavaCC: Parser generator for SQL parser.
@@ -738,10 +833,6 @@ From: https://js.foundation/
     License: BSD license with JS Foundation copyright
     Comment: the actual version/revision of the resources is unknown. Using origin's site current license.
 
-From: https://libpam4j.dev.java.net
-  - libpam4j: Java binding for Unix PAM library.
-    License: MIT
-
 From: https://mvnrepository.com/artifact/org.glassfish.corba/glassfish-corba-omgapi/4.1.0
   - GlassFish Corba OMG APIs: GlassFish Corba OMG APIs
     License: CDDL-1.1
@@ -750,9 +841,33 @@ From: https://secure.php.net/manual/en/
   - PHP Documentation: Documentation for Predefined Variables
     License: CC-BY-3.0
 
+From: https://www.bouncycastle.org/latest_releases.html
+  - Bouncy Castle Java OpenPGP/BCPG: Legion of the Bouncy Castle Java cryptography APIs
+    License: MIT-bouncycastle
+  - Bouncy Castle Java Provider: Legion of the Bouncy Castle Java cryptography APIs
+    License: MIT-bouncycastle
+
+From: https://www.slf4j.org/
+  - SLF4J: Simple Logging Facade for Java (SLF4J).
+    License: MIT-slf4j
+
 From: https://www.w3.org
   - js-domstubs: Documentation for JavaScript libraries processed into JavaScript stub libraries for use from code completion etc. This can be generated by the javascript.generatestubs2 project in the main/misc repository.
     License: W3C Software and Document Notice and License
+
+From: https://xmlgraphics.apache.org/batik/
+  - Apache Batik: Batik is a toolkit for applications that want to use images in the Scalable Vector Graphics (SVG) format for various purposes, such as display, generation or manipulation.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: https://xmlgraphics.apache.org/commons/
+  - Apache XML Commons XML APIs: Apache XML Graphics Commons is a library that consists of several reusable components used by Apache Batik and Apache FOP.
+    License: Apache-2.0-XML-Commons-APIs
+  - Apache XML Graphics Commons: Apache XML Graphics Commons is a library that consists of several reusable components used by Apache Batik and Apache FOP.
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: httpshttps://github.com/microsoft/vscode-textbuffer#readme
+  - vscode-textbuffer: The underling text buffer used in VS Code/Monaco
+    License: MIT license for vscode-textbuffer
 
 From: jemmy.java.net
   - Jemmy: Jemmy UI testing tool (https://web.archive.org/web/20120822233211/http://java.net:80/projects/jemmy)

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.ergonomics">
-    <module_version install_time="1571485107081" last="true" origin="installer" specification_version="1.33">
+    <module_version install_time="1598376552040" last="true" origin="installer" specification_version="1.36">
         <file crc="3535844926" name="config/Modules/org-apache-tools-ant-module.xml"/>
         <file crc="2213752857" name="config/Modules/org-netbeans-libs-jstl.xml"/>
         <file crc="1617045149" name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
@@ -16,6 +16,10 @@
         <file crc="3351132391" name="config/Modules/org-netbeans-modules-cloud-common.xml"/>
         <file crc="597360658" name="config/Modules/org-netbeans-modules-cordova-platforms-android.xml"/>
         <file crc="4181476702" name="config/Modules/org-netbeans-modules-cordova.xml"/>
+        <file crc="3189732143" name="config/Modules/org-netbeans-modules-cpplite-debugger.xml"/>
+        <file crc="539354535" name="config/Modules/org-netbeans-modules-cpplite-editor.xml"/>
+        <file crc="3663640248" name="config/Modules/org-netbeans-modules-cpplite-kit.xml"/>
+        <file crc="3568955789" name="config/Modules/org-netbeans-modules-cpplite-project.xml"/>
         <file crc="1770886080" name="config/Modules/org-netbeans-modules-dbschema.xml"/>
         <file crc="2968263510" name="config/Modules/org-netbeans-modules-debugger-jpda-js.xml"/>
         <file crc="1471467961" name="config/Modules/org-netbeans-modules-debugger-jpda-jsui.xml"/>
@@ -30,10 +34,7 @@
         <file crc="3301232498" name="config/Modules/org-netbeans-modules-glassfish-common.xml"/>
         <file crc="2702026050" name="config/Modules/org-netbeans-modules-glassfish-javaee.xml"/>
         <file crc="2758334486" name="config/Modules/org-netbeans-modules-glassfish-tooling.xml"/>
-        <file crc="3937195781" name="config/Modules/org-netbeans-modules-gradle-htmlui.xml"/>
-        <file crc="2965603326" name="config/Modules/org-netbeans-modules-gradle-javaee.xml"/>
         <file crc="3689656022" name="config/Modules/org-netbeans-modules-gradle-kit.xml"/>
-        <file crc="2877370734" name="config/Modules/org-netbeans-modules-groovy-and-gradle-kit.xml"/>
         <file crc="2622047863" name="config/Modules/org-netbeans-modules-groovy-antproject.xml"/>
         <file crc="586501507" name="config/Modules/org-netbeans-modules-groovy-editor.xml"/>
         <file crc="2913965187" name="config/Modules/org-netbeans-modules-groovy-gsp.xml"/>
@@ -67,6 +68,8 @@
         <file crc="3213111594" name="config/Modules/org-netbeans-modules-j2ee-platform.xml"/>
         <file crc="1483548553" name="config/Modules/org-netbeans-modules-j2ee-sun-appsrv.xml"/>
         <file crc="217326244" name="config/Modules/org-netbeans-modules-j2ee-sun-ddui.xml"/>
+        <file crc="1134789500" name="config/Modules/org-netbeans-modules-jakartaee8-api.xml"/>
+        <file crc="569540747" name="config/Modules/org-netbeans-modules-jakartaee8-platform.xml"/>
         <file crc="1266011638" name="config/Modules/org-netbeans-modules-java-debug.xml"/>
         <file crc="1300012024" name="config/Modules/org-netbeans-modules-java-editor-lib.xml"/>
         <file crc="2183467187" name="config/Modules/org-netbeans-modules-java-editor.xml"/>
@@ -95,6 +98,7 @@
         <file crc="1269865752" name="config/Modules/org-netbeans-modules-javaee-beanvalidation.xml"/>
         <file crc="1468647981" name="config/Modules/org-netbeans-modules-javaee-injection.xml"/>
         <file crc="1198573134" name="config/Modules/org-netbeans-modules-javaee-project.xml"/>
+        <file crc="776728256" name="config/Modules/org-netbeans-modules-javaee-wildfly.xml"/>
         <file crc="3767699200" name="config/Modules/org-netbeans-modules-javaee7-api.xml"/>
         <file crc="1937080097" name="config/Modules/org-netbeans-modules-javaee8-api.xml"/>
         <file crc="2908810702" name="config/Modules/org-netbeans-modules-javafx2-editor.xml"/>
@@ -125,6 +129,7 @@
         <file crc="4183216983" name="config/Modules/org-netbeans-modules-kotlin-editor.xml"/>
         <file crc="3225380789" name="config/Modules/org-netbeans-modules-languages-apacheconf.xml"/>
         <file crc="766925369" name="config/Modules/org-netbeans-modules-languages-ini.xml"/>
+        <file crc="2386151412" name="config/Modules/org-netbeans-modules-libs-gradle.xml"/>
         <file crc="3052139365" name="config/Modules/org-netbeans-modules-maven-checkstyle.xml"/>
         <file crc="1149052535" name="config/Modules/org-netbeans-modules-maven-coverage.xml"/>
         <file crc="2560334449" name="config/Modules/org-netbeans-modules-maven-grammar.xml"/>
@@ -177,6 +182,7 @@
         <file crc="1764013043" name="config/Modules/org-netbeans-modules-spring-webmvc.xml"/>
         <file crc="382117758" name="config/Modules/org-netbeans-modules-timers.xml"/>
         <file crc="2899681943" name="config/Modules/org-netbeans-modules-tomcat5.xml"/>
+        <file crc="3393061136" name="config/Modules/org-netbeans-modules-typescript-editor.xml"/>
         <file crc="2701308501" name="config/Modules/org-netbeans-modules-web-beans.xml"/>
         <file crc="3719975757" name="config/Modules/org-netbeans-modules-web-client-kit.xml"/>
         <file crc="390531282" name="config/Modules/org-netbeans-modules-web-client-rest.xml"/>
@@ -230,6 +236,6 @@
         <file crc="1012668242" name="config/Modules/org-netbeans-modules-websvc-wsstackapi.xml"/>
         <file crc="2487084630" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
         <file crc="769021491" name="config/Modules/org-netbeans-modules-xml-tools-java.xml"/>
-        <file crc="465375057" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+        <file crc="416929108" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
     </module_version>
 </module>

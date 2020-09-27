@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.api.ejbmodule">
-    <module_version install_time="1571485000957" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1598375956602" last="true" origin="installer" specification_version="1.46">
         <file crc="3228885098" name="config/Modules/org-netbeans-modules-j2ee-api-ejbmodule.xml"/>
-        <file crc="2812700576" name="modules/org-netbeans-modules-j2ee-api-ejbmodule.jar"/>
+        <file crc="3955337780" name="modules/org-netbeans-modules-j2ee-api-ejbmodule.jar"/>
     </module_version>
 </module>

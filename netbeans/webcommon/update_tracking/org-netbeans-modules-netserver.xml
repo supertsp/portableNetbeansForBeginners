@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.netserver">
-    <module_version install_time="1571484306855" last="true" origin="installer" specification_version="1.19">
+    <module_version install_time="1598375373820" last="true" origin="installer" specification_version="1.22">
         <file crc="2169691515" name="config/Modules/org-netbeans-modules-netserver.xml"/>
-        <file crc="2991177595" name="modules/org-netbeans-modules-netserver.jar"/>
+        <file crc="3534181488" name="modules/org-netbeans-modules-netserver.jar"/>
     </module_version>
 </module>

@@ -5,10 +5,10 @@
   <kind type="view" />
   <state type="joined"  />
   <constraints>
-    <path orientation="horizontal" number="20" weight="0.24632352941176472"/>
-    <path orientation="vertical" number="60" weight="0.400974025974026"/>
+    <path orientation="horizontal" number="20" weight="0.3"/>
+    <path orientation="vertical" number="60" weight="0.5"/>
   </constraints>
-  <bounds x="192" y="451" width="672" height="472" />
+  <bounds x="192" y="447" width="672" height="468" />
   <frame state="0"/>
     <active-tc  prev-id="navigatorTC" />
     <empty-behavior permanent="true"/>

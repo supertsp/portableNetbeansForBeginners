@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ant.freeform/1">
-    <module_version install_time="1571484862592" last="true" origin="installer" specification_version="1.52">
+    <module_version install_time="1598375447158" last="true" origin="installer" specification_version="1.55">
         <file crc="2314768834" name="config/Modules/org-netbeans-modules-ant-freeform.xml"/>
-        <file crc="1333020995" name="modules/org-netbeans-modules-ant-freeform.jar"/>
+        <file crc="2139547388" name="modules/org-netbeans-modules-ant-freeform.jar"/>
     </module_version>
 </module>

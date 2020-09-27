@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.validation/1">
-    <module_version install_time="1571483517514" last="true" origin="installer" specification_version="1.36">
+    <module_version install_time="1598375237257" last="true" origin="installer" specification_version="1.40">
         <file crc="3926902112" name="config/Modules/org-netbeans-modules-html-validation.xml"/>
-        <file crc="483064422" name="modules/ext/iri.jar"/>
+        <file crc="548279394" name="modules/ext/galimatias.jar"/>
+        <file crc="2363195257" name="modules/ext/iri.jar"/>
         <file crc="538309488" name="modules/ext/isorelax.jar"/>
         <file crc="2073431805" name="modules/ext/jing.jar"/>
+        <file crc="4075792470" name="modules/ext/langdetect.jar"/>
         <file crc="2197124025" name="modules/ext/log4j-1.2.15.jar"/>
-        <file crc="2777866273" name="modules/ext/saxon9B.jar"/>
-        <file crc="3028781738" name="modules/ext/validator.jar"/>
-        <file crc="2167968191" name="modules/org-netbeans-modules-html-validation.jar"/>
+        <file crc="4083299158" name="modules/ext/salvation.jar"/>
+        <file crc="4190608232" name="modules/ext/validator.jar"/>
+        <file crc="3532911418" name="modules/org-netbeans-modules-html-validation.jar"/>
     </module_version>
 </module>

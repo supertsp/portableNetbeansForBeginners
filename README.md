@@ -14,7 +14,7 @@ This project saves your personal settings in the following folders:
 
 ### Original Apps Download Links
 * **Netbeans 8:** [https://netbeans.org/downloads/8.2/](https://netbeans.org/downloads/8.2/)
-* **Netbeans 9, 10, 11, 11.1, 12, 12.1 (using):** [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
+* **Netbeans 9, 10, 11.x, 12, 12.1 (using):** [https://netbeans.apache.org/download/index.html](https://netbeans.apache.org/download/index.html)
 * **Oracle JDK:** [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * **Open JDK:** [https://developers.redhat.com/products/openjdk/download/](https://developers.redhat.com/products/openjdk/download/)
 * **JavaFx SDK:** [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)

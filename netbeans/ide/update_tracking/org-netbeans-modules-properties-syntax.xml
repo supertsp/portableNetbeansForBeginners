@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.properties.syntax/1">
-    <module_version install_time="1598375287876" last="true" origin="installer" specification_version="1.59">
+    <module_version install_time="1614260575449" last="true" origin="installer" specification_version="1.61">
         <file crc="3912872678" name="config/Modules/org-netbeans-modules-properties-syntax.xml"/>
-        <file crc="3126986250" name="modules/org-netbeans-modules-properties-syntax.jar"/>
+        <file crc="1782548960" name="modules/org-netbeans-modules-properties-syntax.jar"/>
     </module_version>
 </module>

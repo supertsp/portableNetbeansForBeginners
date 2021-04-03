@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.gradle.javaee">
-    <module_version install_time="1598376030663" last="true" origin="installer" specification_version="1.4">
+    <module_version install_time="1614261008474" last="true" origin="installer" specification_version="1.6">
         <file crc="1553398639" name="config/Modules/org-netbeans-modules-gradle-javaee.xml"/>
-        <file crc="2460162170" name="modules/org-netbeans-modules-gradle-javaee.jar"/>
+        <file crc="1666159942" name="modules/org-netbeans-modules-gradle-javaee.jar"/>
     </module_version>
 </module>

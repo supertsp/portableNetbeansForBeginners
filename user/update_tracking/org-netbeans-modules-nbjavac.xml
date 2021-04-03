@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.nbjavac">
-    <module_version install_time="1601173661868" last="true" origin="Third Party Libraries" specification_version="2.0">
+    <module_version install_time="1617476593320" last="true" origin="Third Party Libraries" specification_version="2.0">
         <file crc="684569144" name="config/Modules/org-netbeans-modules-nbjavac.xml"/>
-        <file crc="4161694092" name="modules/org-netbeans-modules-nbjavac.jar"/>
+        <file crc="3467261657" name="modules/org-netbeans-modules-nbjavac.jar"/>
     </module_version>
 </module>

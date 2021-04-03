@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.codetemplates/1">
-    <module_version install_time="1598375140035" last="true" origin="installer" specification_version="1.52.0.1">
+    <module_version install_time="1614260481725" last="true" origin="installer" specification_version="1.54.0.1">
         <file crc="315605031" name="config/Modules/org-netbeans-modules-editor-codetemplates.xml"/>
-        <file crc="4238270368" name="modules/org-netbeans-modules-editor-codetemplates.jar"/>
+        <file crc="1962166030" name="modules/org-netbeans-modules-editor-codetemplates.jar"/>
     </module_version>
 </module>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.welcome/1">
-    <module_version install_time="1598375789258" last="true" origin="installer" specification_version="1.51">
+    <module_version install_time="1614260857612" last="true" origin="installer" specification_version="1.53">
         <file crc="3488902111" name="config/Modules/org-netbeans-modules-welcome.xml"/>
         <file crc="789415882" name="docs/GUIExamplesDescription.html"/>
         <file crc="3469830999" name="docs/SwingInteropDescription.html"/>
@@ -19,6 +19,6 @@
         <file crc="1663665943" name="docs/images/up-left.png"/>
         <file crc="358948896" name="docs/images/up-right.png"/>
         <file crc="4181537065" name="docs/netbeans.css"/>
-        <file crc="35401161" name="modules/org-netbeans-modules-welcome.jar"/>
+        <file crc="3088170593" name="modules/org-netbeans-modules-welcome.jar"/>
     </module_version>
 </module>

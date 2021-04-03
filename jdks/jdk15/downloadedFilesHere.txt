@@ -1,0 +1,4 @@
+JDK 12 Downloaded Files Here
+
+ZIP FILE: OPEN JDK 8, 11 and 15
+    https://developers.redhat.com/products/openjdk/download/

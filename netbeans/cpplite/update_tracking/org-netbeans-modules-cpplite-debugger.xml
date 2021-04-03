@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.cpplite.debugger">
-    <module_version install_time="1598376320081" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1614261128744" last="true" origin="installer" specification_version="1.3">
         <file crc="1591360023" name="config/Modules/org-netbeans-modules-cpplite-debugger.xml"/>
-        <file crc="1291251099" name="modules/ext/cpplite-mi-1.0-SNAPSHOT.jar"/>
-        <file crc="2024222699" name="modules/org-netbeans-modules-cpplite-debugger.jar"/>
+        <file crc="257191482" name="modules/ext/cpplite-mi-f8f8250283be.jar"/>
+        <file crc="3709233292" name="modules/org-netbeans-modules-cpplite-debugger.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.junit.ant.ui">
-    <module_version install_time="1598375671443" last="true" origin="installer" specification_version="1.14">
+    <module_version install_time="1614260794097" last="true" origin="installer" specification_version="1.16">
         <file crc="3627999099" name="config/Modules/org-netbeans-modules-junit-ant-ui.xml"/>
-        <file crc="1580896961" name="modules/org-netbeans-modules-junit-ant-ui.jar"/>
+        <file crc="4249368927" name="modules/org-netbeans-modules-junit-ant-ui.jar"/>
     </module_version>
 </module>

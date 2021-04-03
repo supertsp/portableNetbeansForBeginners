@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.schema.completion">
-    <module_version install_time="1598375325982" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1614260596923" last="true" origin="installer" specification_version="1.42">
         <file crc="3412686390" name="config/Modules/org-netbeans-modules-xml-schema-completion.xml"/>
-        <file crc="1628756362" name="modules/org-netbeans-modules-xml-schema-completion.jar"/>
+        <file crc="3230138283" name="modules/org-netbeans-modules-xml-schema-completion.jar"/>
     </module_version>
 </module>

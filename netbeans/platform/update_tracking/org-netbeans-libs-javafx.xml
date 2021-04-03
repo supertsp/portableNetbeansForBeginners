@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.javafx">
-    <module_version install_time="1598374941458" last="true" origin="installer" specification_version="2.16">
+    <module_version install_time="1614260366018" last="true" origin="installer" specification_version="2.18">
         <file crc="3843417750" name="config/Modules/org-netbeans-libs-javafx.xml"/>
-        <file crc="553591173" name="modules/org-netbeans-libs-javafx.jar"/>
+        <file crc="1177118241" name="modules/org-netbeans-libs-javafx.jar"/>
     </module_version>
 </module>

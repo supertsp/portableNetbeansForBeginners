@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.httpserver/2">
-    <module_version install_time="1598375238071" last="true" origin="installer" specification_version="2.45.0.42">
+    <module_version install_time="1614260546476" last="true" origin="installer" specification_version="2.47.0.42">
         <file crc="2081286140" name="config/Modules/org-netbeans-modules-httpserver.xml"/>
         <file crc="2884483350" name="modules/ext/webserver.jar"/>
-        <file crc="3436510280" name="modules/org-netbeans-modules-httpserver.jar"/>
+        <file crc="1768617989" name="modules/org-netbeans-modules-httpserver.jar"/>
     </module_version>
 </module>

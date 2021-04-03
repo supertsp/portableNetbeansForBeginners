@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.javacapi">
-    <module_version install_time="1598375447931" last="true" origin="installer" specification_version="8.30.0.3">
+    <module_version install_time="1614260671737" last="true" origin="installer" specification_version="8.32.0.3">
         <file crc="3672542447" name="config/Modules/org-netbeans-libs-javacapi.xml"/>
-        <file crc="1404410749" name="modules/org-netbeans-libs-javacapi.jar"/>
+        <file crc="4054761945" name="modules/org-netbeans-libs-javacapi.jar"/>
     </module_version>
 </module>

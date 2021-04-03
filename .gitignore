@@ -3,24 +3,45 @@ user/index/
 user/mavenindex/
 user/var/*
 jdks/jdk8/*
+jdks/jdk9/*
+jdks/jdk10/*
 jdks/jdk11/*
 jdks/jdk12/*
+jdks/jdk13/*
+jdks/jdk14/*
+jdks/jdk15/*
+jdks/jdk16/*
+jdks/jdk17/*
 m2LocalRepository/
 sceneBuilder/
 
 
 # Extensions that should not be included.
 jdks/jdk8/*.*
+jdks/jdk9/*.*
+jdks/jdk10/*.*
 jdks/jdk11/*.*
 jdks/jdk12/*.*
+jdks/jdk13/*.*
+jdks/jdk14/*.*
+jdks/jdk15/*.*
+jdks/jdk16/*.*
+jdks/jdk17/*.*
 
 # Files that should not be included.
 
 
 # Files that should BE included.
 !jdks/jdk8/downloadedFilesHere.txt
+!jdks/jdk9/downloadedFilesHere.txt
+!jdks/jdk10/downloadedFilesHere.txt
 !jdks/jdk11/downloadedFilesHere.txt
 !jdks/jdk12/downloadedFilesHere.txt
+!jdks/jdk13/downloadedFilesHere.txt
+!jdks/jdk14/downloadedFilesHere.txt
+!jdks/jdk15/downloadedFilesHere.txt
+!jdks/jdk16/downloadedFilesHere.txt
+!jdks/jdk17/downloadedFilesHere.txt
 !m2LocalRepository/mavenDownloadedFilesHere.txt
 !sceneBuilder/URL_DOWNLOAD.txt
 !user/var/imported

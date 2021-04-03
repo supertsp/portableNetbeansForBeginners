@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.springframework/1">
-    <module_version install_time="1598375674933" last="true" origin="installer" specification_version="1.46">
+    <module_version install_time="1614260796110" last="true" origin="installer" specification_version="1.48">
         <file crc="277049246" name="config/Modules/org-netbeans-libs-springframework.xml"/>
         <file crc="949098539" name="modules/ext/spring-3.0/spring-aop-3.2.18.RELEASE.jar"/>
         <file crc="4096459596" name="modules/ext/spring-3.0/spring-aspects-3.2.18.RELEASE.jar"/>
@@ -20,47 +20,47 @@
         <file crc="3452575660" name="modules/ext/spring-3.0/spring-web-3.2.18.RELEASE.jar"/>
         <file crc="1872158725" name="modules/ext/spring-3.0/spring-webmvc-3.2.18.RELEASE.jar"/>
         <file crc="3437187306" name="modules/ext/spring-3.0/spring-webmvc-portlet-3.2.18.RELEASE.jar"/>
-        <file crc="6760669" name="modules/ext/spring-4/spring-aop-4.3.25.RELEASE.jar"/>
-        <file crc="2957224269" name="modules/ext/spring-4/spring-aspects-4.3.25.RELEASE.jar"/>
-        <file crc="1905060043" name="modules/ext/spring-4/spring-beans-4.3.25.RELEASE.jar"/>
-        <file crc="291206446" name="modules/ext/spring-4/spring-context-4.3.25.RELEASE.jar"/>
-        <file crc="3473914790" name="modules/ext/spring-4/spring-context-support-4.3.25.RELEASE.jar"/>
-        <file crc="4008398578" name="modules/ext/spring-4/spring-core-4.3.25.RELEASE.jar"/>
-        <file crc="971425280" name="modules/ext/spring-4/spring-expression-4.3.25.RELEASE.jar"/>
-        <file crc="331648818" name="modules/ext/spring-4/spring-instrument-4.3.25.RELEASE.jar"/>
-        <file crc="3879600436" name="modules/ext/spring-4/spring-instrument-tomcat-4.3.25.RELEASE.jar"/>
-        <file crc="2325311268" name="modules/ext/spring-4/spring-jdbc-4.3.25.RELEASE.jar"/>
-        <file crc="3199515419" name="modules/ext/spring-4/spring-jms-4.3.25.RELEASE.jar"/>
-        <file crc="2538783603" name="modules/ext/spring-4/spring-messaging-4.3.25.RELEASE.jar"/>
-        <file crc="1039282894" name="modules/ext/spring-4/spring-orm-4.3.25.RELEASE.jar"/>
-        <file crc="1350032298" name="modules/ext/spring-4/spring-oxm-4.3.25.RELEASE.jar"/>
-        <file crc="2277826071" name="modules/ext/spring-4/spring-test-4.3.25.RELEASE.jar"/>
-        <file crc="2369267147" name="modules/ext/spring-4/spring-tx-4.3.25.RELEASE.jar"/>
-        <file crc="3934962433" name="modules/ext/spring-4/spring-web-4.3.25.RELEASE.jar"/>
-        <file crc="3014974106" name="modules/ext/spring-4/spring-webmvc-4.3.25.RELEASE.jar"/>
-        <file crc="2884352370" name="modules/ext/spring-4/spring-webmvc-portlet-4.3.25.RELEASE.jar"/>
-        <file crc="1729829855" name="modules/ext/spring-4/spring-websocket-4.3.25.RELEASE.jar"/>
-        <file crc="1582144581" name="modules/ext/spring-5/spring-aop-5.2.2.RELEASE.jar"/>
-        <file crc="2173922128" name="modules/ext/spring-5/spring-aspects-5.2.2.RELEASE.jar"/>
-        <file crc="3636462571" name="modules/ext/spring-5/spring-beans-5.2.2.RELEASE.jar"/>
-        <file crc="2682600620" name="modules/ext/spring-5/spring-context-5.2.2.RELEASE.jar"/>
-        <file crc="2474769433" name="modules/ext/spring-5/spring-context-indexer-5.2.2.RELEASE.jar"/>
-        <file crc="3320103699" name="modules/ext/spring-5/spring-context-support-5.2.2.RELEASE.jar"/>
-        <file crc="675547324" name="modules/ext/spring-5/spring-core-5.2.2.RELEASE.jar"/>
-        <file crc="136070687" name="modules/ext/spring-5/spring-expression-5.2.2.RELEASE.jar"/>
-        <file crc="1649514675" name="modules/ext/spring-5/spring-instrument-5.2.2.RELEASE.jar"/>
-        <file crc="890406683" name="modules/ext/spring-5/spring-jcl-5.2.2.RELEASE.jar"/>
-        <file crc="980634511" name="modules/ext/spring-5/spring-jdbc-5.2.2.RELEASE.jar"/>
-        <file crc="22029961" name="modules/ext/spring-5/spring-jms-5.2.2.RELEASE.jar"/>
-        <file crc="4075051854" name="modules/ext/spring-5/spring-messaging-5.2.2.RELEASE.jar"/>
-        <file crc="1923811704" name="modules/ext/spring-5/spring-orm-5.2.2.RELEASE.jar"/>
-        <file crc="3979175514" name="modules/ext/spring-5/spring-oxm-5.2.2.RELEASE.jar"/>
-        <file crc="1240349363" name="modules/ext/spring-5/spring-test-5.2.2.RELEASE.jar"/>
-        <file crc="250213627" name="modules/ext/spring-5/spring-tx-5.2.2.RELEASE.jar"/>
-        <file crc="2968191520" name="modules/ext/spring-5/spring-web-5.2.2.RELEASE.jar"/>
-        <file crc="3089860894" name="modules/ext/spring-5/spring-webflux-5.2.2.RELEASE.jar"/>
-        <file crc="1946305216" name="modules/ext/spring-5/spring-webmvc-5.2.2.RELEASE.jar"/>
-        <file crc="1844600542" name="modules/ext/spring-5/spring-websocket-5.2.2.RELEASE.jar"/>
-        <file crc="4178538762" name="modules/org-netbeans-libs-springframework.jar"/>
+        <file crc="1480350885" name="modules/ext/spring-4/spring-aop-4.3.29.RELEASE.jar"/>
+        <file crc="1774524688" name="modules/ext/spring-4/spring-aspects-4.3.29.RELEASE.jar"/>
+        <file crc="3657624674" name="modules/ext/spring-4/spring-beans-4.3.29.RELEASE.jar"/>
+        <file crc="253817619" name="modules/ext/spring-4/spring-context-4.3.29.RELEASE.jar"/>
+        <file crc="635419135" name="modules/ext/spring-4/spring-context-support-4.3.29.RELEASE.jar"/>
+        <file crc="3705057533" name="modules/ext/spring-4/spring-core-4.3.29.RELEASE.jar"/>
+        <file crc="4270225215" name="modules/ext/spring-4/spring-expression-4.3.29.RELEASE.jar"/>
+        <file crc="3456348055" name="modules/ext/spring-4/spring-instrument-4.3.29.RELEASE.jar"/>
+        <file crc="1657620988" name="modules/ext/spring-4/spring-instrument-tomcat-4.3.29.RELEASE.jar"/>
+        <file crc="2704304660" name="modules/ext/spring-4/spring-jdbc-4.3.29.RELEASE.jar"/>
+        <file crc="2336409866" name="modules/ext/spring-4/spring-jms-4.3.29.RELEASE.jar"/>
+        <file crc="358900530" name="modules/ext/spring-4/spring-messaging-4.3.29.RELEASE.jar"/>
+        <file crc="1448789175" name="modules/ext/spring-4/spring-orm-4.3.29.RELEASE.jar"/>
+        <file crc="2271310511" name="modules/ext/spring-4/spring-oxm-4.3.29.RELEASE.jar"/>
+        <file crc="2970645408" name="modules/ext/spring-4/spring-test-4.3.29.RELEASE.jar"/>
+        <file crc="2759481867" name="modules/ext/spring-4/spring-tx-4.3.29.RELEASE.jar"/>
+        <file crc="3557486913" name="modules/ext/spring-4/spring-web-4.3.29.RELEASE.jar"/>
+        <file crc="433132609" name="modules/ext/spring-4/spring-webmvc-4.3.29.RELEASE.jar"/>
+        <file crc="1820996906" name="modules/ext/spring-4/spring-webmvc-portlet-4.3.29.RELEASE.jar"/>
+        <file crc="3939575214" name="modules/ext/spring-4/spring-websocket-4.3.29.RELEASE.jar"/>
+        <file crc="1252547670" name="modules/ext/spring-5/spring-aop-5.2.9.RELEASE.jar"/>
+        <file crc="2776331902" name="modules/ext/spring-5/spring-aspects-5.2.9.RELEASE.jar"/>
+        <file crc="3292212628" name="modules/ext/spring-5/spring-beans-5.2.9.RELEASE.jar"/>
+        <file crc="4064303164" name="modules/ext/spring-5/spring-context-5.2.9.RELEASE.jar"/>
+        <file crc="2448792160" name="modules/ext/spring-5/spring-context-indexer-5.2.9.RELEASE.jar"/>
+        <file crc="4115702044" name="modules/ext/spring-5/spring-context-support-5.2.9.RELEASE.jar"/>
+        <file crc="3336218762" name="modules/ext/spring-5/spring-core-5.2.9.RELEASE.jar"/>
+        <file crc="2156750074" name="modules/ext/spring-5/spring-expression-5.2.9.RELEASE.jar"/>
+        <file crc="2097928467" name="modules/ext/spring-5/spring-instrument-5.2.9.RELEASE.jar"/>
+        <file crc="1912550958" name="modules/ext/spring-5/spring-jcl-5.2.9.RELEASE.jar"/>
+        <file crc="2404424671" name="modules/ext/spring-5/spring-jdbc-5.2.9.RELEASE.jar"/>
+        <file crc="2620828019" name="modules/ext/spring-5/spring-jms-5.2.9.RELEASE.jar"/>
+        <file crc="2572013248" name="modules/ext/spring-5/spring-messaging-5.2.9.RELEASE.jar"/>
+        <file crc="3777113399" name="modules/ext/spring-5/spring-orm-5.2.9.RELEASE.jar"/>
+        <file crc="4276240225" name="modules/ext/spring-5/spring-oxm-5.2.9.RELEASE.jar"/>
+        <file crc="3176681804" name="modules/ext/spring-5/spring-test-5.2.9.RELEASE.jar"/>
+        <file crc="146991526" name="modules/ext/spring-5/spring-tx-5.2.9.RELEASE.jar"/>
+        <file crc="544891813" name="modules/ext/spring-5/spring-web-5.2.9.RELEASE.jar"/>
+        <file crc="436576121" name="modules/ext/spring-5/spring-webflux-5.2.9.RELEASE.jar"/>
+        <file crc="1646462253" name="modules/ext/spring-5/spring-webmvc-5.2.9.RELEASE.jar"/>
+        <file crc="842764356" name="modules/ext/spring-5/spring-websocket-5.2.9.RELEASE.jar"/>
+        <file crc="3796935203" name="modules/org-netbeans-libs-springframework.jar"/>
     </module_version>
 </module>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven/2">
-    <module_version install_time="1598375492818" last="true" origin="installer" specification_version="2.139.1">
+    <module_version install_time="1614260697521" last="true" origin="installer" specification_version="2.142">
         <file crc="1990391501" name="config/Modules/org-netbeans-modules-maven.xml"/>
-        <file crc="1948236442" name="maven-nblib/netbeans-cos.jar"/>
-        <file crc="4164757507" name="maven-nblib/netbeans-eventspy.jar"/>
-        <file crc="3482083329" name="modules/org-netbeans-modules-maven.jar"/>
+        <file crc="3100951340" name="maven-nblib/netbeans-cos.jar"/>
+        <file crc="3047523763" name="maven-nblib/netbeans-eventspy.jar"/>
+        <file crc="920028498" name="modules/org-netbeans-modules-maven.jar"/>
     </module_version>
 </module>

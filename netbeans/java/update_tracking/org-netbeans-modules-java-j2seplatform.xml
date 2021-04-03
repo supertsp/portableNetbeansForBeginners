@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.j2seplatform/1">
-    <module_version install_time="1598375535379" last="true" origin="installer" specification_version="1.51">
+    <module_version install_time="1614260718743" last="true" origin="installer" specification_version="1.54">
         <file crc="2519798490" name="config/Modules/org-netbeans-modules-java-j2seplatform.xml"/>
-        <file crc="1097096695" name="modules/org-netbeans-modules-java-j2seplatform.jar"/>
+        <file crc="3142759541" name="modules/org-netbeans-modules-java-j2seplatform.jar"/>
         <file crc="335605850" name="scripts/J2SEPlatformProbe.java"/>
     </module_version>
 </module>

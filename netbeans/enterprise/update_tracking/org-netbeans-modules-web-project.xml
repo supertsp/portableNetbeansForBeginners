@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.project">
-    <module_version install_time="1598376063602" last="true" origin="installer" specification_version="1.83.0.1">
-        <file crc="2028498846" name="ant/extra/jspcompile.jar"/>
+    <module_version install_time="1614261027030" last="true" origin="installer" specification_version="1.85.0.1">
+        <file crc="2420489562" name="ant/extra/jspcompile.jar"/>
         <file crc="4276146908" name="ant/sources/org/netbeans/modules/web/project/ant/JspC.java"/>
         <file crc="539036760" name="ant/sources/org/netbeans/modules/web/project/ant/JspCSingle.java"/>
         <file crc="1171210220" name="config/Modules/org-netbeans-modules-web-project.xml"/>
-        <file crc="3944599940" name="modules/org-netbeans-modules-web-project.jar"/>
+        <file crc="3612669526" name="modules/org-netbeans-modules-web-project.jar"/>
     </module_version>
 </module>

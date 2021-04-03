@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.project/1">
-    <module_version install_time="1598375793749" last="true" origin="installer" specification_version="1.85">
+    <module_version install_time="1614260860428" last="true" origin="installer" specification_version="1.87">
         <file crc="2782782661" name="config/Modules/org-netbeans-modules-apisupport-project.xml"/>
-        <file crc="761347980" name="modules/org-netbeans-modules-apisupport-project.jar"/>
+        <file crc="1115647992" name="modules/org-netbeans-modules-apisupport-project.jar"/>
     </module_version>
 </module>

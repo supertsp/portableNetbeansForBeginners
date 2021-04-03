@@ -2,13 +2,13 @@
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
     <fileobject name="">
-        <attr name="Templates\Classes\Empty.java\position" intvalue="1400"/>
+        <attr name="Templates\Classes\Empty.java\position" intvalue="2500"/>
         <attr name="Templates\Classes\Kotlin.kt\position" intvalue="100"/>
-        <attr name="Templates\Classes\Package\position" intvalue="1600"/>
-        <attr name="Templates\Classes\Record.java\position" intvalue="1700"/>
-        <attr name="Templates\Classes\ShellClass.java\position" intvalue="1250"/>
-        <attr name="Templates\Classes\module-info.java\position" intvalue="1000"/>
-        <attr name="Templates\Classes\package-info.java\position" intvalue="900"/>
+        <attr name="Templates\Classes\Package\position" intvalue="2000"/>
+        <attr name="Templates\Classes\Record.java\position" intvalue="2600"/>
+        <attr name="Templates\Classes\ShellClass.java\position" intvalue="1100"/>
+        <attr name="Templates\Classes\module-info.java\position" intvalue="2300"/>
+        <attr name="Templates\Classes\package-info.java\position" intvalue="2400"/>
     </fileobject>
     <fileobject name="Editors">
         <attr name="currentFontColorProfile" stringvalue="FlatLaf Dark"/>

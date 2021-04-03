@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.terminal">
-    <module_version install_time="1598375197185" last="true" origin="installer" specification_version="1.36">
+    <module_version install_time="1614260523250" last="true" origin="installer" specification_version="1.38">
         <file crc="4156507734" name="config/Modules/org-netbeans-modules-terminal.xml"/>
-        <file crc="514657831" name="modules/org-netbeans-modules-terminal.jar"/>
+        <file crc="4053768099" name="modules/org-netbeans-modules-terminal.jar"/>
     </module_version>
 </module>

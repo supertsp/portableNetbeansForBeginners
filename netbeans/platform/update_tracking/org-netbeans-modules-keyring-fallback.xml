@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.keyring.fallback">
-    <module_version install_time="1598375009006" last="true" origin="installer" specification_version="1.17">
+    <module_version install_time="1614260404676" last="true" origin="installer" specification_version="1.19">
         <file crc="1307470414" name="config/Modules/org-netbeans-modules-keyring-fallback.xml"/>
-        <file crc="264973229" name="modules/org-netbeans-modules-keyring-fallback.jar"/>
+        <file crc="1120142316" name="modules/org-netbeans-modules-keyring-fallback.jar"/>
     </module_version>
 </module>

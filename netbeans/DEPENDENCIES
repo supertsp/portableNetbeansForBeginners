@@ -68,9 +68,13 @@ From: Apache Software Foundation
   - Apache CXF: Apache CXF is an open-source services framework that aids in the development of services using front-end programming APIs, like JAX-WS and JAX-RS. (http://cxf.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
     Comment: Only used to extract the WSDL xsd
+  - Apache Commons CSV: The Apache Commons CSV library provides a simple interface for reading and writing CSV files of various types. (https://commons.apache.org/proper/commons-csv/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons Codec: Provides implementations of common encoders and decoders. (https://commons.apache.org/proper/commons-codec/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache Commons IO: Assist with developing IO functionality (https://commons.apache.org/proper/commons-io/)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons: Assist with developing IO functionality (https://commons.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Apache FreeMarker: Template engine
     License: Apache-2.0-freemarker
@@ -116,7 +120,7 @@ From: Apache Software Foundation
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Maven Dependency Tree: Maven Dependency Tree (https://maven.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Maven Indexer: Maven remote repository indexing engine. (http://repo1.maven.org/maven2/org/apache/maven/indexer/)
+  - Maven Indexer: Maven remote repository indexing engine. (https://repo1.maven.org/maven2/org/apache/maven/indexer/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Subversion Java-HL bindings: Java bindings library for subversion client (http://subversion.apache.org/)
     License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -136,6 +140,14 @@ From: Apache Software Foundation
 From: Byte Buddy
   - Byte Buddy: Code Generation Library (https://github.com/raphw/byte-buddy)
     License: Apache Version 2.0 and BSD license with INRIA copyright
+
+From: Cédric Beust
+  - JCommander: Parse command line parameters (https://jcommander.org)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: Dhatim
+  - fastexcel: Generate and read big Excel files quickly. (https://github.com/dhatim/fastexcel)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: Distributed with Sun GlassFish Enterprise Server v2.1
   - GlassFish Logging: GlassFish Logging
@@ -163,8 +175,6 @@ From: Eclipse
   - Eclipse Equinox Preferences library: Eclipse Equinox Preferences library (http://www.eclipse.org/)
     License: EPL-v10-with-osgi
   - Eclipse Equinox Security library: Eclipse Equinox Security library (http://www.eclipse.org/)
-    License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
-  - Eclipse Language Server Protocol Library: Eclipse Language Server Protocol Library (http://www.eclipse.org/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - Eclipse Language Server Protocol Library: Eclipse Language Server Protocol Library (http://www.eclipse.org/)
     License: Eclipse Public License v2.0
@@ -196,6 +206,16 @@ From: Eclipse
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
   - org.eclipse.mylyn.wikitext.markdown.core: Support for the Markdown wiki style (http://www.eclipse.org/mylyn/)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
+
+From: Eclipse Foundation
+  - JAXB: Jakarta XML Binding API (https://projects.eclipse.org/projects/ee4j.jaxb-impl)
+    License: EDL-1.0
+  - Jakarta Activation: Jakarta Activation (https://eclipse-ee4j.github.io/jaf/)
+    License: EDL-1.0
+
+From: Eclipse Foundation (https://eclipse-ee4j.github.io/metro-wsit/)
+  - Eclipse Metro: Eclipse Metro
+    License: EDL-1.0
 
 From: Eclipse Foundation (https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api/8.0.0)
   - JakartaEE API 8.0.0 Documentation: JakartaEE API 8.0.0 Documentation
@@ -370,7 +390,7 @@ From: JUnit
     License: Eclipse Public License v2.0
   - JUnit Jupiter: JUnit Jupiter (https://search.maven.org/search?q=g:org.junit.jupiter%20AND%20v:5.6.0)
     License: Eclipse Public License v2.0
-  - JUnit: JUnit harness runtime (http://search.maven.org/#artifactdetails|junit|junit|4.12|jar)
+  - JUnit: JUnit harness runtime (http://search.maven.org/#artifactdetails|junit|junit|4.13.1|jar)
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
 
 From: Java Native Access
@@ -384,6 +404,10 @@ From: JavaEWAH Project
 From: Jive Software/Ignite Realtime
   - Smack API: Open Source XMPP (Jabber) client library (http://www.igniterealtime.org/)
     License: Apache-2.0-smack
+
+From: Krzysztof Rzymkowski
+  - opczip: Open Packaging Conventions compatible ZIP64 implementation. Especially MS Excel compatible. (https://github.com/rzymek/opczip)
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 From: NetBeans
   - CND Debugger parts: CND Debugger parts that didn't go through the Apache IP Clearance yet
@@ -439,11 +463,9 @@ From: Oracle
     License: CDDL-1.0
   - JAX-WS: JAX-WS Reference Implementation (http://jax-ws.java.net/)
     License: CDDL-1.1
-  - JAXB: JAXB Reference Implementation (https://jaxb.java.net/)
+  - JAXB: JAXB Reference Implementation (https://github.com/javaee/jaxb-v2)
     License: CDDL-1.1
-  - JAXB: JAXB Reference Implementation (https://jaxb.java.net/)
-    License: CDDL-1.1-BSD-MIT-jaxb1-xjc
-  - JAXB: JAXB Reference Implementation (https://jaxb.java.net/)
+  - JAXB: JAXB Reference Implementation (https://github.com/javaee/jaxb-v2)
     License: CDDL-1.1-MIT-jaxb-xjc
   - JSP implementation: JSP implementation
     License: CDDL-1.1
@@ -529,10 +551,6 @@ From: Oracle (https://javaee.github.io/jstl-api/)
   - JSP Standard Tag Library (implementation): JavaServer Pages Standard Tag Library (implementation)
     License: CDDL-1.0
 
-From: Oracle (https://javaee.github.io/metro/)
-  - METRO: METRO
-    License: CDDL-1.1
-
 From: Oracle (https://javaee.github.io/uel-ri/)
   - Expression Language Implementation: Provides an implementation of the Expression Language (EL).
     License: CDDL-1.0
@@ -555,13 +573,13 @@ From: SourceForge
 
 From: Spring
   - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
-    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 5.2.2
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 4.X
   - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
-    License: Apache-2.0-spring4.3.25
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 5.X
 
 From: SpringSource
   - Spring Framework: Java/J2EE application framework (https://spring.io/projects/spring-framework)
-    License: Apache-2.0-spring3.2.18
+    License: Apache Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt) with Spring addendums, version 3.X
 
 From: Subclipse
   - SVNClientAdapter Library: Integration library for subversion client (http://subclipse.tigris.org/svnClientAdapter.html)
@@ -629,7 +647,7 @@ From: http://jquery.com
   - jquery-api.xml: Documentation api file for jQuery
     License: MIT license JQuery variant
 
-From: http://search.maven.org/#artifactdetails|junit|junit|4.12|jar
+From: http://search.maven.org/#artifactdetails|junit|junit|4.13.1|jar
   - JUnit: JUnit is a regression testing framework
     License: Eclipse Public License v1 (https://www.eclipse.org/legal/epl-v10.html)
 
@@ -818,10 +836,6 @@ From: https://github.com/vsch/flexmark-java
 From: https://h2database.com
   - H2 Database Engine: The H2 Database Enginge is a pure java database, that can be used in embedded and server mode.
     License: Eclipse Public License v1, h2 variant
-
-From: https://javacc.dev.java.net/files/documents/17/686/javacc-3.2.zip
-  - JavaCC: Parser generator for SQL parser.
-    License: BSD-javacc-3.2
 
 From: https://jdbc.postgresql.org/about/license.html
   - PostgreSQL JDBC Driver: Allows Java programs to interact with a PostgreSQL database

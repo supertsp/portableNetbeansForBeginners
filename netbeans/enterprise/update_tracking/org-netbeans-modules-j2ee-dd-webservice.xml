@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.dd.webservice">
-    <module_version install_time="1598375989891" last="true" origin="installer" specification_version="1.40">
+    <module_version install_time="1614260986115" last="true" origin="installer" specification_version="1.42">
         <file crc="3128345248" name="config/Modules/org-netbeans-modules-j2ee-dd-webservice.xml"/>
-        <file crc="4177322980" name="modules/org-netbeans-modules-j2ee-dd-webservice.jar"/>
+        <file crc="1778791788" name="modules/org-netbeans-modules-j2ee-dd-webservice.jar"/>
     </module_version>
 </module>

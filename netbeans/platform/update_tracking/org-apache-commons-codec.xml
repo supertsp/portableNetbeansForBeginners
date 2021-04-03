@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.commons.codec">
-    <module_version install_time="1598375015185" last="true" origin="installer" specification_version="1.13.0">
+    <module_version install_time="1614260408239" last="true" origin="installer" specification_version="1.13.0">
         <file crc="3401014067" name="config/Modules/org-apache-commons-codec.xml"/>
-        <file crc="2281002983" name="modules/org-apache-commons-codec.jar"/>
+        <file crc="593345061" name="modules/org-apache-commons-codec.jar"/>
     </module_version>
 </module>

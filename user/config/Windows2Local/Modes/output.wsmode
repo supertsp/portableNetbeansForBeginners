@@ -5,12 +5,12 @@
   <kind type="view" />
   <state type="joined"  minimized="true"  />
   <constraints>
-    <path orientation="horizontal" number="60" weight="0.7"/>
+    <path orientation="horizontal" number="60" weight="0.7192474674384949"/>
     <path orientation="vertical" number="80" weight="0.3"/>
     <path orientation="horizontal" number="30" weight="0.8"/>
   </constraints>
   <bounds x="192" y="707" width="768" height="208" />
   <frame state="0"/>
-    <active-tc  prev-id="output" />
+    <active-tc  prev-id="gsf-testrunner-results" />
     <empty-behavior permanent="true"/>
 </mode>

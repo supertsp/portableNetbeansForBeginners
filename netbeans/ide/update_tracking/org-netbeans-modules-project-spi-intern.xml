@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.spi.intern">
-    <module_version install_time="1598375155803" last="true" origin="installer" specification_version="1.12">
+    <module_version install_time="1614260491811" last="true" origin="installer" specification_version="1.14">
         <file crc="2544904341" name="config/Modules/org-netbeans-modules-project-spi-intern.xml"/>
-        <file crc="4180172595" name="modules/org-netbeans-modules-project-spi-intern.jar"/>
+        <file crc="3326475361" name="modules/org-netbeans-modules-project-spi-intern.jar"/>
     </module_version>
 </module>

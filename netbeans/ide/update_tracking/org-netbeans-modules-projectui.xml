@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.projectui">
-    <module_version install_time="1598375285414" last="true" origin="installer" specification_version="1.67.0.8.9">
+    <module_version install_time="1614260573944" last="true" origin="installer" specification_version="1.70.0.8.9">
         <file crc="160952363" name="config/Modules/org-netbeans-modules-projectui.xml"/>
-        <file crc="978452469" name="modules/org-netbeans-modules-projectui.jar"/>
+        <file crc="3613130720" name="modules/org-netbeans-modules-projectui.jar"/>
     </module_version>
 </module>

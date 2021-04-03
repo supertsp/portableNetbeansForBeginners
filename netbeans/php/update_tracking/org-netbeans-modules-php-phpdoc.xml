@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.phpdoc">
-    <module_version install_time="1598375881104" last="true" origin="installer" specification_version="1.30">
+    <module_version install_time="1614260912464" last="true" origin="installer" specification_version="1.33">
         <file crc="3575144119" name="config/Modules/org-netbeans-modules-php-phpdoc.xml"/>
-        <file crc="950415230" name="modules/org-netbeans-modules-php-phpdoc.jar"/>
+        <file crc="3699043648" name="modules/org-netbeans-modules-php-phpdoc.jar"/>
     </module_version>
 </module>

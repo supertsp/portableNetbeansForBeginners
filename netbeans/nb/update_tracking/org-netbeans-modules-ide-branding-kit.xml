@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.branding.kit">
-    <module_version install_time="1598375772254" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1614260847363" last="true" origin="installer" specification_version="1.39">
         <file crc="1222951997" name="VERSION.txt"/>
         <file crc="237125903" name="config/Modules/org-netbeans-modules-ide-branding-kit.xml"/>
-        <file crc="2129504687" name="modules/org-netbeans-modules-ide-branding-kit.jar"/>
+        <file crc="3168706402" name="modules/org-netbeans-modules-ide-branding-kit.jar"/>
     </module_version>
 </module>

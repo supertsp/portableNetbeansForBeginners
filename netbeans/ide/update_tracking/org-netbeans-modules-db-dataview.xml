@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.dataview">
-    <module_version install_time="1598375175304" last="true" origin="installer" specification_version="1.42">
+    <module_version install_time="1614260503521" last="true" origin="installer" specification_version="1.44">
         <file crc="3221262164" name="config/Modules/org-netbeans-modules-db-dataview.xml"/>
-        <file crc="3736840204" name="modules/org-netbeans-modules-db-dataview.jar"/>
+        <file crc="2801561408" name="modules/ext/commons-csv-1.8.jar"/>
+        <file crc="2629057880" name="modules/ext/fastexcel-0.10.15.jar"/>
+        <file crc="3613604848" name="modules/ext/opczip-1.2.0.jar"/>
+        <file crc="3857828675" name="modules/org-netbeans-modules-db-dataview.jar"/>
     </module_version>
 </module>

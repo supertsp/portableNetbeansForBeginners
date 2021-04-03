@@ -2,9 +2,7 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
-//import ...
-// </editor-fold>
+import java.util.*;
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">
 /**

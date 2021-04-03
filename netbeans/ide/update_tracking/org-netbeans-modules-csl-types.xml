@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.csl.types/1">
-    <module_version install_time="1598375137342" last="true" origin="installer" specification_version="1.9">
+    <module_version install_time="1614260480002" last="true" origin="installer" specification_version="1.11">
         <file crc="1730004304" name="config/Modules/org-netbeans-modules-csl-types.xml"/>
-        <file crc="2740194186" name="modules/org-netbeans-modules-csl-types.jar"/>
+        <file crc="2116396109" name="modules/org-netbeans-modules-csl-types.jar"/>
     </module_version>
 </module>

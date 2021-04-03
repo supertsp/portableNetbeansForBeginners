@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.html.knockout">
-    <module_version install_time="1598375398722" last="true" origin="installer" specification_version="1.19">
+    <module_version install_time="1614260643690" last="true" origin="installer" specification_version="1.21">
         <file crc="179244587" name="config/Modules/org-netbeans-modules-html-knockout.xml"/>
-        <file crc="1493632592" name="modules/org-netbeans-modules-html-knockout.jar"/>
+        <file crc="1260014455" name="modules/org-netbeans-modules-html-knockout.jar"/>
     </module_version>
 </module>

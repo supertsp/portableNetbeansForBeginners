@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.nbjavac.api">
-    <module_version install_time="1601173661884" last="true" origin="Third Party Libraries" specification_version="2.2">
+    <module_version install_time="1617476593742" last="true" origin="Third Party Libraries" specification_version="2.4">
         <file crc="3913461708" name="config/Modules/org-netbeans-modules-nbjavac-api.xml"/>
-        <file crc="1160927925" name="modules/ext/nb-javac-14-api.jar"/>
-        <file crc="543349066" name="modules/org-netbeans-modules-nbjavac-api.jar"/>
+        <file crc="3736270701" name="modules/ext/nb-javac-15.0.0.2-api.jar"/>
+        <file crc="2521342991" name="modules/org-netbeans-modules-nbjavac-api.jar"/>
     </module_version>
 </module>

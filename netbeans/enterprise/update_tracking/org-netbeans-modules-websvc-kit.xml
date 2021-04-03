@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.kit">
-    <module_version install_time="1598376297301" last="true" origin="installer" specification_version="1.35">
+    <module_version install_time="1614261113985" last="true" origin="installer" specification_version="1.37">
         <file crc="1868368731" name="config/Modules/org-netbeans-modules-websvc-kit.xml"/>
-        <file crc="667214719" name="modules/org-netbeans-modules-websvc-kit.jar"/>
+        <file crc="2196623177" name="modules/org-netbeans-modules-websvc-kit.jar"/>
     </module_version>
 </module>

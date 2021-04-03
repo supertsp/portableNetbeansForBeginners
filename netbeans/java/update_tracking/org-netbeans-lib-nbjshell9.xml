@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.nbjshell9">
-    <module_version install_time="1598375673634" last="true" origin="installer" specification_version="1.8">
+    <module_version install_time="1614260795336" last="true" origin="installer" specification_version="1.10">
         <file crc="2303862295" name="config/Modules/org-netbeans-lib-nbjshell9.xml"/>
-        <file crc="1431498129" name="modules/org-netbeans-lib-nbjshell9.jar"/>
+        <file crc="862992595" name="modules/org-netbeans-lib-nbjshell9.jar"/>
     </module_version>
 </module>

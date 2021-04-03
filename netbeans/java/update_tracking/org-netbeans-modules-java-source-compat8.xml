@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.source.compat8">
-    <module_version install_time="1598375658322" last="true" origin="installer" specification_version="9.12">
+    <module_version install_time="1614260786873" last="true" origin="installer" specification_version="9.14">
         <file crc="4041673659" name="config/Modules/org-netbeans-modules-java-source-compat8.xml"/>
-        <file crc="1960888467" name="modules/org-netbeans-modules-java-source-compat8.jar"/>
+        <file crc="3836690191" name="modules/org-netbeans-modules-java-source-compat8.jar"/>
     </module_version>
 </module>

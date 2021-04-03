@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.catalog/2">
-    <module_version install_time="1598375156737" last="true" origin="installer" specification_version="3.13.0.4">
+    <module_version install_time="1614260492434" last="true" origin="installer" specification_version="3.15.0.4">
         <file crc="1336097985" name="config/ModuleAutoDeps/org-netbeans-modules-xml-catalog.xml"/>
         <file crc="4257896318" name="config/Modules/org-netbeans-modules-xml-catalog.xml"/>
-        <file crc="224897364" name="modules/org-netbeans-modules-xml-catalog.jar"/>
+        <file crc="568104299" name="modules/org-netbeans-modules-xml-catalog.jar"/>
     </module_version>
 </module>

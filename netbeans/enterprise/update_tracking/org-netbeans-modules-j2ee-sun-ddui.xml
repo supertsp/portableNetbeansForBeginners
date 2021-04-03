@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.sun.ddui/1">
-    <module_version install_time="1598376024008" last="true" origin="installer" specification_version="1.45.0.1.1">
+    <module_version install_time="1614261004869" last="true" origin="installer" specification_version="1.47.0.1.1">
         <file crc="972395137" name="config/Modules/org-netbeans-modules-j2ee-sun-ddui.xml"/>
-        <file crc="842213343" name="modules/org-netbeans-modules-j2ee-sun-ddui.jar"/>
+        <file crc="2035954363" name="modules/org-netbeans-modules-j2ee-sun-ddui.jar"/>
     </module_version>
 </module>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.db.mysql">
-    <module_version install_time="1598375179059" last="true" origin="installer" specification_version="0.37.0.2">
+    <module_version install_time="1614260505985" last="true" origin="installer" specification_version="0.39.0.2">
         <file crc="934439921" name="config/Modules/org-netbeans-modules-db-mysql.xml"/>
-        <file crc="2995614596" name="modules/org-netbeans-modules-db-mysql.jar"/>
+        <file crc="3269613830" name="modules/org-netbeans-modules-db-mysql.jar"/>
     </module_version>
 </module>

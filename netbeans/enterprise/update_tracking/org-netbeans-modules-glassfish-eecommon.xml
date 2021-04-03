@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.glassfish.eecommon/0">
-    <module_version install_time="1598376016986" last="true" origin="installer" specification_version="1.46.0.1.1">
+    <module_version install_time="1614261001519" last="true" origin="installer" specification_version="1.48.0.1.1">
         <file crc="2094030658" name="config/Modules/org-netbeans-modules-glassfish-eecommon.xml"/>
-        <file crc="1468021347" name="modules/org-netbeans-modules-glassfish-eecommon.jar"/>
+        <file crc="1221957903" name="modules/org-netbeans-modules-glassfish-eecommon.jar"/>
     </module_version>
 </module>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.j2ee.dd/1">
-    <module_version install_time="1598375941445" last="true" origin="installer" specification_version="1.49.0.2">
+    <module_version install_time="1614260958881" last="true" origin="installer" specification_version="1.51.0.2">
         <file crc="2619511562" name="config/Modules/org-netbeans-modules-j2ee-dd.xml"/>
         <file crc="2228295524" name="modules/ext/javaee-api-5.jar"/>
-        <file crc="2126648468" name="modules/org-netbeans-modules-j2ee-dd.jar"/>
+        <file crc="2693951999" name="modules/org-netbeans-modules-j2ee-dd.jar"/>
     </module_version>
 </module>

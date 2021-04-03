@@ -2,41 +2,142 @@
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
     <fileobject name="AnnotationType.java">
-        <attr name="position" intvalue="1300"/>
+        <attr name="position" intvalue="2100"/>
     </fileobject>
     <fileobject name="BasicMain.java">
         <attr name="displayName" stringvalue="Basic Java Main Class"/>
         <attr name="iconBase" stringvalue="org/netbeans/modules/java/project/ui/resources/main-class.png"/>
+        <attr name="instantiatingIterator" newvalue="null"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Main.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="300"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-main-class"/>
+    </fileobject>
+    <fileobject name="BeginnersMain.java">
+        <attr name="displayName" stringvalue="Beginners Java Main Class"/>
+        <attr name="iconBase" stringvalue="org/netbeans/modules/java/project/ui/resources/main-class.png"/>
         <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
         <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Main.html"/>
         <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="250"/>
+        <attr name="position" intvalue="200"/>
         <attr name="requireProject" boolvalue="true"/>
         <attr name="template" boolvalue="true"/>
         <attr name="templateCategory" stringvalue="java-main-class"/>
     </fileobject>
     <fileobject name="Class.java">
+        <attr name="displayName" stringvalue="Basic Java Class"/>
+        <attr name="position" intvalue="500"/>
+    </fileobject>
+    <fileobject name="CleanClass.java">
+        <attr name="displayName" stringvalue="Clean Java Class"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/class.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Class.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="600"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes,java-classes-basic"/>
+    </fileobject>
+    <fileobject name="CleanConfigurationClass.java">
+        <attr name="displayName" stringvalue="Clean Spring Boot Configuration Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1975"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CleanControllerClass.java">
+        <attr name="displayName" stringvalue="Clean Spring Boot Controller Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1900"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CleanEnum.java">
+        <attr name="displayName" stringvalue="Clean Java Enum"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/enum.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Enum.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1000"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes,jdk5"/>
+    </fileobject>
+    <fileobject name="CleanInterface.java">
+        <attr name="displayName" stringvalue="Clean Java Interface"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/interface.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Interface.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
         <attr name="position" intvalue="800"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes,java-classes-basic"/>
     </fileobject>
-    <fileobject name="Code">
-        <attr name="position" intvalue="2100"/>
-    </fileobject>
-    <fileobject name="EasyMain.java">
-        <attr name="displayName" stringvalue="Easy Java Main Class"/>
+    <fileobject name="CleanMain.java">
+        <attr name="displayName" stringvalue="Clean Java Main Class"/>
         <attr name="iconBase" stringvalue="org/netbeans/modules/java/project/ui/resources/main-class.png"/>
         <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
         <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Main.html"/>
         <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="350"/>
+        <attr name="position" intvalue="400"/>
         <attr name="requireProject" boolvalue="true"/>
         <attr name="template" boolvalue="true"/>
         <attr name="templateCategory" stringvalue="java-main-class"/>
     </fileobject>
+    <fileobject name="CleanModelClass.java">
+        <attr name="displayName" stringvalue="Clean Spring Boot DB Model Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1500"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="CleanRepositoryInterface.java">
+        <attr name="displayName" stringvalue="Clean Spring Boot Repository Interface"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/interface.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Interface.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1700"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes,java-classes-basic"/>
+    </fileobject>
+    <fileobject name="CleanSingleton.java">
+        <attr name="displayName" stringvalue="Clean Java Singleton Class"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/class.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Singleton.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1300"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes"/>
+    </fileobject>
+    <fileobject name="Code">
+        <attr name="position" intvalue="2900"/>
+    </fileobject>
+    <fileobject name="ConfigurationClass.java">
+        <attr name="displayName" stringvalue="Basic Spring Boot Configuration Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1950"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="ControllerClass.java">
+        <attr name="displayName" stringvalue="Basic Spring Boot Controller Class"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1800"/>
+        <attr name="template" boolvalue="true"/>
+    </fileobject>
     <fileobject name="Enum.java">
-        <attr name="position" intvalue="1100"/>
+        <attr name="displayName" stringvalue="Basic Java Enum"/>
+        <attr name="position" intvalue="900"/>
     </fileobject>
     <fileobject name="Exception.java">
-        <attr name="position" intvalue="1800"/>
+        <attr name="position" intvalue="2200"/>
     </fileobject>
     <fileobject name="Executavel.java">
         <attr name="displayName" stringvalue="Arquivo Java para Iniciantes"/>
@@ -46,43 +147,32 @@
         <attr name="template" boolvalue="true"/>
     </fileobject>
     <fileobject name="Interface.java">
-        <attr name="position" intvalue="1200"/>
-    </fileobject>
-    <fileobject name="JPAORMClass.java">
-        <attr name="displayName" stringvalue="JPA ORM Class"/>
-        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="600"/>
-        <attr name="requireProject" boolvalue="true"/>
-        <attr name="template" boolvalue="true"/>
-    </fileobject>
-    <fileobject name="JPARepositoryInterface.java">
-        <attr name="displayName" stringvalue="JPA Repository Interface"/>
-        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="500"/>
-        <attr name="requireProject" boolvalue="true"/>
-        <attr name="template" boolvalue="true"/>
+        <attr name="displayName" stringvalue="Basic Java Interface"/>
+        <attr name="position" intvalue="700"/>
     </fileobject>
     <fileobject name="Main.java">
-        <attr name="position" intvalue="200"/>
+        <attr name="position" intvalue="2700"/>
     </fileobject>
-    <fileobject name="MainProgram.java">
-        <attr name="displayName" stringvalue="Java for Beginners"/>
-        <attr name="iconBase" stringvalue="org/netbeans/modules/java/project/ui/resources/main-class.png"/>
-        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
-        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Main.html"/>
+    <fileobject name="ModelClass.java">
+        <attr name="displayName" stringvalue="Basic Spring Boot DB Model Class"/>
         <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="300"/>
+        <attr name="position" intvalue="1400"/>
         <attr name="requireProject" boolvalue="true"/>
         <attr name="template" boolvalue="true"/>
-        <attr name="templateCategory" stringvalue="java-main-class"/>
+    </fileobject>
+    <fileobject name="RepositoryInterface.java">
+        <attr name="displayName" stringvalue="Basic Spring Boot Repository Interface"/>
+        <attr name="iconBase" stringvalue="org/netbeans/spi/java/project/support/ui/templates/interface.png"/>
+        <attr name="instantiatingIterator" newvalue="org.netbeans.modules.java.project.ui.NewJavaFileWizardIterator"/>
+        <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/java/project/ui/resources/Interface.html"/>
+        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+        <attr name="position" intvalue="1600"/>
+        <attr name="requireProject" boolvalue="true"/>
+        <attr name="template" boolvalue="true"/>
+        <attr name="templateCategory" stringvalue="java-classes,java-classes-basic"/>
     </fileobject>
     <fileobject name="Singleton.java">
-        <attr name="position" intvalue="1500"/>
-    </fileobject>
-    <fileobject name="SpringBootEndpointClass.java">
-        <attr name="displayName" stringvalue="Spring Boot Endpoint Class"/>
-        <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
-        <attr name="position" intvalue="700"/>
-        <attr name="template" boolvalue="true"/>
+        <attr name="displayName" stringvalue="Basic Java Singleton Class"/>
+        <attr name="position" intvalue="1200"/>
     </fileobject>
 </attributes>

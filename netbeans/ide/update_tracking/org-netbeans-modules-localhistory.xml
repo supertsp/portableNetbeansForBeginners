@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.localhistory">
-    <module_version install_time="1598375263030" last="true" origin="installer" specification_version="1.43">
+    <module_version install_time="1614260559672" last="true" origin="installer" specification_version="1.45">
         <file crc="3877869730" name="config/Modules/org-netbeans-modules-localhistory.xml"/>
-        <file crc="2463562535" name="modules/org-netbeans-modules-localhistory.jar"/>
+        <file crc="3902815764" name="modules/org-netbeans-modules-localhistory.jar"/>
     </module_version>
 </module>

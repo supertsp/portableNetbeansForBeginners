@@ -2,11 +2,9 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
 import java.util.List;
 import java.util.ArrayList;
 import java.awt.Toolkit;
-// </editor-fold>
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">
 /**

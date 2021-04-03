@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.git/1">
-    <module_version install_time="1598375221830" last="true" origin="installer" specification_version="1.42">
+    <module_version install_time="1614260537388" last="true" origin="installer" specification_version="1.44">
         <file crc="4214212944" name="config/Modules/org-netbeans-libs-git.xml"/>
-        <file crc="652562717" name="modules/org-netbeans-libs-git.jar"/>
+        <file crc="2912165908" name="modules/org-netbeans-libs-git.jar"/>
     </module_version>
 </module>

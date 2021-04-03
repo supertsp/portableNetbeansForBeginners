@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.usersguide/1">
-    <module_version install_time="1598375311518" last="true" origin="installer" specification_version="1.57">
+    <module_version install_time="1614260588264" last="true" origin="installer" specification_version="1.59">
         <file crc="75511347" name="config/Modules/org-netbeans-modules-usersguide.xml"/>
         <file crc="4242034113" name="docs/org/netbeans/modules/usersguide/ide.css"/>
-        <file crc="3226822962" name="modules/docs/org-netbeans-modules-usersguide.jar"/>
-        <file crc="549904836" name="modules/org-netbeans-modules-usersguide.jar"/>
+        <file crc="2635334416" name="modules/docs/org-netbeans-modules-usersguide.jar"/>
+        <file crc="1607231482" name="modules/org-netbeans-modules-usersguide.jar"/>
     </module_version>
 </module>

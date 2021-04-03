@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.editor.autosave/1">
-    <module_version install_time="1598375209717" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1614260529840" last="true" origin="installer" specification_version="1.2">
         <file crc="3172181880" name="config/Modules/org-netbeans-modules-editor-autosave.xml"/>
-        <file crc="3245198532" name="modules/org-netbeans-modules-editor-autosave.jar"/>
+        <file crc="2129428632" name="modules/org-netbeans-modules-editor-autosave.jar"/>
     </module_version>
 </module>

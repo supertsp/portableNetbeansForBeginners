@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.dlight.nativeexecution">
-    <module_version install_time="1598375199218" last="true" origin="installer" specification_version="1.48.0.1">
+    <module_version install_time="1614260524473" last="true" origin="installer" specification_version="1.50.0.1">
         <file crc="588438809" name="bin/nativeexecution/Linux-sparc_64/killall"/>
         <file crc="1013170221" name="bin/nativeexecution/Linux-sparc_64/process_start"/>
         <file crc="1124076903" name="bin/nativeexecution/Linux-sparc_64/pty"/>
@@ -33,14 +33,6 @@
         <file crc="21247631" name="bin/nativeexecution/MacOSX-x86_64/pty_open"/>
         <file crc="1927002667" name="bin/nativeexecution/MacOSX-x86_64/stat"/>
         <file crc="380202925" name="bin/nativeexecution/MacOSX-x86_64/unbuffer.dylib"/>
-        <file crc="3230597636" name="bin/nativeexecution/SunOS-sparc/killall"/>
-        <file crc="186118468" name="bin/nativeexecution/SunOS-sparc/privp"/>
-        <file crc="2582199676" name="bin/nativeexecution/SunOS-sparc/process_start"/>
-        <file crc="3633836277" name="bin/nativeexecution/SunOS-sparc/pty"/>
-        <file crc="2898013131" name="bin/nativeexecution/SunOS-sparc/pty_open"/>
-        <file crc="1120889477" name="bin/nativeexecution/SunOS-sparc/sigqueue"/>
-        <file crc="4268146894" name="bin/nativeexecution/SunOS-sparc/stat"/>
-        <file crc="1333217312" name="bin/nativeexecution/SunOS-sparc/unbuffer.so"/>
         <file crc="472383741" name="bin/nativeexecution/SunOS-sparc_64/killall"/>
         <file crc="1236182142" name="bin/nativeexecution/SunOS-sparc_64/privp"/>
         <file crc="2777571336" name="bin/nativeexecution/SunOS-sparc_64/process_start"/>
@@ -79,6 +71,6 @@
         <file crc="2190030010" name="bin/nativeexecution/dorun.sh"/>
         <file crc="2584744811" name="bin/nativeexecution/hostinfo.sh"/>
         <file crc="249150406" name="config/Modules/org-netbeans-modules-dlight-nativeexecution.xml"/>
-        <file crc="2955370773" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
+        <file crc="1972339183" name="modules/org-netbeans-modules-dlight-nativeexecution.jar"/>
     </module_version>
 </module>

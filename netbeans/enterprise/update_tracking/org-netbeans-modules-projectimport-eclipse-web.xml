@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.projectimport.eclipse.web">
-    <module_version install_time="1598376192531" last="true" origin="installer" specification_version="1.33.0.1">
+    <module_version install_time="1614261064036" last="true" origin="installer" specification_version="1.35.0.1">
         <file crc="978283468" name="config/Modules/org-netbeans-modules-projectimport-eclipse-web.xml"/>
-        <file crc="1275950411" name="modules/org-netbeans-modules-projectimport-eclipse-web.jar"/>
+        <file crc="2806774419" name="modules/org-netbeans-modules-projectimport-eclipse-web.jar"/>
     </module_version>
 </module>

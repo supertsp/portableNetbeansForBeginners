@@ -2,9 +2,7 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
-//import ...
-// </editor-fold>
+import java.util.*;
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">
 /**
@@ -23,6 +21,10 @@ public interface ${name} {
 	// </editor-fold>
 
 	// <editor-fold defaultstate="collapsed" desc="abstract methods...">
+
+	// </editor-fold>
+
+	// <editor-fold defaultstate="collapsed" desc="default methods...">
 
 	// </editor-fold>
 

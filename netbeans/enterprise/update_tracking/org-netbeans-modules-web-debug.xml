@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.debug/1">
-    <module_version install_time="1598376257202" last="true" origin="installer" specification_version="2.45">
+    <module_version install_time="1614261090895" last="true" origin="installer" specification_version="2.47">
         <file crc="1657809924" name="config/Modules/org-netbeans-modules-web-debug.xml"/>
-        <file crc="981781035" name="modules/org-netbeans-modules-web-debug.jar"/>
+        <file crc="1347957418" name="modules/org-netbeans-modules-web-debug.jar"/>
     </module_version>
 </module>

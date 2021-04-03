@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.extjs">
-    <module_version install_time="1598375421129" last="true" origin="installer" specification_version="1.18">
+    <module_version install_time="1614260656039" last="true" origin="installer" specification_version="1.20">
         <file crc="327769706" name="config/Modules/org-netbeans-modules-javascript2-extjs.xml"/>
         <file crc="858418061" name="docs/extjs-properties.xml"/>
-        <file crc="724135077" name="modules/org-netbeans-modules-javascript2-extjs.jar"/>
+        <file crc="1558622381" name="modules/org-netbeans-modules-javascript2-extjs.jar"/>
     </module_version>
 </module>

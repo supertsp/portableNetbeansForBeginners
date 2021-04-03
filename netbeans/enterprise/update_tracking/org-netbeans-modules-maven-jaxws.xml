@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.jaxws">
-    <module_version install_time="1598376175992" last="true" origin="installer" specification_version="1.37">
+    <module_version install_time="1614261055376" last="true" origin="installer" specification_version="1.39">
         <file crc="4133509653" name="config/Modules/org-netbeans-modules-maven-jaxws.xml"/>
-        <file crc="2537903133" name="modules/org-netbeans-modules-maven-jaxws.jar"/>
+        <file crc="4232456845" name="modules/org-netbeans-modules-maven-jaxws.jar"/>
     </module_version>
 </module>

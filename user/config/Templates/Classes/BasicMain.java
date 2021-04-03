@@ -2,7 +2,6 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
 import static java.lang.Double.parseDouble;
 import static java.lang.Float.parseFloat;
 import static java.lang.Integer.parseInt;
@@ -12,8 +11,6 @@ import java.util.List;
 import java.util.Scanner;
 import static javax.swing.JOptionPane.showMessageDialog;
 import static javax.swing.JOptionPane.showInputDialog;
-
-// </editor-fold>
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">
 /**
@@ -28,12 +25,14 @@ import static javax.swing.JOptionPane.showInputDialog;
 public class ${name} {
 
 	// <editor-fold defaultstate="collapsed" desc="static fields...">
-
+	private static Scanner scanner = new Scanner(System.in);
 	// </editor-fold>
 	
 	public static void main(String[] args) {
 		
-		
+		System.out.print("Type your name: ");
+		String currentLine = scanner.nextLine();
+		System.out.println(currentLine);
 		
 	}//main
 

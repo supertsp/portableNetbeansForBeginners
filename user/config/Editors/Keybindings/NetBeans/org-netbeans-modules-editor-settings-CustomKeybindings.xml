@@ -2,10 +2,16 @@
 <!DOCTYPE bindings PUBLIC "-//NetBeans//DTD Editor KeyBindings settings 1.1//EN" "http://www.netbeans.org/dtds/EditorKeyBindings-1_1.dtd">
 <bindings>
     <bind actionName="copy-selection-else-line-down" key="D-D"/>
+    <bind actionName="move-selection-else-line-down" key="SD-DOWN"/>
+    <bind actionName="move-selection-else-line-up" key="SD-UP"/>
     <bind actionName="toggle-comment" key="D-DIVIDE"/>
     <bind key="SD-C" remove="true"/>
     <bind key="SD-KP_DOWN" remove="true"/>
     <bind key="S-SPACE" remove="true"/>
+    <bind key="SO-KP_UP" remove="true"/>
+    <bind key="SO-DOWN" remove="true"/>
+    <bind key="SO-KP_DOWN" remove="true"/>
+    <bind key="SD-KP_UP" remove="true"/>
     <bind key="S-F10" remove="true"/>
-    <bind key="SD-DOWN" remove="true"/>
+    <bind key="SO-UP" remove="true"/>
 </bindings>

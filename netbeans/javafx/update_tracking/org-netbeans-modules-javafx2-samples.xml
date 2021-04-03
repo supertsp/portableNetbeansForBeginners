@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javafx2.samples">
-    <module_version install_time="1598375719291" last="true" origin="installer" specification_version="1.26">
+    <module_version install_time="1614260819449" last="true" origin="installer" specification_version="1.28">
         <file crc="154085094" name="config/Modules/org-netbeans-modules-javafx2-samples.xml"/>
-        <file crc="1375648925" name="modules/org-netbeans-modules-javafx2-samples.jar"/>
+        <file crc="3551394630" name="modules/org-netbeans-modules-javafx2-samples.jar"/>
     </module_version>
 </module>

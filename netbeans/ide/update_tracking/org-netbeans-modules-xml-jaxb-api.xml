@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.xml.jaxb.api/1">
-    <module_version install_time="1598375323993" last="true" origin="installer" specification_version="1.35">
+    <module_version install_time="1614260595790" last="true" origin="installer" specification_version="1.37">
         <file crc="3368585658" name="config/Modules/org-netbeans-modules-xml-jaxb-api.xml"/>
-        <file crc="1470762890" name="modules/ext/jaxb/activation.jar"/>
-        <file crc="4017648896" name="modules/ext/jaxb/api/jaxb-api.jar"/>
-        <file crc="2644402328" name="modules/org-netbeans-modules-xml-jaxb-api.jar"/>
+        <file crc="1289155444" name="modules/ext/jaxb/activation.jar"/>
+        <file crc="2485804394" name="modules/ext/jaxb/api/jaxb-api.jar"/>
+        <file crc="3403360616" name="modules/org-netbeans-modules-xml-jaxb-api.jar"/>
     </module_version>
 </module>

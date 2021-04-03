@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.debug">
-    <module_version install_time="1598375611234" last="true" origin="installer" specification_version="1.47.0.1.25.5">
+    <module_version install_time="1614260759797" last="true" origin="installer" specification_version="1.49.0.1.25.5">
         <file crc="1877495438" name="config/Modules/org-netbeans-modules-java-debug.xml"/>
-        <file crc="11442973" name="modules/org-netbeans-modules-java-debug.jar"/>
+        <file crc="1964429766" name="modules/org-netbeans-modules-java-debug.jar"/>
     </module_version>
 </module>

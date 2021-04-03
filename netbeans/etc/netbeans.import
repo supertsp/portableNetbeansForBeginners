@@ -12,6 +12,8 @@ include config/Favorites/.*
 include config/Preferences/org/netbeans/core[.]properties|config/Services/MIMEResolver/.*
 #org.netbeans.modules.html OptionsExport/Advanced/HTMLPalette
 include config/HTMLPalette/.*
+#org.netbeans.modules.code.analysis OptionsExport/Advanced/Inspections
+include config/Preferences/org/netbeans/modules/code/analysis/.*
 #org.netbeans.modules.j2eeserver OptionsExport/Advanced/J2EE
 include config/(J2EE|GlassFish|GlassFishEE6|GlassFishEE6WC|GlassFishEE8|GlassFishJakartaEE8)/.*
 #org.netbeans.modules.web.core OptionsExport/Advanced/JSPPalette

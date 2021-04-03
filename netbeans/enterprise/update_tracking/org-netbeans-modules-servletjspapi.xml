@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.servletjspapi/1">
-    <module_version install_time="1598376057300" last="true" origin="installer" specification_version="1.39.0.25">
+    <module_version install_time="1614261023773" last="true" origin="installer" specification_version="1.41.0.25">
         <file crc="852551831" name="config/Modules/org-netbeans-modules-servletjspapi.xml"/>
-        <file crc="4142540301" name="modules/ext/servlet3.1-jsp2.3-api.jar"/>
-        <file crc="323275962" name="modules/org-netbeans-modules-servletjspapi.jar"/>
+        <file crc="3759825216" name="modules/ext/servlet3.1-jsp2.3-api.jar"/>
+        <file crc="899078149" name="modules/org-netbeans-modules-servletjspapi.jar"/>
     </module_version>
 </module>

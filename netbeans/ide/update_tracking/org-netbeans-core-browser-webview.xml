@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.core.browser.webview/1">
-    <module_version install_time="1598375136594" last="true" origin="installer" specification_version="1.24.0.1.1">
+    <module_version install_time="1614260479523" last="true" origin="installer" specification_version="1.26.0.1.1">
         <file crc="3521071986" name="config/Modules/org-netbeans-core-browser-webview.xml"/>
-        <file crc="2301933217" name="modules/org-netbeans-core-browser-webview.jar"/>
+        <file crc="1051553034" name="modules/org-netbeans-core-browser-webview.jar"/>
     </module_version>
 </module>

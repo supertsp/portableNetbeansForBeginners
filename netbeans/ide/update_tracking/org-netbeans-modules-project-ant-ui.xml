@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.project.ant.ui/1">
-    <module_version install_time="1598375281723" last="true" origin="installer" specification_version="1.74">
+    <module_version install_time="1614260571466" last="true" origin="installer" specification_version="1.76">
         <file crc="1763998412" name="config/Modules/org-netbeans-modules-project-ant-ui.xml"/>
-        <file crc="3626344914" name="modules/org-netbeans-modules-project-ant-ui.jar"/>
+        <file crc="1114046349" name="modules/org-netbeans-modules-project-ant-ui.jar"/>
     </module_version>
 </module>

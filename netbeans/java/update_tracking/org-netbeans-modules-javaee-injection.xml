@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javaee.injection">
-    <module_version install_time="1598375582897" last="true" origin="installer" specification_version="1.15">
+    <module_version install_time="1614260743861" last="true" origin="installer" specification_version="1.17">
         <file crc="2037783713" name="config/Modules/org-netbeans-modules-javaee-injection.xml"/>
-        <file crc="425197950" name="modules/org-netbeans-modules-javaee-injection.jar"/>
+        <file crc="2495189594" name="modules/org-netbeans-modules-javaee-injection.jar"/>
     </module_version>
 </module>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.apisupport.harness">
-    <module_version install_time="1598375062198" last="true" origin="installer" specification_version="1.51">
+    <module_version install_time="1614260435709" last="true" origin="installer" specification_version="1.53">
         <file crc="964231627" name="README"/>
         <file crc="2361081766" name="antlib/bindex-2.2.jar"/>
         <file crc="2419390860" name="build.xml"/>
-        <file crc="1170483324" name="common.xml"/>
+        <file crc="2330643580" name="common.xml"/>
         <file crc="2967796174" name="config/Modules/org-netbeans-modules-apisupport-harness.xml"/>
         <file crc="3596721181" name="etc/Info.plist"/>
         <file crc="3529190731" name="etc/app.conf"/>
         <file crc="2195682192" name="etc/applicationIcon.icns"/>
         <file crc="3739640547" name="jdk.xml"/>
         <file crc="2965842666" name="jnlp.xml"/>
-        <file crc="2290740157" name="jnlp/jnlp-launcher.jar"/>
-        <file crc="3057416474" name="launchers/app.exe"/>
+        <file crc="283992588" name="jnlp/jnlp-launcher.jar"/>
+        <file crc="2289830158" name="launchers/app.exe"/>
         <file crc="3975282647" name="launchers/app.sh"/>
-        <file crc="866240319" name="launchers/app64.exe"/>
+        <file crc="2181799533" name="launchers/app64.exe"/>
         <file crc="1618502330" name="launchers/pre7_app.exe"/>
         <file crc="2223057369" name="launchers/pre7_app_w.exe"/>
-        <file crc="210677918" name="modules/org-netbeans-modules-apisupport-harness.jar"/>
+        <file crc="1983868873" name="modules/org-netbeans-modules-apisupport-harness.jar"/>
         <file crc="1994575623" name="no-testcoverage.xml"/>
         <file crc="3105643375" name="osgi.xml"/>
         <file crc="2123073144" name="run.xml"/>
         <file crc="1615460432" name="suite.xml"/>
-        <file crc="1628309371" name="tasks.jar"/>
+        <file crc="2700038078" name="tasks.jar"/>
     </module_version>
 </module>

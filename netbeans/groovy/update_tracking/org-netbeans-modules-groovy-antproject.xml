@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.antproject">
-    <module_version install_time="1598376309503" last="true" origin="installer" specification_version="1.19">
+    <module_version install_time="1614261122240" last="true" origin="installer" specification_version="1.21">
         <file crc="2553487176" name="config/Modules/org-netbeans-modules-groovy-antproject.xml"/>
-        <file crc="3581503760" name="modules/org-netbeans-modules-groovy-antproject.jar"/>
+        <file crc="4164666194" name="modules/org-netbeans-modules-groovy-antproject.jar"/>
     </module_version>
 </module>

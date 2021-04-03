@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.websvc.rest/0">
-    <module_version install_time="1598376212989" last="true" origin="installer" specification_version="1.39">
+    <module_version install_time="1614261074800" last="true" origin="installer" specification_version="1.41">
         <file crc="3401190015" name="config/Modules/org-netbeans-modules-websvc-rest.xml"/>
         <file crc="257323759" name="modules/ext/jersey2/jersey-core-1.18.6.jar"/>
-        <file crc="875307520" name="modules/org-netbeans-modules-websvc-rest.jar"/>
+        <file crc="795032036" name="modules/org-netbeans-modules-websvc-rest.jar"/>
     </module_version>
 </module>

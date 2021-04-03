@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.profiler/1">
-    <module_version install_time="1598375728722" last="true" origin="installer" specification_version="1.117">
+    <module_version install_time="1614260824567" last="true" origin="installer" specification_version="1.119">
         <file crc="2155818874" name="config/Modules/org-netbeans-lib-profiler.xml"/>
-        <file crc="1034564526" name="lib/jfluid-server-15.jar"/>
-        <file crc="3909385116" name="lib/jfluid-server-cvm.jar"/>
-        <file crc="641757955" name="lib/jfluid-server.jar"/>
-        <file crc="3642622228" name="modules/org-netbeans-lib-profiler.jar"/>
+        <file crc="3545676462" name="lib/jfluid-server-15.jar"/>
+        <file crc="820476695" name="lib/jfluid-server-cvm.jar"/>
+        <file crc="2935341594" name="lib/jfluid-server.jar"/>
+        <file crc="768622477" name="modules/org-netbeans-lib-profiler.jar"/>
         <file crc="3699355800" name="remote-pack-defs/README.txt"/>
-        <file crc="1977290288" name="remote-pack-defs/build.xml"/>
+        <file crc="318289276" name="remote-pack-defs/build.xml"/>
         <file crc="3621195125" name="remote-pack-defs/calibrate-15.bat"/>
         <file crc="2183504051" name="remote-pack-defs/calibrate-15.sh"/>
         <file crc="4126934084" name="remote-pack-defs/calibrate-16.sh"/>
@@ -27,8 +27,6 @@
         <file crc="3316864419" name="remote-pack-defs/profile-mac-16.sh"/>
         <file crc="4029277871" name="remote-pack-defs/profile-solamd64-15.sh"/>
         <file crc="264291585" name="remote-pack-defs/profile-solamd64-16.sh"/>
-        <file crc="3870098344" name="remote-pack-defs/profile-solsparc-15.sh"/>
-        <file crc="3099677642" name="remote-pack-defs/profile-solsparc-16.sh"/>
         <file crc="1760896798" name="remote-pack-defs/profile-solsparcv9-15.sh"/>
         <file crc="1499742418" name="remote-pack-defs/profile-solsparcv9-16.sh"/>
         <file crc="48944283" name="remote-pack-defs/profile-solx86-15.sh"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.atoum">
-    <module_version install_time="1598375821017" last="true" origin="installer" specification_version="0.25">
+    <module_version install_time="1614260876490" last="true" origin="installer" specification_version="0.27">
         <file crc="3318196522" name="config/Modules/org-netbeans-modules-php-atoum.xml"/>
-        <file crc="2081442342" name="modules/org-netbeans-modules-php-atoum.jar"/>
+        <file crc="2778544155" name="modules/org-netbeans-modules-php-atoum.jar"/>
     </module_version>
 </module>

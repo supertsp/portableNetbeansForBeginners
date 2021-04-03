@@ -2,10 +2,8 @@
 package ${package};
 </#if>
 
-// <editor-fold defaultstate="collapsed" desc="imports...">
 import java.util.List;
 import java.util.ArrayList;
-// </editor-fold>
 
 // <editor-fold defaultstate="collapsed" desc="documentation...">
 /**

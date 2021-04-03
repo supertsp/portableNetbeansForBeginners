@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ant.kit">
-    <module_version install_time="1598375466064" last="true" origin="installer" specification_version="1.38">
+    <module_version install_time="1614260683253" last="true" origin="installer" specification_version="1.40">
         <file crc="1165362769" name="config/Modules/org-netbeans-modules-ant-kit.xml"/>
-        <file crc="2365028561" name="modules/org-netbeans-modules-ant-kit.jar"/>
+        <file crc="118912059" name="modules/org-netbeans-modules-ant-kit.jar"/>
     </module_version>
 </module>

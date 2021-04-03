@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.jspparser/3">
-    <module_version install_time="1598376059300" last="true" origin="installer" specification_version="3.38">
+    <module_version install_time="1614261024827" last="true" origin="installer" specification_version="3.40">
         <file crc="3223639289" name="config/Modules/org-netbeans-modules-web-jspparser.xml"/>
-        <file crc="2747292002" name="modules/ext/glassfish-jspparser-4.0.jar"/>
-        <file crc="3949706172" name="modules/org-netbeans-modules-web-jspparser.jar"/>
+        <file crc="2866139407" name="modules/ext/glassfish-jspparser-4.0.jar"/>
+        <file crc="2016735521" name="modules/org-netbeans-modules-web-jspparser.jar"/>
     </module_version>
 </module>

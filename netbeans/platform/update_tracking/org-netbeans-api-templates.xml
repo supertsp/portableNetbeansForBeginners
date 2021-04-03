@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.templates">
-    <module_version install_time="1598374966367" last="true" origin="installer" specification_version="1.17">
+    <module_version install_time="1614260380842" last="true" origin="installer" specification_version="1.19">
         <file crc="715791124" name="config/Modules/org-netbeans-api-templates.xml"/>
-        <file crc="443016744" name="modules/org-netbeans-api-templates.jar"/>
+        <file crc="3416046859" name="modules/org-netbeans-api-templates.jar"/>
     </module_version>
 </module>

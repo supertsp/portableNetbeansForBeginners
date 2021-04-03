@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.maven.junit.ui">
-    <module_version install_time="1598375684256" last="true" origin="installer" specification_version="1.14">
+    <module_version install_time="1614260801217" last="true" origin="installer" specification_version="1.16">
         <file crc="818050252" name="config/Modules/org-netbeans-modules-maven-junit-ui.xml"/>
-        <file crc="2606210273" name="modules/org-netbeans-modules-maven-junit-ui.jar"/>
+        <file crc="1375312402" name="modules/org-netbeans-modules-maven-junit-ui.jar"/>
     </module_version>
 </module>

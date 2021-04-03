@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.debugger.jpda.ui/1">
-    <module_version install_time="1598375531038" last="true" origin="installer" specification_version="1.63">
+    <module_version install_time="1614260716190" last="true" origin="installer" specification_version="1.65">
         <file crc="1360589259" name="config/Modules/org-netbeans-modules-debugger-jpda-ui.xml"/>
-        <file crc="1890431160" name="modules/org-netbeans-modules-debugger-jpda-ui.jar"/>
+        <file crc="18164054" name="modules/org-netbeans-modules-debugger-jpda-ui.jar"/>
     </module_version>
 </module>

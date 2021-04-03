@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.model/1">
-    <module_version install_time="1598375383627" last="true" origin="installer" specification_version="1.13">
+    <module_version install_time="1614260634421" last="true" origin="installer" specification_version="1.15">
         <file crc="3974582460" name="config/Modules/org-netbeans-modules-javascript2-model.xml"/>
-        <file crc="185430462" name="modules/org-netbeans-modules-javascript2-model.jar"/>
+        <file crc="3913176092" name="modules/org-netbeans-modules-javascript2-model.jar"/>
     </module_version>
 </module>

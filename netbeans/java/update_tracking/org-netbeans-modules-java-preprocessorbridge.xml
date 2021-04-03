@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.preprocessorbridge">
-    <module_version install_time="1598375451520" last="true" origin="installer" specification_version="1.58.0.1">
+    <module_version install_time="1614260674024" last="true" origin="installer" specification_version="1.60.0.1">
         <file crc="1044028321" name="config/Modules/org-netbeans-modules-java-preprocessorbridge.xml"/>
-        <file crc="2426716354" name="modules/org-netbeans-modules-java-preprocessorbridge.jar"/>
+        <file crc="2705551759" name="modules/org-netbeans-modules-java-preprocessorbridge.jar"/>
     </module_version>
 </module>

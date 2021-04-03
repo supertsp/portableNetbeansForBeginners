@@ -5,9 +5,9 @@
     <name unique="bottomSlidingSide"  />
   <kind type="sliding" />
   <slidingSide side="bottom" />
-  <slide-in-size tc-id="output" size="558" />
+  <slide-in-size tc-id="output" size="506" />
   <state type="joined"  />
-  <bounds x="3" y="371" width="1912" height="558" />
+  <bounds x="3" y="198" width="1382" height="506" />
   <frame state="0"/>
     <empty-behavior permanent="true"/>
 </mode>

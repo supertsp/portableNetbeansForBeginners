@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.libs.groovy">
-    <module_version install_time="1598376305644" last="true" origin="installer" specification_version="2.7">
+    <module_version install_time="1614261119381" last="true" origin="installer" specification_version="2.9">
         <file crc="586793793" name="config/Modules/org-netbeans-modules-libs-groovy.xml"/>
-        <file crc="3588610535" name="modules/ext/groovy-ant.jar"/>
-        <file crc="2242635550" name="modules/ext/groovy.jar"/>
-        <file crc="3932838378" name="modules/org-netbeans-modules-libs-groovy.jar"/>
+        <file crc="3469757385" name="modules/ext/groovy-ant.jar"/>
+        <file crc="3928407604" name="modules/ext/groovy.jar"/>
+        <file crc="339526120" name="modules/org-netbeans-modules-libs-groovy.jar"/>
     </module_version>
 </module>

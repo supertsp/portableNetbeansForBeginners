@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.web.primefaces">
-    <module_version install_time="1598376284739" last="true" origin="installer" specification_version="1.81">
+    <module_version install_time="1614261106226" last="true" origin="installer" specification_version="1.83">
         <file crc="1351266665" name="config/Modules/org-netbeans-modules-web-primefaces.xml"/>
         <file crc="1276120187" name="modules/ext/primefaces/primefaces-5.0.jar"/>
-        <file crc="2299975163" name="modules/org-netbeans-modules-web-primefaces.jar"/>
+        <file crc="3675078125" name="modules/org-netbeans-modules-web-primefaces.jar"/>
     </module_version>
 </module>

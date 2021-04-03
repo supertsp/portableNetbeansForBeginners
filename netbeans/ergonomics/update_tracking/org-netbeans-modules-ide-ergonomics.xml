@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.ide.ergonomics">
-    <module_version install_time="1598376552040" last="true" origin="installer" specification_version="1.36">
+    <module_version install_time="1614261144537" last="true" origin="installer" specification_version="1.38">
         <file crc="3535844926" name="config/Modules/org-apache-tools-ant-module.xml"/>
         <file crc="2213752857" name="config/Modules/org-netbeans-libs-jstl.xml"/>
         <file crc="1617045149" name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
@@ -43,7 +43,6 @@
         <file crc="967964204" name="config/Modules/org-netbeans-modules-groovy-samples.xml"/>
         <file crc="1061301521" name="config/Modules/org-netbeans-modules-groovy-support.xml"/>
         <file crc="434823732" name="config/Modules/org-netbeans-modules-html-angular.xml"/>
-        <file crc="3839971683" name="config/Modules/org-netbeans-modules-html-ojet.xml"/>
         <file crc="2690620244" name="config/Modules/org-netbeans-modules-i18n.xml"/>
         <file crc="2466890689" name="config/Modules/org-netbeans-modules-ide-ergonomics.xml"/>
         <file crc="2117609889" name="config/Modules/org-netbeans-modules-j2ee-ant.xml"/>
@@ -71,7 +70,6 @@
         <file crc="1134789500" name="config/Modules/org-netbeans-modules-jakartaee8-api.xml"/>
         <file crc="569540747" name="config/Modules/org-netbeans-modules-jakartaee8-platform.xml"/>
         <file crc="1266011638" name="config/Modules/org-netbeans-modules-java-debug.xml"/>
-        <file crc="1300012024" name="config/Modules/org-netbeans-modules-java-editor-lib.xml"/>
         <file crc="2183467187" name="config/Modules/org-netbeans-modules-java-editor.xml"/>
         <file crc="3110088251" name="config/Modules/org-netbeans-modules-java-examples.xml"/>
         <file crc="1746086231" name="config/Modules/org-netbeans-modules-java-freeform.xml"/>
@@ -88,6 +86,7 @@
         <file crc="510433324" name="config/Modules/org-netbeans-modules-java-kit.xml"/>
         <file crc="2824584854" name="config/Modules/org-netbeans-modules-java-lsp-server.xml"/>
         <file crc="912196229" name="config/Modules/org-netbeans-modules-java-module-graph.xml"/>
+        <file crc="2189010486" name="config/Modules/org-netbeans-modules-java-mx-project.xml"/>
         <file crc="3512685901" name="config/Modules/org-netbeans-modules-java-navigation.xml"/>
         <file crc="3969935613" name="config/Modules/org-netbeans-modules-java-openjdk-project.xml"/>
         <file crc="2122222574" name="config/Modules/org-netbeans-modules-java-source-ant.xml"/>
@@ -114,6 +113,7 @@
         <file crc="3362922638" name="config/Modules/org-netbeans-modules-javascript-jstestdriver.xml"/>
         <file crc="971412803" name="config/Modules/org-netbeans-modules-javascript-karma.xml"/>
         <file crc="3041140817" name="config/Modules/org-netbeans-modules-javascript-nodejs.xml"/>
+        <file crc="2554002129" name="config/Modules/org-netbeans-modules-javascript2-editor.xml"/>
         <file crc="691238912" name="config/Modules/org-netbeans-modules-javascript2-extdoc.xml"/>
         <file crc="3479869241" name="config/Modules/org-netbeans-modules-javascript2-extjs.xml"/>
         <file crc="3147417916" name="config/Modules/org-netbeans-modules-javascript2-jade.xml"/>
@@ -184,6 +184,7 @@
         <file crc="2899681943" name="config/Modules/org-netbeans-modules-tomcat5.xml"/>
         <file crc="3393061136" name="config/Modules/org-netbeans-modules-typescript-editor.xml"/>
         <file crc="2701308501" name="config/Modules/org-netbeans-modules-web-beans.xml"/>
+        <file crc="2140924455" name="config/Modules/org-netbeans-modules-web-bootsfaces.xml"/>
         <file crc="3719975757" name="config/Modules/org-netbeans-modules-web-client-kit.xml"/>
         <file crc="390531282" name="config/Modules/org-netbeans-modules-web-client-rest.xml"/>
         <file crc="1671364708" name="config/Modules/org-netbeans-modules-web-client-samples.xml"/>
@@ -236,6 +237,6 @@
         <file crc="1012668242" name="config/Modules/org-netbeans-modules-websvc-wsstackapi.xml"/>
         <file crc="2487084630" name="config/Modules/org-netbeans-modules-xml-jaxb.xml"/>
         <file crc="769021491" name="config/Modules/org-netbeans-modules-xml-tools-java.xml"/>
-        <file crc="416929108" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+        <file crc="2012423134" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
     </module_version>
 </module>
